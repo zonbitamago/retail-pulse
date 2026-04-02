@@ -6,6 +6,7 @@ import { ryutsuuParser } from "./parsers/ryutsuu.js";
 import { diamondChainParser } from "./parsers/diamond-chain.js";
 import { ssnpParser } from "./parsers/ssnp.js";
 import { extractKeywords } from "./keywords.js";
+import { enrichWithLLM } from "./llm-keywords.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = path.join(__dirname, "..", "public", "data", "news.json");
@@ -79,6 +80,9 @@ async function main() {
     const combined = new Set([...item.tags, ...extracted]);
     item.tags = [...combined];
   }
+
+  // LLMでキーワード補完（辞書で1個以下の記事が対象）
+  await enrichWithLLM(merged);
 
   // 日付降順ソート、上限
   merged.sort((a, b) => b.date.localeCompare(a.date));
