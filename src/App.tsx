@@ -9,6 +9,7 @@ import { SearchBar } from "./components/SearchBar";
 import { SourceFilter } from "./components/SourceFilter";
 import { CategoryFilter } from "./components/CategoryFilter";
 import { NewsList } from "./components/NewsList";
+import { Analytics } from "./components/Analytics";
 import "./App.css";
 
 export default function App() {
@@ -68,30 +69,33 @@ export default function App() {
         <InstallBanner isIOS={isIOS} onInstall={install} onDismiss={dismiss} />
       )}
       {pulling && <div className="pull-indicator">更新中...</div>}
-      <main className="main">
-        {loading && <p className="status">読み込み中...</p>}
-        {error && <p className="status error">{error}</p>}
-        {data && (
-          <>
-            <SearchBar value={query} onChange={setQuery} />
-            <SourceFilter
-              sources={sources}
-              active={activeSource}
-              onChange={setActiveSource}
-            />
-            <CategoryFilter
-              categories={categories}
-              active={activeCategory}
-              onChange={setActiveCategory}
-            />
-            <NewsList
-              items={filteredItems}
-              isRead={isRead}
-              onRead={markAsRead}
-            />
-          </>
-        )}
-      </main>
+      <div className="layout">
+        <main className="main">
+          {loading && <p className="status">読み込み中...</p>}
+          {error && <p className="status error">{error}</p>}
+          {data && (
+            <>
+              <SearchBar value={query} onChange={setQuery} />
+              <SourceFilter
+                sources={sources}
+                active={activeSource}
+                onChange={setActiveSource}
+              />
+              <CategoryFilter
+                categories={categories}
+                active={activeCategory}
+                onChange={setActiveCategory}
+              />
+              <NewsList
+                items={filteredItems}
+                isRead={isRead}
+                onRead={markAsRead}
+              />
+            </>
+          )}
+        </main>
+        {data && <Analytics items={data.items} />}
+      </div>
     </div>
   );
 }

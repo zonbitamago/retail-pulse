@@ -15,9 +15,23 @@ body {
 }
 
 .app {
-  max-width: 640px;
+  max-width: 1200px;
   margin: 0 auto;
   min-height: 100dvh;
+}
+
+/* 2-column layout for PC */
+.layout {
+  display: flex;
+  gap: 24px;
+  padding: 0 16px;
+}
+
+@media (max-width: 768px) {
+  .layout {
+    flex-direction: column;
+    padding: 0;
+  }
 }
 
 /* Header */
@@ -112,7 +126,15 @@ body {
 
 /* Main */
 .main {
-  padding: 0 12px 24px;
+  flex: 1;
+  min-width: 0;
+  padding: 0 0 24px;
+}
+
+@media (max-width: 768px) {
+  .main {
+    padding: 0 12px 24px;
+  }
 }
 
 /* Search Bar */
@@ -277,4 +299,142 @@ body {
 
 .status.error {
   color: #d32f2f;
+}
+
+/* Analytics Sidebar */
+.analytics {
+  width: 320px;
+  flex-shrink: 0;
+  padding-top: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: sticky;
+  top: 100px;
+  align-self: flex-start;
+  max-height: calc(100dvh - 120px);
+  overflow-y: auto;
+  padding-bottom: 24px;
+}
+
+@media (max-width: 768px) {
+  .analytics {
+    display: none;
+  }
+}
+
+.analytics-card {
+  background: white;
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.analytics-title {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #555;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Bar Chart */
+.analytics-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.analytics-bar-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.analytics-bar-label {
+  font-size: 0.78rem;
+  color: #555;
+  width: 72px;
+  flex-shrink: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.analytics-bar-track {
+  flex: 1;
+  height: 8px;
+  background: #f0f0f0;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.analytics-bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 0.3s ease;
+}
+
+.analytics-bar-value {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #333;
+  width: 28px;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+/* Daily Chart */
+.analytics-daily-svg {
+  width: 100%;
+  height: auto;
+}
+
+/* Tag Cloud */
+.analytics-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.analytics-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  background: #f0f0f0;
+  border-radius: 12px;
+  font-size: 0.78rem;
+  color: #444;
+}
+
+.analytics-tag-count {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: #1a73e8;
+}
+
+/* Summary Stats */
+.analytics-summary {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.analytics-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.analytics-stat-value {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #1a73e8;
+}
+
+.analytics-stat-label {
+  font-size: 0.7rem;
+  color: #999;
 }
