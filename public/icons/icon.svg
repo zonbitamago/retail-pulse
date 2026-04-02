@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a73e8"/>
+      <stop offset="100%" stop-color="#0d47a1"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <!-- Pulse line -->
+  <polyline
+    points="80,290 160,290 200,180 240,340 280,230 320,310 360,260 400,290 432,290"
+    fill="none"
+    stroke="white"
+    stroke-width="28"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <!-- "R" letter -->
+  <text x="256" y="170" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="120" fill="white" opacity="0.9">R</text>
+  <!-- "PULSE" text -->
+  <text x="256" y="440" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="64" fill="white" opacity="0.8" letter-spacing="8">PULSE</text>
+</svg>
