@@ -1,6 +1,8 @@
 name: Scrape & Deploy
 
 on:
+  push:
+    branches: [main]
   schedule:
     # UTC 0:00, 6:00, 12:00, 18:00 (JST 9:00, 15:00, 21:00, 3:00)
     - cron: "0 0,6,12,18 * * *"
@@ -17,6 +19,8 @@ concurrency:
 
 jobs:
   scrape:
+    # cron と手動実行時のみスクレイピングを実行
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -40,6 +44,8 @@ jobs:
           git push
 
   deploy:
+    # scrapeジョブがスキップまたは成功した場合に実行
+    if: always() && (needs.scrape.result == 'success' || needs.scrape.result == 'skipped')
     needs: scrape
     runs-on: ubuntu-latest
     environment:
