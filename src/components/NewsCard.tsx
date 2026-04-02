@@ -26,7 +26,10 @@ export function NewsCard({ item, isRead, onRead }: NewsCardProps) {
     >
       <div className="news-card-header">
         <span className="news-source">{item.sourceName}</span>
-        <span className="news-date">{relativeDate(item.date)}</span>
+        <span className="news-date">
+          {isRead && <span className="news-read-badge">既読</span>}
+          {relativeDate(item.date)}
+        </span>
       </div>
       <h3 className="news-title">{item.title}</h3>
       <div className="news-tags">
