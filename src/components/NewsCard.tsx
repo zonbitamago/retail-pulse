@@ -11,11 +11,19 @@ function relativeDate(dateStr: string): string {
 
 interface NewsCardProps {
   item: NewsItem;
+  isRead: boolean;
+  onRead: (id: string) => void;
 }
 
-export function NewsCard({ item }: NewsCardProps) {
+export function NewsCard({ item, isRead, onRead }: NewsCardProps) {
   return (
-    <a href={item.url} target="_blank" rel="noopener noreferrer" className="news-card">
+    <a
+      href={item.url}
+      target="_blank"
+      rel="noopener noreferrer"
+      className={`news-card ${isRead ? "read" : ""}`}
+      onClick={() => onRead(item.id)}
+    >
       <div className="news-card-header">
         <span className="news-source">{item.sourceName}</span>
         <span className="news-date">{relativeDate(item.date)}</span>

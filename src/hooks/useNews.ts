@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import type { NewsData } from "../types/news";
 
 export function useNews() {
@@ -6,7 +6,9 @@ export function useNews() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  useEffect(() => {
+  const fetchNews = useCallback(() => {
+    setLoading(true);
+    setError(null);
     fetch(import.meta.env.BASE_URL + "data/news.json")
       .then((res) => {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -17,5 +19,9 @@ export function useNews() {
       .finally(() => setLoading(false));
   }, []);
 
-  return { data, loading, error };
+  useEffect(() => {
+    fetchNews();
+  }, [fetchNews]);
+
+  return { data, loading, error, refresh: fetchNews };
 }

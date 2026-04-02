@@ -4,12 +4,13 @@ import { fileURLToPath } from "node:url";
 import type { Parser, NewsItem } from "./parsers/types.js";
 import { ryutsuuParser } from "./parsers/ryutsuu.js";
 import { diamondChainParser } from "./parsers/diamond-chain.js";
+import { ssnpParser } from "./parsers/ssnp.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = path.join(__dirname, "..", "public", "data", "news.json");
 const MAX_ITEMS = 300;
 
-const parsers: Parser[] = [ryutsuuParser, diamondChainParser];
+const parsers: Parser[] = [ryutsuuParser, diamondChainParser, ssnpParser];
 
 async function fetchHTML(url: string): Promise<string> {
   const res = await fetch(url, {
