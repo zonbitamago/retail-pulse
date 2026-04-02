@@ -10,7 +10,7 @@ import "./App.css";
 export default function App() {
   const { data, loading, error } = useNews();
   const [activeSource, setActiveSource] = useState("all");
-  const { visible: showInstall, install, dismiss } = useInstallPrompt();
+  const { visible: showInstall, isIOS, install, dismiss } = useInstallPrompt();
 
   const sources = data
     ? [...new Set(data.items.map((item) => item.source))].map((s) => ({
@@ -29,7 +29,7 @@ export default function App() {
     <div className="app">
       <Header lastUpdated={data?.lastUpdated} />
       {showInstall && (
-        <InstallBanner onInstall={install} onDismiss={dismiss} />
+        <InstallBanner isIOS={isIOS} onInstall={install} onDismiss={dismiss} />
       )}
       <main className="main">
         {loading && <p className="status">読み込み中...</p>}

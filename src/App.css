@@ -81,6 +81,15 @@ body {
   cursor: pointer;
 }
 
+.install-ios-icon {
+  display: inline-block;
+  width: 1.1em;
+  height: 1.1em;
+  vertical-align: -0.15em;
+  margin: 0 2px;
+  color: #1a73e8;
+}
+
 .install-dismiss-btn {
   padding: 6px 10px;
   border: none;

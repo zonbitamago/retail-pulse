@@ -7,13 +7,32 @@ interface BeforeInstallPromptEvent extends Event {
 
 const DISMISSED_KEY = "pwa-install-dismissed";
 
+function isStandalone(): boolean {
+  return (
+    window.matchMedia("(display-mode: standalone)").matches ||
+    ("standalone" in navigator && (navigator as { standalone: boolean }).standalone)
+  );
+}
+
+function isIOS(): boolean {
+  return /iPad|iPhone|iPod/.test(navigator.userAgent) && !("MSStream" in window);
+}
+
 export function useInstallPrompt() {
   const [deferredPrompt, setDeferredPrompt] =
     useState<BeforeInstallPromptEvent | null>(null);
   const [visible, setVisible] = useState(false);
+  const [isIOSDevice, setIsIOSDevice] = useState(false);
 
   useEffect(() => {
     if (localStorage.getItem(DISMISSED_KEY)) return;
+    if (isStandalone()) return;
+
+    if (isIOS()) {
+      setIsIOSDevice(true);
+      setVisible(true);
+      return;
+    }
 
     const handler = (e: Event) => {
       e.preventDefault();
@@ -41,5 +60,5 @@ export function useInstallPrompt() {
     localStorage.setItem(DISMISSED_KEY, "1");
   };
 
-  return { visible, install, dismiss };
+  return { visible, isIOS: isIOSDevice, install, dismiss };
 }
