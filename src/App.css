@@ -47,6 +47,50 @@ body {
   margin-top: 8px;
 }
 
+/* Install Banner */
+.install-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 16px;
+  background: #e8f0fe;
+  border-bottom: 1px solid #c5d8f8;
+}
+
+.install-banner-text {
+  font-size: 0.85rem;
+  color: #1a56b8;
+  flex: 1;
+}
+
+.install-banner-actions {
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.install-btn {
+  padding: 6px 14px;
+  border: none;
+  border-radius: 6px;
+  background: #1a73e8;
+  color: white;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.install-dismiss-btn {
+  padding: 6px 10px;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: #666;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
 /* Main */
 .main {
   padding: 0 12px 24px;
