@@ -1,0 +1,38 @@
+{
+  "name": "retail-pulse",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "scrape": "tsx scripts/scrape.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zonbitamago/retail-pulse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zonbitamago/retail-pulse/issues"
+  },
+  "homepage": "https://github.com/zonbitamago/retail-pulse#readme",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.2.0",
+    "cheerio": "^1.2.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2",
+    "vite": "^7.3.1",
+    "vite-plugin-pwa": "^1.2.0"
+  }
+}
