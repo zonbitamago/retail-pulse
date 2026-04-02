@@ -5,6 +5,7 @@ import type { Parser, NewsItem } from "./parsers/types.js";
 import { ryutsuuParser } from "./parsers/ryutsuu.js";
 import { diamondChainParser } from "./parsers/diamond-chain.js";
 import { ssnpParser } from "./parsers/ssnp.js";
+import { extractKeywords } from "./keywords.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = path.join(__dirname, "..", "public", "data", "news.json");
@@ -71,6 +72,13 @@ async function main() {
   // 既存データとマージ・重複排除・空日付除外
   const existing = loadExisting();
   const merged = dedup([...newItems, ...existing]).filter((item) => item.date.length > 0);
+
+  // 全記事にキーワード辞書マッチングを適用
+  for (const item of merged) {
+    const extracted = extractKeywords(item.title);
+    const combined = new Set([...item.tags, ...extracted]);
+    item.tags = [...combined];
+  }
 
   // 日付降順ソート、上限
   merged.sort((a, b) => b.date.localeCompare(a.date));
