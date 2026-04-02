@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-04-02T06:32:49.271Z",
+  "lastUpdated": "2026-04-02T12:18:01.671Z",
   "items": [
+    {
+      "id": "ryutsuu-9f555de3",
+      "title": "平和堂 決算／2月期営業収益が過去最高の4560億1000万円",
+      "url": "https://www.ryutsuu.biz/accounts/s040219.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-04-02",
+      "tags": [
+        "決算"
+      ]
+    },
+    {
+      "id": "ryutsuu-4a9821bc",
+      "title": "クスリのアオキHD 決算／6～2月増収増益、フード＆ドラッグ加速",
+      "url": "https://www.ryutsuu.biz/accounts/s040222.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-04-02",
+      "tags": [
+        "クスリのアオキ",
+        "ドラッグ",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "ryutsuu-9c78444a",
+      "title": "ユニクロ／3月既存店売上9.2％増、通年・春物商品が好調",
+      "url": "https://www.ryutsuu.biz/sales/s040221.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-04-02",
+      "tags": [
+        "ユニクロ"
+      ]
+    },
     {
       "id": "ryutsuu-7eccca98",
       "title": "サンマルクカフェ／モーニング・ランチセットを刷新、税込390円「THE クロワッサンセット」など新登場",
@@ -20,6 +60,20 @@
       "category": "商品",
       "date": "2026-04-02",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-b6a82b06",
+      "title": "イオン九州／佐賀・イオン上峰SCに「マックスバリュかみみね店」4／16オープン",
+      "url": "https://www.ryutsuu.biz/store/s040276.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-02",
+      "tags": [
+        "オープン",
+        "イオン",
+        "SC"
+      ]
     },
     {
       "id": "ryutsuu-81997a21",
@@ -106,6 +160,16 @@
       ]
     },
     {
+      "id": "ryutsuu-43b6be24",
+      "title": "スシロー／4月デジロー12店舗に導入、山梨県では初採用",
+      "url": "https://www.ryutsuu.biz/it/s040216.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-04-02",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-5af3025b",
       "title": "テンポスバスターズ／全国80店舗目「三島店」静岡県三島市に4／6オープン",
       "url": "https://www.ryutsuu.biz/store/s040213.html",
@@ -117,16 +181,6 @@
         "テンポスバスターズ",
         "オープン"
       ]
-    },
-    {
-      "id": "ryutsuu-43b6be24",
-      "title": "スシロー／4月デジロー12店舗に導入、山梨県では初採用",
-      "url": "https://www.ryutsuu.biz/it/s040216.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-04-02",
-      "tags": []
     },
     {
       "id": "ryutsuu-bc9240ae",
@@ -232,8 +286,72 @@
       "tags": []
     },
     {
+      "id": "ssnp-edc89f04",
+      "title": "【LEMONITY】磐田で「レモン定植祭」開催、国産レモンの産地形成へ本格始動/ポッカサッポロら3社が参加、約4haに約2000本を定植\n\t\t\t\t\t\t\t\t\t\t\t\tLEMONITYは、2025年9月の設立以来、国産レモンの生産振興と持続可能な果樹産地モデルの構築をめざし、広島県江田島市および静岡県磐田市を中心にレモンの産地拡大に向けた取り組みを開始している。 2026年3月24日、...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/671839/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-04-02",
+      "tags": []
+    },
+    {
+      "id": "ssnp-2c8f9d05",
+      "title": "「一平ちゃん夜店の焼そば 袋めん」発表会、俳優･仲野太賀さん登場【明星食品】\n\t\t\t\t\t\t\t\t\t\t\t\t明星食品は4月6日、新商品「明星 一平ちゃん夜店の焼そば 袋 からしマヨ付 5食パック」を東日本エリアで発売する。 「明星 一平ちゃん夜店の焼そば」は1995年発売、2025年に30周年を迎えた。発売31周年を迎える今年...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/rice/671919/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "米",
+      "date": "2026-04-02",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "ssnp-759f8e87",
+      "title": "コカ･コーラボトラーズジャパングループ、入社式に273人参加　\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/671894/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-04-02",
+      "tags": []
+    },
+    {
+      "id": "ssnp-10365394",
+      "title": "松屋60周年記念企画「選べる60種ランチセット」登場　530円～で自由に組み合わせ可能【単品価格から30円引き】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/671863/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-02",
+      "tags": [
+        "松屋"
+      ]
+    },
+    {
+      "id": "ssnp-a09cf74d",
+      "title": "「レミパンプラス」や「オリジナルQUOカード」など…総計7,650人に当たる『まるっと中華キャンペーン』展開【丸美屋】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/seasoning/671833/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "調味料",
+      "date": "2026-04-02",
+      "tags": []
+    },
+    {
+      "id": "ssnp-096ba7b1",
+      "title": "対象メニューが「46％オフ」に　養老乃瀧が「大養老祭」開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/671796/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-02",
+      "tags": []
+    },
+    {
       "id": "ssnp-b9a84965",
-      "title": "伊藤園とキリンビバレッジ、東北・北海道で協働生産拡大　物流効率化と地産地消率の向上へ\n\t\t\t\t\t\t\t\t\t\t\t\t伊藤園とキリンビバレッジは、非競争分野での協業を拡大し、東北および北海道エリアの協働生産を推進する。2025年には北海道のゴールドパック（東京都品川区・宇治俊雄代表）の北海道恵庭工場で「お～いお茶」2Lペットボトルの生産...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "伊藤園とキリンビバレッジ、東北・北海道で協働生産拡大　物流効率化と地産地消率の向上へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/671715/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -245,7 +363,7 @@
     },
     {
       "id": "ssnp-b2d2f690",
-      "title": "バーガーキング、「クリーミーマヨ･アボカドワッパー」新発売 / 4種ハーブとサワークリームを合わせた特製ハーブマヨソース\n\t\t\t\t\t\t\t\t\t\t\t\tバーガーキングは、人気商品『アボカドワッパー』の春の新作として、『クリーミーマヨ アボカドワッパー』『ダブルクリーミーマヨ アボカドワッパー』『チーズクリーミーマヨ アボカドワッパー』の3商品を、2026年4月3日より期...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "バーガーキング、「クリーミーマヨ･アボカドワッパー」新発売 / 4種ハーブとサワークリームを合わせた特製ハーブマヨソース\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/671802/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -401,18 +519,6 @@
       "date": "2026-04-01",
       "tags": [
         "社長"
-      ]
-    },
-    {
-      "id": "ryutsuu-5c3f6095",
-      "title": "あさくま／28年ぶりに売上100億円を達成、4月には愛知県内に2店舗を新規出店",
-      "url": "https://www.ryutsuu.biz/accounts/s040143.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-01",
-      "tags": [
-        "出店"
       ]
     },
     {
@@ -775,6 +881,18 @@
       ]
     },
     {
+      "id": "ryutsuu-5c3f6095",
+      "title": "あさくま／28年ぶりに売上100億円を達成、4月には愛知県内に2店舗を新規出店",
+      "url": "https://www.ryutsuu.biz/accounts/s040143.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-04-01",
+      "tags": [
+        "出店"
+      ]
+    },
+    {
       "id": "ryutsuu-1734a9f7",
       "title": "マックスバリュ東海／松阪市役所に無人店舗4／1オープン",
       "url": "https://www.ryutsuu.biz/store/s040118.html",
@@ -824,16 +942,6 @@
         "ドラッグストア",
         "ドラッグ"
       ]
-    },
-    {
-      "id": "ryutsuu-7dcc2aee",
-      "title": "イトーヨーカドー／イラン情勢踏まえ包材の削減を検討、買いだめは「短期間で終息」",
-      "url": "https://www.ryutsuu.biz/strategy/s033143.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-03-31",
-      "tags": []
     },
     {
       "id": "diamond-2b7edabd",
@@ -1079,6 +1187,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-03-31",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-7dcc2aee",
+      "title": "イトーヨーカドー／イラン情勢踏まえ包材の削減を検討、買いだめは「短期間で終息」",
+      "url": "https://www.ryutsuu.biz/strategy/s033143.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
       "date": "2026-03-31",
       "tags": []
     },
@@ -1337,29 +1455,6 @@
       "sourceName": "食品産業新聞",
       "category": "milk",
       "date": "2026-03-28",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-44fd1cf5",
-      "title": "山本山／新ブランド「YMY」旗艦店を二子玉川に4／8オープン、若年層に玉露の新提案",
-      "url": "https://www.ryutsuu.biz/strategy/s032743.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-03-27",
-      "tags": [
-        "注目",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-eb928934",
-      "title": "西武不動産／新横浜プリンスペペ跡地をマクニカに売却",
-      "url": "https://www.ryutsuu.biz/strategy/s032720.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-03-27",
       "tags": []
     },
     {
@@ -1713,6 +1808,29 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-03-27",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-44fd1cf5",
+      "title": "山本山／新ブランド「YMY」旗艦店を二子玉川に4／8オープン、若年層に玉露の新提案",
+      "url": "https://www.ryutsuu.biz/strategy/s032743.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-03-27",
+      "tags": [
+        "注目",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-eb928934",
+      "title": "西武不動産／新横浜プリンスペペ跡地をマクニカに売却",
+      "url": "https://www.ryutsuu.biz/strategy/s032720.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
       "date": "2026-03-27",
       "tags": []
     },
