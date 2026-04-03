@@ -1,6 +1,80 @@
 {
-  "lastUpdated": "2026-04-02T18:17:30.853Z",
+  "lastUpdated": "2026-04-03T00:21:46.691Z",
   "items": [
+    {
+      "id": "diamond-bff503c4",
+      "title": "第138回 日本家屋に学ぶ“ショッピングセンターの居心地”",
+      "url": "https://diamond-rm.net/management/541462/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-03",
+      "tags": [
+        "ショッピングセンター"
+      ]
+    },
+    {
+      "id": "diamond-07049302",
+      "title": "バロー関東1号店から1.5㎞！ヤオコー東戸塚店の売場づくりをレポート",
+      "url": "https://diamond-rm.net/store/541343/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-03",
+      "tags": [
+        "ヤオコー"
+      ]
+    },
+    {
+      "id": "diamond-66a51f82",
+      "title": "イトーヨーカ堂「セブン・ザ・プライス」が好調!　新商品では「ユニット単価」の割安感を訴求",
+      "url": "https://diamond-rm.net/sales-promotion/541303/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-03",
+      "tags": [
+        "イトーヨーカ堂"
+      ]
+    },
+    {
+      "id": "diamond-d1704b65",
+      "title": "福岡市内3カ所目のイズミのNSC「ゆめモール那珂川」を徹底解説！",
+      "url": "https://diamond-rm.net/store/newstorereport/540766/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-03",
+      "tags": [
+        "モール",
+        "SC"
+      ]
+    },
+    {
+      "id": "diamond-330fb505",
+      "title": "新生イオンフードスタイルが始動「フードスタイル三田店」を徹底レポート",
+      "url": "https://diamond-rm.net/store/newstorereport/540715/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-03",
+      "tags": [
+        "イオン"
+      ]
+    },
+    {
+      "id": "diamond-157f2b5a",
+      "title": "グローバル外食企業への進化に向け、サンマルクHD藤川社長が問う「外食の本質」",
+      "url": "https://diamond-rm.net/management/topinterview/540703/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-03",
+      "tags": [
+        "外食",
+        "社長"
+      ]
+    },
     {
       "id": "ryutsuu-9f555de3",
       "title": "平和堂 決算／2月期営業収益が過去最高の4560億1000万円",
@@ -256,22 +330,22 @@
       ]
     },
     {
-      "id": "diamond-ca4de71f",
-      "title": "アメリカの「ラウンドワン」が、クレーンゲームで来店動機を生んでいる背景",
-      "url": "https://diamond-rm.net/sales-promotion/541012/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-02",
-      "tags": []
-    },
-    {
       "id": "diamond-af5585fa",
       "title": "第６０回　断トツの一番でなければだめなんです",
       "url": "https://diamond-rm.net/life-career/535838/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "life-career",
+      "date": "2026-04-02",
+      "tags": []
+    },
+    {
+      "id": "diamond-ca4de71f",
+      "title": "アメリカの「ラウンドワン」が、クレーンゲームで来店動機を生んでいる背景",
+      "url": "https://diamond-rm.net/sales-promotion/541012/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
       "date": "2026-04-02",
       "tags": []
     },
@@ -568,17 +642,14 @@
       ]
     },
     {
-      "id": "diamond-9fd05c35",
-      "title": "首都圏でも攻勢？PPIH の食品強化型新フォーマット「ロビン・フッド」の可能性",
-      "url": "https://diamond-rm.net/management/businessplan/540599/",
+      "id": "diamond-14463f28",
+      "title": "第５９回　一高入学式に出席できず",
+      "url": "https://diamond-rm.net/life-career/535837/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "経営戦略",
+      "category": "life-career",
       "date": "2026-04-01",
-      "tags": [
-        "PPIH",
-        "食品"
-      ]
+      "tags": []
     },
     {
       "id": "diamond-292f992a",
@@ -591,44 +662,12 @@
       "tags": []
     },
     {
-      "id": "diamond-14463f28",
-      "title": "第５９回　一高入学式に出席できず",
-      "url": "https://diamond-rm.net/life-career/535837/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-01",
-      "tags": []
-    },
-    {
       "id": "diamond-76d397f0",
       "title": "【DCS最新号】4月1日号は「小売業のES向上経営」",
       "url": "https://diamond-rm.net/store/540735/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "店舗",
-      "date": "2026-04-01",
-      "tags": []
-    },
-    {
-      "id": "diamond-4f001b3a",
-      "title": "FOODEX Japan 2026のEUパビリオン、欧州食品の品質と魅力を発信",
-      "url": "https://diamond-rm.net/promotion/pr/539055/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-04-01",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-a7c0e225",
-      "title": "顧客と「唯一無二の関係性」を築き、ファンコミュニティを「経営のエンジン」に！",
-      "url": "https://diamond-rm.net/technology/dx/540477/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
       "date": "2026-04-01",
       "tags": []
     },
@@ -657,6 +696,28 @@
       "tags": [
         "ネットスーパー",
         "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-a7c0e225",
+      "title": "顧客と「唯一無二の関係性」を築き、ファンコミュニティを「経営のエンジン」に！",
+      "url": "https://diamond-rm.net/technology/dx/540477/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-04-01",
+      "tags": []
+    },
+    {
+      "id": "diamond-4f001b3a",
+      "title": "FOODEX Japan 2026のEUパビリオン、欧州食品の品質と魅力を発信",
+      "url": "https://diamond-rm.net/promotion/pr/539055/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "promotion",
+      "date": "2026-04-01",
+      "tags": [
+        "食品"
       ]
     },
     {
@@ -881,6 +942,19 @@
       ]
     },
     {
+      "id": "diamond-9fd05c35",
+      "title": "首都圏でも攻勢？PPIH の食品強化型新フォーマット「ロビン・フッド」の可能性",
+      "url": "https://diamond-rm.net/management/businessplan/540599/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-01",
+      "tags": [
+        "PPIH",
+        "食品"
+      ]
+    },
+    {
       "id": "ryutsuu-5c3f6095",
       "title": "あさくま／28年ぶりに売上100億円を達成、4月には愛知県内に2店舗を新規出店",
       "url": "https://www.ryutsuu.biz/accounts/s040143.html",
@@ -941,18 +1015,6 @@
       "tags": [
         "ドラッグストア",
         "ドラッグ"
-      ]
-    },
-    {
-      "id": "diamond-2b7edabd",
-      "title": "東海地方の老舗有力スーパー・カネスエ、大型リブランディングの深謀",
-      "url": "https://diamond-rm.net/management/businessplan/541168/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-03-31",
-      "tags": [
-        "スーパー"
       ]
     },
     {
@@ -1191,6 +1253,18 @@
       "tags": []
     },
     {
+      "id": "diamond-2b7edabd",
+      "title": "東海地方の老舗有力スーパー・カネスエ、大型リブランディングの深謀",
+      "url": "https://diamond-rm.net/management/businessplan/541168/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-03-31",
+      "tags": [
+        "スーパー"
+      ]
+    },
+    {
       "id": "ryutsuu-7dcc2aee",
       "title": "イトーヨーカドー／イラン情勢踏まえ包材の削減を検討、買いだめは「短期間で終息」",
       "url": "https://www.ryutsuu.biz/strategy/s033143.html",
@@ -1226,19 +1300,6 @@
       "tags": [
         "ヤオコー",
         "新店"
-      ]
-    },
-    {
-      "id": "diamond-7f56c3dc",
-      "title": "原社長も思わず自画自賛!　約1年半かけリニューアルした「原信六日町店」を徹底レポート",
-      "url": "https://diamond-rm.net/store/540806/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-03-30",
-      "tags": [
-        "リニューアル",
-        "社長"
       ]
     },
     {
@@ -1391,6 +1452,19 @@
       ]
     },
     {
+      "id": "diamond-7f56c3dc",
+      "title": "原社長も思わず自画自賛!　約1年半かけリニューアルした「原信六日町店」を徹底レポート",
+      "url": "https://diamond-rm.net/store/540806/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-03-30",
+      "tags": [
+        "リニューアル",
+        "社長"
+      ]
+    },
+    {
       "id": "diamond-sample2",
       "title": "食品スーパー、惣菜強化で差別化進む",
       "url": "https://diamond-rm.net/management/sample2/",
@@ -1501,18 +1575,6 @@
       "date": "2026-03-27",
       "tags": [
         "新店"
-      ]
-    },
-    {
-      "id": "diamond-ff058ff9",
-      "title": "トライアルの弩低価格・拡張性ワンマイルウェア「RIALT」が秘めるポテンシャル",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/540416/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-03-27",
-      "tags": [
-        "トライアル"
       ]
     },
     {
@@ -1810,6 +1872,18 @@
       "category": "飲料",
       "date": "2026-03-27",
       "tags": []
+    },
+    {
+      "id": "diamond-ff058ff9",
+      "title": "トライアルの弩低価格・拡張性ワンマイルウェア「RIALT」が秘めるポテンシャル",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/540416/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-03-27",
+      "tags": [
+        "トライアル"
+      ]
     },
     {
       "id": "ryutsuu-44fd1cf5",
