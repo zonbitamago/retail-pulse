@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-04-03T18:12:07.693Z",
+  "lastUpdated": "2026-04-04T00:20:35.938Z",
   "items": [
+    {
+      "id": "diamond-b883274d",
+      "title": "流通秀書　第23回『ハロッズ』",
+      "url": "https://diamond-rm.net/life-career/540822/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-04",
+      "tags": []
+    },
+    {
+      "id": "diamond-7a09e51e",
+      "title": "「旬」を強く打ち出す売場づくりに注力 小平市初出店の「オーケー小平小川東店」を解説",
+      "url": "https://diamond-rm.net/store/newstorereport/540992/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-04",
+      "tags": [
+        "オーケー",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-ee5475e2",
+      "title": "静岡の「食」にフォーカス!「イオンスタイル静岡」の売場づくりをレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/540962/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-04",
+      "tags": [
+        "イオン"
+      ]
+    },
+    {
+      "id": "diamond-827e4c92",
+      "title": "新フォーマット「トライアル西友」の2号店「武蔵新城店」を徹底レポート！",
+      "url": "https://diamond-rm.net/store/newstorereport/540886/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-04",
+      "tags": [
+        "トライアル",
+        "西友"
+      ]
+    },
     {
       "id": "ryutsuu-c2c8b88c",
       "title": "賃上げ2026／イオン、ライフ、ヤオコーなど首都圏スーパー、パート時給をアップ",
@@ -604,22 +652,22 @@
       "tags": []
     },
     {
-      "id": "diamond-ca4de71f",
-      "title": "アメリカの「ラウンドワン」が、クレーンゲームで来店動機を生んでいる背景",
-      "url": "https://diamond-rm.net/sales-promotion/541012/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-02",
-      "tags": []
-    },
-    {
       "id": "diamond-4cf8a27e",
       "title": "ファーストリテイリングの歴史に学ぶ「経営人材」の育成手法",
       "url": "https://diamond-rm.net/management/businessplan/540319/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
+      "date": "2026-04-02",
+      "tags": []
+    },
+    {
+      "id": "diamond-ca4de71f",
+      "title": "アメリカの「ラウンドワン」が、クレーンゲームで来店動機を生んでいる背景",
+      "url": "https://diamond-rm.net/sales-promotion/541012/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
       "date": "2026-04-02",
       "tags": []
     },
@@ -1044,30 +1092,6 @@
       "tags": []
     },
     {
-      "id": "diamond-76d397f0",
-      "title": "【DCS最新号】4月1日号は「小売業のES向上経営」",
-      "url": "https://diamond-rm.net/store/540735/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-01",
-      "tags": []
-    },
-    {
-      "id": "diamond-228a53e8",
-      "title": "2026年のショッピングセンター開業計画を分析　ますます主流になるNSC",
-      "url": "https://diamond-rm.net/management/businessplan/540604/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-01",
-      "tags": [
-        "ショッピングセンター",
-        "SC",
-        "開業"
-      ]
-    },
-    {
       "id": "diamond-161add78",
       "title": "地方部のネットスーパーで「恵方巻」が 1日3000 本も売れた理由",
       "url": "https://diamond-rm.net/ec-epayment/net-super/540588/",
@@ -1320,6 +1344,30 @@
       "category": "foodservice",
       "date": "2026-04-01",
       "tags": [
+        "開業"
+      ]
+    },
+    {
+      "id": "diamond-76d397f0",
+      "title": "【DCS最新号】4月1日号は「小売業のES向上経営」",
+      "url": "https://diamond-rm.net/store/540735/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-01",
+      "tags": []
+    },
+    {
+      "id": "diamond-228a53e8",
+      "title": "2026年のショッピングセンター開業計画を分析　ますます主流になるNSC",
+      "url": "https://diamond-rm.net/management/businessplan/540604/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-01",
+      "tags": [
+        "ショッピングセンター",
+        "SC",
         "開業"
       ]
     },
