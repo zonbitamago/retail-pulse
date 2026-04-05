@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T12:09:57.080Z",
+  "lastUpdated": "2026-04-05T18:10:10.827Z",
   "items": [
     {
       "id": "ssnp-65f81742",
@@ -317,6 +317,16 @@
       ]
     },
     {
+      "id": "diamond-10b8cc20",
+      "title": "第６１回　渥美流軍隊適応術",
+      "url": "https://diamond-rm.net/life-career/535839/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-03",
+      "tags": []
+    },
+    {
       "id": "diamond-d1704b65",
       "title": "福岡市内3カ所目のイズミのNSC「ゆめモール那珂川」を徹底解説！",
       "url": "https://diamond-rm.net/store/newstorereport/540766/",
@@ -328,16 +338,6 @@
         "モール",
         "SC"
       ]
-    },
-    {
-      "id": "diamond-10b8cc20",
-      "title": "第６１回　渥美流軍隊適応術",
-      "url": "https://diamond-rm.net/life-career/535839/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-03",
-      "tags": []
     },
     {
       "id": "diamond-330fb505",
@@ -660,16 +660,14 @@
       ]
     },
     {
-      "id": "diamond-55e5d1ef",
-      "title": "紀ノ國屋富田社長インタビュー 「路面店のリモデル」を検討へ",
-      "url": "https://diamond-rm.net/management/topinterview/540619/",
+      "id": "diamond-ca4de71f",
+      "title": "アメリカの「ラウンドワン」が、クレーンゲームで来店動機を生んでいる背景",
+      "url": "https://diamond-rm.net/sales-promotion/541012/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "経営戦略",
+      "category": "sales-promotion",
       "date": "2026-04-02",
-      "tags": [
-        "社長"
-      ]
+      "tags": []
     },
     {
       "id": "diamond-af5585fa",
@@ -682,22 +680,24 @@
       "tags": []
     },
     {
+      "id": "diamond-55e5d1ef",
+      "title": "紀ノ國屋富田社長インタビュー 「路面店のリモデル」を検討へ",
+      "url": "https://diamond-rm.net/management/topinterview/540619/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-02",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
       "id": "diamond-4cf8a27e",
       "title": "ファーストリテイリングの歴史に学ぶ「経営人材」の育成手法",
       "url": "https://diamond-rm.net/management/businessplan/540319/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
-      "date": "2026-04-02",
-      "tags": []
-    },
-    {
-      "id": "diamond-ca4de71f",
-      "title": "アメリカの「ラウンドワン」が、クレーンゲームで来店動機を生んでいる背景",
-      "url": "https://diamond-rm.net/sales-promotion/541012/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
       "date": "2026-04-02",
       "tags": []
     },
@@ -1808,6 +1808,18 @@
         "ファミリーマート",
         "DX",
         "無人決済"
+      ]
+    },
+    {
+      "id": "diamond-4d49d367",
+      "title": "OMO時代の新たな課題　実店舗従業員のモチベーションをどう維持するか？",
+      "url": "https://diamond-rm.net/management/humanresorcedevelop/540500/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-03-30",
+      "tags": [
+        "OMO"
       ]
     },
     {
