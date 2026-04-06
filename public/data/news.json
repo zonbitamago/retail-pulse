@@ -1,6 +1,81 @@
 {
-  "lastUpdated": "2026-04-05T18:10:10.827Z",
+  "lastUpdated": "2026-04-06T00:23:02.349Z",
   "items": [
+    {
+      "id": "diamond-eaa9b5c4",
+      "title": "トライアル・スギ薬局の協業本格化　「TRIAL GO」にスギの棚割りを初導入",
+      "url": "https://diamond-rm.net/store/541446/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-06",
+      "tags": [
+        "トライアル",
+        "スギ薬局"
+      ]
+    },
+    {
+      "id": "diamond-ae0f72f4",
+      "title": "平和堂が25年度通期決算を発表　富山に食品スーパー「アルプラ・フーズマーケット」出店へ",
+      "url": "https://diamond-rm.net/market/accounting/541509/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-04-06",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品",
+        "出店",
+        "決算"
+      ]
+    },
+    {
+      "id": "diamond-c674666e",
+      "title": "埼玉有数の激戦区に殴り込み！「生鮮市場TOP新座店」の売場づくりを徹底レポート",
+      "url": "https://diamond-rm.net/store/newstorereport/541017/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-06",
+      "tags": [
+        "生鮮"
+      ]
+    },
+    {
+      "id": "diamond-7fa25439",
+      "title": "今年の消費者は「納得感」を買う！外食データから紐解く、売場を変えるネーミングの法則",
+      "url": "https://diamond-rm.net/sales-promotion/539822/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-06",
+      "tags": [
+        "外食"
+      ]
+    },
+    {
+      "id": "diamond-381b3b40",
+      "title": "イオンフードスタイルの新フォーマット1号店「フードスタイル三田店」の売場を大解剖！",
+      "url": "https://diamond-rm.net/store/newstorereport/541201/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-06",
+      "tags": [
+        "イオン"
+      ]
+    },
+    {
+      "id": "diamond-a89d222d",
+      "title": "世界で一気に注目度アップ!「エージェンティックコマース」と「UCP」とは",
+      "url": "https://diamond-rm.net/technology/digitalmarketing/541080/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-04-06",
+      "tags": []
+    },
     {
       "id": "ssnp-65f81742",
       "title": "ココス『クッキー&クリームフェア』開催 / クッキーやマカロンを合わせたビッグパフェ、コーヒーゼリーを合わせたフラッペはテイクアウトも可能\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーレストラン「ココス」は、4月9日から5月上旬までの間、『クッキー&クリームフェア』を開催し、クッキー&クリームをテーマにしたスイーツ5品を販売する。 【フェアメニュー5品の画像はこちら】ほろ苦い...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
@@ -293,30 +368,6 @@
       ]
     },
     {
-      "id": "diamond-07049302",
-      "title": "バロー関東1号店から1.5㎞！ヤオコー東戸塚店の売場づくりをレポート",
-      "url": "https://diamond-rm.net/store/541343/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-03",
-      "tags": [
-        "ヤオコー"
-      ]
-    },
-    {
-      "id": "diamond-66a51f82",
-      "title": "イトーヨーカ堂「セブン・ザ・プライス」が好調!　新商品では「ユニット単価」の割安感を訴求",
-      "url": "https://diamond-rm.net/sales-promotion/541303/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-03",
-      "tags": [
-        "イトーヨーカ堂"
-      ]
-    },
-    {
       "id": "diamond-10b8cc20",
       "title": "第６１回　渥美流軍隊適応術",
       "url": "https://diamond-rm.net/life-career/535839/",
@@ -325,19 +376,6 @@
       "category": "life-career",
       "date": "2026-04-03",
       "tags": []
-    },
-    {
-      "id": "diamond-d1704b65",
-      "title": "福岡市内3カ所目のイズミのNSC「ゆめモール那珂川」を徹底解説！",
-      "url": "https://diamond-rm.net/store/newstorereport/540766/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-03",
-      "tags": [
-        "モール",
-        "SC"
-      ]
     },
     {
       "id": "diamond-330fb505",
@@ -362,6 +400,18 @@
       "tags": [
         "外食",
         "社長"
+      ]
+    },
+    {
+      "id": "diamond-66a51f82",
+      "title": "イトーヨーカ堂「セブン・ザ・プライス」が好調!　新商品では「ユニット単価」の割安感を訴求",
+      "url": "https://diamond-rm.net/sales-promotion/541303/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-03",
+      "tags": [
+        "イトーヨーカ堂"
       ]
     },
     {
@@ -556,6 +606,31 @@
       "tags": []
     },
     {
+      "id": "diamond-07049302",
+      "title": "バロー関東1号店から1.5㎞！ヤオコー東戸塚店の売場づくりをレポート",
+      "url": "https://diamond-rm.net/store/541343/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-03",
+      "tags": [
+        "ヤオコー"
+      ]
+    },
+    {
+      "id": "diamond-d1704b65",
+      "title": "福岡市内3カ所目のイズミのNSC「ゆめモール那珂川」を徹底解説！",
+      "url": "https://diamond-rm.net/store/newstorereport/540766/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-03",
+      "tags": [
+        "モール",
+        "SC"
+      ]
+    },
+    {
       "id": "ryutsuu-0b77a6d1",
       "title": "ケンタッキー／神奈川県相模原市に次世代モデル店4／3オープン、バーガー生産力6倍",
       "url": "https://www.ryutsuu.biz/report/s040242.html",
@@ -643,39 +718,6 @@
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "経営",
-      "date": "2026-04-02",
-      "tags": []
-    },
-    {
-      "id": "diamond-f9a64d1e",
-      "title": "ベニマルが白河の店舗を建て替え！ ロピアは福岡・遠賀町に新設店【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/541170/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-02",
-      "tags": [
-        "建て替え",
-        "ロピア"
-      ]
-    },
-    {
-      "id": "diamond-ca4de71f",
-      "title": "アメリカの「ラウンドワン」が、クレーンゲームで来店動機を生んでいる背景",
-      "url": "https://diamond-rm.net/sales-promotion/541012/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-02",
-      "tags": []
-    },
-    {
-      "id": "diamond-af5585fa",
-      "title": "第６０回　断トツの一番でなければだめなんです",
-      "url": "https://diamond-rm.net/life-career/535838/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
       "date": "2026-04-02",
       "tags": []
     },
@@ -870,6 +912,39 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
+      "date": "2026-04-02",
+      "tags": []
+    },
+    {
+      "id": "diamond-f9a64d1e",
+      "title": "ベニマルが白河の店舗を建て替え！ ロピアは福岡・遠賀町に新設店【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/541170/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-02",
+      "tags": [
+        "建て替え",
+        "ロピア"
+      ]
+    },
+    {
+      "id": "diamond-ca4de71f",
+      "title": "アメリカの「ラウンドワン」が、クレーンゲームで来店動機を生んでいる背景",
+      "url": "https://diamond-rm.net/sales-promotion/541012/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-02",
+      "tags": []
+    },
+    {
+      "id": "diamond-af5585fa",
+      "title": "第６０回　断トツの一番でなければだめなんです",
+      "url": "https://diamond-rm.net/life-career/535838/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-04-02",
       "tags": []
     },
@@ -1811,18 +1886,6 @@
       ]
     },
     {
-      "id": "diamond-4d49d367",
-      "title": "OMO時代の新たな課題　実店舗従業員のモチベーションをどう維持するか？",
-      "url": "https://diamond-rm.net/management/humanresorcedevelop/540500/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-03-30",
-      "tags": [
-        "OMO"
-      ]
-    },
-    {
       "id": "diamond-f4d137e3",
       "title": "【新店レポート】ヤオコー新浦安店　新規MD全面導入で「南エリア」の新旗艦店に",
       "url": "https://diamond-rm.net/store/540665/",
@@ -1982,6 +2045,18 @@
       "tags": [
         "出店",
         "開業"
+      ]
+    },
+    {
+      "id": "diamond-4d49d367",
+      "title": "OMO時代の新たな課題　実店舗従業員のモチベーションをどう維持するか？",
+      "url": "https://diamond-rm.net/management/humanresorcedevelop/540500/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-03-30",
+      "tags": [
+        "OMO"
       ]
     },
     {
@@ -2811,20 +2886,6 @@
       ]
     },
     {
-      "id": "diamond-8aaa4cc1",
-      "title": "PPIH＆トライアルHDの中間決算を徹底解説！両社とも成長のカギは「新フォーマット」",
-      "url": "https://diamond-rm.net/management/businessplan/539410/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-03-19",
-      "tags": [
-        "トライアル",
-        "PPIH",
-        "決算"
-      ]
-    },
-    {
       "id": "diamond-1fba1b26",
       "title": "オフィス家具メーカーのプラスが手掛けるEC「スマート介護」　ONIGOと連携で生鮮の配送も",
       "url": "https://diamond-rm.net/management/539838/",
@@ -2859,6 +2920,20 @@
       "date": "2026-03-19",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-8aaa4cc1",
+      "title": "PPIH＆トライアルHDの中間決算を徹底解説！両社とも成長のカギは「新フォーマット」",
+      "url": "https://diamond-rm.net/management/businessplan/539410/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-03-19",
+      "tags": [
+        "トライアル",
+        "PPIH",
+        "決算"
       ]
     },
     {
@@ -2925,22 +3000,22 @@
       "tags": []
     },
     {
-      "id": "diamond-e4b7b55b",
-      "title": "エージェンティックコマースの活用事例と認識すべき課題とは",
-      "url": "https://diamond-rm.net/technology/ai/539182/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-03-17",
-      "tags": []
-    },
-    {
       "id": "diamond-5c5eada4",
       "title": "「明治おいしいミルク紅茶」3月から登場の新顔が担う新客層開拓の重要任務",
       "url": "https://diamond-rm.net/promotion/pr/538725/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "promotion",
+      "date": "2026-03-17",
+      "tags": []
+    },
+    {
+      "id": "diamond-e4b7b55b",
+      "title": "エージェンティックコマースの活用事例と認識すべき課題とは",
+      "url": "https://diamond-rm.net/technology/ai/539182/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
       "date": "2026-03-17",
       "tags": []
     },
