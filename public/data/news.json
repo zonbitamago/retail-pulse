@@ -1,6 +1,99 @@
 {
-  "lastUpdated": "2026-04-06T18:19:03.518Z",
+  "lastUpdated": "2026-04-07T00:23:20.712Z",
   "items": [
+    {
+      "id": "diamond-3a1daf78",
+      "title": "新生ダイエー、近畿圏で新フォーマット「フードスタイル」を拡大へ",
+      "url": "https://diamond-rm.net/management/businessplan/541557/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-07",
+      "tags": []
+    },
+    {
+      "id": "diamond-8f518abe",
+      "title": "1.3兆円規模にまで拡大した冷凍食品市場　「同質化」を抜け出す次なる一手は？",
+      "url": "https://diamond-rm.net/sales-promotion/541321/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-07",
+      "tags": [
+        "冷凍食品",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-dda140cc",
+      "title": "新社長・川名麻耶氏が世界の宝「スパイバー」を再建するための唯一の方法",
+      "url": "https://diamond-rm.net/management/businessplan/541642/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-07",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-978e38c3",
+      "title": "2年連続で売上20%増！ イオンリテールで「トップバリュ」の冷凍ワントレーが好調の理由",
+      "url": "https://diamond-rm.net/sales-promotion/541043/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-07",
+      "tags": [
+        "イオン"
+      ]
+    },
+    {
+      "id": "diamond-b9f09a0e",
+      "title": "閉塞感を打ち破る！東海漬物大羽社長が展望する、漬物業界の明るい未来",
+      "url": "https://diamond-rm.net/management/topinterview/541041/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-07",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-6c907067",
+      "title": "「整腸」を超えるメガトレンド！日常に溶け込む「食物繊維」が消費の主役へ",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/541252/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-07",
+      "tags": []
+    },
+    {
+      "id": "diamond-e4001400",
+      "title": "スーパーマーケット・トレードショー2026をレポート",
+      "url": "https://diamond-rm.net/sales-promotion/event/541244/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-07",
+      "tags": [
+        "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-d1498102",
+      "title": "【一店入魂】ベルクベスタ狭山店　埼玉有数の激戦区に見たベルクの凄み",
+      "url": "https://diamond-rm.net/store/storevisit/540539/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-07",
+      "tags": [
+        "ベルク"
+      ]
+    },
     {
       "id": "ryutsuu-a753c0a4",
       "title": "PPIH／Olympicグループを買収、完全子会社化でドンキやロビン・フッドの店舗網拡大",
@@ -260,31 +353,25 @@
       ]
     },
     {
-      "id": "diamond-ae0f72f4",
-      "title": "平和堂が25年度通期決算を発表　富山に食品スーパー「アルプラ・フーズマーケット」出店へ",
-      "url": "https://diamond-rm.net/market/accounting/541509/",
+      "id": "diamond-edb8cdd6",
+      "title": "第６２回　軍隊につらい思い出、あまりないなあ",
+      "url": "https://diamond-rm.net/life-career/535840/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "市場動向",
+      "category": "life-career",
       "date": "2026-04-06",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品",
-        "出店",
-        "決算"
-      ]
+      "tags": []
     },
     {
-      "id": "diamond-c674666e",
-      "title": "埼玉有数の激戦区に殴り込み！「生鮮市場TOP新座店」の売場づくりを徹底レポート",
-      "url": "https://diamond-rm.net/store/newstorereport/541017/",
+      "id": "diamond-e042ebc9",
+      "title": "週刊コンビニエンスストアニュース ファミマが「毎週火・金カッキーン！生活応援割」を実施",
+      "url": "https://diamond-rm.net/management/541621/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "店舗",
+      "category": "経営戦略",
       "date": "2026-04-06",
       "tags": [
-        "生鮮"
+        "コンビニ"
       ]
     },
     {
@@ -312,25 +399,31 @@
       ]
     },
     {
-      "id": "diamond-edb8cdd6",
-      "title": "第６２回　軍隊につらい思い出、あまりないなあ",
-      "url": "https://diamond-rm.net/life-career/535840/",
+      "id": "diamond-c674666e",
+      "title": "埼玉有数の激戦区に殴り込み！「生鮮市場TOP新座店」の売場づくりを徹底レポート",
+      "url": "https://diamond-rm.net/store/newstorereport/541017/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-06",
-      "tags": []
-    },
-    {
-      "id": "diamond-e042ebc9",
-      "title": "週刊コンビニエンスストアニュース ファミマが「毎週火・金カッキーン！生活応援割」を実施",
-      "url": "https://diamond-rm.net/management/541621/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
+      "category": "店舗",
       "date": "2026-04-06",
       "tags": [
-        "コンビニ"
+        "生鮮"
+      ]
+    },
+    {
+      "id": "diamond-ae0f72f4",
+      "title": "平和堂が25年度通期決算を発表　富山に食品スーパー「アルプラ・フーズマーケット」出店へ",
+      "url": "https://diamond-rm.net/market/accounting/541509/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-04-06",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品",
+        "出店",
+        "決算"
       ]
     },
     {
@@ -517,16 +610,6 @@
       "tags": []
     },
     {
-      "id": "diamond-b883274d",
-      "title": "流通秀書　第23回『ハロッズ』",
-      "url": "https://diamond-rm.net/life-career/540822/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-04",
-      "tags": []
-    },
-    {
       "id": "diamond-7a09e51e",
       "title": "「旬」を強く打ち出す売場づくりに注力 小平市初出店の「オーケー小平小川東店」を解説",
       "url": "https://diamond-rm.net/store/newstorereport/540992/",
@@ -552,19 +635,6 @@
       ]
     },
     {
-      "id": "diamond-827e4c92",
-      "title": "新フォーマット「トライアル西友」の2号店「武蔵新城店」を徹底レポート！",
-      "url": "https://diamond-rm.net/store/newstorereport/540886/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-04",
-      "tags": [
-        "トライアル",
-        "西友"
-      ]
-    },
-    {
       "id": "ssnp-f2227352",
       "title": "【ファミマ】韓国グルメ9品を発売!定番キンパは豚肉とツナマヨの2種、ビビンバ･参鶏湯･スンドゥブスープも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/671903/",
@@ -583,6 +653,29 @@
       "category": "foodservice",
       "date": "2026-04-04",
       "tags": []
+    },
+    {
+      "id": "diamond-b883274d",
+      "title": "流通秀書　第23回『ハロッズ』",
+      "url": "https://diamond-rm.net/life-career/540822/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-04",
+      "tags": []
+    },
+    {
+      "id": "diamond-827e4c92",
+      "title": "新フォーマット「トライアル西友」の2号店「武蔵新城店」を徹底レポート！",
+      "url": "https://diamond-rm.net/store/newstorereport/540886/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-04",
+      "tags": [
+        "トライアル",
+        "西友"
+      ]
     },
     {
       "id": "ryutsuu-f6b27d1e",
@@ -691,31 +784,6 @@
       "date": "2026-04-03",
       "tags": [
         "イオン"
-      ]
-    },
-    {
-      "id": "diamond-157f2b5a",
-      "title": "グローバル外食企業への進化に向け、サンマルクHD藤川社長が問う「外食の本質」",
-      "url": "https://diamond-rm.net/management/topinterview/540703/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-03",
-      "tags": [
-        "外食",
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-66a51f82",
-      "title": "イトーヨーカ堂「セブン・ザ・プライス」が好調!　新商品では「ユニット単価」の割安感を訴求",
-      "url": "https://diamond-rm.net/sales-promotion/541303/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-03",
-      "tags": [
-        "イトーヨーカ堂"
       ]
     },
     {
@@ -908,6 +976,31 @@
       "category": "foodservice",
       "date": "2026-04-03",
       "tags": []
+    },
+    {
+      "id": "diamond-157f2b5a",
+      "title": "グローバル外食企業への進化に向け、サンマルクHD藤川社長が問う「外食の本質」",
+      "url": "https://diamond-rm.net/management/topinterview/540703/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-03",
+      "tags": [
+        "外食",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-66a51f82",
+      "title": "イトーヨーカ堂「セブン・ザ・プライス」が好調!　新商品では「ユニット単価」の割安感を訴求",
+      "url": "https://diamond-rm.net/sales-promotion/541303/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-03",
+      "tags": [
+        "イトーヨーカ堂"
+      ]
     },
     {
       "id": "ryutsuu-57952b47",
@@ -1108,28 +1201,6 @@
       "tags": []
     },
     {
-      "id": "diamond-55e5d1ef",
-      "title": "紀ノ國屋富田社長インタビュー 「路面店のリモデル」を検討へ",
-      "url": "https://diamond-rm.net/management/topinterview/540619/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-02",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-4cf8a27e",
-      "title": "ファーストリテイリングの歴史に学ぶ「経営人材」の育成手法",
-      "url": "https://diamond-rm.net/management/businessplan/540319/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-02",
-      "tags": []
-    },
-    {
       "id": "ssnp-edc89f04",
       "title": "【LEMONITY】磐田で「レモン定植祭」開催、国産レモンの産地形成へ本格始動/ポッカサッポロら3社が参加、約4haに約2000本を定植\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/671839/",
@@ -1298,6 +1369,28 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
+      "date": "2026-04-02",
+      "tags": []
+    },
+    {
+      "id": "diamond-55e5d1ef",
+      "title": "紀ノ國屋富田社長インタビュー 「路面店のリモデル」を検討へ",
+      "url": "https://diamond-rm.net/management/topinterview/540619/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-02",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-4cf8a27e",
+      "title": "ファーストリテイリングの歴史に学ぶ「経営人材」の育成手法",
+      "url": "https://diamond-rm.net/management/businessplan/540319/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-04-02",
       "tags": []
     },
@@ -3402,99 +3495,6 @@
         "PPIH",
         "決算"
       ]
-    },
-    {
-      "id": "ryutsuu-e4b8ed4a",
-      "title": "船井総研／「失敗しない！倉庫・物流センター建設・建替えノウハウ大公開セミナー」4／15東京で開催",
-      "url": "https://www.ryutsuu.biz/seminar/s031875.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-03-18",
-      "tags": [
-        "PR",
-        "物流"
-      ]
-    },
-    {
-      "id": "diamond-7a97d60c",
-      "title": "米セブン-イレブンとハイヴィーが進める人事管理でのAI活用",
-      "url": "https://diamond-rm.net/technology/ai/539396/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-03-18",
-      "tags": [
-        "セブン-イレブン",
-        "AI",
-        "人事"
-      ]
-    },
-    {
-      "id": "diamond-e4c7eb45",
-      "title": "「NRF2026」で議論された食品ロス削減領域でのAI・RFID活用の方向性",
-      "url": "https://diamond-rm.net/technology/ai/539387/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-03-18",
-      "tags": [
-        "食品ロス",
-        "AI",
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-00df10e7",
-      "title": "AI活用が商品開発・商品管理に与える”大きすぎる”インパクト",
-      "url": "https://diamond-rm.net/technology/ai/539379/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-03-18",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "diamond-3584ddb4",
-      "title": "三ツ矢ブランドで最も酸っぱい「ウルトラストロングレモン」が踏み出す一歩",
-      "url": "https://diamond-rm.net/promotion/pr/539171/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-03-18",
-      "tags": []
-    },
-    {
-      "id": "diamond-5c5eada4",
-      "title": "「明治おいしいミルク紅茶」3月から登場の新顔が担う新客層開拓の重要任務",
-      "url": "https://diamond-rm.net/promotion/pr/538725/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-03-17",
-      "tags": []
-    },
-    {
-      "id": "diamond-e4b7b55b",
-      "title": "エージェンティックコマースの活用事例と認識すべき課題とは",
-      "url": "https://diamond-rm.net/technology/ai/539182/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-03-17",
-      "tags": []
-    },
-    {
-      "id": "ssnp-ff2cb69c",
-      "title": "〈シグナル〉“熱い思い”",
-      "url": "https://www.ssnp.co.jp/signal/665007/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "signal",
-      "date": "2026-03-16",
-      "tags": []
     }
   ]
 }
