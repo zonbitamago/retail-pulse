@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-04-08T06:32:43.822Z",
+  "lastUpdated": "2026-04-08T12:19:08.745Z",
   "items": [
+    {
+      "id": "ryutsuu-4141239e",
+      "title": "ミニストップ 決算／2月期最終赤字56億3000万円、消費期限偽装・不採算店舗閉店響く",
+      "url": "https://www.ryutsuu.biz/accounts/s040816.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-04-08",
+      "tags": [
+        "閉店",
+        "決算",
+        "赤字"
+      ]
+    },
+    {
+      "id": "ryutsuu-49fbacdc",
+      "title": "ファミマ／中東情勢の影響で物流費・電気代の高騰を懸念、包材の集約化も検討",
+      "url": "https://www.ryutsuu.biz/strategy/s040845.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-04-08",
+      "tags": [
+        "物流"
+      ]
+    },
+    {
+      "id": "ryutsuu-6f245cad",
+      "title": "グンゼ／食品包装用ナイロンフィルムなどプラスチック製品値上げ、原油やナフサ高騰で",
+      "url": "https://www.ryutsuu.biz/strategy/s040847.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-04-08",
+      "tags": [
+        "値上げ",
+        "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-859123b2",
+      "title": "サイゼリヤ 決算／9～2月増収増益、コスト上昇などで通期予想を修正",
+      "url": "https://www.ryutsuu.biz/accounts/s040882.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-04-08",
+      "tags": [
+        "サイゼリヤ",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
     {
       "id": "ryutsuu-d3682806",
       "title": "二子玉川ライズS.C.／25年売上高457億円越え、3年連続で過去最高を更新",
@@ -12,6 +66,52 @@
       "tags": [
         "売上高"
       ]
+    },
+    {
+      "id": "ryutsuu-db95a80c",
+      "title": "グランベリーパーク／25年度売上高414億7600万円、6年連続で過去最高を更新",
+      "url": "https://www.ryutsuu.biz/strategy/s040813.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-04-08",
+      "tags": [
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-d65f5a25",
+      "title": "マークイズ福岡ももち／25年売上高約219億円、3年連続で売上・客数が過去最高更新",
+      "url": "https://www.ryutsuu.biz/store/s040881.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-08",
+      "tags": [
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-60aaa06f",
+      "title": "カンリー／「新規客獲得のスタートダッシュを左右するWeb導線作り」セミナー4／16・17・20開催",
+      "url": "https://www.ryutsuu.biz/seminar/s040872.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "seminar",
+      "date": "2026-04-08",
+      "tags": [
+        "PR"
+      ]
+    },
+    {
+      "id": "ryutsuu-c302a0c4",
+      "title": "ジョイフル本田／リフォーム事業部を刷新、新屋号「JOYFUL HOME」6／21導入",
+      "url": "https://www.ryutsuu.biz/strategy/s040878.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-04-08",
+      "tags": []
     },
     {
       "id": "ryutsuu-6a70049f",
@@ -60,18 +160,6 @@
       "category": "abroad",
       "date": "2026-04-08",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-60aaa06f",
-      "title": "カンリー／「新規客獲得のスタートダッシュを左右するWeb導線作り」セミナー4／16・17・20開催",
-      "url": "https://www.ryutsuu.biz/seminar/s040872.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-04-08",
-      "tags": [
-        "PR"
-      ]
     },
     {
       "id": "ryutsuu-8ec6729e",
@@ -133,6 +221,22 @@
       "date": "2026-04-08",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-5c1d2032",
+      "title": "ABCマート 決算／2月期増収増益、国内33店舗オープン・スポーツアパレルにも注力",
+      "url": "https://www.ryutsuu.biz/accounts/s040883.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-04-08",
+      "tags": [
+        "アパレル",
+        "オープン",
+        "決算",
+        "増収",
+        "増益"
       ]
     },
     {
@@ -254,8 +358,42 @@
       ]
     },
     {
+      "id": "ssnp-763b10ba",
+      "title": "【紀ノ国屋】春の人気スイーツバッグ登場　4色展開、クッキーやバウム入りでギフトにも\n\t\t\t\t\t\t\t\t\t\t\t\t紀ノ国屋は4月10日から、各店舗で春の人気商品「フローラルスイーツバッグ（全4色）」を販売する。価格は各1,890円（税込）。 「フローラルスイーツバッグ」は、小花柄をあしらったコンパクトなバッグに、人気の焼菓子を詰め合...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/672612/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-04-08",
+      "tags": [
+        "菓子"
+      ]
+    },
+    {
+      "id": "ssnp-7d46311e",
+      "title": "『ヒトツブカンロ』期間限定ストア、羽田空港に再登場/ 人気の「グミッツェル」や限定商品も【カンロ】\n\t\t\t\t\t\t\t\t\t\t\t\tカンロは4月8日、『ヒトツブカンロ』のポップアップストアを、羽田空港第1ターミナルのセレクトショップ「羽田スタースイーツ」内にオープンした。 7月7日までの期間限定ストアで、看板商品「グミッツェル」や「mofuwa(モフ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/672621/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-04-08",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ssnp-9870c0a6",
+      "title": "「北海道ミニソフト」3種が100円引きの190円に!4/8～4/29の期間限定【びっくりドンキー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/672605/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-08",
+      "tags": []
+    },
+    {
       "id": "ssnp-49c2d8ee",
-      "title": "【再登場】ほっともっと「おろしかつめし」だし強化で進化、丼・弁当の2タイプ展開\n\t\t\t\t\t\t\t\t\t\t\t\t持ち帰り弁当チェーン「Hotto Motto（ほっともっと）」は4月15日、全2,423店舗で「おろしかつめし（丼タイプ）」と「おろしかつ弁当」を発売する。 同商品は2019年に初登場し、昨年の再販でも好評を得た期間限定...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【再登場】ほっともっと「おろしかつめし」だし強化で進化、丼・弁当の2タイプ展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/672588/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -267,7 +405,7 @@
     },
     {
       "id": "ssnp-a4e26c3b",
-      "title": "【実食レビュー】ゴンチャ「マンゴーミニパール」――果肉1.5倍でパワーアップした人気ドリンクを飲んでみた\n\t\t\t\t\t\t\t\t\t\t\t\tゴンチャ ジャパンは、『GO!GO!MANGO!』と題したアジアンデザートティーシリーズの第1弾として、昨年好評だった「マンゴーミニパール」を2026年4月9日に発売する。マンゴー果肉を昨年比1.5倍に増量し、より贅沢な...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【実食レビュー】ゴンチャ「マンゴーミニパール」――果肉1.5倍でパワーアップした人気ドリンクを飲んでみた\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/672593/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -431,21 +569,6 @@
       ]
     },
     {
-      "id": "ryutsuu-f9a2506a",
-      "title": "U.S.M.H 決算／2月期営業収益過去最高も、不採算店舗閉店が響き最終赤字31億8500万円",
-      "url": "https://www.ryutsuu.biz/accounts/s040717.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-07",
-      "tags": [
-        "注目",
-        "閉店",
-        "決算",
-        "赤字"
-      ]
-    },
-    {
       "id": "ryutsuu-8c27d9d4",
       "title": "アンドエスティHD／5カ年計画の初年度終了、オープン化で外部ショップが2倍に増加",
       "url": "https://www.ryutsuu.biz/strategy/s040742.html",
@@ -459,46 +582,6 @@
       ]
     },
     {
-      "id": "ryutsuu-890cb358",
-      "title": "流通ISAC／製造・卸・小売が連携、トライアルとNTTのデータ活用が設立のきっかけ",
-      "url": "https://www.ryutsuu.biz/it/s040741.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-04-07",
-      "tags": [
-        "詳報",
-        "トライアル",
-        "データ活用"
-      ]
-    },
-    {
-      "id": "ryutsuu-f0b3c09a",
-      "title": "ドンキ／「ドン・キホーテ戸越銀座店」4／22オープン、食べ歩き向け商品販売",
-      "url": "https://www.ryutsuu.biz/store/s040714.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-07",
-      "tags": [
-        "ドン・キホーテ",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-857f4635",
-      "title": "オーケー／大阪府大東市に「大東新田西町店」5月中旬オープン",
-      "url": "https://www.ryutsuu.biz/store/s040772.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-07",
-      "tags": [
-        "オーケー",
-        "オープン"
-      ]
-    },
-    {
       "id": "ryutsuu-03898389",
       "title": "ゼンショーHD／創業者の小川賢太郎会長が死去",
       "url": "https://www.ryutsuu.biz/strategy/s040771.html",
@@ -508,34 +591,6 @@
       "date": "2026-04-07",
       "tags": [
         "ゼンショー"
-      ]
-    },
-    {
-      "id": "ryutsuu-7281fed2",
-      "title": "フジ 決算／2月期営業利益13.4％減、スクラップ＆ビルド推進・コスト上昇などで",
-      "url": "https://www.ryutsuu.biz/accounts/s040781.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-07",
-      "tags": [
-        "営業利益",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-881397fb",
-      "title": "クリエイトSD 決算／6～2月増収増益、EDLPを推進",
-      "url": "https://www.ryutsuu.biz/accounts/s040716.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-07",
-      "tags": [
-        "クリエイトSD",
-        "決算",
-        "増収",
-        "増益"
       ]
     },
     {
@@ -784,6 +839,89 @@
       "date": "2026-04-07",
       "tags": [
         "スーパー"
+      ]
+    },
+    {
+      "id": "ryutsuu-f9a2506a",
+      "title": "U.S.M.H 決算／2月期営業収益過去最高も、不採算店舗閉店が響き最終赤字31億8500万円",
+      "url": "https://www.ryutsuu.biz/accounts/s040717.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-04-07",
+      "tags": [
+        "注目",
+        "閉店",
+        "決算",
+        "赤字"
+      ]
+    },
+    {
+      "id": "ryutsuu-890cb358",
+      "title": "流通ISAC／製造・卸・小売が連携、トライアルとNTTのデータ活用が設立のきっかけ",
+      "url": "https://www.ryutsuu.biz/it/s040741.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-04-07",
+      "tags": [
+        "詳報",
+        "トライアル",
+        "データ活用"
+      ]
+    },
+    {
+      "id": "ryutsuu-f0b3c09a",
+      "title": "ドンキ／「ドン・キホーテ戸越銀座店」4／22オープン、食べ歩き向け商品販売",
+      "url": "https://www.ryutsuu.biz/store/s040714.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-07",
+      "tags": [
+        "ドン・キホーテ",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-857f4635",
+      "title": "オーケー／大阪府大東市に「大東新田西町店」5月中旬オープン",
+      "url": "https://www.ryutsuu.biz/store/s040772.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-07",
+      "tags": [
+        "オーケー",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-7281fed2",
+      "title": "フジ 決算／2月期営業利益13.4％減、スクラップ＆ビルド推進・コスト上昇などで",
+      "url": "https://www.ryutsuu.biz/accounts/s040781.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-04-07",
+      "tags": [
+        "営業利益",
+        "決算"
+      ]
+    },
+    {
+      "id": "ryutsuu-881397fb",
+      "title": "クリエイトSD 決算／6～2月増収増益、EDLPを推進",
+      "url": "https://www.ryutsuu.biz/accounts/s040716.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-04-07",
+      "tags": [
+        "クリエイトSD",
+        "決算",
+        "増収",
+        "増益"
       ]
     },
     {
@@ -1636,22 +1774,6 @@
       ]
     },
     {
-      "id": "ryutsuu-c2c8b88c",
-      "title": "賃上げ2026／イオン、ライフ、ヤオコーなど首都圏スーパー、パート時給をアップ",
-      "url": "https://www.ryutsuu.biz/strategy/s040317.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-03",
-      "tags": [
-        "注目",
-        "ヤオコー",
-        "スーパー",
-        "イオン",
-        "ライフ"
-      ]
-    },
-    {
       "id": "ryutsuu-c6bb5565",
       "title": "トライアルHD／札幌市内でネットスーパー本格展開、品数約1.3万・西友PBも扱う",
       "url": "https://www.ryutsuu.biz/ec/s040376.html",
@@ -1871,6 +1993,22 @@
       "category": "foodservice",
       "date": "2026-04-03",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-c2c8b88c",
+      "title": "賃上げ2026／イオン、ライフ、ヤオコーなど首都圏スーパー、パート時給をアップ",
+      "url": "https://www.ryutsuu.biz/strategy/s040317.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-04-03",
+      "tags": [
+        "注目",
+        "ヤオコー",
+        "スーパー",
+        "イオン",
+        "ライフ"
+      ]
     },
     {
       "id": "diamond-bff503c4",
@@ -2137,16 +2275,6 @@
       ]
     },
     {
-      "id": "ryutsuu-872b02e8",
-      "title": "売店・食堂経営のアサヒフード／自己破産を申請、負債約31億円",
-      "url": "https://www.ryutsuu.biz/strategy/s040215.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-02",
-      "tags": []
-    },
-    {
       "id": "ssnp-edc89f04",
       "title": "【LEMONITY】磐田で「レモン定植祭」開催、国産レモンの産地形成へ本格始動/ポッカサッポロら3社が参加、約4haに約2000本を定植\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/671839/",
@@ -2315,6 +2443,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
+      "date": "2026-04-02",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-872b02e8",
+      "title": "売店・食堂経営のアサヒフード／自己破産を申請、負債約31億円",
+      "url": "https://www.ryutsuu.biz/strategy/s040215.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
       "date": "2026-04-02",
       "tags": []
     },
@@ -3428,130 +3566,6 @@
       "category": "foodservice",
       "date": "2026-03-30",
       "tags": []
-    },
-    {
-      "id": "ssnp-72f06625",
-      "title": "フランス産『エシレ バター』使用、“できたて”サブレ 販売拡大/ 期間限定商品の予約販売も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/671136/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-03-30",
-      "tags": []
-    },
-    {
-      "id": "ssnp-7b2efe06",
-      "title": "ほっともっと「焼肉ビビンバ」新発売、肉増し＆温玉付きも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/671138/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-03-30",
-      "tags": []
-    },
-    {
-      "id": "ssnp-372b0fca",
-      "title": "【1周年】ちいかわ焼き　新キャラ＆限定フレーバー続々、新グッズも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/671114/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-03-30",
-      "tags": []
-    },
-    {
-      "id": "ssnp-0b02a157",
-      "title": "ステーキロッヂ、“他店”の「期限切れクーポン」で特典提供　スーパーやドラッグストアのクーポンも対象に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/671098/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-03-30",
-      "tags": [
-        "ドラッグストア",
-        "スーパー",
-        "ドラッグ"
-      ]
-    },
-    {
-      "id": "ssnp-3312179f",
-      "title": "キユーピー「トムとジェリー」瓶マヨ第3弾登場　春夏限定デザインを発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/seasoning/671079/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "調味料",
-      "date": "2026-03-30",
-      "tags": []
-    },
-    {
-      "id": "ssnp-43caea62",
-      "title": "【ファミマ】ラケルのオムライスを冷凍食品で再現!卵の食感にこだわり、従来品の1.8倍超という厚み&柔らかな口当たりを実現\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/671086/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-03-30",
-      "tags": [
-        "冷凍食品",
-        "食品"
-      ]
-    },
-    {
-      "id": "ssnp-0b0705df",
-      "title": "【サーティワン】スーパーマリオギャラクシーとコラボ!新作フレーバー、コラボ限定デザインのダブルカップやサンデー、グッズ付き商品をラインアップ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/671034/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-03-30",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
-      "id": "ssnp-a8fcd54b",
-      "title": "「モンカフェ」4品リニューアル、北海道限定で発売 / 新CMや体験型イベントも展開【片岡物産】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/671035/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-03-30",
-      "tags": [
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "ssnp-8d16c6a0",
-      "title": "【三田製麺所】“背徳系”つけ麺が再び、背脂×ニンニクのガッツリ系が期間限定復活\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/671025/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-03-30",
-      "tags": []
-    },
-    {
-      "id": "ssnp-eec00f83",
-      "title": "【築地銀だこ】たこ焼100円引きクーポン配布　PayPay最大5％還元も同時開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/671014/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-03-30",
-      "tags": []
-    },
-    {
-      "id": "ssnp-dc310136",
-      "title": "阪急うめだ地下ツリーテラスに万博で人気を集めたPACKN-TOが出店、万博で人気だった「塩おにぎり」提供　今春には実店舗も開業予定\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/671008/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-03-30",
-      "tags": [
-        "出店",
-        "開業"
-      ]
     }
   ]
 }
