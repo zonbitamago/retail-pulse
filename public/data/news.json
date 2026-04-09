@@ -1,6 +1,65 @@
 {
-  "lastUpdated": "2026-04-08T18:26:40.039Z",
+  "lastUpdated": "2026-04-09T00:19:35.218Z",
   "items": [
+    {
+      "id": "diamond-70dfb9bb",
+      "title": "「継続は力なり」は不変　アークス横山会長・CEOが展望する激変時代の行く先",
+      "url": "https://diamond-rm.net/management/topinterview/541533/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-09",
+      "tags": []
+    },
+    {
+      "id": "diamond-8842a7e6",
+      "title": "ワークマン土屋専務が語る「ローリスク経営」からの脱却と攻めの成長戦略とは",
+      "url": "https://diamond-rm.net/management/topinterview/541614/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-09",
+      "tags": [
+        "ワークマン"
+      ]
+    },
+    {
+      "id": "diamond-0472ceca",
+      "title": "ダイエーが「KOHYOロサヴィア茨木店」をオープン　時短・即食ニーズに徹底対応",
+      "url": "https://diamond-rm.net/store/newstorereport/541985/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-09",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "diamond-49cd58f0",
+      "title": "生鮮だけじゃない！バローでついカゴに入れたくなる、コスパ最強のオリジナル商品5選",
+      "url": "https://diamond-rm.net/sales-promotion/541289/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-09",
+      "tags": [
+        "生鮮"
+      ]
+    },
+    {
+      "id": "ssnp-27534b9a",
+      "title": "サントリービバレッジ&フード、「ロコモアWATER」「セサミン1000」発売 新価値創造プロジェクト始動\n\t\t\t\t\t\t\t\t\t\t\t\tサントリービバレッジ&フードは、新たな成長戦略「新価値創造プロジェクト」を始動し、国内第1弾商品として“飲むサプリ”シリーズ「ロコモアWATER」「セサミン1000」(いずれも一般食品)を4月14日に...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/672670/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-04-09",
+      "tags": [
+        "サプリ",
+        "食品"
+      ]
+    },
     {
       "id": "ryutsuu-4141239e",
       "title": "ミニストップ 決算／2月期最終赤字56億3000万円、消費期限偽装・不採算店舗閉店響く",
@@ -298,6 +357,26 @@
       ]
     },
     {
+      "id": "diamond-44ea81b9",
+      "title": "第６４回　そして８月１５日を迎える",
+      "url": "https://diamond-rm.net/life-career/535842/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-eb65cca5",
+      "title": "実は食物繊維豊富で低カロリー！ポップコーンの市場拡大なるか？",
+      "url": "https://diamond-rm.net/promotion/pr/541307/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "promotion",
+      "date": "2026-04-08",
+      "tags": []
+    },
+    {
       "id": "diamond-0192e7fb",
       "title": "流通業界初の「ISAC」誕生　アサヒ、トライアル、NTTなどがサイバーリスク対応強化へ",
       "url": "https://diamond-rm.net/technology/541783/",
@@ -323,26 +402,6 @@
         "値上げ",
         "食品"
       ]
-    },
-    {
-      "id": "diamond-44ea81b9",
-      "title": "第６４回　そして８月１５日を迎える",
-      "url": "https://diamond-rm.net/life-career/535842/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-08",
-      "tags": []
-    },
-    {
-      "id": "diamond-eb65cca5",
-      "title": "実は食物繊維豊富で低カロリー！ポップコーンの市場拡大なるか？",
-      "url": "https://diamond-rm.net/promotion/pr/541307/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-04-08",
-      "tags": []
     },
     {
       "id": "diamond-a11339fc",
@@ -371,15 +430,13 @@
     },
     {
       "id": "ssnp-7d46311e",
-      "title": "『ヒトツブカンロ』期間限定ストア、羽田空港に再登場/ 人気の「グミッツェル」や限定商品も【カンロ】\n\t\t\t\t\t\t\t\t\t\t\t\tカンロは4月8日、『ヒトツブカンロ』のポップアップストアを、羽田空港第1ターミナルのセレクトショップ「羽田スタースイーツ」内にオープンした。 7月7日までの期間限定ストアで、看板商品「グミッツェル」や「mofuwa(モフ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "『ヒトツブカンロ』期間限定ストア、羽田空港に再登場/ 人気の「グミッツェル」や限定商品も【カンロ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/672621/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
       "date": "2026-04-08",
-      "tags": [
-        "オープン"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-9870c0a6",
@@ -594,20 +651,6 @@
       ]
     },
     {
-      "id": "diamond-aa7043de",
-      "title": "ブランド力絶大!? イトーヨーカ堂、フードコート「ポッポ」の名を冠した冷凍食品を投入",
-      "url": "https://diamond-rm.net/sales-promotion/newitem/541801/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-07",
-      "tags": [
-        "イトーヨーカ堂",
-        "冷凍食品",
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-194940f0",
       "title": "【動画】4月1週目の注目フラッシュニュースまとめ、PPIH新業態、ヤオコー・ロピア新店など",
       "url": "https://diamond-rm.net/management/businessplan/541776/",
@@ -632,40 +675,6 @@
       "date": "2026-04-07",
       "tags": [
         "決算"
-      ]
-    },
-    {
-      "id": "diamond-d2152cd7",
-      "title": "第６３回　なんとかして生き延びよう、でも戦いからは逃げまい",
-      "url": "https://diamond-rm.net/life-career/535841/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-07",
-      "tags": []
-    },
-    {
-      "id": "diamond-b9f09a0e",
-      "title": "閉塞感を打ち破る！東海漬物大羽社長が展望する、漬物業界の明るい未来",
-      "url": "https://diamond-rm.net/management/topinterview/541041/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-07",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-dda140cc",
-      "title": "新社長・川名麻耶氏が世界の宝「スパイバー」を再建するための唯一の方法",
-      "url": "https://diamond-rm.net/management/businessplan/541642/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-07",
-      "tags": [
-        "社長"
       ]
     },
     {
@@ -696,6 +705,20 @@
       ]
     },
     {
+      "id": "diamond-aa7043de",
+      "title": "ブランド力絶大!? イトーヨーカ堂、フードコート「ポッポ」の名を冠した冷凍食品を投入",
+      "url": "https://diamond-rm.net/sales-promotion/newitem/541801/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-07",
+      "tags": [
+        "イトーヨーカ堂",
+        "冷凍食品",
+        "食品"
+      ]
+    },
+    {
       "id": "diamond-aab5ac4d",
       "title": "スンドゥブカテゴリー、節約・ヘルシー志向が後押し　スンドゥブの素市場は堅調続く",
       "url": "https://diamond-rm.net/sales-promotion/item-trend/541262/",
@@ -704,19 +727,6 @@
       "category": "sales-promotion",
       "date": "2026-04-07",
       "tags": []
-    },
-    {
-      "id": "diamond-8f518abe",
-      "title": "1.3兆円規模にまで拡大した冷凍食品市場　「同質化」を抜け出す次なる一手は？",
-      "url": "https://diamond-rm.net/sales-promotion/541321/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-07",
-      "tags": [
-        "冷凍食品",
-        "食品"
-      ]
     },
     {
       "id": "ssnp-bc85e8dc",
@@ -839,6 +849,53 @@
       "date": "2026-04-07",
       "tags": [
         "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-d2152cd7",
+      "title": "第６３回　なんとかして生き延びよう、でも戦いからは逃げまい",
+      "url": "https://diamond-rm.net/life-career/535841/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-07",
+      "tags": []
+    },
+    {
+      "id": "diamond-b9f09a0e",
+      "title": "閉塞感を打ち破る！東海漬物大羽社長が展望する、漬物業界の明るい未来",
+      "url": "https://diamond-rm.net/management/topinterview/541041/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-07",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-dda140cc",
+      "title": "新社長・川名麻耶氏が世界の宝「スパイバー」を再建するための唯一の方法",
+      "url": "https://diamond-rm.net/management/businessplan/541642/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-07",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-8f518abe",
+      "title": "1.3兆円規模にまで拡大した冷凍食品市場　「同質化」を抜け出す次なる一手は？",
+      "url": "https://diamond-rm.net/sales-promotion/541321/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-07",
+      "tags": [
+        "冷凍食品",
+        "食品"
       ]
     },
     {
@@ -1694,19 +1751,6 @@
       "tags": []
     },
     {
-      "id": "diamond-7a09e51e",
-      "title": "「旬」を強く打ち出す売場づくりに注力 小平市初出店の「オーケー小平小川東店」を解説",
-      "url": "https://diamond-rm.net/store/newstorereport/540992/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-04",
-      "tags": [
-        "オーケー",
-        "出店"
-      ]
-    },
-    {
       "id": "ssnp-f2227352",
       "title": "【ファミマ】韓国グルメ9品を発売!定番キンパは豚肉とツナマヨの2種、ビビンバ･参鶏湯･スンドゥブスープも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/671903/",
@@ -1725,6 +1769,19 @@
       "category": "foodservice",
       "date": "2026-04-04",
       "tags": []
+    },
+    {
+      "id": "diamond-7a09e51e",
+      "title": "「旬」を強く打ち出す売場づくりに注力 小平市初出店の「オーケー小平小川東店」を解説",
+      "url": "https://diamond-rm.net/store/newstorereport/540992/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-04",
+      "tags": [
+        "オーケー",
+        "出店"
+      ]
     },
     {
       "id": "diamond-ee5475e2",
@@ -3503,69 +3560,6 @@
       "tags": [
         "スーパー"
       ]
-    },
-    {
-      "id": "ryutsuu-7dcc2aee",
-      "title": "イトーヨーカドー／イラン情勢踏まえ包材の削減を検討、買いだめは「短期間で終息」",
-      "url": "https://www.ryutsuu.biz/strategy/s033143.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-03-31",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-sample3",
-      "title": "ファミリーマート、無人決済店舗を拡大",
-      "url": "https://www.ryutsuu.biz/it/sample3.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-03-31",
-      "tags": [
-        "コンビニ",
-        "ファミリーマート",
-        "DX",
-        "無人決済"
-      ]
-    },
-    {
-      "id": "diamond-f4d137e3",
-      "title": "【新店レポート】ヤオコー新浦安店　新規MD全面導入で「南エリア」の新旗艦店に",
-      "url": "https://diamond-rm.net/store/540665/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-03-30",
-      "tags": [
-        "ヤオコー",
-        "新店"
-      ]
-    },
-    {
-      "id": "diamond-67ef5977",
-      "title": "食品スーパーなど51チェーン・2400店舗超で導入　小売の現場課題を改善するスコープのDX",
-      "url": "https://diamond-rm.net/promotion/pr/537383/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-03-30",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "DX",
-        "食品"
-      ]
-    },
-    {
-      "id": "ssnp-886539a4",
-      "title": "【しゃぶしゃぶ温野菜】「鍋+2時間飲み放題」2,178円の“鍋飲みセット”が登場　平日限定で気軽に楽しむ新スタイル\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/671181/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-03-30",
-      "tags": []
     }
   ]
 }
