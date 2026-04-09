@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T12:20:38.259Z",
+  "lastUpdated": "2026-04-09T18:21:48.525Z",
   "items": [
     {
       "id": "ryutsuu-7043bcc8",
@@ -276,6 +276,21 @@
       ]
     },
     {
+      "id": "diamond-a12b5ad7",
+      "title": "ファミリーマート2025年度決算発表　話題のキャンペーンや新商品がけん引し増収増益",
+      "url": "https://diamond-rm.net/management/businessplan/542113/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-09",
+      "tags": [
+        "ファミリーマート",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
       "id": "diamond-fb6e2bb6",
       "title": "イオン九州が福岡・新宮町にマックスバリュを新規出店へ【今週の大店立地法速報】",
       "url": "https://diamond-rm.net/store/542036/",
@@ -335,6 +350,16 @@
       ]
     },
     {
+      "id": "diamond-57108d9f",
+      "title": "第６５回　特訓校の校長に託された願い",
+      "url": "https://diamond-rm.net/life-career/535843/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-09",
+      "tags": []
+    },
+    {
       "id": "diamond-49cd58f0",
       "title": "生鮮だけじゃない！バローでついカゴに入れたくなる、コスパ最強のオリジナル商品5選",
       "url": "https://diamond-rm.net/sales-promotion/541289/",
@@ -345,16 +370,6 @@
       "tags": [
         "生鮮"
       ]
-    },
-    {
-      "id": "diamond-57108d9f",
-      "title": "第６５回　特訓校の校長に託された願い",
-      "url": "https://diamond-rm.net/life-career/535843/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-09",
-      "tags": []
     },
     {
       "id": "ssnp-f759a6bc",
@@ -778,28 +793,6 @@
       ]
     },
     {
-      "id": "diamond-59f30dd1",
-      "title": "【流通相関図2026】M&A・再編・提携が一目でわかる！国内流通業界勢力マップ最新版",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541526/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-08",
-      "tags": [
-        "M&A"
-      ]
-    },
-    {
-      "id": "diamond-0dab6cd7",
-      "title": "【流通相関図2026】まだまだ続く流通再編劇　勢力図はどう変わるか？",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541520/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-08",
-      "tags": []
-    },
-    {
       "id": "diamond-b3b0da62",
       "title": "「安さ」だけじゃない！オーケーの冷凍食品が値上げしても売れ続ける理由",
       "url": "https://diamond-rm.net/sales-promotion/541098/",
@@ -826,6 +819,28 @@
         "冷凍食品",
         "食品"
       ]
+    },
+    {
+      "id": "diamond-59f30dd1",
+      "title": "【流通相関図2026】M&A・再編・提携が一目でわかる！国内流通業界勢力マップ最新版",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541526/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-08",
+      "tags": [
+        "M&A"
+      ]
+    },
+    {
+      "id": "diamond-0dab6cd7",
+      "title": "【流通相関図2026】まだまだ続く流通再編劇　勢力図はどう変わるか？",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541520/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-08",
+      "tags": []
     },
     {
       "id": "ssnp-763b10ba",
@@ -3590,16 +3605,6 @@
       "id": "ssnp-40640809",
       "title": "ゼッテリア『贅沢MELONフェア』開催、メロンパフェのようなスイーツシェーキやメロンソース&ホイップクリームにチュロをディップするスイーツも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/671579/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-95840554",
-      "title": "料理の価格そのままで量が2倍になる「倍盛チャレンジ」開催　居酒屋チェーンが新生活応援企画\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/671569/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
