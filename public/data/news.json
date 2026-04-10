@@ -1,6 +1,75 @@
 {
-  "lastUpdated": "2026-04-09T18:21:48.525Z",
+  "lastUpdated": "2026-04-10T00:22:50.201Z",
   "items": [
+    {
+      "id": "diamond-4db9c082",
+      "title": "【食品スーパー相関図2026】イオン、トライアル、ヤオコー……再編・M&A頻発で混沌！",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541551/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-10",
+      "tags": [
+        "食品スーパー",
+        "トライアル",
+        "ヤオコー",
+        "スーパー",
+        "イオン",
+        "M&A",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-f99b7299",
+      "title": "開業日は約700人が行列！年商40億をめざす近畿ライフの大型店「緑地公園店」の全貌",
+      "url": "https://diamond-rm.net/store/newstorereport/541728/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-10",
+      "tags": [
+        "ライフ",
+        "開業"
+      ]
+    },
+    {
+      "id": "diamond-13a06602",
+      "title": "好調継続のしまむらと全米最高利益率のバックル、両社に見られる共通点",
+      "url": "https://diamond-rm.net/market/accounting/541649/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-04-10",
+      "tags": [
+        "しまむら"
+      ]
+    },
+    {
+      "id": "diamond-32e3ac91",
+      "title": "【ドラッグストア業界相関図2026】ツルハHDとウエルシアHD統合で2兆円グループ誕生！",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541841/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-10",
+      "tags": [
+        "ドラッグストア",
+        "ウエルシア",
+        "ドラッグ",
+        "ツルハ",
+        "統合"
+      ]
+    },
+    {
+      "id": "diamond-e473cd42",
+      "title": "コープデリの冷凍ミールキットの売上が、具材を減らしても落ちなかった理由",
+      "url": "https://diamond-rm.net/sales-promotion/541178/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-10",
+      "tags": []
+    },
     {
       "id": "ryutsuu-7043bcc8",
       "title": "ツルハHD／中計発表、29年2月期売上高2.7兆円・営業利益1350億円目指す",
@@ -304,6 +373,40 @@
       ]
     },
     {
+      "id": "diamond-57108d9f",
+      "title": "第６５回　特訓校の校長に託された願い",
+      "url": "https://diamond-rm.net/life-career/535843/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-09",
+      "tags": []
+    },
+    {
+      "id": "diamond-49cd58f0",
+      "title": "生鮮だけじゃない！バローでついカゴに入れたくなる、コスパ最強のオリジナル商品5選",
+      "url": "https://diamond-rm.net/sales-promotion/541289/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-09",
+      "tags": [
+        "生鮮"
+      ]
+    },
+    {
+      "id": "diamond-8842a7e6",
+      "title": "ワークマン土屋専務が語る「ローリスク経営」からの脱却と攻めの成長戦略とは",
+      "url": "https://diamond-rm.net/management/topinterview/541614/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-09",
+      "tags": [
+        "ワークマン"
+      ]
+    },
+    {
       "id": "diamond-3eca5821",
       "title": "新生ダイエーを率いる西峠社長が語る、近畿圏の「中核SM企業」としての矜持",
       "url": "https://diamond-rm.net/management/topinterview/541540/",
@@ -326,18 +429,6 @@
       "tags": []
     },
     {
-      "id": "diamond-8842a7e6",
-      "title": "ワークマン土屋専務が語る「ローリスク経営」からの脱却と攻めの成長戦略とは",
-      "url": "https://diamond-rm.net/management/topinterview/541614/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-09",
-      "tags": [
-        "ワークマン"
-      ]
-    },
-    {
       "id": "diamond-0472ceca",
       "title": "ダイエーが「KOHYOロサヴィア茨木店」をオープン　時短・即食ニーズに徹底対応",
       "url": "https://diamond-rm.net/store/newstorereport/541985/",
@@ -347,28 +438,6 @@
       "date": "2026-04-09",
       "tags": [
         "オープン"
-      ]
-    },
-    {
-      "id": "diamond-57108d9f",
-      "title": "第６５回　特訓校の校長に託された願い",
-      "url": "https://diamond-rm.net/life-career/535843/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-09",
-      "tags": []
-    },
-    {
-      "id": "diamond-49cd58f0",
-      "title": "生鮮だけじゃない！バローでついカゴに入れたくなる、コスパ最強のオリジナル商品5選",
-      "url": "https://diamond-rm.net/sales-promotion/541289/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-09",
-      "tags": [
-        "生鮮"
       ]
     },
     {
@@ -761,26 +830,6 @@
       ]
     },
     {
-      "id": "diamond-44ea81b9",
-      "title": "第６４回　そして８月１５日を迎える",
-      "url": "https://diamond-rm.net/life-career/535842/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-08",
-      "tags": []
-    },
-    {
-      "id": "diamond-eb65cca5",
-      "title": "実は食物繊維豊富で低カロリー！ポップコーンの市場拡大なるか？",
-      "url": "https://diamond-rm.net/promotion/pr/541307/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-04-08",
-      "tags": []
-    },
-    {
       "id": "diamond-0192e7fb",
       "title": "流通業界初の「ISAC」誕生　アサヒ、トライアル、NTTなどがサイバーリスク対応強化へ",
       "url": "https://diamond-rm.net/technology/541783/",
@@ -839,6 +888,16 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "retaildata",
+      "date": "2026-04-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-eb65cca5",
+      "title": "実は食物繊維豊富で低カロリー！ポップコーンの市場拡大なるか？",
+      "url": "https://diamond-rm.net/promotion/pr/541307/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "promotion",
       "date": "2026-04-08",
       "tags": []
     },
@@ -1048,6 +1107,16 @@
       "tags": [
         "食品"
       ]
+    },
+    {
+      "id": "diamond-44ea81b9",
+      "title": "第６４回　そして８月１５日を迎える",
+      "url": "https://diamond-rm.net/life-career/535842/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-08",
+      "tags": []
     },
     {
       "id": "ryutsuu-f3897d74",
@@ -1334,16 +1403,6 @@
       ]
     },
     {
-      "id": "diamond-aab5ac4d",
-      "title": "スンドゥブカテゴリー、節約・ヘルシー志向が後押し　スンドゥブの素市場は堅調続く",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/541262/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-07",
-      "tags": []
-    },
-    {
       "id": "ssnp-bc85e8dc",
       "title": "“200組以上が並ぶ”ステーキ食べ放題イベントを4月8日限定で開催!【ステーキのあさくま尾張旭店 オープン記念】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/672435/",
@@ -1465,6 +1524,16 @@
       "tags": [
         "スーパー"
       ]
+    },
+    {
+      "id": "diamond-aab5ac4d",
+      "title": "スンドゥブカテゴリー、節約・ヘルシー志向が後押し　スンドゥブの素市場は堅調続く",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/541262/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-07",
+      "tags": []
     },
     {
       "id": "ryutsuu-8c27d9d4",
@@ -1859,18 +1928,6 @@
       ]
     },
     {
-      "id": "diamond-381b3b40",
-      "title": "京都市内の都市型小型店「イオンスタイル山ノ内小町」の売場を解剖",
-      "url": "https://diamond-rm.net/store/newstorereport/541201/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-06",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
       "id": "diamond-ae0f72f4",
       "title": "平和堂が25年度通期決算を発表　富山に食品スーパー「アルプラ・フーズマーケット」出店へ",
       "url": "https://diamond-rm.net/market/accounting/541509/",
@@ -1895,18 +1952,6 @@
       "category": "テクノロジー",
       "date": "2026-04-06",
       "tags": []
-    },
-    {
-      "id": "diamond-7fa25439",
-      "title": "今年の消費者は「納得感」を買う！外食データから紐解く、売場を変えるネーミングの法則",
-      "url": "https://diamond-rm.net/sales-promotion/539822/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-06",
-      "tags": [
-        "外食"
-      ]
     },
     {
       "id": "ssnp-64752b85",
@@ -2068,6 +2113,30 @@
       "category": "foodservice",
       "date": "2026-04-06",
       "tags": []
+    },
+    {
+      "id": "diamond-381b3b40",
+      "title": "京都市内の都市型小型店「イオンスタイル山ノ内小町」の売場を解剖",
+      "url": "https://diamond-rm.net/store/newstorereport/541201/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-06",
+      "tags": [
+        "イオン"
+      ]
+    },
+    {
+      "id": "diamond-7fa25439",
+      "title": "今年の消費者は「納得感」を買う！外食データから紐解く、売場を変えるネーミングの法則",
+      "url": "https://diamond-rm.net/sales-promotion/539822/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-06",
+      "tags": [
+        "外食"
+      ]
     },
     {
       "id": "ryutsuu-a753c0a4",
@@ -3560,56 +3629,6 @@
       "tags": [
         "食品"
       ]
-    },
-    {
-      "id": "ssnp-c8159e72",
-      "title": "【サンマルクカフェ】国産若鶏のからあげ×自家製パニーニ生地のホットサンドが新登場【春夏限定】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/671631/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-71649307",
-      "title": "【ライス・スープおかわり無料】特製「甘旨ダレ」使用のランチ3種が登場（安楽亭）\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/671622/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-5af8438b",
-      "title": "【ピザーラ創業祭】最大400円引き、「ロングセラー商品 お試しキャンペーン」開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/671606/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-cdec3b79",
-      "title": "手羽先1本18円　酔っ手羽が4日間限定「創業祭」開催、39円の前夜祭も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/671592/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-40640809",
-      "title": "ゼッテリア『贅沢MELONフェア』開催、メロンパフェのようなスイーツシェーキやメロンソース&ホイップクリームにチュロをディップするスイーツも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/671579/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-01",
-      "tags": []
     }
   ]
 }
