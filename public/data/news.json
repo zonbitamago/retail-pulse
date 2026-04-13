@@ -1,6 +1,79 @@
 {
-  "lastUpdated": "2026-04-12T18:12:54.960Z",
+  "lastUpdated": "2026-04-13T00:25:09.586Z",
   "items": [
+    {
+      "id": "diamond-45604e6a",
+      "title": "構造改革進むセブン＆アイ、「コンビニ専業」となるも国内事業は増収減益",
+      "url": "https://diamond-rm.net/market/542301/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-04-13",
+      "tags": [
+        "セブン＆アイ",
+        "コンビニ",
+        "増収",
+        "減益"
+      ]
+    },
+    {
+      "id": "diamond-c9f12091",
+      "title": "【ホームセンター業界相関図2026】カインズ、DCM、コーナン　熱を帯びる首位争いの行方",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542022/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-13",
+      "tags": [
+        "ホームセンター",
+        "カインズ",
+        "コーナン",
+        "DCM"
+      ]
+    },
+    {
+      "id": "diamond-dc4f4aa3",
+      "title": "イオン過去最高益でも消費環境に危機感露わ　吉田社長が進める“攻めの改革”とは",
+      "url": "https://diamond-rm.net/market/accounting/542152/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-04-13",
+      "tags": [
+        "イオン",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-d7079f7a",
+      "title": "ヤオコー・ライフ・イオン・イトーヨーカ堂…大手4社PB「ワンプレート冷食」の実力！",
+      "url": "https://diamond-rm.net/sales-promotion/540890/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-13",
+      "tags": [
+        "イトーヨーカ堂",
+        "ヤオコー",
+        "イオン",
+        "ライフ",
+        "冷食",
+        "PB"
+      ]
+    },
+    {
+      "id": "diamond-3a2bb1b0",
+      "title": "【家電量販店業界相関図2026】ヤマダHD筆頭に”周辺事業強化”に向けたM&Aが加速",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542026/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-13",
+      "tags": [
+        "家電量販店",
+        "M&A"
+      ]
+    },
     {
       "id": "diamond-8cb4a802",
       "title": "週刊スーパーマーケットニュース　バロー、10年ぶりに福井県に新店をオープン",
@@ -393,21 +466,25 @@
       ]
     },
     {
-      "id": "diamond-4db9c082",
-      "title": "【食品スーパー相関図2026】イオン、トライアル、ヤオコー……再編・M&A頻発で混沌！",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541551/",
+      "id": "diamond-f9056e0a",
+      "title": "第６６回　戦争からの解放",
+      "url": "https://diamond-rm.net/life-career/535844/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "retaildata",
+      "category": "life-career",
+      "date": "2026-04-10",
+      "tags": []
+    },
+    {
+      "id": "diamond-13a06602",
+      "title": "好調継続のしまむらと全米最高利益率のバックル、両社に見られる共通点",
+      "url": "https://diamond-rm.net/market/accounting/541649/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
       "date": "2026-04-10",
       "tags": [
-        "食品スーパー",
-        "トライアル",
-        "ヤオコー",
-        "スーパー",
-        "イオン",
-        "M&A",
-        "食品"
+        "しまむら"
       ]
     },
     {
@@ -424,16 +501,14 @@
       ]
     },
     {
-      "id": "diamond-13a06602",
-      "title": "好調継続のしまむらと全米最高利益率のバックル、両社に見られる共通点",
-      "url": "https://diamond-rm.net/market/accounting/541649/",
+      "id": "diamond-e473cd42",
+      "title": "コープデリの冷凍ミールキットの売上が、具材を減らしても落ちなかった理由",
+      "url": "https://diamond-rm.net/sales-promotion/541178/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "市場動向",
+      "category": "sales-promotion",
       "date": "2026-04-10",
-      "tags": [
-        "しまむら"
-      ]
+      "tags": []
     },
     {
       "id": "diamond-32e3ac91",
@@ -452,24 +527,22 @@
       ]
     },
     {
-      "id": "diamond-f9056e0a",
-      "title": "第６６回　戦争からの解放",
-      "url": "https://diamond-rm.net/life-career/535844/",
+      "id": "diamond-4db9c082",
+      "title": "【食品スーパー相関図2026】イオン、トライアル、ヤオコー……再編・M&A頻発で混沌！",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541551/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "life-career",
+      "category": "retaildata",
       "date": "2026-04-10",
-      "tags": []
-    },
-    {
-      "id": "diamond-e473cd42",
-      "title": "コープデリの冷凍ミールキットの売上が、具材を減らしても落ちなかった理由",
-      "url": "https://diamond-rm.net/sales-promotion/541178/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-10",
-      "tags": []
+      "tags": [
+        "食品スーパー",
+        "トライアル",
+        "ヤオコー",
+        "スーパー",
+        "イオン",
+        "M&A",
+        "食品"
+      ]
     },
     {
       "id": "ssnp-5b3ea854",
@@ -805,28 +878,6 @@
       ]
     },
     {
-      "id": "diamond-3eca5821",
-      "title": "新生ダイエーを率いる西峠社長が語る、近畿圏の「中核SM企業」としての矜持",
-      "url": "https://diamond-rm.net/management/topinterview/541540/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-09",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-70dfb9bb",
-      "title": "「継続は力なり」は不変　アークス横山会長・CEOが展望する激変時代の行く先",
-      "url": "https://diamond-rm.net/management/topinterview/541533/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-09",
-      "tags": []
-    },
-    {
       "id": "ssnp-f759a6bc",
       "title": "【東海エリア初】「ウルフギャング・ステーキハウス」が名古屋上陸　900℃で焼き上げる最上級の熟成肉を堪能\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/672960/",
@@ -1109,6 +1160,28 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-04-09",
+      "tags": []
+    },
+    {
+      "id": "diamond-3eca5821",
+      "title": "新生ダイエーを率いる西峠社長が語る、近畿圏の「中核SM企業」としての矜持",
+      "url": "https://diamond-rm.net/management/topinterview/541540/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-09",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-70dfb9bb",
+      "title": "「継続は力なり」は不変　アークス横山会長・CEOが展望する激変時代の行く先",
+      "url": "https://diamond-rm.net/management/topinterview/541533/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-04-09",
       "tags": []
     },
@@ -1430,19 +1503,6 @@
       ]
     },
     {
-      "id": "diamond-a11339fc",
-      "title": "冷凍食品専門家が全力で解説！最新トレンドと今後の進化の行方とは",
-      "url": "https://diamond-rm.net/sales-promotion/541269/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-08",
-      "tags": [
-        "冷凍食品",
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-eb65cca5",
       "title": "実は食物繊維豊富で低カロリー！ポップコーンの市場拡大なるか？",
       "url": "https://diamond-rm.net/promotion/pr/541307/",
@@ -1656,6 +1716,19 @@
       "category": "調味料",
       "date": "2026-04-08",
       "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-a11339fc",
+      "title": "冷凍食品専門家が全力で解説！最新トレンドと今後の進化の行方とは",
+      "url": "https://diamond-rm.net/sales-promotion/541269/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-08",
+      "tags": [
+        "冷凍食品",
         "食品"
       ]
     },
@@ -2577,22 +2650,6 @@
       ]
     },
     {
-      "id": "diamond-ae0f72f4",
-      "title": "平和堂が25年度通期決算を発表　富山に食品スーパー「アルプラ・フーズマーケット」出店へ",
-      "url": "https://diamond-rm.net/market/accounting/541509/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-04-06",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品",
-        "出店",
-        "決算"
-      ]
-    },
-    {
       "id": "diamond-a89d222d",
       "title": "世界で一気に注目度アップ!「エージェンティックコマース」と「UCP」とは",
       "url": "https://diamond-rm.net/technology/digitalmarketing/541080/",
@@ -2762,6 +2819,22 @@
       "category": "foodservice",
       "date": "2026-04-06",
       "tags": []
+    },
+    {
+      "id": "diamond-ae0f72f4",
+      "title": "平和堂が25年度通期決算を発表　富山に食品スーパー「アルプラ・フーズマーケット」出店へ",
+      "url": "https://diamond-rm.net/market/accounting/541509/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-04-06",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品",
+        "出店",
+        "決算"
+      ]
     },
     {
       "id": "diamond-381b3b40",
@@ -3603,66 +3676,6 @@
       "tags": [
         "オープン"
       ]
-    },
-    {
-      "id": "ryutsuu-75538717",
-      "title": "JR東日本／総武線「浅草橋駅」柳橋高架下に雑貨・ジュエリーなど6店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s040371.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-03",
-      "tags": [
-        "オープン",
-        "雑貨"
-      ]
-    },
-    {
-      "id": "ryutsuu-aafc7c44",
-      "title": "クリスプサラダワークス／東京都港区に「ミタマチテラス店」4／16オープン",
-      "url": "https://www.ryutsuu.biz/store/s040377.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-03",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-0633c60e",
-      "title": "中部フーズ／あべのキューズモールに「にぎりたて」4／11オープン",
-      "url": "https://www.ryutsuu.biz/store/s040316.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-03",
-      "tags": [
-        "オープン",
-        "モール"
-      ]
-    },
-    {
-      "id": "ryutsuu-6e5a0978",
-      "title": "ゴンチャ／福岡県北九州市に「アミュプラザ小倉店」4／10オープン",
-      "url": "https://www.ryutsuu.biz/store/s040374.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-03",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "diamond-10b8cc20",
-      "title": "第６１回　渥美流軍隊適応術",
-      "url": "https://diamond-rm.net/life-career/535839/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-03",
-      "tags": []
     }
   ]
 }
