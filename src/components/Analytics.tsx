@@ -86,10 +86,8 @@ function DailyChart({ items }: { items: NewsItem[] }) {
 
 export function Analytics({ items }: AnalyticsProps) {
   const sourceCounts = useMemo(() => countBy(items, (i) => i.sourceName), [items]);
-  const categoryCounts = useMemo(
-    () => countBy(items, (i) => i.category).slice(0, 8),
-    [items]
-  );
+  const categoryCounts = useMemo(() => countBy(items, (i) => i.category), [items]);
+  const topCategoryCounts = useMemo(() => categoryCounts.slice(0, 8), [categoryCounts]);
   const tagCounts = useMemo(() => {
     const all = items.flatMap((i) => i.tags);
     const map = new Map<string, number>();
@@ -113,7 +111,7 @@ export function Analytics({ items }: AnalyticsProps) {
 
       <div className="analytics-card">
         <h3 className="analytics-title">カテゴリ TOP 8</h3>
-        <BarChart data={categoryCounts} color="#34a853" />
+        <BarChart data={topCategoryCounts} color="#34a853" />
       </div>
 
       {tagCounts.length > 0 && (
