@@ -1,6 +1,81 @@
 {
-  "lastUpdated": "2026-04-13T18:25:53.695Z",
+  "lastUpdated": "2026-04-14T00:27:31.292Z",
   "items": [
+    {
+      "id": "diamond-11519d56",
+      "title": "「マルエツプチ西横浜駅前店」が開業　都心部への出店拡大ねらう100坪型のモデル店舗",
+      "url": "https://diamond-rm.net/store/542443/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-14",
+      "tags": [
+        "マルエツ",
+        "出店",
+        "開業"
+      ]
+    },
+    {
+      "id": "diamond-b12700b2",
+      "title": "【ネットスーパー相関図2026】市場拡大の陰で淘汰も……イオンネクスト、ライフはどう動くか",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542279/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-14",
+      "tags": [
+        "ネットスーパー",
+        "スーパー",
+        "イオン",
+        "ライフ"
+      ]
+    },
+    {
+      "id": "diamond-c00121a3",
+      "title": "就職・転職市場のコンサル人気は、「日本人総務責任者化」と「投資の高値掴み」の予兆",
+      "url": "https://diamond-rm.net/management/542474/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-14",
+      "tags": []
+    },
+    {
+      "id": "diamond-8fe01e9a",
+      "title": "「フリクション依存」からの脱却！ パイロットの蛍光ペンが発売2年で1000万本売れた理由",
+      "url": "https://diamond-rm.net/sales-promotion/538959/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-14",
+      "tags": []
+    },
+    {
+      "id": "diamond-c0dd5fe5",
+      "title": "ツルハ・ウエルシア、トライアル、ヨーク…小売業界「大型再編」後、有力アナリストが見通す展望",
+      "url": "https://diamond-rm.net/management/businessplan/542159/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-14",
+      "tags": [
+        "ウエルシア",
+        "トライアル",
+        "ツルハ"
+      ]
+    },
+    {
+      "id": "diamond-1372394a",
+      "title": "【商社・食品卸業界相関図2026】三菱商事、伊藤忠、国分は何を狙っているのか",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542168/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-14",
+      "tags": [
+        "食品"
+      ]
+    },
     {
       "id": "ryutsuu-0b518e42",
       "title": "アミュプラザくまもと／25年度売上高317億円、売上・客数が過去最高に",
@@ -275,32 +350,28 @@
       ]
     },
     {
-      "id": "diamond-c9f12091",
-      "title": "【ホームセンター業界相関図2026】カインズ、DCM、コーナン　熱を帯びる首位争いの行方",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542022/",
+      "id": "diamond-91532a4b",
+      "title": "週刊コンビニエンスストアニュース ポプラが初の総菜専門店「ポプラ福屋広島駅前店」をオープン",
+      "url": "https://diamond-rm.net/management/542408/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "retaildata",
+      "category": "経営戦略",
       "date": "2026-04-13",
       "tags": [
-        "ホームセンター",
-        "カインズ",
-        "コーナン",
-        "DCM"
+        "コンビニ",
+        "オープン",
+        "専門店"
       ]
     },
     {
-      "id": "diamond-3a2bb1b0",
-      "title": "【家電量販店業界相関図2026】ヤマダHD筆頭に”周辺事業強化”に向けたM&Aが加速",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542026/",
+      "id": "diamond-2318cd0a",
+      "title": "第６７回　憧れの一高という場所",
+      "url": "https://diamond-rm.net/life-career/535845/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "retaildata",
+      "category": "life-career",
       "date": "2026-04-13",
-      "tags": [
-        "家電量販店",
-        "M&A"
-      ]
+      "tags": []
     },
     {
       "id": "diamond-66b548a2",
@@ -329,30 +400,6 @@
       "tags": [
         "赤字"
       ]
-    },
-    {
-      "id": "diamond-91532a4b",
-      "title": "週刊コンビニエンスストアニュース ポプラが初の総菜専門店「ポプラ福屋広島駅前店」をオープン",
-      "url": "https://diamond-rm.net/management/542408/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-13",
-      "tags": [
-        "コンビニ",
-        "オープン",
-        "専門店"
-      ]
-    },
-    {
-      "id": "diamond-2318cd0a",
-      "title": "第６７回　憧れの一高という場所",
-      "url": "https://diamond-rm.net/life-career/535845/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-13",
-      "tags": []
     },
     {
       "id": "diamond-45604e6a",
@@ -397,6 +444,34 @@
         "ライフ",
         "冷食",
         "PB"
+      ]
+    },
+    {
+      "id": "diamond-3a2bb1b0",
+      "title": "【家電量販店業界相関図2026】ヤマダHD筆頭に”周辺事業強化”に向けたM&Aが加速",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542026/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-13",
+      "tags": [
+        "家電量販店",
+        "M&A"
+      ]
+    },
+    {
+      "id": "diamond-c9f12091",
+      "title": "【ホームセンター業界相関図2026】カインズ、DCM、コーナン　熱を帯びる首位争いの行方",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542022/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-13",
+      "tags": [
+        "ホームセンター",
+        "カインズ",
+        "コーナン",
+        "DCM"
       ]
     },
     {
@@ -559,20 +634,6 @@
       "tags": []
     },
     {
-      "id": "diamond-8cb4a802",
-      "title": "週刊スーパーマーケットニュース　バロー、10年ぶりに福井県に新店をオープン",
-      "url": "https://diamond-rm.net/management/businessplan/542302/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-12",
-      "tags": [
-        "スーパー",
-        "オープン",
-        "新店"
-      ]
-    },
-    {
       "id": "diamond-daf317c7",
       "title": "【特別レポート】小売業CXトレンド2026―大丸松坂屋事例と最新調査で読む",
       "url": "https://diamond-rm.net/promotion/pr/533906/",
@@ -595,16 +656,17 @@
       "tags": []
     },
     {
-      "id": "diamond-993ba382",
-      "title": "【百貨店業界相関図2026】そごう・西武、東急、三越伊勢丹はどう動くのか",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541737/",
+      "id": "diamond-8cb4a802",
+      "title": "週刊スーパーマーケットニュース　バロー、10年ぶりに福井県に新店をオープン",
+      "url": "https://diamond-rm.net/management/businessplan/542302/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-11",
+      "category": "経営戦略",
+      "date": "2026-04-12",
       "tags": [
-        "三越伊勢丹",
-        "百貨店"
+        "スーパー",
+        "オープン",
+        "新店"
       ]
     },
     {
@@ -622,16 +684,16 @@
       ]
     },
     {
-      "id": "diamond-c91b2783",
-      "title": "【コンビニ業界相関図2026】セブン＆アイが自社単独路線に再び立ち返った事情",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541725/",
+      "id": "diamond-993ba382",
+      "title": "【百貨店業界相関図2026】そごう・西武、東急、三越伊勢丹はどう動くのか",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541737/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "retaildata",
       "date": "2026-04-11",
       "tags": [
-        "セブン＆アイ",
-        "コンビニ"
+        "三越伊勢丹",
+        "百貨店"
       ]
     },
     {
@@ -654,6 +716,19 @@
       "date": "2026-04-11",
       "tags": [
         "外食"
+      ]
+    },
+    {
+      "id": "diamond-c91b2783",
+      "title": "【コンビニ業界相関図2026】セブン＆アイが自社単独路線に再び立ち返った事情",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541725/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-11",
+      "tags": [
+        "セブン＆アイ",
+        "コンビニ"
       ]
     },
     {
@@ -769,40 +844,6 @@
       "category": "sales-promotion",
       "date": "2026-04-10",
       "tags": []
-    },
-    {
-      "id": "diamond-32e3ac91",
-      "title": "【ドラッグストア業界相関図2026】ツルハHDとウエルシアHD統合で2兆円グループ誕生！",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541841/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-10",
-      "tags": [
-        "ドラッグストア",
-        "ウエルシア",
-        "ドラッグ",
-        "ツルハ",
-        "統合"
-      ]
-    },
-    {
-      "id": "diamond-4db9c082",
-      "title": "【食品スーパー相関図2026】イオン、トライアル、ヤオコー……再編・M&A頻発で混沌！",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541551/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-10",
-      "tags": [
-        "食品スーパー",
-        "トライアル",
-        "ヤオコー",
-        "スーパー",
-        "イオン",
-        "M&A",
-        "食品"
-      ]
     },
     {
       "id": "ssnp-5b3ea854",
@@ -964,6 +1005,40 @@
       "category": "大豆",
       "date": "2026-04-10",
       "tags": []
+    },
+    {
+      "id": "diamond-32e3ac91",
+      "title": "【ドラッグストア業界相関図2026】ツルハHDとウエルシアHD統合で2兆円グループ誕生！",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541841/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-10",
+      "tags": [
+        "ドラッグストア",
+        "ウエルシア",
+        "ドラッグ",
+        "ツルハ",
+        "統合"
+      ]
+    },
+    {
+      "id": "diamond-4db9c082",
+      "title": "【食品スーパー相関図2026】イオン、トライアル、ヤオコー……再編・M&A頻発で混沌！",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541551/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-10",
+      "tags": [
+        "食品スーパー",
+        "トライアル",
+        "ヤオコー",
+        "スーパー",
+        "イオン",
+        "M&A",
+        "食品"
+      ]
     },
     {
       "id": "ryutsuu-a1702a69",
@@ -1987,21 +2062,6 @@
       ]
     },
     {
-      "id": "diamond-b3b0da62",
-      "title": "「安さ」だけじゃない！オーケーの冷凍食品が値上げしても売れ続ける理由",
-      "url": "https://diamond-rm.net/sales-promotion/541098/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-08",
-      "tags": [
-        "オーケー",
-        "冷凍食品",
-        "値上げ",
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-eb65cca5",
       "title": "実は食物繊維豊富で低カロリー！ポップコーンの市場拡大なるか？",
       "url": "https://diamond-rm.net/promotion/pr/541307/",
@@ -2215,6 +2275,21 @@
       "category": "調味料",
       "date": "2026-04-08",
       "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-b3b0da62",
+      "title": "「安さ」だけじゃない！オーケーの冷凍食品が値上げしても売れ続ける理由",
+      "url": "https://diamond-rm.net/sales-promotion/541098/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-08",
+      "tags": [
+        "オーケー",
+        "冷凍食品",
+        "値上げ",
         "食品"
       ]
     },
@@ -3136,19 +3211,6 @@
       "tags": []
     },
     {
-      "id": "diamond-eaa9b5c4",
-      "title": "トライアル・スギ薬局の協業本格化　「TRIAL GO」にスギの棚割りを初導入",
-      "url": "https://diamond-rm.net/store/541446/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-06",
-      "tags": [
-        "トライアル",
-        "スギ薬局"
-      ]
-    },
-    {
       "id": "diamond-a89d222d",
       "title": "世界で一気に注目度アップ!「エージェンティックコマース」と「UCP」とは",
       "url": "https://diamond-rm.net/technology/digitalmarketing/541080/",
@@ -3276,6 +3338,19 @@
       "category": "調味料",
       "date": "2026-04-06",
       "tags": []
+    },
+    {
+      "id": "diamond-eaa9b5c4",
+      "title": "トライアル・スギ薬局の協業本格化　「TRIAL GO」にスギの棚割りを初導入",
+      "url": "https://diamond-rm.net/store/541446/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-06",
+      "tags": [
+        "トライアル",
+        "スギ薬局"
+      ]
     },
     {
       "id": "ssnp-6b5d336c",
@@ -3609,76 +3684,6 @@
         "オープン",
         "イオン"
       ]
-    },
-    {
-      "id": "ryutsuu-d3ea0bb5",
-      "title": "エディオン／3月の全店売上高5.5％増、エアコンが30.2％増に",
-      "url": "https://www.ryutsuu.biz/sales/s040642.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-06",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-60e9c286",
-      "title": "ケーズデンキ／3月のグループ売上高5.4％増、エアコンが42％増",
-      "url": "https://www.ryutsuu.biz/sales/s040645.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-06",
-      "tags": [
-        "ケーズデンキ",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-2676af22",
-      "title": "アークランズ／3月の既存店売上高は4.5％増、全店売上高13.2％増に",
-      "url": "https://www.ryutsuu.biz/sales/s040641.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-06",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-a5f75348",
-      "title": "DCM／京都市西京区の「洛西店」5／10閉店",
-      "url": "https://www.ryutsuu.biz/store/s040613.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-06",
-      "tags": [
-        "DCM",
-        "閉店"
-      ]
-    },
-    {
-      "id": "diamond-edb8cdd6",
-      "title": "第６２回　軍隊につらい思い出、あまりないなあ",
-      "url": "https://diamond-rm.net/life-career/535840/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-65f81742",
-      "title": "ココス『クッキー&クリームフェア』開催 / クッキーやマカロンを合わせたビッグパフェ、コーヒーゼリーを合わせたフラッペはテイクアウトも可能\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/671812/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-05",
-      "tags": []
     }
   ]
 }
