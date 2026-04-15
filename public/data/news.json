@@ -1,6 +1,55 @@
 {
-  "lastUpdated": "2026-04-14T18:25:09.028Z",
+  "lastUpdated": "2026-04-15T00:28:06.413Z",
   "items": [
+    {
+      "id": "diamond-9230681b",
+      "title": "【PB相関図2026】新ブランド開発、外部供給拡大……乱戦模様の「PB市場」",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542287/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-15",
+      "tags": [
+        "PB"
+      ]
+    },
+    {
+      "id": "diamond-8a42ef33",
+      "title": "初の「イオンタウン」への出店！「マルエツイオンタウン東浦和店」をレポート",
+      "url": "https://diamond-rm.net/store/541867/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-15",
+      "tags": [
+        "マルエツ",
+        "イオン",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-d1cf166c",
+      "title": "なぜアマゾンはAI「Alexa+」をプライム会員特典にしたのか？「生活OS」への野望と課題",
+      "url": "https://diamond-rm.net/overseas/american_economy/542415/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-04-15",
+      "tags": [
+        "アマゾン",
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-d1b402d8",
+      "title": "【DCS最新号】4月15日号は「流通相関図2026」",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542509/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-15",
+      "tags": []
+    },
     {
       "id": "ryutsuu-bdd0167d",
       "title": "三陽商会／三井物産顧問の平林義規社外取締役が社長に就任、大江伸治社長は会長に",
@@ -320,41 +369,6 @@
       ]
     },
     {
-      "id": "diamond-b12700b2",
-      "title": "【ネットスーパー相関図2026】市場拡大の陰で淘汰も……イオンネクスト、ライフはどう動くか",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542279/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-14",
-      "tags": [
-        "ネットスーパー",
-        "スーパー",
-        "イオン",
-        "ライフ"
-      ]
-    },
-    {
-      "id": "diamond-c00121a3",
-      "title": "就職・転職市場のコンサル人気は、「日本人総務責任者化」と「投資の高値掴み」の予兆",
-      "url": "https://diamond-rm.net/management/542474/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-14",
-      "tags": []
-    },
-    {
-      "id": "diamond-8fe01e9a",
-      "title": "「フリクション依存」からの脱却！ パイロットの蛍光ペンが発売2年で1000万本売れた理由",
-      "url": "https://diamond-rm.net/sales-promotion/538959/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-14",
-      "tags": []
-    },
-    {
       "id": "diamond-2d534c34",
       "title": "【動画】4月2週目の注目フラッシュニュースまとめ、Olympic子会社化、バロー新店など",
       "url": "https://diamond-rm.net/management/businessplan/542553/",
@@ -402,6 +416,41 @@
         "ライフ",
         "統合"
       ]
+    },
+    {
+      "id": "diamond-c00121a3",
+      "title": "就職・転職市場のコンサル人気は、「日本人総務責任者化」と「投資の高値掴み」の予兆",
+      "url": "https://diamond-rm.net/management/542474/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-14",
+      "tags": []
+    },
+    {
+      "id": "diamond-b12700b2",
+      "title": "【ネットスーパー相関図2026】市場拡大の陰で淘汰も……イオンネクスト、ライフはどう動くか",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542279/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-14",
+      "tags": [
+        "ネットスーパー",
+        "スーパー",
+        "イオン",
+        "ライフ"
+      ]
+    },
+    {
+      "id": "diamond-8fe01e9a",
+      "title": "「フリクション依存」からの脱却！ パイロットの蛍光ペンが発売2年で1000万本売れた理由",
+      "url": "https://diamond-rm.net/sales-promotion/538959/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-14",
+      "tags": []
     },
     {
       "id": "diamond-1372394a",
@@ -714,21 +763,6 @@
       ]
     },
     {
-      "id": "diamond-c9f12091",
-      "title": "【ホームセンター業界相関図2026】カインズ、DCM、コーナン　熱を帯びる首位争いの行方",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542022/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-13",
-      "tags": [
-        "ホームセンター",
-        "カインズ",
-        "コーナン",
-        "DCM"
-      ]
-    },
-    {
       "id": "ssnp-678d6fc4",
       "title": "キーコーヒー、“喫茶店の日”に特別セミナー「喫茶店を楽しもう!」を開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/673354/",
@@ -886,6 +920,21 @@
       "category": "foodservice",
       "date": "2026-04-13",
       "tags": []
+    },
+    {
+      "id": "diamond-c9f12091",
+      "title": "【ホームセンター業界相関図2026】カインズ、DCM、コーナン　熱を帯びる首位争いの行方",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542022/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-13",
+      "tags": [
+        "ホームセンター",
+        "カインズ",
+        "コーナン",
+        "DCM"
+      ]
     },
     {
       "id": "ryutsuu-2293b0d3",
@@ -1261,19 +1310,6 @@
       ]
     },
     {
-      "id": "diamond-993ba382",
-      "title": "【百貨店業界相関図2026】そごう・西武、東急、三越伊勢丹はどう動くのか",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541737/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-11",
-      "tags": [
-        "三越伊勢丹",
-        "百貨店"
-      ]
-    },
-    {
       "id": "ssnp-e2e9cf9d",
       "title": "看板メニュー『大俵ハンバーグ』を「スモークBBQソース」で仕上げた期間限定メニュー登場【ビッグボーイ･ヴィクトリアステーション】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/673117/",
@@ -1293,6 +1329,19 @@
       "date": "2026-04-11",
       "tags": [
         "外食"
+      ]
+    },
+    {
+      "id": "diamond-993ba382",
+      "title": "【百貨店業界相関図2026】そごう・西武、東急、三越伊勢丹はどう動くのか",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/541737/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-11",
+      "tags": [
+        "三越伊勢丹",
+        "百貨店"
       ]
     },
     {
@@ -1388,15 +1437,14 @@
     },
     {
       "id": "diamond-f99b7299",
-      "title": "開業日は約700人が行列！年商40億をめざす近畿ライフの大型店「緑地公園店」の全貌",
+      "title": "約700人が行列！年商40億をめざす近畿ライフの大型店「緑地公園店」の全貌",
       "url": "https://diamond-rm.net/store/newstorereport/541728/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "店舗",
       "date": "2026-04-10",
       "tags": [
-        "ライフ",
-        "開業"
+        "ライフ"
       ]
     },
     {
@@ -1923,18 +1971,6 @@
       ]
     },
     {
-      "id": "diamond-0472ceca",
-      "title": "ダイエーが「KOHYOロサヴィア茨木店」をオープン　時短・即食ニーズに徹底対応",
-      "url": "https://diamond-rm.net/store/newstorereport/541985/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-09",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
       "id": "diamond-a12b5ad7",
       "title": "ファミリーマート2025年度決算発表　話題のキャンペーンや新商品がけん引し増収増益",
       "url": "https://diamond-rm.net/management/businessplan/542113/",
@@ -2246,6 +2282,18 @@
       "category": "飲料",
       "date": "2026-04-09",
       "tags": []
+    },
+    {
+      "id": "diamond-0472ceca",
+      "title": "ダイエーが「KOHYOロサヴィア茨木店」をオープン　時短・即食ニーズに徹底対応",
+      "url": "https://diamond-rm.net/store/newstorereport/541985/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-09",
+      "tags": [
+        "オープン"
+      ]
     },
     {
       "id": "ryutsuu-7043bcc8",
@@ -3630,56 +3678,6 @@
       "tags": [
         "クスリのアオキ",
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-05c76d15",
-      "title": "マックスバリュ東海／「マックスバリュエクスプレス静岡西脇店」4／10リニューアル",
-      "url": "https://www.ryutsuu.biz/store/s040773.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-07",
-      "tags": [
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "ryutsuu-7c97d976",
-      "title": "京阪百貨店 守口店／ダイソー3ブランド複合ショップ4／23オープン",
-      "url": "https://www.ryutsuu.biz/store/s040715.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-07",
-      "tags": [
-        "オープン",
-        "百貨店"
-      ]
-    },
-    {
-      "id": "ryutsuu-0add5577",
-      "title": "東京ソラマチ／「つるとんたん THE SKY TOKYO」6／5オープン",
-      "url": "https://www.ryutsuu.biz/store/s040775.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-07",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-857c24a5",
-      "title": "クリスプサラダワークス／東京都港区「表参道 Grid Tower」に新店舗4／30オープン",
-      "url": "https://www.ryutsuu.biz/store/s040779.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-07",
-      "tags": [
-        "オープン",
-        "新店"
       ]
     }
   ]
