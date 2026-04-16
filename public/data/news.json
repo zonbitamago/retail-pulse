@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-04-16T06:38:13.790Z",
+  "lastUpdated": "2026-04-16T12:22:54.686Z",
   "items": [
+    {
+      "id": "ryutsuu-c6b7a393",
+      "title": "冷凍食品／国内生産額8577億円、1人当たりの年間消費量24.6kgと過去最高",
+      "url": "https://www.ryutsuu.biz/commodity/s041617.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-04-16",
+      "tags": [
+        "冷凍食品",
+        "食品"
+      ]
+    },
     {
       "id": "ryutsuu-b4be28c4",
       "title": "京都ポルタ／お土産ゾーン7月に全面リニューアル、atelier京ばあむが商業施設初出店",
@@ -79,6 +92,18 @@
       ]
     },
     {
+      "id": "ryutsuu-074ff3ca",
+      "title": "マーケティング研究協会／5月はマーケティング基礎、商品企画など6講座開催",
+      "url": "https://www.ryutsuu.biz/seminar/s041680.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "seminar",
+      "date": "2026-04-16",
+      "tags": [
+        "PR"
+      ]
+    },
+    {
       "id": "ryutsuu-ecc29919",
       "title": "ニトリ／「ニトリ平野店」4／24オープン、大阪府40店舗目",
       "url": "https://www.ryutsuu.biz/store/s041616.html",
@@ -103,16 +128,6 @@
         "オープン",
         "イオン"
       ]
-    },
-    {
-      "id": "ryutsuu-074ff3ca",
-      "title": "マーケティング研究協会／5月はマーケティング基礎、商品企画など6講座開催",
-      "url": "https://www.ryutsuu.biz/seminar/s041680.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-04-16",
-      "tags": []
     },
     {
       "id": "ryutsuu-b154c73d",
@@ -152,7 +167,7 @@
     },
     {
       "id": "ryutsuu-75da2892",
-      "title": "紀伊國屋書店／豪・シドニーに小型店「チャツウッド店」オープン、書籍3万冊扱う",
+      "title": "紀伊国屋書店／豪・シドニーに小型店「チャツウッド店」オープン、書籍3万冊扱う",
       "url": "https://www.ryutsuu.biz/abroad/s041678.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
@@ -328,8 +343,81 @@
       "tags": []
     },
     {
+      "id": "ssnp-8034378f",
+      "title": "【唐揚げor煮玉子が無料】餃子の王将、レシート提示でもらえる　ドリンク50円引きも\n\t\t\t\t\t\t\t\t\t\t\t\t王将フードサービスが展開する「餃子の王将」は、4月16日から4月30日までの期間、「新生活応援キャンペーン」として2つのお得な企画を実施している。 レシート提示で「鶏の唐揚」または「煮玉子」をプレゼントする企画と、会員カ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/676324/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-16",
+      "tags": []
+    },
+    {
+      "id": "ssnp-ed91dfd4",
+      "title": "2025年の国内冷凍食品市場は8,577億円、４年連続で過去最高更新 / 消費量は初めて300万トン超に\n\t\t\t\t\t\t\t\t\t\t\t\t日本冷凍食品協会は4月16日、2025年1～12月の冷凍食品国内生産量(速報値)を公表した。 〈工場出荷額は8,577億円、４年連続で過去最高額を更新〉 国内生産量は前年比2.4%増の157万4,172トンと順調に推移し...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/frozen/676317/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "冷凍食品",
+      "date": "2026-04-16",
+      "tags": [
+        "冷凍食品",
+        "食品"
+      ]
+    },
+    {
+      "id": "ssnp-87ba171e",
+      "title": "【カルビー】ごま油の香ばしさが広がる「かっぱえびせん ごま油香るのりしお味」期間限定発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/676309/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-04-16",
+      "tags": []
+    },
+    {
+      "id": "ssnp-2fe90d56",
+      "title": "もも･レモン･メロンなど…夏季限定のマドレーヌアソートが登場【銀座コージーコーナー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/676288/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-04-16",
+      "tags": []
+    },
+    {
+      "id": "ssnp-4576b452",
+      "title": "【全64アイテム】ペコちゃん×アフタヌーンティー初コラボ　タンブラーやエプロンなど展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/676263/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-04-16",
+      "tags": []
+    },
+    {
+      "id": "ssnp-e63dae3f",
+      "title": "【ウェンディーズ･ファーストキッチン】桃の爽やかな味わいのクラウンバニラ第2弾 / フロート、フラッペ、タピオカなど6品が新登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/676238/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-16",
+      "tags": []
+    },
+    {
+      "id": "ssnp-fe753250",
+      "title": "本まぐろ･ホワイト富士山サーモン･黒潮真鯛の寿司盛り合わせが登場する『紅白対決』【にぎりの徳兵衛･海鮮アトム】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/676236/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-16",
+      "tags": []
+    },
+    {
       "id": "ssnp-c5ed876f",
-      "title": "スパゲッティ3種がいずれも「550円」で販売　「壁の穴」が大感謝祭を開催\n\t\t\t\t\t\t\t\t\t\t\t\t和風スパゲッティの元祖「壁の穴」は、2026年4月21日（火）、毎月恒例の大感謝祭を開催する。 【画像】大感謝祭のラインナップはこちら ラインナップは、「壁の穴風ナポリタン」「“伝説”のミートソース」「辛子明太子と高菜の...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "スパゲッティ3種がいずれも「550円」で販売　「壁の穴」が大感謝祭を開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/676225/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -339,16 +427,14 @@
     },
     {
       "id": "ssnp-f114642a",
-      "title": "「冷凍チョコバナナ」が今年も登場!「もったいないバナナ」を使っておいしく食品ロス削減\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーマートは、4月21日から順次、全国のファミリーマート約1万6,400店舗で「冷凍チョコバナナ」(税込308円)を販売する。 昨年、発売直後からSNSやネットニュースで大きな話題を呼び、完売する店舗が続出した人気...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "「冷凍チョコバナナ」が今年も登場!「もったいないバナナ」を使っておいしく食品ロス削減\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/676218/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
       "date": "2026-04-16",
       "tags": [
-        "ファミリーマート",
         "食品ロス",
-        "SNS",
         "食品"
       ]
     },
@@ -1718,16 +1804,6 @@
       ]
     },
     {
-      "id": "ryutsuu-c77cf661",
-      "title": "賃上げ2026／ファミマ正社員1万6117円アップ、一時金6万円も",
-      "url": "https://www.ryutsuu.biz/strategy/s041311.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-13",
-      "tags": []
-    },
-    {
       "id": "ryutsuu-14f18ac3",
       "title": "チョコレート 売上ランキング／1～3月はロッテ「ガーナミルク」が1位",
       "url": "https://www.ryutsuu.biz/pos/s041346.html",
@@ -1940,6 +2016,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-04-13",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-c77cf661",
+      "title": "賃上げ2026／ファミマ正社員1万6117円アップ、一時金6万円も",
+      "url": "https://www.ryutsuu.biz/strategy/s041311.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
       "date": "2026-04-13",
       "tags": []
     },
@@ -3532,119 +3618,6 @@
       "date": "2026-04-09",
       "tags": [
         "営業利益",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-62d56693",
-      "title": "イオンモール×三井不動産／都内2SCで「学生が働きたくなるSCの実現プロジェクト」実証実験開始",
-      "url": "https://www.ryutsuu.biz/strategy/s040974.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-09",
-      "tags": [
-        "イオン",
-        "モール",
-        "SC"
-      ]
-    },
-    {
-      "id": "ryutsuu-68efff1d",
-      "title": "スギHD 決算／2月期売上高1兆円を達成・営業利益14.1％増、ドミナント出店推進やDX高度化などで",
-      "url": "https://www.ryutsuu.biz/accounts/s040981.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-09",
-      "tags": [
-        "営業利益",
-        "売上高",
-        "DX",
-        "出店",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-09918910",
-      "title": "フジグラン川之江 跡地／愛媛県「ゆめタウン四国中央」27年春オープン、専門店数40店",
-      "url": "https://www.ryutsuu.biz/store/s040978.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-09",
-      "tags": [
-        "オープン",
-        "専門店"
-      ]
-    },
-    {
-      "id": "ryutsuu-a9681036",
-      "title": "イズミ／長崎県諫早市に次世代NSC「諫早プロジェクト」2028年春オープン",
-      "url": "https://www.ryutsuu.biz/store/s040980.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-09",
-      "tags": [
-        "オープン",
-        "SC"
-      ]
-    },
-    {
-      "id": "ryutsuu-76af5e8f",
-      "title": "イオン九州／鹿児島市「イオンモールKAGOSHIMA BAY」32店舗4／24リニューアル",
-      "url": "https://www.ryutsuu.biz/store/s040972.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-09",
-      "tags": [
-        "リニューアル",
-        "イオン",
-        "モール"
-      ]
-    },
-    {
-      "id": "ryutsuu-19d95c46",
-      "title": "イオン九州 決算／2月期営業利益2.0％増、食料品堅調・コスト増加するも生産性改善",
-      "url": "https://www.ryutsuu.biz/accounts/s040976.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-09",
-      "tags": [
-        "営業利益",
-        "イオン",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-8a305b48",
-      "title": "イオン北海道 決算／2月期営業利益5.6％増、食品・住宅余暇部門が好調",
-      "url": "https://www.ryutsuu.biz/accounts/s040977.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-09",
-      "tags": [
-        "営業利益",
-        "イオン",
-        "食品",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-1d66cb64",
-      "title": "マックスバリュ東海 決算／2月期営業利益3.6％減、配送費などコスト増加で",
-      "url": "https://www.ryutsuu.biz/accounts/s040975.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-09",
-      "tags": [
-        "営業利益",
-        "配送",
         "決算"
       ]
     }
