@@ -1,6 +1,53 @@
 {
-  "lastUpdated": "2026-04-15T18:24:51.106Z",
+  "lastUpdated": "2026-04-16T00:28:33.335Z",
   "items": [
+    {
+      "id": "diamond-cf73949a",
+      "title": "イズミ26年2月期本決算は増収増益！ 新PBゆめイチ好調、サニー改革にも手応え",
+      "url": "https://diamond-rm.net/market/accounting/542921/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-04-16",
+      "tags": [
+        "PB",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "diamond-0fed7252",
+      "title": "Amazonが傘下のホールフーズで始めた「新しい買わせ方」の全容",
+      "url": "https://diamond-rm.net/overseas/american_economy/542513/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-04-16",
+      "tags": [
+        "Amazon"
+      ]
+    },
+    {
+      "id": "diamond-6740fa59",
+      "title": "なぜ小売は「メディア」を持つべきか",
+      "url": "https://diamond-rm.net/management/businessplan/542788/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-16",
+      "tags": []
+    },
+    {
+      "id": "diamond-0331d213",
+      "title": "ウォルマートが導入した店舗在庫リアルタイム可視化ツールの絶大効果",
+      "url": "https://diamond-rm.net/management/businessplan/541984/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-16",
+      "tags": []
+    },
     {
       "id": "ryutsuu-4e90473b",
       "title": "イズミ／新中計発表、30年度営業収益7000億円・営業利益350億円目指す",
@@ -294,19 +341,6 @@
       ]
     },
     {
-      "id": "diamond-d1cf166c",
-      "title": "なぜアマゾンはAI「Alexa+」をプライム会員特典にしたのか？「生活OS」への野望と課題",
-      "url": "https://diamond-rm.net/overseas/american_economy/542415/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-04-15",
-      "tags": [
-        "アマゾン",
-        "AI"
-      ]
-    },
-    {
       "id": "diamond-7bd18f0b",
       "title": "第６９回　「柏蔭会」軌道に乗る",
       "url": "https://diamond-rm.net/life-career/535847/",
@@ -325,6 +359,19 @@
       "category": "retaildata",
       "date": "2026-04-15",
       "tags": []
+    },
+    {
+      "id": "diamond-d1cf166c",
+      "title": "なぜアマゾンはAI「Alexa+」をプライム会員特典にしたのか？「生活OS」への野望と課題",
+      "url": "https://diamond-rm.net/overseas/american_economy/542415/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-04-15",
+      "tags": [
+        "アマゾン",
+        "AI"
+      ]
     },
     {
       "id": "ssnp-5f2bfd39",
@@ -650,56 +697,6 @@
       ]
     },
     {
-      "id": "diamond-e6da6433",
-      "title": "第６８回　夜を徹して全寮晩餐会",
-      "url": "https://diamond-rm.net/life-career/535846/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-14",
-      "tags": []
-    },
-    {
-      "id": "diamond-3ab4cdef",
-      "title": "ウエルシア・ツルハ、統合の先にめざす「ライフストア」のビジョンとは",
-      "url": "https://diamond-rm.net/management/ma/532849/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-14",
-      "tags": [
-        "ウエルシア",
-        "ツルハ",
-        "ライフ",
-        "統合"
-      ]
-    },
-    {
-      "id": "diamond-c00121a3",
-      "title": "就職・転職市場のコンサル人気は、「日本人総務責任者化」と「投資の高値掴み」の予兆",
-      "url": "https://diamond-rm.net/management/542474/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-14",
-      "tags": []
-    },
-    {
-      "id": "diamond-b12700b2",
-      "title": "【ネットスーパー相関図2026】市場拡大の陰で淘汰も……イオンネクスト、ライフはどう動くか",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542279/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-14",
-      "tags": [
-        "ネットスーパー",
-        "スーパー",
-        "イオン",
-        "ライフ"
-      ]
-    },
-    {
       "id": "diamond-11519d56",
       "title": "「マルエツプチ西横浜駅前店」が開業　都心部への出店拡大ねらう100坪型のモデル店舗",
       "url": "https://diamond-rm.net/store/542443/",
@@ -722,6 +719,21 @@
       "category": "市場動向",
       "date": "2026-04-14",
       "tags": []
+    },
+    {
+      "id": "diamond-b12700b2",
+      "title": "【ネットスーパー相関図2026】市場拡大の陰で淘汰も……イオンネクスト、ライフはどう動くか",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542279/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-14",
+      "tags": [
+        "ネットスーパー",
+        "スーパー",
+        "イオン",
+        "ライフ"
+      ]
     },
     {
       "id": "diamond-8fe01e9a",
@@ -902,6 +914,41 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "大豆",
+      "date": "2026-04-14",
+      "tags": []
+    },
+    {
+      "id": "diamond-e6da6433",
+      "title": "第６８回　夜を徹して全寮晩餐会",
+      "url": "https://diamond-rm.net/life-career/535846/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-14",
+      "tags": []
+    },
+    {
+      "id": "diamond-3ab4cdef",
+      "title": "ウエルシア・ツルハ、統合の先にめざす「ライフストア」のビジョンとは",
+      "url": "https://diamond-rm.net/management/ma/532849/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-14",
+      "tags": [
+        "ウエルシア",
+        "ツルハ",
+        "ライフ",
+        "統合"
+      ]
+    },
+    {
+      "id": "diamond-c00121a3",
+      "title": "就職・転職市場のコンサル人気は、「日本人総務責任者化」と「投資の高値掴み」の予兆",
+      "url": "https://diamond-rm.net/management/542474/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-04-14",
       "tags": []
     },
@@ -1256,20 +1303,6 @@
       ]
     },
     {
-      "id": "diamond-53256f2f",
-      "title": "マックスバリュ東海、26年2月期は増収減益　都市型小型店の出店拡大へ",
-      "url": "https://diamond-rm.net/market/accounting/542466/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-04-13",
-      "tags": [
-        "出店",
-        "増収",
-        "減益"
-      ]
-    },
-    {
       "id": "diamond-d7079f7a",
       "title": "ヤオコー・ライフ・イオン・イトーヨーカ堂…大手4社PB「ワンプレート冷食」の実力！",
       "url": "https://diamond-rm.net/sales-promotion/540890/",
@@ -1457,6 +1490,20 @@
       "category": "foodservice",
       "date": "2026-04-13",
       "tags": []
+    },
+    {
+      "id": "diamond-53256f2f",
+      "title": "マックスバリュ東海、26年2月期は増収減益　都市型小型店の出店拡大へ",
+      "url": "https://diamond-rm.net/market/accounting/542466/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-04-13",
+      "tags": [
+        "出店",
+        "増収",
+        "減益"
+      ]
     },
     {
       "id": "diamond-66b548a2",
@@ -3604,59 +3651,6 @@
         "マルエツ",
         "オープン",
         "カスミ"
-      ]
-    },
-    {
-      "id": "ryutsuu-4141239e",
-      "title": "ミニストップ 決算／2月期最終赤字56億3000万円、消費期限偽装・不採算店舗閉店響く",
-      "url": "https://www.ryutsuu.biz/accounts/s040816.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-08",
-      "tags": [
-        "閉店",
-        "決算",
-        "赤字"
-      ]
-    },
-    {
-      "id": "ryutsuu-859123b2",
-      "title": "サイゼリヤ 決算／9～2月増収増益、コスト上昇などで通期予想を修正",
-      "url": "https://www.ryutsuu.biz/accounts/s040882.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-08",
-      "tags": [
-        "サイゼリヤ",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-d3682806",
-      "title": "二子玉川ライズS.C.／25年売上高457億円越え、3年連続で過去最高を更新",
-      "url": "https://www.ryutsuu.biz/store/s040879.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-08",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-d65f5a25",
-      "title": "マークイズ福岡ももち／25年売上高約219億円、3年連続で売上・客数が過去最高更新",
-      "url": "https://www.ryutsuu.biz/store/s040881.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-08",
-      "tags": [
-        "売上高"
       ]
     }
   ]
