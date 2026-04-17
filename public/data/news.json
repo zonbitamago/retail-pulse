@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2026-04-16T18:25:17.939Z",
+  "lastUpdated": "2026-04-17T00:26:46.665Z",
   "items": [
+    {
+      "id": "diamond-09a5f291",
+      "title": "イズミの新中計を徹底考察！「SM事業」を成長エンジンに“三度目の正直”なるか",
+      "url": "https://diamond-rm.net/management/businessplan/543008/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-17",
+      "tags": []
+    },
+    {
+      "id": "diamond-e8e83d6f",
+      "title": "第139回 「縁側の曖昧性」に学ぶショッピングセンターの居心地",
+      "url": "https://diamond-rm.net/management/541468/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-17",
+      "tags": [
+        "ショッピングセンター"
+      ]
+    },
+    {
+      "id": "diamond-60720912",
+      "title": "ファミリーマートが店頭サイネージを「ファミマTV」に改称　“観る”を楽しむメディアへ",
+      "url": "https://diamond-rm.net/technology/543098/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-04-17",
+      "tags": [
+        "ファミリーマート"
+      ]
+    },
+    {
+      "id": "diamond-eeb12209",
+      "title": "生活のあらゆる悩みを解決！アリババのAIエージェント「千問」の凄み",
+      "url": "https://diamond-rm.net/overseas/chinaeastasianews/542518/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-04-17",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-a4988d4a",
+      "title": "バイヤーに「売れる確信」を持ってもらうための4つのステップ",
+      "url": "https://diamond-rm.net/sales-promotion/buyer/541566/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-17",
+      "tags": []
+    },
     {
       "id": "ryutsuu-c6b7a393",
       "title": "冷凍食品／国内生産額8577億円、1人当たりの年間消費量24.6kgと過去最高",
@@ -264,45 +320,6 @@
       ]
     },
     {
-      "id": "diamond-e52bbc3e",
-      "title": "年間販売個数2.8億食でギネス記録認定！ローソン「からあげクン」の新成長戦略",
-      "url": "https://diamond-rm.net/sales-promotion/pb/542714/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-16",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "diamond-cf73949a",
-      "title": "イズミ26年2月期本決算は増収増益！ 新PBゆめイチ好調、サニー改革にも手応え",
-      "url": "https://diamond-rm.net/market/accounting/542921/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-04-16",
-      "tags": [
-        "PB",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "diamond-0fed7252",
-      "title": "Amazonが傘下のホールフーズで始めた「新しい買わせ方」の全容",
-      "url": "https://diamond-rm.net/overseas/american_economy/542513/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-04-16",
-      "tags": [
-        "Amazon"
-      ]
-    },
-    {
       "id": "diamond-51fb34d6",
       "title": "第７０回　彼はなんとなく人に好かれるんですよ",
       "url": "https://diamond-rm.net/life-career/535848/",
@@ -323,6 +340,18 @@
       "tags": []
     },
     {
+      "id": "diamond-e52bbc3e",
+      "title": "年間販売個数2.8億食でギネス記録認定！ローソン「からあげクン」の新成長戦略",
+      "url": "https://diamond-rm.net/sales-promotion/pb/542714/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-16",
+      "tags": [
+        "ローソン"
+      ]
+    },
+    {
       "id": "diamond-6740fa59",
       "title": "なぜ小売は「メディア」を持つべきか",
       "url": "https://diamond-rm.net/management/businessplan/542788/",
@@ -331,6 +360,33 @@
       "category": "経営戦略",
       "date": "2026-04-16",
       "tags": []
+    },
+    {
+      "id": "diamond-0fed7252",
+      "title": "Amazonが傘下のホールフーズで始めた「新しい買わせ方」の全容",
+      "url": "https://diamond-rm.net/overseas/american_economy/542513/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-04-16",
+      "tags": [
+        "Amazon"
+      ]
+    },
+    {
+      "id": "diamond-cf73949a",
+      "title": "イズミ26年2月期本決算は増収増益！ 新PBゆめイチ好調、サニー改革にも手応え",
+      "url": "https://diamond-rm.net/market/accounting/542921/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-04-16",
+      "tags": [
+        "PB",
+        "決算",
+        "増収",
+        "増益"
+      ]
     },
     {
       "id": "diamond-0331d213",
@@ -642,43 +698,6 @@
       ]
     },
     {
-      "id": "diamond-7bd18f0b",
-      "title": "第６９回　「柏蔭会」軌道に乗る",
-      "url": "https://diamond-rm.net/life-career/535847/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-15",
-      "tags": []
-    },
-    {
-      "id": "diamond-8ade9a19",
-      "title": "イオン北海道、26年2月期は増収増益　27年2月期は小寺新社長のもとで成長加速へ",
-      "url": "https://diamond-rm.net/market/542706/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-04-15",
-      "tags": [
-        "イオン",
-        "増収",
-        "増益",
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-9230681b",
-      "title": "【PB相関図2026】新ブランド開発、外部供給拡大……乱戦模様の「PB市場」",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542287/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-15",
-      "tags": [
-        "PB"
-      ]
-    },
-    {
       "id": "diamond-d1b402d8",
       "title": "【DCS最新号】4月15日号は「流通相関図2026」",
       "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542509/",
@@ -703,6 +722,21 @@
       ]
     },
     {
+      "id": "diamond-8ade9a19",
+      "title": "イオン北海道、26年2月期は増収増益　27年2月期は小寺新社長のもとで成長加速へ",
+      "url": "https://diamond-rm.net/market/542706/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-04-15",
+      "tags": [
+        "イオン",
+        "増収",
+        "増益",
+        "社長"
+      ]
+    },
+    {
       "id": "diamond-d1cf166c",
       "title": "なぜアマゾンはAI「Alexa+」をプライム会員特典にしたのか？「生活OS」への野望と課題",
       "url": "https://diamond-rm.net/overseas/american_economy/542415/",
@@ -713,6 +747,18 @@
       "tags": [
         "アマゾン",
         "AI"
+      ]
+    },
+    {
+      "id": "diamond-9230681b",
+      "title": "【PB相関図2026】新ブランド開発、外部供給拡大……乱戦模様の「PB市場」",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542287/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-15",
+      "tags": [
+        "PB"
       ]
     },
     {
@@ -934,6 +980,16 @@
       "tags": [
         "セブン-イレブン"
       ]
+    },
+    {
+      "id": "diamond-7bd18f0b",
+      "title": "第６９回　「柏蔭会」軌道に乗る",
+      "url": "https://diamond-rm.net/life-career/535847/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-15",
+      "tags": []
     },
     {
       "id": "ryutsuu-c741674f",
@@ -1816,21 +1872,6 @@
       ]
     },
     {
-      "id": "diamond-fa6d37d8",
-      "title": "イオン九州、26年2月期は増収・営業増益　今期は過去最大規模の新規出店を計画",
-      "url": "https://diamond-rm.net/market/542502/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-04-13",
-      "tags": [
-        "イオン",
-        "出店",
-        "増収",
-        "増益"
-      ]
-    },
-    {
       "id": "diamond-d7079f7a",
       "title": "ヤオコー・ライフ・イオン・イトーヨーカ堂…大手4社PB「ワンプレート冷食」の実力！",
       "url": "https://diamond-rm.net/sales-promotion/540890/",
@@ -2018,6 +2059,21 @@
       "category": "foodservice",
       "date": "2026-04-13",
       "tags": []
+    },
+    {
+      "id": "diamond-fa6d37d8",
+      "title": "イオン九州、26年2月期は増収・営業増益　今期は過去最大規模の新規出店を計画",
+      "url": "https://diamond-rm.net/market/542502/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-04-13",
+      "tags": [
+        "イオン",
+        "出店",
+        "増収",
+        "増益"
+      ]
     },
     {
       "id": "ryutsuu-c77cf661",
@@ -2434,20 +2490,6 @@
       ]
     },
     {
-      "id": "diamond-349211e6",
-      "title": "ファミリーマートの冷凍食品が“尖った”戦略でヒットを連発するワケ",
-      "url": "https://diamond-rm.net/sales-promotion/541057/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-11",
-      "tags": [
-        "ファミリーマート",
-        "冷凍食品",
-        "食品"
-      ]
-    },
-    {
       "id": "ssnp-e2e9cf9d",
       "title": "看板メニュー『大俵ハンバーグ』を「スモークBBQソース」で仕上げた期間限定メニュー登場【ビッグボーイ･ヴィクトリアステーション】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/673117/",
@@ -2467,6 +2509,20 @@
       "date": "2026-04-11",
       "tags": [
         "外食"
+      ]
+    },
+    {
+      "id": "diamond-349211e6",
+      "title": "ファミリーマートの冷凍食品が“尖った”戦略でヒットを連発するワケ",
+      "url": "https://diamond-rm.net/sales-promotion/541057/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-11",
+      "tags": [
+        "ファミリーマート",
+        "冷凍食品",
+        "食品"
       ]
     },
     {
@@ -3542,83 +3598,6 @@
       "date": "2026-04-09",
       "tags": [
         "ワークマン"
-      ]
-    },
-    {
-      "id": "ryutsuu-7ea4bd93",
-      "title": "イオン 決算／2月期増収増益、営業収益は5期連続で過去最高に",
-      "url": "https://www.ryutsuu.biz/accounts/s040912.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-09",
-      "tags": [
-        "注目",
-        "イオン",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-aa12955d",
-      "title": "セブン＆アイ 決算／2月期は減収増益、国内コンビニ事業は1.2％増収",
-      "url": "https://www.ryutsuu.biz/accounts/s040945.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-09",
-      "tags": [
-        "注目",
-        "セブン＆アイ",
-        "コンビニ",
-        "決算",
-        "増収",
-        "減収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-1ab1d1d2",
-      "title": "ライフ 決算／2月期は増収増益、営業収益と純利益ともに過去最高を更新",
-      "url": "https://www.ryutsuu.biz/accounts/s040944.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-09",
-      "tags": [
-        "注目",
-        "ライフ",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-0e3d3158",
-      "title": "ツルハHD 決算／2月期売上高1兆4505億8500万円、次期売上高2兆5550億円予想",
-      "url": "https://www.ryutsuu.biz/accounts/s040911.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-09",
-      "tags": [
-        "ツルハ",
-        "売上高",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-9ee935fb",
-      "title": "ファーストリテイリング 決算／上期過去最高の業績を達成、営業利益31.7％増・通期予想を上方修正",
-      "url": "https://www.ryutsuu.biz/accounts/s040979.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-09",
-      "tags": [
-        "営業利益",
-        "決算"
       ]
     }
   ]
