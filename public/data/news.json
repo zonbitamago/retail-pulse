@@ -1,6 +1,21 @@
 {
-  "lastUpdated": "2026-04-17T06:38:08.817Z",
+  "lastUpdated": "2026-04-17T12:19:52.261Z",
   "items": [
+    {
+      "id": "ryutsuu-622f33ef",
+      "title": "イオンモール津山インター／核店舗「イオンスタイル」先行リニューアルオープン",
+      "url": "https://www.ryutsuu.biz/store/s041780.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-17",
+      "tags": [
+        "リニューアル",
+        "オープン",
+        "イオン",
+        "モール"
+      ]
+    },
     {
       "id": "ryutsuu-97d815f6",
       "title": "トライアル／神奈川県秦野市に「スーパーセンタートライアル秦野店（店舗面積4274m2）」10／21新設",
@@ -78,16 +93,6 @@
       ]
     },
     {
-      "id": "ryutsuu-9226b643",
-      "title": "日本アクセス／ユニバース盛岡みたけ店で「チン！するレストラン」6／6・7開催",
-      "url": "https://www.ryutsuu.biz/store/s041711.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-17",
-      "tags": []
-    },
-    {
       "id": "ryutsuu-d553eb8c",
       "title": "流通経済研究所／流研マーケターフォーラム2026開催、第1部「商品開発＆ブランディング」6／18実施",
       "url": "https://www.ryutsuu.biz/seminar/s041776.html",
@@ -98,6 +103,16 @@
       "tags": [
         "PR"
       ]
+    },
+    {
+      "id": "ryutsuu-9226b643",
+      "title": "日本アクセス／ユニバース盛岡みたけ店で「チン！するレストラン」6／6・7開催",
+      "url": "https://www.ryutsuu.biz/store/s041711.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-17",
+      "tags": []
     },
     {
       "id": "ryutsuu-3e26f3b9",
@@ -314,8 +329,64 @@
       ]
     },
     {
+      "id": "ssnp-3de976e3",
+      "title": "三島食品が「知財功労賞」受賞　商品×商標戦略でファン獲得\n\t\t\t\t\t\t\t\t\t\t\t\t三島食品は、経済産業省特許庁が主催する令和8年度「知財功労賞」において、「特許庁長官表彰 知財活用企業(商標)」を受賞した。 「知財功労賞」は、経済産業省 特許庁が、日本の知的財産権制度の発展･普及･啓発に貢献のあった個...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/seasoning/676588/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "調味料",
+      "date": "2026-04-17",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "ssnp-54b65e55",
+      "title": "割って楽しむ新体験シェイク「ヘーゼルナッツチョコレートシェイク」期間限定販売【Shake Shack】\n\t\t\t\t\t\t\t\t\t\t\t\tニューヨーク発のハンバーガーレストラン「Shake Shack」は、「ヘーゼルナッツチョコレートシェイク」を4月24日(金)から5月下旬までの期間限定で、国内全18店舗にて販売する。価格は1,430円(税込)。 【画像を...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/676581/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-17",
+      "tags": [
+        "チョコレート"
+      ]
+    },
+    {
+      "id": "ssnp-9fc951fe",
+      "title": "【丸亀製麺】累計1200万食突破「トマたまカレーうどんシリーズ」に新作登場　3尾重ねて揚げた“海老カツ”の存在感がすごい\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/676543/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-17",
+      "tags": []
+    },
+    {
+      "id": "ssnp-f49f6828",
+      "title": "【中国ラーメン揚州商人】期間限定「冷しタンタン麺」登場 / 冷たい肉味噌で進化した一杯\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/676554/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-17",
+      "tags": []
+    },
+    {
+      "id": "ssnp-32af0f10",
+      "title": "【セブン‐イレブン】「トンテキ弁当」や「松阪牛カレー」など…三重県産食材を使ったメニューやご当地メニューが登場【東海エリア限定】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/676530/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-04-17",
+      "tags": [
+        "弁当"
+      ]
+    },
+    {
       "id": "ssnp-640170d2",
-      "title": "【丸源ラーメン】期間限定「丸源特製 麻辣湯麺」登場 / 6種の香辛料が織りなす刺激的な一杯\n\t\t\t\t\t\t\t\t\t\t\t\t丸源ラーメンは5月14日より、期間限定メニュー「丸源特製 麻辣湯麺」を発売する。価格は税込1,023円。全国販売に先駆け、4月16日から20店舗で先行販売を開始している。 【画像を見る】丸源ラーメンの看板商品の肉そば、餃...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【丸源ラーメン】期間限定「丸源特製 麻辣湯麺」登場 / 6種の香辛料が織りなす刺激的な一杯\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/676520/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -325,7 +396,7 @@
     },
     {
       "id": "ssnp-974e470b",
-      "title": "タルト専門店の味わいをチョコパイ&カスタードケーキで再現!【○△□(マルサンカクシカク)×ロッテ】\n\t\t\t\t\t\t\t\t\t\t\t\tロッテは人気タルト専門店○△□(マルサンカクシカク)と初めてコラボレーションし、「チョコパイ ティラミスタルト 個売り」「チョコパイ いちごミルクタルト 個売り」「カスタードケーキ ベリーチーズタルト」を2026年4月2...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "タルト専門店の味わいをチョコパイ&カスタードケーキで再現!【○△□(マルサンカクシカク)×ロッテ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/676503/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -1648,18 +1719,6 @@
       ]
     },
     {
-      "id": "ryutsuu-bdd0167d",
-      "title": "三陽商会／三井物産顧問の平林義規社外取締役が社長に就任、大江伸治社長は会長に",
-      "url": "https://www.ryutsuu.biz/strategy/s041445.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-14",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
       "id": "ryutsuu-5d782fc2",
       "title": "加工食品 売上ランキング／3月はハウス食品「こくまろカレー 中辛」が1位",
       "url": "https://www.ryutsuu.biz/pos/s041443.html",
@@ -1914,6 +1973,18 @@
       "category": "大豆",
       "date": "2026-04-14",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-bdd0167d",
+      "title": "三陽商会／三井物産顧問の平林義規社外取締役が社長に就任、大江伸治社長は会長に",
+      "url": "https://www.ryutsuu.biz/strategy/s041445.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-04-14",
+      "tags": [
+        "社長"
+      ]
     },
     {
       "id": "diamond-5ba682fa",
@@ -3532,81 +3603,6 @@
       "sourceName": "流通ニュース",
       "category": "店舗",
       "date": "2026-04-10",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-516f2d12",
-      "title": "ファミマ／店内のデジタルサイネージを「ファミマTV」に名称変更、新番組を開始",
-      "url": "https://www.ryutsuu.biz/it/s041046.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-04-10",
-      "tags": [
-        "デジタル"
-      ]
-    },
-    {
-      "id": "diamond-f9056e0a",
-      "title": "第６６回　戦争からの解放",
-      "url": "https://diamond-rm.net/life-career/535844/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-10",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-549884ca",
-      "title": "イオンスタイル津田沼サウス／寺岡精工の青果用AIスケール「SM-6000AI」導入",
-      "url": "https://www.ryutsuu.biz/it/s041079.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-04-10",
-      "tags": [
-        "イオン",
-        "AI",
-        "青果"
-      ]
-    },
-    {
-      "id": "ryutsuu-f816033c",
-      "title": "流通経済研究所／メーカー・卸向け「ドラッグストア研究会 26年6月開始コース」参加者募集",
-      "url": "https://www.ryutsuu.biz/seminar/s040973.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-04-09",
-      "tags": [
-        "PR",
-        "ドラッグストア",
-        "ドラッグ"
-      ]
-    },
-    {
-      "id": "diamond-a12b5ad7",
-      "title": "ファミリーマート2025年度決算発表　話題のキャンペーンや新商品がけん引し増収増益",
-      "url": "https://diamond-rm.net/management/businessplan/542113/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-09",
-      "tags": [
-        "ファミリーマート",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ssnp-f759a6bc",
-      "title": "【東海エリア初】「ウルフギャング・ステーキハウス」が名古屋上陸　900℃で焼き上げる最上級の熟成肉を堪能\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/672960/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-09",
       "tags": []
     }
   ]
