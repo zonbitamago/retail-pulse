@@ -1,6 +1,40 @@
 {
-  "lastUpdated": "2026-04-17T18:18:12.904Z",
+  "lastUpdated": "2026-04-18T00:24:04.033Z",
   "items": [
+    {
+      "id": "diamond-0a96dc36",
+      "title": "流通秀書　第25回『考え方の論理』",
+      "url": "https://diamond-rm.net/life-career/540833/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-18",
+      "tags": []
+    },
+    {
+      "id": "diamond-3212d3de",
+      "title": "青果売場「お客にとって買いやすくする」ための品揃えに欠かせない重要な考え方",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/541578/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-18",
+      "tags": [
+        "青果"
+      ]
+    },
+    {
+      "id": "diamond-127788c3",
+      "title": "食品トレー削減の切り札「真空エコパック」が味付け肉には導入されていない不思議",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/541572/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-18",
+      "tags": [
+        "食品"
+      ]
+    },
     {
       "id": "ryutsuu-622f33ef",
       "title": "イオンモール津山インター／核店舗「イオンスタイル」先行リニューアルオープン",
@@ -609,16 +643,6 @@
       ]
     },
     {
-      "id": "diamond-51fb34d6",
-      "title": "第７０回　彼はなんとなく人に好かれるんですよ",
-      "url": "https://diamond-rm.net/life-career/535848/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-16",
-      "tags": []
-    },
-    {
       "id": "diamond-5441e565",
       "title": "JA全農加盟で総売上4兆円に！ 巨大共同仕入、ニチリウの現在",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/532862/",
@@ -627,18 +651,6 @@
       "category": "sales-promotion",
       "date": "2026-04-16",
       "tags": []
-    },
-    {
-      "id": "diamond-e52bbc3e",
-      "title": "年間販売個数2.8億食でギネス記録認定！ローソン「からあげクン」の新成長戦略",
-      "url": "https://diamond-rm.net/sales-promotion/pb/542714/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-16",
-      "tags": [
-        "ローソン"
-      ]
     },
     {
       "id": "diamond-cf73949a",
@@ -676,6 +688,18 @@
       "category": "経営戦略",
       "date": "2026-04-16",
       "tags": []
+    },
+    {
+      "id": "diamond-e52bbc3e",
+      "title": "年間販売個数2.8億食でギネス記録認定！ローソン「からあげクン」の新成長戦略",
+      "url": "https://diamond-rm.net/sales-promotion/pb/542714/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-16",
+      "tags": [
+        "ローソン"
+      ]
     },
     {
       "id": "ssnp-8034378f",
@@ -899,6 +923,16 @@
         "冷凍食品",
         "食品"
       ]
+    },
+    {
+      "id": "diamond-51fb34d6",
+      "title": "第７０回　彼はなんとなく人に好かれるんですよ",
+      "url": "https://diamond-rm.net/life-career/535848/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-16",
+      "tags": []
     },
     {
       "id": "ryutsuu-c6b7a393",
@@ -1793,16 +1827,6 @@
       ]
     },
     {
-      "id": "diamond-8fe01e9a",
-      "title": "「フリクション依存」からの脱却！ パイロットの蛍光ペンが発売2年で1000万本売れた理由",
-      "url": "https://diamond-rm.net/sales-promotion/538959/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-14",
-      "tags": []
-    },
-    {
       "id": "diamond-1372394a",
       "title": "【商社・食品卸業界相関図2026】三菱商事、伊藤忠、国分は何を狙っているのか",
       "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542168/",
@@ -1971,6 +1995,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "大豆",
+      "date": "2026-04-14",
+      "tags": []
+    },
+    {
+      "id": "diamond-8fe01e9a",
+      "title": "「フリクション依存」からの脱却！ パイロットの蛍光ペンが発売2年で1000万本売れた理由",
+      "url": "https://diamond-rm.net/sales-promotion/538959/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
       "date": "2026-04-14",
       "tags": []
     },
@@ -2364,23 +2398,6 @@
       ]
     },
     {
-      "id": "diamond-d7079f7a",
-      "title": "ヤオコー・ライフ・イオン・イトーヨーカ堂…大手4社PB「ワンプレート冷食」の実力！",
-      "url": "https://diamond-rm.net/sales-promotion/540890/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-13",
-      "tags": [
-        "イトーヨーカ堂",
-        "ヤオコー",
-        "イオン",
-        "ライフ",
-        "冷食",
-        "PB"
-      ]
-    },
-    {
       "id": "diamond-3a2bb1b0",
       "title": "【家電量販店業界相関図2026】ヤマダHD筆頭に”周辺事業強化”に向けたM&Aが加速",
       "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542026/",
@@ -2551,6 +2568,23 @@
       "category": "foodservice",
       "date": "2026-04-13",
       "tags": []
+    },
+    {
+      "id": "diamond-d7079f7a",
+      "title": "ヤオコー・ライフ・イオン・イトーヨーカ堂…大手4社PB「ワンプレート冷食」の実力！",
+      "url": "https://diamond-rm.net/sales-promotion/540890/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-13",
+      "tags": [
+        "イトーヨーカ堂",
+        "ヤオコー",
+        "イオン",
+        "ライフ",
+        "冷食",
+        "PB"
+      ]
     },
     {
       "id": "ryutsuu-14f18ac3",
@@ -3569,41 +3603,6 @@
         "オープン",
         "中食"
       ]
-    },
-    {
-      "id": "ryutsuu-0509fb77",
-      "title": "コスモス薬品／宮崎県都城市に「ドラッグコスモス都城川東店」10／1新設",
-      "url": "https://www.ryutsuu.biz/store/s0410011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-10",
-      "tags": [
-        "コスモス薬品",
-        "ドラッグ"
-      ]
-    },
-    {
-      "id": "ryutsuu-d922a01d",
-      "title": "クスリのアオキ／秋田県・富山県に計2店舗、10月新設",
-      "url": "https://www.ryutsuu.biz/store/s0410013.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-10",
-      "tags": [
-        "クスリのアオキ"
-      ]
-    },
-    {
-      "id": "ryutsuu-86150de3",
-      "title": "エディオン／北海道旭川市に「旭川永山店（店舗面積4094m2）」10／5新設",
-      "url": "https://www.ryutsuu.biz/store/s0410012.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-10",
-      "tags": []
     }
   ]
 }
