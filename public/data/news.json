@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2026-04-18T00:24:04.033Z",
+  "lastUpdated": "2026-04-18T06:26:21.734Z",
   "items": [
+    {
+      "id": "diamond-19cdc79e",
+      "title": "ローソン、2026年度中にミニスーパーの新業態を出店へ",
+      "url": "https://diamond-rm.net/market/accounting/543231/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-04-18",
+      "tags": [
+        "ローソン",
+        "スーパー",
+        "出店"
+      ]
+    },
     {
       "id": "diamond-0a96dc36",
       "title": "流通秀書　第25回『考え方の論理』",
@@ -33,6 +47,18 @@
       "date": "2026-04-18",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "ssnp-752530e5",
+      "title": "とんかつ まい泉 星ヶ丘三越店オープン!記念セールでヒレかつやロースかつなどがお得に\n\t\t\t\t\t\t\t\t\t\t\t\t井筒まい泉は「とんかつ まい泉 星ヶ丘三越店」を2026年4月22日にオープンする。「オープニング記念セール」として、まい泉の人気商品を期間限定の特別価格で販売する。 【とんかつ まい泉 星ヶ丘三越店】 所在地:愛知県名...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/672681/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-18",
+      "tags": [
+        "オープン"
       ]
     },
     {
@@ -376,7 +402,7 @@
     },
     {
       "id": "ssnp-54b65e55",
-      "title": "割って楽しむ新体験シェイク「ヘーゼルナッツチョコレートシェイク」期間限定販売【Shake Shack】\n\t\t\t\t\t\t\t\t\t\t\t\tニューヨーク発のハンバーガーレストラン「Shake Shack」は、「ヘーゼルナッツチョコレートシェイク」を4月24日(金)から5月下旬までの期間限定で、国内全18店舗にて販売する。価格は1,430円(税込)。 【画像を...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "割って楽しむ新体験シェイク「ヘーゼルナッツチョコレートシェイク」期間限定販売【Shake Shack】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/676581/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -643,16 +669,6 @@
       ]
     },
     {
-      "id": "diamond-5441e565",
-      "title": "JA全農加盟で総売上4兆円に！ 巨大共同仕入、ニチリウの現在",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/532862/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-16",
-      "tags": []
-    },
-    {
       "id": "diamond-cf73949a",
       "title": "イズミ26年2月期本決算は増収増益！ 新PBゆめイチ好調、サニー改革にも手応え",
       "url": "https://diamond-rm.net/market/accounting/542921/",
@@ -686,6 +702,16 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
+      "date": "2026-04-16",
+      "tags": []
+    },
+    {
+      "id": "diamond-5441e565",
+      "title": "JA全農加盟で総売上4兆円に！ 巨大共同仕入、ニチリウの現在",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/532862/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
       "date": "2026-04-16",
       "tags": []
     },
@@ -3576,32 +3602,6 @@
       "date": "2026-04-10",
       "tags": [
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-141ceeef",
-      "title": "DCM／山口県にプロの職人向けショップ「ホダカ下関長府店」オープン",
-      "url": "https://www.ryutsuu.biz/store/s041077.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-10",
-      "tags": [
-        "オープン",
-        "DCM"
-      ]
-    },
-    {
-      "id": "ryutsuu-7d9ff91a",
-      "title": "ポプラ／福屋広島駅前店に中食特化の新業態「ポプラデリ」4／16オープン",
-      "url": "https://www.ryutsuu.biz/store/s041074.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-10",
-      "tags": [
-        "オープン",
-        "中食"
       ]
     }
   ]
