@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-04-20T06:45:01.647Z",
+  "lastUpdated": "2026-04-20T12:23:58.650Z",
   "items": [
+    {
+      "id": "ryutsuu-21710c38",
+      "title": "トライアル／福岡県うきは市に「スーパーセンタートライアルうきは吉井店（店舗面積3488m2）」11／24新設",
+      "url": "https://www.ryutsuu.biz/store/s0420001.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-20",
+      "tags": [
+        "トライアル",
+        "スーパー"
+      ]
+    },
+    {
+      "id": "ryutsuu-43504a62",
+      "title": "ロイヤルホスト／「大分空港店」4／24オープン、大分県産食材使った限定メニューも",
+      "url": "https://www.ryutsuu.biz/store/s042011.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-20",
+      "tags": [
+        "オープン"
+      ]
+    },
     {
       "id": "ryutsuu-401128da",
       "title": "コスモス薬品／滋賀県・福岡県に「ドラッグコスモス」計3店舗、11月新設",
@@ -65,6 +90,18 @@
       ]
     },
     {
+      "id": "ryutsuu-d01555a7",
+      "title": "すたみな太郎／岐阜県「PREMIUM BUFFET 可児店」4／25オープン",
+      "url": "https://www.ryutsuu.biz/store/s042078.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-20",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
       "id": "ryutsuu-d3daf67a",
       "title": "サンマルクカフェ／毎月30日チョコクロ9個で30％オフ、4月から全国開催",
       "url": "https://www.ryutsuu.biz/commodity/s042014.html",
@@ -73,18 +110,6 @@
       "category": "商品",
       "date": "2026-04-20",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-92f84db3",
-      "title": "ゴンチャ／東京都足立区に「ルミネ北千住店」4／24オープン",
-      "url": "https://www.ryutsuu.biz/store/s042077.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-20",
-      "tags": [
-        "オープン"
-      ]
     },
     {
       "id": "ryutsuu-c7b6ddb4",
@@ -96,6 +121,18 @@
       "date": "2026-04-20",
       "tags": [
         "リニューアル",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-92f84db3",
+      "title": "ゴンチャ／東京都足立区に「ルミネ北千住店」4／24オープン",
+      "url": "https://www.ryutsuu.biz/store/s042077.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-20",
+      "tags": [
         "オープン"
       ]
     },
@@ -136,18 +173,6 @@
         "オープン",
         "イオン",
         "モール"
-      ]
-    },
-    {
-      "id": "ryutsuu-d01555a7",
-      "title": "すたみな太郎／岐阜県「PREMIUM BUFFET 可児店」4／25オープン",
-      "url": "https://www.ryutsuu.biz/store/s042078.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-20",
-      "tags": [
-        "オープン"
       ]
     },
     {
@@ -296,22 +321,76 @@
       "tags": []
     },
     {
+      "id": "ssnp-d81a9b94",
+      "title": "玩具菓子「ほねほねザウルスリバイバル」イオングループ限定発売\n\t\t\t\t\t\t\t\t\t\t\t\tカバヤ食品は4月27日から順次、全国のイオン・イオンスタイルなどで、「ほねほねザウルスリバイバル」を発売する。 価格は税込715円。店舗によって価格が異なる場合がある。 ■2002年発売のロングセラー玩具菓子 『ほねほね...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/676793/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-04-20",
+      "tags": [
+        "イオン",
+        "食品",
+        "菓子"
+      ]
+    },
+    {
+      "id": "ssnp-814940f3",
+      "title": "【サンマルクカフェの日】毎月30日はチョコクロ 9個セットが30%オフの新キャンペーン誕生【毎月開催】\n\t\t\t\t\t\t\t\t\t\t\t\tカフェ・チェーンのサンマルクカフェは、2026年4月30日より毎月30日を対象に「サンマルクカフェの日」を全国で開始する。 定番商品「チョコクロ」9個セットを通常価格から30%オフの1,570円（税込）で販売する取り組み...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/676783/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-20",
+      "tags": []
+    },
+    {
+      "id": "ssnp-c499063e",
+      "title": "16時以降限定!国産フレッシュパクチー×ガーリックシュリンプのサラダ発売【フレッシュネスバーガー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/676761/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-20",
+      "tags": []
+    },
+    {
+      "id": "ssnp-9010c20c",
+      "title": "【ベビースターラーメン × グリーン豆】相互コラボ、2品発売 / 東海発菓子メーカーの共同企画\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/676751/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-04-20",
+      "tags": [
+        "菓子"
+      ]
+    },
+    {
+      "id": "ssnp-59b93c2e",
+      "title": "【カフェ･ド･クリエ】昨年比1.5倍のミント感が味わえる新作ドリンク「ソルベージュ爽快チョコミント」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/676742/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-20",
+      "tags": []
+    },
+    {
       "id": "ssnp-13f235ea",
-      "title": "日本ハム新社長、攻めの経営へ　「シャウエッセン」など強み活用\n\t\t\t\t\t\t\t\t\t\t\t\t日本ハムは6日、大阪市北区の本社で、4月1日付で社長に就任した前田文男代表取締役社長の就任会見を開いた。前田社長は、「メガブランドのシャウエッセンや、生産･処理･物流･販売を一体で担う食肉事業のバリューチェーン、スポーツ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "日本ハム新社長、攻めの経営へ　「シャウエッセン」など強み活用\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/meat/673636/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "畜産",
       "date": "2026-04-20",
       "tags": [
-        "代表取締役",
-        "物流",
         "社長"
       ]
     },
     {
       "id": "ssnp-de7e4654",
-      "title": "【和食さと】ゴールデンウイーク限定キャンペーン　子どもはソフトクリーム無料、大人は割引メニューあり\n\t\t\t\t\t\t\t\t\t\t\t\t国内に201店舗を展開する和食レストランチェーン「和食さと」では、「ゴールデンウイーク限定キャンペーン」を4月23日から5月6日まで実施する。期間中は、小学生以下の子どもへのソフトクリーム無料提供、黒毛和牛食べ放題コース...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【和食さと】ゴールデンウイーク限定キャンペーン　子どもはソフトクリーム無料、大人は割引メニューあり\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/676733/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -539,19 +618,6 @@
         "ローソン",
         "スーパー",
         "生鮮"
-      ]
-    },
-    {
-      "id": "ryutsuu-130948e8",
-      "title": "ららぽーと和泉／4／23リニューアル第2弾、ONSPOTZ・舎鈴がオープン",
-      "url": "https://www.ryutsuu.biz/store/s041713.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-17",
-      "tags": [
-        "リニューアル",
-        "オープン"
       ]
     },
     {
@@ -880,6 +946,19 @@
       "date": "2026-04-17",
       "tags": [
         "リニューアル"
+      ]
+    },
+    {
+      "id": "ryutsuu-130948e8",
+      "title": "ららぽーと和泉／4／23リニューアル第2弾、ONSPOTZ・舎鈴がオープン",
+      "url": "https://www.ryutsuu.biz/store/s041713.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-17",
+      "tags": [
+        "リニューアル",
+        "オープン"
       ]
     },
     {
@@ -1679,16 +1758,6 @@
       "tags": []
     },
     {
-      "id": "ryutsuu-24318f1e",
-      "title": "三陽商会／平林新体制が5月末に誕生、大江新会長と「ツートップ体制」で業績浮揚へ",
-      "url": "https://www.ryutsuu.biz/strategy/s041543.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-15",
-      "tags": []
-    },
-    {
       "id": "diamond-616aaf9d",
       "title": "ヤオコーが大宮に新規出店！岐阜ではトライアル・コメリが共同出店へ【今週の大店立地法速報】",
       "url": "https://diamond-rm.net/store/542850/",
@@ -1972,6 +2041,16 @@
       "tags": [
         "セブン-イレブン"
       ]
+    },
+    {
+      "id": "ryutsuu-24318f1e",
+      "title": "三陽商会／平林新体制が5月末に誕生、大江新会長と「ツートップ体制」で業績浮揚へ",
+      "url": "https://www.ryutsuu.biz/strategy/s041543.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-04-15",
+      "tags": []
     },
     {
       "id": "ryutsuu-4e90473b",
@@ -3495,91 +3574,6 @@
         "コンビニ",
         "増収",
         "減益"
-      ]
-    },
-    {
-      "id": "diamond-dc4f4aa3",
-      "title": "イオン過去最高益でも消費環境に危機感露わ　吉田社長が進める“攻めの改革”とは",
-      "url": "https://diamond-rm.net/market/accounting/542152/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-04-13",
-      "tags": [
-        "イオン",
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-daf317c7",
-      "title": "【特別レポート】小売業CXトレンド2026―大丸松坂屋事例と最新調査で読む",
-      "url": "https://diamond-rm.net/promotion/pr/533906/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-04-12",
-      "tags": [
-        "大丸松坂屋"
-      ]
-    },
-    {
-      "id": "ssnp-6d545a45",
-      "title": "あんこや抹茶など和素材を使った洋風スイーツ「和モダンスイーツ」4品を販売【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/672648/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-04-12",
-      "tags": []
-    },
-    {
-      "id": "diamond-8cb4a802",
-      "title": "週刊スーパーマーケットニュース　バロー、10年ぶりに福井県に新店をオープン",
-      "url": "https://diamond-rm.net/management/businessplan/542302/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-12",
-      "tags": [
-        "スーパー",
-        "オープン",
-        "新店"
-      ]
-    },
-    {
-      "id": "ssnp-e2e9cf9d",
-      "title": "看板メニュー『大俵ハンバーグ』を「スモークBBQソース」で仕上げた期間限定メニュー登場【ビッグボーイ･ヴィクトリアステーション】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/673117/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-68f0772c",
-      "title": "日本コカ・コーラ、瓶コークで外食の体験価値向上へ 重点エリアを全国10か所に拡大\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/673157/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-04-11",
-      "tags": [
-        "外食"
-      ]
-    },
-    {
-      "id": "diamond-349211e6",
-      "title": "ファミリーマートの冷凍食品が“尖った”戦略でヒットを連発するワケ",
-      "url": "https://diamond-rm.net/sales-promotion/541057/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-11",
-      "tags": [
-        "ファミリーマート",
-        "冷凍食品",
-        "食品"
       ]
     }
   ]
