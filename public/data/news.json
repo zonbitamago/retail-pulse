@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-04-20T18:20:40.088Z",
+  "lastUpdated": "2026-04-21T00:27:13.344Z",
   "items": [
+    {
+      "id": "diamond-c4fa447c",
+      "title": "新生「スーパー玉出」の挑戦　”安かろう悪かろう”のイメージ脱却なるか？",
+      "url": "https://diamond-rm.net/management/businessplan/542668/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-21",
+      "tags": [
+        "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-01fa7175",
+      "title": "関西フードの高付加価値型フォーマット4号店　「阪急オアシスマルシェ池田駅前店」が開業",
+      "url": "https://diamond-rm.net/store/newstorereport/543299/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-21",
+      "tags": [
+        "開業"
+      ]
+    },
+    {
+      "id": "diamond-bad4fc0f",
+      "title": "アダストリアの「＆ST」に隠された“支配のシナリオ”",
+      "url": "https://diamond-rm.net/management/businessplan/543362/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-21",
+      "tags": []
+    },
+    {
+      "id": "diamond-0e21d5b0",
+      "title": "無印良品のカレーが人気の理由は徹底した「現地学習」にあった！",
+      "url": "https://diamond-rm.net/sales-promotion/541087/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-21",
+      "tags": [
+        "無印良品"
+      ]
+    },
+    {
+      "id": "diamond-86ed0ed1",
+      "title": "「イオンスタイル津田沼South」　取材でわかった駅直結モール内核店舗の圧倒的強み",
+      "url": "https://diamond-rm.net/store/newstorereport/542568/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-21",
+      "tags": [
+        "イオン",
+        "モール"
+      ]
+    },
+    {
+      "id": "diamond-bc1e6960",
+      "title": "ベイシアのSC新フォーマット1号店「Beisia Town新狭山店」の売場を徹底解説！",
+      "url": "https://diamond-rm.net/store/newstorereport/542759/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-21",
+      "tags": [
+        "ベイシア",
+        "SC"
+      ]
+    },
     {
       "id": "ryutsuu-21710c38",
       "title": "トライアル／福岡県うきは市に「スーパーセンタートライアルうきは吉井店（店舗面積3488m2）」11／24新設",
@@ -250,32 +322,6 @@
       ]
     },
     {
-      "id": "diamond-e563f542",
-      "title": "「代官山」でも日常使いを意識!　イオンフードスタイルの2号店「フードスタイル代官山店」開業",
-      "url": "https://diamond-rm.net/store/543230/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-20",
-      "tags": [
-        "イオン",
-        "開業"
-      ]
-    },
-    {
-      "id": "diamond-6e08daf0",
-      "title": "マツモトキヨシの渋谷第2の旗艦店「SHIBUYA SCRAMBLE FLAG」を大解剖",
-      "url": "https://diamond-rm.net/store/542486/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-20",
-      "tags": [
-        "マツモトキヨシ",
-        "SC"
-      ]
-    },
-    {
       "id": "diamond-b0bfaf08",
       "title": "第７２回　「柏蔭会」を巡る相剋",
       "url": "https://diamond-rm.net/life-career/535850/",
@@ -295,6 +341,19 @@
       "date": "2026-04-20",
       "tags": [
         "アプリ"
+      ]
+    },
+    {
+      "id": "diamond-e563f542",
+      "title": "「代官山」でも日常使いを意識!　イオンフードスタイルの2号店「フードスタイル代官山店」開業",
+      "url": "https://diamond-rm.net/store/543230/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-20",
+      "tags": [
+        "イオン",
+        "開業"
       ]
     },
     {
@@ -319,6 +378,19 @@
       "category": "経営戦略",
       "date": "2026-04-20",
       "tags": []
+    },
+    {
+      "id": "diamond-6e08daf0",
+      "title": "マツモトキヨシの渋谷第2の旗艦店「SHIBUYA SCRAMBLE FLAG」を大解剖",
+      "url": "https://diamond-rm.net/store/542486/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-20",
+      "tags": [
+        "マツモトキヨシ",
+        "SC"
+      ]
     },
     {
       "id": "ssnp-d81a9b94",
@@ -546,16 +618,6 @@
       ]
     },
     {
-      "id": "diamond-0a96dc36",
-      "title": "流通秀書　第25回『考え方の論理』",
-      "url": "https://diamond-rm.net/life-career/540833/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-18",
-      "tags": []
-    },
-    {
       "id": "diamond-3212d3de",
       "title": "青果売場「お客にとって買いやすくする」ための品揃えに欠かせない重要な考え方",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/541578/",
@@ -590,6 +652,16 @@
       "tags": [
         "オープン"
       ]
+    },
+    {
+      "id": "diamond-0a96dc36",
+      "title": "流通秀書　第25回『考え方の論理』",
+      "url": "https://diamond-rm.net/life-career/540833/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-18",
+      "tags": []
     },
     {
       "id": "ryutsuu-bb05e4a6",
@@ -677,26 +749,6 @@
       "tags": []
     },
     {
-      "id": "diamond-09a5f291",
-      "title": "イズミの新中計を徹底考察！「SM事業」を成長エンジンに“三度目の正直”なるか",
-      "url": "https://diamond-rm.net/management/businessplan/543008/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-17",
-      "tags": []
-    },
-    {
-      "id": "diamond-31c34268",
-      "title": "第７１回　ハイパーインフレ進む",
-      "url": "https://diamond-rm.net/life-career/535849/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-17",
-      "tags": []
-    },
-    {
       "id": "diamond-e8e83d6f",
       "title": "第139回 「縁側の曖昧性」に学ぶショッピングセンターの居心地",
       "url": "https://diamond-rm.net/management/541468/",
@@ -709,12 +761,12 @@
       ]
     },
     {
-      "id": "diamond-a4988d4a",
-      "title": "バイヤーに「売れる確信」を持ってもらうための4つのステップ",
-      "url": "https://diamond-rm.net/sales-promotion/buyer/541566/",
+      "id": "diamond-09a5f291",
+      "title": "イズミの新中計を徹底考察！「SM事業」を成長エンジンに“三度目の正直”なるか",
+      "url": "https://diamond-rm.net/management/businessplan/543008/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "sales-promotion",
+      "category": "経営戦略",
       "date": "2026-04-17",
       "tags": []
     },
@@ -741,6 +793,16 @@
       "tags": [
         "ファミリーマート"
       ]
+    },
+    {
+      "id": "diamond-a4988d4a",
+      "title": "バイヤーに「売れる確信」を持ってもらうための4つのステップ",
+      "url": "https://diamond-rm.net/sales-promotion/buyer/541566/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-17",
+      "tags": []
     },
     {
       "id": "ssnp-3de976e3",
@@ -947,6 +1009,16 @@
       "tags": [
         "リニューアル"
       ]
+    },
+    {
+      "id": "diamond-31c34268",
+      "title": "第７１回　ハイパーインフレ進む",
+      "url": "https://diamond-rm.net/life-career/535849/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-17",
+      "tags": []
     },
     {
       "id": "ryutsuu-130948e8",
@@ -1225,31 +1297,6 @@
       "date": "2026-04-16",
       "tags": [
         "PR"
-      ]
-    },
-    {
-      "id": "diamond-8d91d114",
-      "title": "バローが東京23区に進出へ　大田区内の「オリンピック」の跡地に今秋出店",
-      "url": "https://diamond-rm.net/store/543125/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-16",
-      "tags": [
-        "出店"
-      ]
-    },
-    {
-      "id": "diamond-9eb50c32",
-      "title": "オーケーの大阪市内2店舗目はホームセンター1階に　「オーケー南津守店」の売場を速報！",
-      "url": "https://diamond-rm.net/store/newstorereport/542905/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-16",
-      "tags": [
-        "ホームセンター",
-        "オーケー"
       ]
     },
     {
@@ -1535,6 +1582,31 @@
       ]
     },
     {
+      "id": "diamond-8d91d114",
+      "title": "バローが東京23区に進出へ　大田区内の「オリンピック」の跡地に今秋出店",
+      "url": "https://diamond-rm.net/store/543125/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-16",
+      "tags": [
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-9eb50c32",
+      "title": "オーケーの大阪市内2店舗目はホームセンター1階に　「オーケー南津守店」の売場を速報！",
+      "url": "https://diamond-rm.net/store/newstorereport/542905/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-16",
+      "tags": [
+        "ホームセンター",
+        "オーケー"
+      ]
+    },
+    {
       "id": "diamond-51fb34d6",
       "title": "第７０回　彼はなんとなく人に好かれるんですよ",
       "url": "https://diamond-rm.net/life-career/535848/",
@@ -1758,21 +1830,6 @@
       "tags": []
     },
     {
-      "id": "diamond-616aaf9d",
-      "title": "ヤオコーが大宮に新規出店！岐阜ではトライアル・コメリが共同出店へ【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/542850/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-15",
-      "tags": [
-        "トライアル",
-        "ヤオコー",
-        "コメリ",
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-8ade9a19",
       "title": "イオン北海道、26年2月期は増収増益　27年2月期は小寺新社長のもとで成長加速へ",
       "url": "https://diamond-rm.net/market/542706/",
@@ -1801,6 +1858,16 @@
       ]
     },
     {
+      "id": "diamond-d1b402d8",
+      "title": "【DCS最新号】4月15日号は「流通相関図2026」",
+      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542509/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-15",
+      "tags": []
+    },
+    {
       "id": "diamond-9230681b",
       "title": "【PB相関図2026】新ブランド開発、外部供給拡大……乱戦模様の「PB市場」",
       "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542287/",
@@ -1811,16 +1878,6 @@
       "tags": [
         "PB"
       ]
-    },
-    {
-      "id": "diamond-d1b402d8",
-      "title": "【DCS最新号】4月15日号は「流通相関図2026」",
-      "url": "https://diamond-rm.net/retaildata/distribution-correlations-2022/542509/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-15",
-      "tags": []
     },
     {
       "id": "ssnp-5f2bfd39",
@@ -2040,6 +2097,21 @@
       "date": "2026-04-15",
       "tags": [
         "セブン-イレブン"
+      ]
+    },
+    {
+      "id": "diamond-616aaf9d",
+      "title": "ヤオコーが大宮に新規出店！岐阜ではトライアル・コメリが共同出店へ【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/542850/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-15",
+      "tags": [
+        "トライアル",
+        "ヤオコー",
+        "コメリ",
+        "出店"
       ]
     },
     {
@@ -3498,82 +3570,6 @@
       "date": "2026-04-13",
       "tags": [
         "しまむら"
-      ]
-    },
-    {
-      "id": "ryutsuu-25af59be",
-      "title": "マクドナルド／3月の既存店売上高2.4％増、客数は0.9％減",
-      "url": "https://www.ryutsuu.biz/sales/s041345.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-13",
-      "tags": [
-        "マクドナルド",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-1483c52f",
-      "title": "ビックカメラ／3月の全店売上9.8％増、音響映像商品が12.3％増",
-      "url": "https://www.ryutsuu.biz/sales/s041341.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-13",
-      "tags": [
-        "ビックカメラ"
-      ]
-    },
-    {
-      "id": "ryutsuu-566f887b",
-      "title": "上新電機／3月のグループ売上高2.9％増、エアコンが38.9％増",
-      "url": "https://www.ryutsuu.biz/sales/s041342.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-13",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
-      "id": "diamond-91532a4b",
-      "title": "週刊コンビニエンスストアニュース ポプラが初の総菜専門店「ポプラ福屋広島駅前店」をオープン",
-      "url": "https://diamond-rm.net/management/542408/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-13",
-      "tags": [
-        "コンビニ",
-        "オープン",
-        "専門店"
-      ]
-    },
-    {
-      "id": "diamond-2318cd0a",
-      "title": "第６７回　憧れの一高という場所",
-      "url": "https://diamond-rm.net/life-career/535845/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-13",
-      "tags": []
-    },
-    {
-      "id": "diamond-45604e6a",
-      "title": "構造改革進むセブン＆アイ、「コンビニ専業」となるも国内事業は増収減益",
-      "url": "https://diamond-rm.net/market/542301/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-04-13",
-      "tags": [
-        "セブン＆アイ",
-        "コンビニ",
-        "増収",
-        "減益"
       ]
     }
   ]
