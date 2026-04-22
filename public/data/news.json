@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T06:38:19.685Z",
+  "lastUpdated": "2026-04-22T12:21:46.463Z",
   "items": [
     {
       "id": "ryutsuu-e457bde7",
@@ -15,16 +15,15 @@
       ]
     },
     {
-      "id": "ryutsuu-6c1cdf0b",
-      "title": "カインズ／神奈川県「小田原店」4／25オープン、ペット用の機能も充実",
-      "url": "https://www.ryutsuu.biz/store/s042273.html",
+      "id": "ryutsuu-fba04f7c",
+      "title": "ノジマ／日立の家電事業を1100億円で買収、日立GLSと新会社を設立",
+      "url": "https://www.ryutsuu.biz/strategy/s042242.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "店舗",
+      "category": "経営",
       "date": "2026-04-22",
       "tags": [
-        "カインズ",
-        "オープン"
+        "買収"
       ]
     },
     {
@@ -40,16 +39,39 @@
       ]
     },
     {
-      "id": "ryutsuu-fba04f7c",
-      "title": "ノジマ／日立の家電事業を1100億円で買収、日立GLSと新会社を設立",
-      "url": "https://www.ryutsuu.biz/strategy/s042242.html",
+      "id": "ryutsuu-e5d7f12d",
+      "title": "平和堂グループ／滋賀県に「ピソラ 東近江八日市店」4／23オープン",
+      "url": "https://www.ryutsuu.biz/store/s042275.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "経営",
+      "category": "店舗",
       "date": "2026-04-22",
       "tags": [
-        "買収"
+        "オープン"
       ]
+    },
+    {
+      "id": "ryutsuu-eb6b44bd",
+      "title": "アトレ／台湾「Metro Corner atre 台北駅店」5月開業、スシローのテイクアウト店などオープン",
+      "url": "https://www.ryutsuu.biz/abroad/s042272.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "abroad",
+      "date": "2026-04-22",
+      "tags": [
+        "オープン",
+        "開業"
+      ]
+    },
+    {
+      "id": "ryutsuu-c3726155",
+      "title": "カワチ薬品／宮城県登米市に「登米迫町店」11／10新設",
+      "url": "https://www.ryutsuu.biz/store/s0422012.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-22",
+      "tags": []
     },
     {
       "id": "ryutsuu-14ceabc9",
@@ -60,6 +82,32 @@
       "category": "売上",
       "date": "2026-04-22",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-ca5b8a61",
+      "title": "流通経済研究所／「店頭マーケティング・アナリスト養成講座」6月～7月開催",
+      "url": "https://www.ryutsuu.biz/seminar/s042280.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "seminar",
+      "date": "2026-04-22",
+      "tags": [
+        "PR"
+      ]
+    },
+    {
+      "id": "ryutsuu-f0daceb9",
+      "title": "中部食品／あべのハルカス近鉄本店にどんぶり・総菜専門店4／29オープン",
+      "url": "https://www.ryutsuu.biz/store/s042212.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-22",
+      "tags": [
+        "オープン",
+        "専門店",
+        "食品"
+      ]
     },
     {
       "id": "ryutsuu-8e1db843",
@@ -101,18 +149,6 @@
       ]
     },
     {
-      "id": "ryutsuu-e5d7f12d",
-      "title": "平和堂グループ／滋賀県に「ピソラ 東近江八日市店」4／23オープン",
-      "url": "https://www.ryutsuu.biz/store/s042275.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-22",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
       "id": "ryutsuu-44447375",
       "title": "一風堂／千葉県流山市に初進出「流山おおたかの森S.C.店」4／28オープン",
       "url": "https://www.ryutsuu.biz/store/s042241.html",
@@ -122,33 +158,6 @@
       "date": "2026-04-22",
       "tags": [
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-f0daceb9",
-      "title": "中部食品／あべのハルカス近鉄本店にどんぶり・総菜専門店4／29オープン",
-      "url": "https://www.ryutsuu.biz/store/s042212.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-22",
-      "tags": [
-        "オープン",
-        "専門店",
-        "食品"
-      ]
-    },
-    {
-      "id": "ryutsuu-eb6b44bd",
-      "title": "アトレ／台湾「Metro Corner atre 台北駅店」5月開業、スシローのテイクアウト店などオープン",
-      "url": "https://www.ryutsuu.biz/abroad/s042272.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "abroad",
-      "date": "2026-04-22",
-      "tags": [
-        "オープン",
-        "開業"
       ]
     },
     {
@@ -165,16 +174,6 @@
       ]
     },
     {
-      "id": "ryutsuu-c3726155",
-      "title": "カワチ薬品／宮城県登米市に「登米迫町店」11／10新設",
-      "url": "https://www.ryutsuu.biz/store/s0422012.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-22",
-      "tags": []
-    },
-    {
       "id": "ryutsuu-f92f5711",
       "title": "大屋／香川県高松市に「mac香川町店」10／28新設",
       "url": "https://www.ryutsuu.biz/store/s0422011.html",
@@ -183,6 +182,18 @@
       "category": "店舗",
       "date": "2026-04-22",
       "tags": []
+    },
+    {
+      "id": "diamond-52182efa",
+      "title": "松源が大阪・浪速区に「都市型店舗」を新規出店へ【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/543533/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-22",
+      "tags": [
+        "出店"
+      ]
     },
     {
       "id": "diamond-b41ef694",
@@ -285,8 +296,28 @@
       ]
     },
     {
+      "id": "ssnp-3b22ea1d",
+      "title": "ピザーラで定番ピザが最大400円オフ 「ロングセラー商品 お試しキャンペーン」第2弾開催\n\t\t\t\t\t\t\t\t\t\t\t\tピザチェーンの「PIZZA-LA」は、4月22日(水)から5月13日(水)までの期間限定で、「ピザーラ創業祭」の一環として「ロングセラー商品 お試しキャンペーン」第2弾を実施する。長年愛される人気ピザに加え、期間限定の人...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679054/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-22",
+      "tags": []
+    },
+    {
+      "id": "ssnp-2eb896ae",
+      "title": "対象メニューが全て半額（何皿でも）、いずれも500円以下に　ジンギスカン専門チェーンがイベント開催\n\t\t\t\t\t\t\t\t\t\t\t\tジンギスカン専門チェーン「大衆ジンギスカン酒場ラムちゃん」（以下：ラムちゃん）は、2026年4月27日(月)から29日(祝水)までの3日間、「羊肉の日」イベントを開催する。 【画像】対象メニューを全て見る 同イベントは昨...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679009/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-22",
+      "tags": []
+    },
+    {
       "id": "ssnp-7a8d68af",
-      "title": "【なか卯】7種のスパイスで本格四川風の味わいに…「痺辛麻辣冷やし担々うどん」発売\n\t\t\t\t\t\t\t\t\t\t\t\t丼ぶりと京風うどんの「なか卯」は、2026年4月28日（火）11時から、「痺辛麻辣（シビカラマーラー）冷やし担々うどん」を販売する。 同商品は、夏の定番商品「冷やし担々うどん」をベースに、白髪ねぎと、クミンや八角など7種...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【なか卯】7種のスパイスで本格四川風の味わいに…「痺辛麻辣冷やし担々うどん」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/678981/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -296,7 +327,7 @@
     },
     {
       "id": "ssnp-e09bf702",
-      "title": "サーロインステーキが最大66%増量!「肉の日 お客様感謝デー」を開催【ステーキのあさくま】\n\t\t\t\t\t\t\t\t\t\t\t\t東海地方を中心に展開する「ステーキのあさくま」は、2026年4月25日･26日に「肉の日 お客様感謝デー」を開催する。ランチタイムからディナータイムまで、人気メニューの「サーロインステーキ」を50～66%増量して提供する...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "サーロインステーキが最大66%増量!「肉の日 お客様感謝デー」を開催【ステーキのあさくま】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/678983/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -423,6 +454,19 @@
       ]
     },
     {
+      "id": "ryutsuu-6c1cdf0b",
+      "title": "カインズ／神奈川県「小田原店」4／25オープン、ペット用の機能も充実",
+      "url": "https://www.ryutsuu.biz/store/s042273.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-22",
+      "tags": [
+        "カインズ",
+        "オープン"
+      ]
+    },
+    {
       "id": "ryutsuu-3e8bff42",
       "title": "コンビニ3社の業績比較（後編）／ミニスーパーとの競争も激化、独自価値で顧客獲得へ",
       "url": "https://www.ryutsuu.biz/strategy/s042142.html",
@@ -527,18 +571,6 @@
       ]
     },
     {
-      "id": "diamond-01fa7175",
-      "title": "関西フードの高付加価値型フォーマット4号店　「阪急オアシスマルシェ池田駅前店」が開業",
-      "url": "https://diamond-rm.net/store/newstorereport/543299/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-21",
-      "tags": [
-        "開業"
-      ]
-    },
-    {
       "id": "diamond-9b4c3601",
       "title": "【動画】4月3週目の注目フラッシュニュースまとめ、イオン、セブン&アイの決算など",
       "url": "https://diamond-rm.net/management/businessplan/543475/",
@@ -574,6 +606,16 @@
       ]
     },
     {
+      "id": "diamond-bad4fc0f",
+      "title": "アダストリアの「＆ST」に隠された“支配のシナリオ”",
+      "url": "https://diamond-rm.net/management/businessplan/543362/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-21",
+      "tags": []
+    },
+    {
       "id": "diamond-bc1e6960",
       "title": "ベイシアのSC新フォーマット1号店「Beisia Town新狭山店」の売場を徹底解説！",
       "url": "https://diamond-rm.net/store/newstorereport/542759/",
@@ -585,16 +627,6 @@
         "ベイシア",
         "SC"
       ]
-    },
-    {
-      "id": "diamond-bad4fc0f",
-      "title": "アダストリアの「＆ST」に隠された“支配のシナリオ”",
-      "url": "https://diamond-rm.net/management/businessplan/543362/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-21",
-      "tags": []
     },
     {
       "id": "diamond-86ed0ed1",
@@ -826,6 +858,18 @@
       "date": "2026-04-21",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-01fa7175",
+      "title": "関西フードの高付加価値型フォーマット4号店　「阪急オアシスマルシェ池田駅前店」が開業",
+      "url": "https://diamond-rm.net/store/newstorereport/543299/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-21",
+      "tags": [
+        "開業"
       ]
     },
     {
@@ -3469,51 +3513,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
-      "date": "2026-04-14",
-      "tags": []
-    },
-    {
-      "id": "diamond-f85a76cd",
-      "title": "【決算解説Part3 応用編】あなたも小売分析が可能に！業績を「流れ」で理解する方法",
-      "url": "https://diamond-rm.net/market/accounting/541690/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-04-14",
-      "tags": [
-        "決算"
-      ]
-    },
-    {
-      "id": "diamond-e1d85beb",
-      "title": "アークス、26年2月期本決算は過去最高売上　猫宮社長がラルズ社長を兼任へ",
-      "url": "https://diamond-rm.net/market/accounting/542666/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-04-14",
-      "tags": [
-        "決算",
-        "社長"
-      ]
-    },
-    {
-      "id": "ssnp-4be5a614",
-      "title": "【ハイボール180円】壱角家、通常480円→180円　物価高応援フェア\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/673402/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-89e58e01",
-      "title": "プリマハムが「香薫あらびきポーク」で新TVCM、4月20日から放映開始\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/meat/673394/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "畜産",
       "date": "2026-04-14",
       "tags": []
     }
