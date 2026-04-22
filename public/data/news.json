@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-04-21T18:23:16.582Z",
+  "lastUpdated": "2026-04-22T00:24:33.018Z",
   "items": [
+    {
+      "id": "diamond-b41ef694",
+      "title": "EC成長のカギを握る「顧客体験の高度化」と「物流DX」",
+      "url": "https://diamond-rm.net/ec-epayment/542601/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "ec-epayment",
+      "date": "2026-04-22",
+      "tags": [
+        "EC",
+        "DX",
+        "物流"
+      ]
+    },
+    {
+      "id": "diamond-2ddc6253",
+      "title": "ダイエーとエフピコが「エコストア協働宣言」 近畿187店舗で水平リサイクルを推進",
+      "url": "https://diamond-rm.net/management/sdgsesg/543490/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-22",
+      "tags": []
+    },
+    {
+      "id": "diamond-d0819078",
+      "title": "2層の都市型小型店最新モデル！建て替えオープンした「サミット西小山店」を徹底解剖",
+      "url": "https://diamond-rm.net/store/newstorereport/541840/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-22",
+      "tags": [
+        "サミット",
+        "オープン",
+        "建て替え"
+      ]
+    },
+    {
+      "id": "diamond-2e9ab104",
+      "title": "思わず鬼リピしたくなる！安くておいしいスーパー「ベルク」のおすすめ弁当",
+      "url": "https://diamond-rm.net/sales-promotion/541329/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-22",
+      "tags": [
+        "スーパー",
+        "ベルク",
+        "弁当"
+      ]
+    },
+    {
+      "id": "diamond-2f429f85",
+      "title": "「DS.INSIGHT」で読み解く「韓国食品」の最新トレンド",
+      "url": "https://diamond-rm.net/promotion/pr/542869/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "promotion",
+      "date": "2026-04-22",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-4ebb1d2e",
+      "title": "300円台の値ごろな弁当でコスパをアピール、3月オープン「ライフ板橋富士見店」の勝ち筋",
+      "url": "https://diamond-rm.net/store/newstorereport/541609/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-22",
+      "tags": [
+        "オープン",
+        "ライフ",
+        "弁当"
+      ]
+    },
     {
       "id": "ryutsuu-2034413f",
       "title": "沖縄県西原町／サンエー西原シティ4／24リニューアル、ユニクロなど13店舗オープン",
@@ -214,28 +292,6 @@
       ]
     },
     {
-      "id": "diamond-bad4fc0f",
-      "title": "アダストリアの「＆ST」に隠された“支配のシナリオ”",
-      "url": "https://diamond-rm.net/management/businessplan/543362/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-21",
-      "tags": []
-    },
-    {
-      "id": "diamond-0e21d5b0",
-      "title": "無印良品のカレーが人気の理由は徹底した「現地学習」にあった！",
-      "url": "https://diamond-rm.net/sales-promotion/541087/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-21",
-      "tags": [
-        "無印良品"
-      ]
-    },
-    {
       "id": "diamond-9b4c3601",
       "title": "【動画】4月3週目の注目フラッシュニュースまとめ、イオン、セブン&アイの決算など",
       "url": "https://diamond-rm.net/management/businessplan/543475/",
@@ -284,6 +340,16 @@
       ]
     },
     {
+      "id": "diamond-bad4fc0f",
+      "title": "アダストリアの「＆ST」に隠された“支配のシナリオ”",
+      "url": "https://diamond-rm.net/management/businessplan/543362/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-21",
+      "tags": []
+    },
+    {
       "id": "diamond-86ed0ed1",
       "title": "「イオンスタイル津田沼South」　取材でわかった駅直結モール内核店舗の圧倒的強み",
       "url": "https://diamond-rm.net/store/newstorereport/542568/",
@@ -294,6 +360,18 @@
       "tags": [
         "イオン",
         "モール"
+      ]
+    },
+    {
+      "id": "diamond-0e21d5b0",
+      "title": "無印良品のカレーが人気の理由は徹底した「現地学習」にあった！",
+      "url": "https://diamond-rm.net/sales-promotion/541087/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-21",
+      "tags": [
+        "無印良品"
       ]
     },
     {
@@ -596,38 +674,12 @@
       ]
     },
     {
-      "id": "diamond-e563f542",
-      "title": "「代官山」でも日常使いを意識!　イオンフードスタイルの2号店「フードスタイル代官山店」開業",
-      "url": "https://diamond-rm.net/store/543230/",
+      "id": "diamond-4c760859",
+      "title": "小売マーケティングの戦術を整理するために押さえておきたい11の質問",
+      "url": "https://diamond-rm.net/management/marketing/541583/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-20",
-      "tags": [
-        "イオン",
-        "開業"
-      ]
-    },
-    {
-      "id": "diamond-6e08daf0",
-      "title": "マツモトキヨシの渋谷第2の旗艦店「SHIBUYA SCRAMBLE FLAG」を大解剖",
-      "url": "https://diamond-rm.net/store/542486/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-20",
-      "tags": [
-        "マツモトキヨシ",
-        "SC"
-      ]
-    },
-    {
-      "id": "diamond-b0bfaf08",
-      "title": "第７２回　「柏蔭会」を巡る相剋",
-      "url": "https://diamond-rm.net/life-career/535850/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
+      "category": "経営戦略",
       "date": "2026-04-20",
       "tags": []
     },
@@ -641,29 +693,6 @@
       "date": "2026-04-20",
       "tags": [
         "アプリ"
-      ]
-    },
-    {
-      "id": "diamond-4c760859",
-      "title": "小売マーケティングの戦術を整理するために押さえておきたい11の質問",
-      "url": "https://diamond-rm.net/management/marketing/541583/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-20",
-      "tags": []
-    },
-    {
-      "id": "diamond-276e054e",
-      "title": "ヤオコー新浦安店が3月に大改装、国道16号線より南エリアの旗艦店は何がどう変わったか",
-      "url": "https://diamond-rm.net/store/newstorereport/541587/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-20",
-      "tags": [
-        "ヤオコー",
-        "改装"
       ]
     },
     {
@@ -865,6 +894,55 @@
       "category": "feeding",
       "date": "2026-04-20",
       "tags": []
+    },
+    {
+      "id": "diamond-e563f542",
+      "title": "「代官山」でも日常使いを意識!　イオンフードスタイルの2号店「フードスタイル代官山店」開業",
+      "url": "https://diamond-rm.net/store/543230/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-20",
+      "tags": [
+        "イオン",
+        "開業"
+      ]
+    },
+    {
+      "id": "diamond-6e08daf0",
+      "title": "マツモトキヨシの渋谷第2の旗艦店「SHIBUYA SCRAMBLE FLAG」を大解剖",
+      "url": "https://diamond-rm.net/store/542486/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-20",
+      "tags": [
+        "マツモトキヨシ",
+        "SC"
+      ]
+    },
+    {
+      "id": "diamond-b0bfaf08",
+      "title": "第７２回　「柏蔭会」を巡る相剋",
+      "url": "https://diamond-rm.net/life-career/535850/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-20",
+      "tags": []
+    },
+    {
+      "id": "diamond-276e054e",
+      "title": "ヤオコー新浦安店が3月に大改装、国道16号線より南エリアの旗艦店は何がどう変わったか",
+      "url": "https://diamond-rm.net/store/newstorereport/541587/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-20",
+      "tags": [
+        "ヤオコー",
+        "改装"
+      ]
     },
     {
       "id": "ryutsuu-df501fbe",
@@ -1796,18 +1874,6 @@
       "tags": []
     },
     {
-      "id": "diamond-e52bbc3e",
-      "title": "年間販売個数2.8億食でギネス記録認定！ローソン「からあげクン」の新成長戦略",
-      "url": "https://diamond-rm.net/sales-promotion/pb/542714/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-16",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
       "id": "ssnp-8034378f",
       "title": "【唐揚げor煮玉子が無料】餃子の王将、レシート提示でもらえる　ドリンク50円引きも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/676324/",
@@ -2028,6 +2094,18 @@
       "tags": [
         "冷凍食品",
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-e52bbc3e",
+      "title": "年間販売個数2.8億食でギネス記録認定！ローソン「からあげクン」の新成長戦略",
+      "url": "https://diamond-rm.net/sales-promotion/pb/542714/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-16",
+      "tags": [
+        "ローソン"
       ]
     },
     {
@@ -3461,81 +3539,6 @@
       "tags": [
         "営業利益",
         "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-60a3ddf3",
-      "title": "ドトール・日レスHD 決算／2月期増収増益、店舗数拡大・コスト管理などの施策奏功",
-      "url": "https://www.ryutsuu.biz/accounts/s041484.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-14",
-      "tags": [
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-c5edb983",
-      "title": "大阪屋ショップ／愛知県日進市に「日進店（店舗面積3281m2）」10／14新設",
-      "url": "https://www.ryutsuu.biz/store/s0414011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-14",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-ca7de782",
-      "title": "ミスターマックス／広島県（店舗面積2617m2）・熊本県（店舗面積4397m2）に計2店舗、11月新設",
-      "url": "https://www.ryutsuu.biz/store/s0414012.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-14",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-17d1b081",
-      "title": "カジュアル衣料4社／3月の既存店売上高はユニクロ9.2％増、しまむら8.5％増",
-      "url": "https://www.ryutsuu.biz/sales/s041442.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-14",
-      "tags": [
-        "ユニクロ",
-        "しまむら",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-7a5306f0",
-      "title": "牛丼3社／3月既存店売上高、すき家5.6％増・吉野家12.9％増・松屋9.3％増",
-      "url": "https://www.ryutsuu.biz/sales/s041441.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-14",
-      "tags": [
-        "吉野家",
-        "売上高",
-        "松屋"
-      ]
-    },
-    {
-      "id": "ryutsuu-e7c0755f",
-      "title": "DCM／3月の既存店売上高0.2％増、客数1.7％減",
-      "url": "https://www.ryutsuu.biz/sales/s041472.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-14",
-      "tags": [
-        "DCM",
-        "売上高"
       ]
     }
   ]
