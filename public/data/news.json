@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-04-22T18:23:24.228Z",
+  "lastUpdated": "2026-04-23T00:29:13.697Z",
   "items": [
+    {
+      "id": "diamond-b15750a2",
+      "title": "総菜が大進化!?　関西最新店「MEGAドン・キホーテ交野店」の食品売場をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/543270/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-23",
+      "tags": [
+        "ドン・キホーテ",
+        "食品",
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-8bf04667",
+      "title": "新社長就任、新業態開発、AJS加盟……沖縄の食品スーパー・野嵩商会の成長戦略",
+      "url": "https://diamond-rm.net/management/businessplan/543598/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-23",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-95b65cc0",
+      "title": "サンデー大南淳二社長が激白！イオングループのリソース活用による「聖域なき事業改革」の全容",
+      "url": "https://diamond-rm.net/management/topinterview/543157/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-23",
+      "tags": [
+        "イオン",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-5bac542e",
+      "title": "さいたま市の激戦区になぐり込み！「生鮮市場TOP大成店」の注目ポイント",
+      "url": "https://diamond-rm.net/store/newstorereport/541864/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-23",
+      "tags": [
+        "生鮮"
+      ]
+    },
     {
       "id": "ryutsuu-e457bde7",
       "title": "トライアル／山口県山口市に「スーパーセンタートライアル山口小郡店（店舗面積4274m2）11／7新設",
@@ -210,44 +264,6 @@
       ]
     },
     {
-      "id": "diamond-2ddc6253",
-      "title": "ダイエーとエフピコが「エコストア協働宣言」 近畿187店舗で水平リサイクルを推進",
-      "url": "https://diamond-rm.net/management/sdgsesg/543490/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-22",
-      "tags": []
-    },
-    {
-      "id": "diamond-d0819078",
-      "title": "2層の都市型小型店最新モデル！建て替えオープンした「サミット西小山店」を徹底解剖",
-      "url": "https://diamond-rm.net/store/newstorereport/541840/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-22",
-      "tags": [
-        "サミット",
-        "オープン",
-        "建て替え"
-      ]
-    },
-    {
-      "id": "diamond-2e9ab104",
-      "title": "思わず鬼リピしたくなる！安くておいしいスーパー「ベルク」のおすすめ弁当",
-      "url": "https://diamond-rm.net/sales-promotion/541329/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-22",
-      "tags": [
-        "スーパー",
-        "ベルク",
-        "弁当"
-      ]
-    },
-    {
       "id": "diamond-5de6646d",
       "title": "第７４回　満たされゆく腹、乏しいままの懐",
       "url": "https://diamond-rm.net/life-career/535852/",
@@ -279,6 +295,44 @@
       "date": "2026-04-22",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-2ddc6253",
+      "title": "ダイエーとエフピコが「エコストア協働宣言」 近畿187店舗で水平リサイクルを推進",
+      "url": "https://diamond-rm.net/management/sdgsesg/543490/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-22",
+      "tags": []
+    },
+    {
+      "id": "diamond-2e9ab104",
+      "title": "思わず鬼リピしたくなる！安くておいしいスーパー「ベルク」のおすすめ弁当",
+      "url": "https://diamond-rm.net/sales-promotion/541329/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-22",
+      "tags": [
+        "スーパー",
+        "ベルク",
+        "弁当"
+      ]
+    },
+    {
+      "id": "diamond-d0819078",
+      "title": "2層の都市型小型店最新モデル！建て替えオープンした「サミット西小山店」を徹底解剖",
+      "url": "https://diamond-rm.net/store/newstorereport/541840/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-22",
+      "tags": [
+        "サミット",
+        "オープン",
+        "建て替え"
       ]
     },
     {
@@ -559,18 +613,6 @@
       ]
     },
     {
-      "id": "diamond-c4fa447c",
-      "title": "新生「スーパー玉出」の挑戦　”安かろう悪かろう”のイメージ脱却なるか？",
-      "url": "https://diamond-rm.net/management/businessplan/542668/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-21",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
       "id": "diamond-9b4c3601",
       "title": "【動画】4月3週目の注目フラッシュニュースまとめ、イオン、セブン&アイの決算など",
       "url": "https://diamond-rm.net/management/businessplan/543475/",
@@ -582,16 +624,6 @@
         "イオン",
         "決算"
       ]
-    },
-    {
-      "id": "diamond-642f83b3",
-      "title": "第７３回　一高自治寮制史",
-      "url": "https://diamond-rm.net/life-career/535851/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-21",
-      "tags": []
     },
     {
       "id": "diamond-abd581a9",
@@ -614,32 +646,6 @@
       "category": "経営戦略",
       "date": "2026-04-21",
       "tags": []
-    },
-    {
-      "id": "diamond-bc1e6960",
-      "title": "ベイシアのSC新フォーマット1号店「Beisia Town新狭山店」の売場を徹底解説！",
-      "url": "https://diamond-rm.net/store/newstorereport/542759/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-21",
-      "tags": [
-        "ベイシア",
-        "SC"
-      ]
-    },
-    {
-      "id": "diamond-86ed0ed1",
-      "title": "「イオンスタイル津田沼South」　取材でわかった駅直結モール内核店舗の圧倒的強み",
-      "url": "https://diamond-rm.net/store/newstorereport/542568/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-21",
-      "tags": [
-        "イオン",
-        "モール"
-      ]
     },
     {
       "id": "diamond-0e21d5b0",
@@ -861,6 +867,54 @@
       ]
     },
     {
+      "id": "diamond-c4fa447c",
+      "title": "新生「スーパー玉出」の挑戦　”安かろう悪かろう”のイメージ脱却なるか？",
+      "url": "https://diamond-rm.net/management/businessplan/542668/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-21",
+      "tags": [
+        "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-642f83b3",
+      "title": "第７３回　一高自治寮制史",
+      "url": "https://diamond-rm.net/life-career/535851/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-21",
+      "tags": []
+    },
+    {
+      "id": "diamond-bc1e6960",
+      "title": "ベイシアのSC新フォーマット1号店「Beisia Town新狭山店」の売場を徹底解説！",
+      "url": "https://diamond-rm.net/store/newstorereport/542759/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-21",
+      "tags": [
+        "ベイシア",
+        "SC"
+      ]
+    },
+    {
+      "id": "diamond-86ed0ed1",
+      "title": "「イオンスタイル津田沼South」　取材でわかった駅直結モール内核店舗の圧倒的強み",
+      "url": "https://diamond-rm.net/store/newstorereport/542568/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-21",
+      "tags": [
+        "イオン",
+        "モール"
+      ]
+    },
+    {
       "id": "diamond-01fa7175",
       "title": "関西フードの高付加価値型フォーマット4号店　「阪急オアシスマルシェ池田駅前店」が開業",
       "url": "https://diamond-rm.net/store/newstorereport/543299/",
@@ -1043,16 +1097,6 @@
       "tags": [
         "菓子"
       ]
-    },
-    {
-      "id": "diamond-4c760859",
-      "title": "小売マーケティングの戦術を整理するために押さえておきたい11の質問",
-      "url": "https://diamond-rm.net/management/marketing/541583/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-20",
-      "tags": []
     },
     {
       "id": "diamond-2ae93dd4",
@@ -1263,6 +1307,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "feeding",
+      "date": "2026-04-20",
+      "tags": []
+    },
+    {
+      "id": "diamond-4c760859",
+      "title": "小売マーケティングの戦術を整理するために押さえておきたい11の質問",
+      "url": "https://diamond-rm.net/management/marketing/541583/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-04-20",
       "tags": []
     },
@@ -2260,16 +2314,6 @@
       "tags": []
     },
     {
-      "id": "diamond-5441e565",
-      "title": "JA全農加盟で総売上4兆円に！ 巨大共同仕入、ニチリウの現在",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/532862/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-16",
-      "tags": []
-    },
-    {
       "id": "ssnp-8034378f",
       "title": "【唐揚げor煮玉子が無料】餃子の王将、レシート提示でもらえる　ドリンク50円引きも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/676324/",
@@ -2491,6 +2535,16 @@
         "冷凍食品",
         "食品"
       ]
+    },
+    {
+      "id": "diamond-5441e565",
+      "title": "JA全農加盟で総売上4兆円に！ 巨大共同仕入、ニチリウの現在",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/532862/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-16",
+      "tags": []
     },
     {
       "id": "ryutsuu-c774d758",
@@ -3470,46 +3524,6 @@
       "id": "ssnp-204ed2de",
       "title": "【やよい軒】麻婆豆腐×麻婆茄子を一皿に　四川風「麻婆茄子豆腐定食」登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/673458/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-6421418b",
-      "title": "【ファミマ】「超も～っちりパン」シリーズの新作は“も～っちり食感”のチョコメロンパン&チーズパン\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/673450/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-04-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-74363f73",
-      "title": "【ココイチ】ココナッツミルク･青唐辛子･スパイスを組み合わせた「ケララチキンスパイスカレー」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/673443/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-3242d411",
-      "title": "『北海道産 ほたて』『蟹いくら包み』が140円で食べられる「かっぱの北海道祭り」開催【かっぱ寿司】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/673426/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-20beddbd",
-      "title": "【4本1200円～】ゆず庵、本ずわいがに＆有頭海老しゃぶ　期間限定で提供\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/673412/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
