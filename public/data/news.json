@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T06:38:52.327Z",
+  "lastUpdated": "2026-04-23T12:22:13.511Z",
   "items": [
     {
       "id": "ryutsuu-cdc6464c",
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "diamond-5bac542e",
-      "title": "さいたま市の激戦区になぐり込み！「生鮮市場TOP大成店」の注目ポイント",
-      "url": "https://diamond-rm.net/store/newstorereport/541864/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-23",
-      "tags": [
-        "生鮮"
-      ]
-    },
-    {
       "id": "diamond-39de6747",
       "title": "第７５回　渥美俊一と共済部",
       "url": "https://diamond-rm.net/life-career/535853/",
@@ -180,8 +168,100 @@
       "tags": []
     },
     {
+      "id": "diamond-5bac542e",
+      "title": "さいたま市の激戦区になぐり込み！「生鮮市場TOP大成店」の注目ポイント",
+      "url": "https://diamond-rm.net/store/newstorereport/541864/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-23",
+      "tags": [
+        "生鮮"
+      ]
+    },
+    {
+      "id": "ssnp-2ef0ab7d",
+      "title": "バーガーキングから新サンデーシリーズ「キングフュージョン」が新登場　『パイナップル&ワッフルサンデー』を期間限定発売\n\t\t\t\t\t\t\t\t\t\t\t\tハンバーガーチェーンのバーガーキングは4月24日より、新サンデーシリーズ「キングフュージョン」の第1弾として『キングフュージョン パイナップル&ワッフルサンデー』を期間限定で発売する。価格は税込490円。 同シリ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679311/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-23",
+      "tags": []
+    },
+    {
+      "id": "ssnp-f3f5f873",
+      "title": "【4月24日開始】ハッピーセット第2弾　サンリオ＆トミカ新おもちゃ全10種（シークレット含む）\n\t\t\t\t\t\t\t\t\t\t\t\tハンバーガーチェーン「マクドナルド」は4月24日から、子ども向けメニュー「ハッピーセット」において、「サンリオキャラクターズ」と「トミカ」の第2弾おもちゃを期間限定で提供する。 今回のおもちゃは、第1弾（4月10日～4月...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679270/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-23",
+      "tags": [
+        "マクドナルド"
+      ]
+    },
+    {
+      "id": "ssnp-b7d47a1d",
+      "title": "牛丼並盛弁当2個で864円に　まとめ買いで割引、3・4個も対象【吉野家】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679263/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-23",
+      "tags": [
+        "吉野家",
+        "弁当"
+      ]
+    },
+    {
+      "id": "ssnp-c218e1ba",
+      "title": "牛角が2026年春夏メニューを刷新　トッピング･タレを16種に拡充、“醤ダレ”カルビ復活、新メニューも登場【4月23日から】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679233/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-23",
+      "tags": []
+    },
+    {
+      "id": "ssnp-71427ad0",
+      "title": "【総選挙3位が復活】松屋「トンテキ定食」再登場　分厚い豚肉×にんにく濃厚ダレ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679226/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-23",
+      "tags": [
+        "松屋"
+      ]
+    },
+    {
+      "id": "ssnp-a15ad6a3",
+      "title": "【夢庵】『国産赤肉メロンデザート』を販売開始、メロンをまるっと半玉使ったサンデーなど\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679208/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-23",
+      "tags": []
+    },
+    {
+      "id": "ssnp-9bfd8dec",
+      "title": "寿司盛り合わせが“半額”に　3100円→1550円、3480円→1740円　新店オープン【築地日本海 築地本店】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679184/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-23",
+      "tags": [
+        "オープン",
+        "新店"
+      ]
+    },
+    {
       "id": "ssnp-ea28f7c6",
-      "title": "ミスタードーナツ、“サク×ぽふん”って何？新食感ドーナツ＆フローズン登場\n\t\t\t\t\t\t\t\t\t\t\t\t〈食感で差別化　来店動機を創出〉 ダスキンが展開するミスタードーナツは、新商品発表会を開催し、“新感覚コレクション”としてドーナツ「サクぽふん」とフローズンドリンク「シャリもぐフルーツフローズン」を発表した。 発売は4月...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ミスタードーナツ、“サク×ぽふん”って何？新食感ドーナツ＆フローズン登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/679171/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -191,7 +271,7 @@
     },
     {
       "id": "ssnp-f9dd4001",
-      "title": "麺やスープだけでなく丼も冷やす　夏季限定「冷やかけ中華そば」発売【中華そば専門 田中そば店】\n\t\t\t\t\t\t\t\t\t\t\t\t「中華そば専門 田中そば店」は、夏季限定メニューの「冷やかけ中華そば」を2026年4月25日(土)から、関東エリアと愛知県内の店舗のみで先行販売する。宮城県内の店舗は5月中旬以降に順次販売を開始する。 【画像】この記事の...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "麺やスープだけでなく丼も冷やす　夏季限定「冷やかけ中華そば」発売【中華そば専門 田中そば店】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/679151/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -413,6 +493,20 @@
       ]
     },
     {
+      "id": "diamond-d0819078",
+      "title": "2層の都市型小型店最新モデル！建て替えオープンした「サミット西小山店」を徹底解剖",
+      "url": "https://diamond-rm.net/store/newstorereport/541840/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-22",
+      "tags": [
+        "サミット",
+        "オープン",
+        "建て替え"
+      ]
+    },
+    {
       "id": "diamond-5de6646d",
       "title": "第７４回　満たされゆく腹、乏しいままの懐",
       "url": "https://diamond-rm.net/life-career/535852/",
@@ -468,20 +562,6 @@
         "スーパー",
         "ベルク",
         "弁当"
-      ]
-    },
-    {
-      "id": "diamond-d0819078",
-      "title": "2層の都市型小型店最新モデル！建て替えオープンした「サミット西小山店」を徹底解剖",
-      "url": "https://diamond-rm.net/store/newstorereport/541840/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-22",
-      "tags": [
-        "サミット",
-        "オープン",
-        "建て替え"
       ]
     },
     {
@@ -1985,18 +2065,6 @@
       ]
     },
     {
-      "id": "ryutsuu-521d4f3d",
-      "title": "イオン／iAEON内に「イオンオーナーズクラブ」リリース、個人株主との接点拡大",
-      "url": "https://www.ryutsuu.biz/strategy/s041779.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-17",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
       "id": "ryutsuu-5f9aa9d7",
       "title": "アイスクリーム 売上ランキング／3月は森永乳業「PARM チョコレート」が1位",
       "url": "https://www.ryutsuu.biz/pos/s041742.html",
@@ -2278,6 +2346,18 @@
       "date": "2026-04-17",
       "tags": [
         "リニューアル"
+      ]
+    },
+    {
+      "id": "ryutsuu-521d4f3d",
+      "title": "イオン／iAEON内に「イオンオーナーズクラブ」リリース、個人株主との接点拡大",
+      "url": "https://www.ryutsuu.biz/strategy/s041779.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-04-17",
+      "tags": [
+        "イオン"
       ]
     },
     {
@@ -3430,93 +3510,6 @@
       "category": "経営",
       "date": "2026-04-15",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-4e90473b",
-      "title": "イズミ／新中計発表、30年度営業収益7000億円・営業利益350億円目指す",
-      "url": "https://www.ryutsuu.biz/strategy/s041511.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-15",
-      "tags": [
-        "営業利益"
-      ]
-    },
-    {
-      "id": "ryutsuu-68ba5007",
-      "title": "DCM／29年2月期売上高6500億円・営業利益423億円目標、顧客視点の中計発表",
-      "url": "https://www.ryutsuu.biz/strategy/s041512.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-15",
-      "tags": [
-        "営業利益",
-        "DCM",
-        "売上高"
-      ]
-    },
-    {
-      "id": "diamond-8a42ef33",
-      "title": "初の「イオンタウン」への出店！「マルエツイオンタウン東浦和店」をレポート",
-      "url": "https://diamond-rm.net/store/541867/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-15",
-      "tags": [
-        "マルエツ",
-        "イオン",
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-0118964e",
-      "title": "ワークマン 新商品／気温45度想定で酷暑＆UV対策強化「猛暑こそビジネスチャンス」",
-      "url": "https://www.ryutsuu.biz/commodity/s041542.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-04-15",
-      "tags": [
-        "注目",
-        "ワークマン"
-      ]
-    },
-    {
-      "id": "ryutsuu-566c3869",
-      "title": "ワークマン／リカバリーウェア「メディヒール」1～3月で累計522万点を販売",
-      "url": "https://www.ryutsuu.biz/commodity/s041541.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-04-15",
-      "tags": [
-        "ワークマン"
-      ]
-    },
-    {
-      "id": "diamond-7bd18f0b",
-      "title": "第６９回　「柏蔭会」軌道に乗る",
-      "url": "https://diamond-rm.net/life-career/535847/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-15",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-c741674f",
-      "title": "JR渋谷駅／新南改札の内外に「猿田彦珈琲」など4店舗6／1オープン",
-      "url": "https://www.ryutsuu.biz/store/s041573.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-15",
-      "tags": [
-        "オープン"
-      ]
     }
   ]
 }
