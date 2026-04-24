@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T18:24:11.179Z",
+  "lastUpdated": "2026-04-24T00:28:56.668Z",
   "items": [
     {
       "id": "ryutsuu-891eda3c",
@@ -16,6 +16,58 @@
         "出店",
         "新店"
       ]
+    },
+    {
+      "id": "diamond-e10c3c16",
+      "title": "ハローズがついに神戸市に進出！「ハローズ伊川谷店」の売場を解説",
+      "url": "https://diamond-rm.net/store/newstorereport/542985/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "diamond-4395f2e5",
+      "title": "発売3カ月で2万着突破！洋服の青山「みんなのスーツ」が示した紳士服市場の新たな勝ち筋",
+      "url": "https://diamond-rm.net/sales-promotion/542591/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-24",
+      "tags": [
+        "青山"
+      ]
+    },
+    {
+      "id": "diamond-c5a1a471",
+      "title": "一大トレンドとなったウェルネス関連商品　ターゲットとホールフーズが品揃えを拡充！",
+      "url": "https://diamond-rm.net/sales-promotion/540473/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "diamond-ec0386a1",
+      "title": "「不変」と「変革」が共存するロングセラーの正体",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/542057/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "diamond-46936a87",
+      "title": "来たときよりもよい店に――平和堂の旗艦店「アル・プラザつかしん」西村直志支配人の信念",
+      "url": "https://diamond-rm.net/management/businessplan/541933/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-24",
+      "tags": []
     },
     {
       "id": "ryutsuu-cdc6464c",
@@ -495,6 +547,16 @@
       ]
     },
     {
+      "id": "diamond-2ddc6253",
+      "title": "ダイエーとエフピコが「エコストア協働宣言」 近畿187店舗で水平リサイクルを推進",
+      "url": "https://diamond-rm.net/management/sdgsesg/543490/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-22",
+      "tags": []
+    },
+    {
       "id": "diamond-b41ef694",
       "title": "EC成長のカギを握る「顧客体験の高度化」と「物流DX」",
       "url": "https://diamond-rm.net/ec-epayment/542601/",
@@ -523,14 +585,32 @@
       ]
     },
     {
-      "id": "diamond-5de6646d",
-      "title": "第７４回　満たされゆく腹、乏しいままの懐",
-      "url": "https://diamond-rm.net/life-career/535852/",
+      "id": "diamond-4ebb1d2e",
+      "title": "300円台の値ごろな弁当でコスパをアピール、3月オープン「ライフ板橋富士見店」の勝ち筋",
+      "url": "https://diamond-rm.net/store/newstorereport/541609/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "life-career",
+      "category": "店舗",
       "date": "2026-04-22",
-      "tags": []
+      "tags": [
+        "オープン",
+        "ライフ",
+        "弁当"
+      ]
+    },
+    {
+      "id": "diamond-2e9ab104",
+      "title": "思わず鬼リピしたくなる！安くておいしいスーパー「ベルク」のおすすめ弁当",
+      "url": "https://diamond-rm.net/sales-promotion/541329/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-22",
+      "tags": [
+        "スーパー",
+        "ベルク",
+        "弁当"
+      ]
     },
     {
       "id": "diamond-b56d6099",
@@ -554,44 +634,6 @@
       "date": "2026-04-22",
       "tags": [
         "食品"
-      ]
-    },
-    {
-      "id": "diamond-2ddc6253",
-      "title": "ダイエーとエフピコが「エコストア協働宣言」 近畿187店舗で水平リサイクルを推進",
-      "url": "https://diamond-rm.net/management/sdgsesg/543490/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-22",
-      "tags": []
-    },
-    {
-      "id": "diamond-2e9ab104",
-      "title": "思わず鬼リピしたくなる！安くておいしいスーパー「ベルク」のおすすめ弁当",
-      "url": "https://diamond-rm.net/sales-promotion/541329/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-22",
-      "tags": [
-        "スーパー",
-        "ベルク",
-        "弁当"
-      ]
-    },
-    {
-      "id": "diamond-4ebb1d2e",
-      "title": "300円台の値ごろな弁当でコスパをアピール、3月オープン「ライフ板橋富士見店」の勝ち筋",
-      "url": "https://diamond-rm.net/store/newstorereport/541609/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-22",
-      "tags": [
-        "オープン",
-        "ライフ",
-        "弁当"
       ]
     },
     {
@@ -751,6 +793,16 @@
       "tags": [
         "社長"
       ]
+    },
+    {
+      "id": "diamond-5de6646d",
+      "title": "第７４回　満たされゆく腹、乏しいままの懐",
+      "url": "https://diamond-rm.net/life-career/535852/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-22",
+      "tags": []
     },
     {
       "id": "ryutsuu-7b4ec45b",
@@ -949,16 +1001,6 @@
       "tags": [
         "決算"
       ]
-    },
-    {
-      "id": "diamond-bad4fc0f",
-      "title": "アダストリアの「＆ST」に隠された“支配のシナリオ”",
-      "url": "https://diamond-rm.net/management/businessplan/543362/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-21",
-      "tags": []
     },
     {
       "id": "diamond-0e21d5b0",
@@ -1178,6 +1220,16 @@
       "tags": [
         "食品"
       ]
+    },
+    {
+      "id": "diamond-bad4fc0f",
+      "title": "アダストリアの「＆ST」に隠された“支配のシナリオ”",
+      "url": "https://diamond-rm.net/management/businessplan/543362/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-21",
+      "tags": []
     },
     {
       "id": "ryutsuu-88359c1e",
@@ -2021,6 +2073,18 @@
       ]
     },
     {
+      "id": "ssnp-752530e5",
+      "title": "とんかつ まい泉 星ヶ丘三越店オープン!記念セールでヒレかつやロースかつなどがお得に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/672681/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-18",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
       "id": "diamond-3212d3de",
       "title": "青果売場「お客にとって買いやすくする」ための品揃えに欠かせない重要な考え方",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/541578/",
@@ -2042,18 +2106,6 @@
       "date": "2026-04-18",
       "tags": [
         "食品"
-      ]
-    },
-    {
-      "id": "ssnp-752530e5",
-      "title": "とんかつ まい泉 星ヶ丘三越店オープン!記念セールでヒレかつやロースかつなどがお得に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/672681/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-18",
-      "tags": [
-        "オープン"
       ]
     },
     {
@@ -2147,16 +2199,6 @@
       "tags": [
         "ファミリーマート"
       ]
-    },
-    {
-      "id": "diamond-a4988d4a",
-      "title": "バイヤーに「売れる確信」を持ってもらうための4つのステップ",
-      "url": "https://diamond-rm.net/sales-promotion/buyer/541566/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-17",
-      "tags": []
     },
     {
       "id": "ssnp-3de976e3",
@@ -2363,6 +2405,16 @@
       "tags": [
         "リニューアル"
       ]
+    },
+    {
+      "id": "diamond-a4988d4a",
+      "title": "バイヤーに「売れる確信」を持ってもらうための4つのステップ",
+      "url": "https://diamond-rm.net/sales-promotion/buyer/541566/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-17",
+      "tags": []
     },
     {
       "id": "ryutsuu-521d4f3d",
@@ -3459,63 +3511,6 @@
       "category": "foodservice",
       "date": "2026-04-15",
       "tags": []
-    },
-    {
-      "id": "ssnp-eed8a371",
-      "title": "農水省・原田課長、食料システム法に言及 「弱いところに押し付けると、くさびは切れる」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/feeding/673546/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "feeding",
-      "date": "2026-04-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e2d85844",
-      "title": "旬の桜鯛や新鮮な純いくらを取りそろえた「桜鯛といくら」フェア開催【くら寿司】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/673529/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f512856c",
-      "title": "【九州限定】「ミニアスパラガス 柚子胡椒味」登場…柚子の香り･唐辛子の辛さを味わえる“しょっぱ甘い”仕立て/ ギンビス\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/673522/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-04-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-0df8d526",
-      "title": "【セブン-イレブン】春キャベツを贅沢に使用した新作「メンチカツ」登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/673512/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-04-15",
-      "tags": [
-        "セブン-イレブン"
-      ]
-    },
-    {
-      "id": "diamond-616aaf9d",
-      "title": "ヤオコーが大宮に新規出店！岐阜ではトライアル・コメリが共同出店へ【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/542850/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-15",
-      "tags": [
-        "トライアル",
-        "ヤオコー",
-        "コメリ",
-        "出店"
-      ]
     }
   ]
 }
