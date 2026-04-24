@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2026-04-24T06:39:13.220Z",
+  "lastUpdated": "2026-04-24T12:21:26.276Z",
   "items": [
+    {
+      "id": "ryutsuu-b1f0abb8",
+      "title": "西友ひたち野うしく店跡地／イオンリテール「そよらひたち野うしく」11月オープン",
+      "url": "https://www.ryutsuu.biz/store/s042477.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-24",
+      "tags": [
+        "オープン",
+        "イオン",
+        "西友"
+      ]
+    },
     {
       "id": "ryutsuu-a85d2c30",
       "title": "トライアル西友／横浜市旭区に新フォーマット3号店「二俣川店」オープン",
@@ -16,15 +30,15 @@
       ]
     },
     {
-      "id": "ryutsuu-4bd56d7d",
-      "title": "カンリー／「AI検索ユーザー1000人に聞いた、お店の決定までに何を調べ直す？」セミナー5月12～14日開催",
-      "url": "https://www.ryutsuu.biz/seminar/s042482.html",
+      "id": "ryutsuu-c218595e",
+      "title": "セブン＆アイ／26年は欧州9カ国を最優先市場としてウォッチ",
+      "url": "https://www.ryutsuu.biz/abroad/s042414.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "seminar",
+      "category": "abroad",
       "date": "2026-04-24",
       "tags": [
-        "AI"
+        "セブン＆アイ"
       ]
     },
     {
@@ -34,6 +48,42 @@
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "行政",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-4bd56d7d",
+      "title": "カンリー／「AI検索ユーザー1000人に聞いた、お店の決定までに何を調べ直す？」セミナー5月12～14日開催",
+      "url": "https://www.ryutsuu.biz/seminar/s042482.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "seminar",
+      "date": "2026-04-24",
+      "tags": [
+        "PR",
+        "AI"
+      ]
+    },
+    {
+      "id": "ryutsuu-685c867c",
+      "title": "イオンレイクタウンkaze／酒と食のセレクトショップ「リカーウェアハウス クラフト」関東初オープン",
+      "url": "https://www.ryutsuu.biz/store/s042474.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-24",
+      "tags": [
+        "オープン",
+        "イオン"
+      ]
+    },
+    {
+      "id": "ryutsuu-2103b466",
+      "title": "オリックス不動産ほか6社／兵庫県に「神戸市役所本庁舎2号館再整備事業 民間商業施設」2030年新設",
+      "url": "https://www.ryutsuu.biz/store/s0424011.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
       "date": "2026-04-24",
       "tags": []
     },
@@ -62,16 +112,6 @@
       ]
     },
     {
-      "id": "ryutsuu-2103b466",
-      "title": "オリックス不動産ほか6社／兵庫県に「神戸市役所本庁舎2号館再整備事業 民間商業施設」2030年新設",
-      "url": "https://www.ryutsuu.biz/store/s0424011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
       "id": "ryutsuu-e9669359",
       "title": "タリーズコーヒー／神戸空港第1ターミナルビルに新店舗オープン",
       "url": "https://www.ryutsuu.biz/store/s042475.html",
@@ -85,16 +125,15 @@
       ]
     },
     {
-      "id": "ryutsuu-685c867c",
-      "title": "イオンレイクタウンkaze／酒と食のセレクトショップ「リカーウェアハウス クラフト」関東初オープン",
-      "url": "https://www.ryutsuu.biz/store/s042474.html",
+      "id": "ryutsuu-13b88c4a",
+      "title": "ショッピングセンター／3月既存店売上4.0％増、春物衣料・新生活関連品などが好調",
+      "url": "https://www.ryutsuu.biz/sales/s042484.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "店舗",
+      "category": "売上",
       "date": "2026-04-24",
       "tags": [
-        "オープン",
-        "イオン"
+        "ショッピングセンター"
       ]
     },
     {
@@ -185,29 +224,144 @@
       "tags": []
     },
     {
+      "id": "ssnp-4f5a6524",
+      "title": "【ファミリーマート】『神の雫』との人気コラボワイン2種を再販、新たにハイボール缶も\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーマートは28日、ワイン漫画『神の雫』とコラボレーションしたワイン「ジスト グランレゼルバ」(税込1399円)と「同 レゼルバ バレルセレクテッド」(税込1199円)の2種を再販する。販売はファミリーマートの酒類...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/liquor/679579/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "liquor",
+      "date": "2026-04-24",
+      "tags": [
+        "ファミリーマート",
+        "酒類"
+      ]
+    },
+    {
+      "id": "ssnp-66c0651e",
+      "title": "日本生協連、75周年記念イベント「喫茶コープ」\n\t\t\t\t\t\t\t\t\t\t\t\t日本生活協同組合連合会(日本生協連)は24日から3日間、東京･渋谷ストリーム前で2026年に創立75周年を記念したイベント「喫茶コープ」を開催している。 会場では、45周年を迎えるロングセラー「CO･OP ミックスキャロ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/679574/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "ssnp-e2d8166f",
+      "title": "【安楽亭】GW期間は「肉の日祭」を特別延長　定番焼肉が特価、大皿が550円割引、小学生食べ放題1,129円の３施策\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679560/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "ssnp-b57522b6",
+      "title": "中日ドラゴンズとコラボ「満塁ホームランピザ」発売　観戦チケットや限定ノベルティがもらえる企画も【アオキーズ・ピザ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679547/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "ssnp-c0f63286",
+      "title": "「生なごやん」から練乳入り黄味あんクリームが入ったミルク味が登場!【敷島製パン(Pasco)】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/679541/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-04-24",
+      "tags": [
+        "SC"
+      ]
+    },
+    {
+      "id": "ssnp-7c2b0010",
+      "title": "アイスの味わいをイメージした“ザクシャリ”食感のチョコレート2品が新登場【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/679535/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-04-24",
+      "tags": [
+        "チョコレート"
+      ]
+    },
+    {
+      "id": "ssnp-cba45e92",
+      "title": "【新作】紀ノ国屋×リバティ柄エコバッグ登場　花柄3色・折りたたみ＆カラビナ付きで持ち運び便利\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/679512/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "ssnp-d6eb1fac",
+      "title": "特製だれで3度焼き　ふっくら香ばしい「うな重」今年も登場　うなぎ2枚の「特盛うな丼」も販売【なか卯】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679492/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "ssnp-6d964721",
+      "title": "【しゃぶしゃぶ温野菜】食べ放題コースが平日20%オフ、休日10%オフの期間限定キャンペーン開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679501/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "ssnp-b17a5b8e",
+      "title": "【にんべん】通常の約1.8倍…高たんぱく『かつぶしめし』登場/「SUMO WEEK」に合わせ、数量限定販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/seasoning/679464/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "調味料",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "ssnp-e19e4b91",
+      "title": "【牛角】食べ放題コースが平日20%オフ、休日10%オフの期間限定キャンペーン開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679467/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
       "id": "ssnp-83a2c6a2",
-      "title": "人手不足の厨房に時短提案、清掃工程を削減する業務用洗剤【花王プロフェッショナル・サービス】\n\t\t\t\t\t\t\t\t\t\t\t\t花王プロフェッショナル・サービスは、厨房の床清掃における作業負担の軽減を目的とした業務用洗剤「Quick Master 床用クリーナー」を開発した。2月から販売している。 外食業界では人手不足や作業効率化への対応が課題と...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "人手不足の厨房に時短提案、清掃工程を削減する業務用洗剤【花王プロフェッショナル・サービス】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/feeding/679456/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "feeding",
       "date": "2026-04-24",
       "tags": [
-        "人手不足",
-        "外食"
+        "人手不足"
       ]
     },
     {
       "id": "ssnp-b9ae5249",
-      "title": "「からあげ棒」が4個→5個に増えた！価格そのまま　「ご愛顧からあげ棒（5個刺し）」発売【セブン-イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\tコンビニチェーン「セブン-イレブン」は、ロングセラー商品「からあげ棒」が価格そのままで1個増量となった「ご愛顧からあげ棒（5個刺し）」を、2026年5月1日（金）から順次発売する。 「からあげ棒」は、ザクザクとした衣の食...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "「からあげ棒」が4個→5個に増えた！価格そのまま　「ご愛顧からあげ棒（5個刺し）」発売【セブン-イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/679448/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
       "date": "2026-04-24",
       "tags": [
-        "セブン-イレブン",
-        "コンビニ"
+        "セブン-イレブン"
       ]
     },
     {
@@ -3332,181 +3486,6 @@
       "date": "2026-04-16",
       "tags": [
         "出店"
-      ]
-    },
-    {
-      "id": "diamond-9eb50c32",
-      "title": "オーケーの大阪市内2店舗目はホームセンター1階に　「オーケー南津守店」の売場を速報！",
-      "url": "https://diamond-rm.net/store/newstorereport/542905/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-16",
-      "tags": [
-        "ホームセンター",
-        "オーケー"
-      ]
-    },
-    {
-      "id": "diamond-51fb34d6",
-      "title": "第７０回　彼はなんとなく人に好かれるんですよ",
-      "url": "https://diamond-rm.net/life-career/535848/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-16",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-c6b7a393",
-      "title": "冷凍食品／国内生産額8577億円、1人当たりの年間消費量24.6kgと過去最高",
-      "url": "https://www.ryutsuu.biz/commodity/s041617.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-04-16",
-      "tags": [
-        "冷凍食品",
-        "食品"
-      ]
-    },
-    {
-      "id": "ryutsuu-b4be28c4",
-      "title": "京都ポルタ／お土産ゾーン7月に全面リニューアル、atelier京ばあむが商業施設初出店",
-      "url": "https://www.ryutsuu.biz/store/s041613.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-16",
-      "tags": [
-        "リニューアル",
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-030a6ca9",
-      "title": "トライアル／兵庫県高砂市に「スーパーセンタートライアル高砂曽根店（店舗面積3432m2）」11／4新設",
-      "url": "https://www.ryutsuu.biz/store/s0415012.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-16",
-      "tags": [
-        "トライアル",
-        "スーパー"
-      ]
-    },
-    {
-      "id": "ryutsuu-30ecf24d",
-      "title": "ベルジョイス／「スーパーアークス本郷店」4／18オープン、ビッグハウスを改装",
-      "url": "https://www.ryutsuu.biz/store/s041612.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-16",
-      "tags": [
-        "スーパー",
-        "オープン",
-        "改装"
-      ]
-    },
-    {
-      "id": "ryutsuu-4785db41",
-      "title": "OICグループ／東京都豊島区に「グリルピア ヨドバシ池袋」4／25オープン",
-      "url": "https://www.ryutsuu.biz/store/s041674.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-16",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-9cd3bf92",
-      "title": "タワーレコード／基幹システムや需要予測AI基盤などを「アステリア ワープ」で連携",
-      "url": "https://www.ryutsuu.biz/it/s041679.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-04-16",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ryutsuu-37490b90",
-      "title": "大創産業／公式ファンコミュニティサイト「DAISOの輪」をリニューアル",
-      "url": "https://www.ryutsuu.biz/it/s041681.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-04-16",
-      "tags": [
-        "リニューアル",
-        "AI"
-      ]
-    },
-    {
-      "id": "ryutsuu-ecc29919",
-      "title": "ニトリ／「ニトリ平野店」4／24オープン、大阪府40店舗目",
-      "url": "https://www.ryutsuu.biz/store/s041616.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-16",
-      "tags": [
-        "オープン",
-        "ニトリ"
-      ]
-    },
-    {
-      "id": "ryutsuu-327aa6ca",
-      "title": "イオンレイクタウン／テイクアウト専門の「伊右衛門カフェ」4／24オープン",
-      "url": "https://www.ryutsuu.biz/store/s041615.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-16",
-      "tags": [
-        "オープン",
-        "イオン"
-      ]
-    },
-    {
-      "id": "ryutsuu-b154c73d",
-      "title": "物語コーポレーション／東京・岡山・広島に「焼肉きんぐ」3店舗4／23オープン",
-      "url": "https://www.ryutsuu.biz/store/s041676.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-16",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-98f1c4e0",
-      "title": "レインズ／「牛角焼肉食堂 ゆめタウン佐賀店」4／22佐賀初オープン、全国90店舗目",
-      "url": "https://www.ryutsuu.biz/store/s041675.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-16",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-4eab422b",
-      "title": "未来屋書店／「りんくう泉南店」4／17リニューアル、福音館書店の絵本を常設展開",
-      "url": "https://www.ryutsuu.biz/store/s041677.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-16",
-      "tags": [
-        "リニューアル"
       ]
     }
   ]
