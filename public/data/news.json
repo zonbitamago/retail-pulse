@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T18:15:18.541Z",
+  "lastUpdated": "2026-04-25T00:25:55.156Z",
   "items": [
     {
       "id": "ryutsuu-2617a68b",
@@ -12,6 +12,16 @@
       "tags": [
         "オープン"
       ]
+    },
+    {
+      "id": "diamond-0ca91e61",
+      "title": "流通秀書　第26回『企業の森』(上・下巻)",
+      "url": "https://diamond-rm.net/life-career/540853/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-25",
+      "tags": []
     },
     {
       "id": "ryutsuu-b1f0abb8",
@@ -3477,16 +3487,6 @@
       "tags": [
         "飲料"
       ]
-    },
-    {
-      "id": "ryutsuu-a3420883",
-      "title": "マウスウォッシュ 売上ランキング／1～3月は花王「クリアクリーン」が1位に",
-      "url": "https://www.ryutsuu.biz/pos/s041642.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-04-16",
-      "tags": []
     }
   ]
 }
