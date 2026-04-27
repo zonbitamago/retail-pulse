@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T18:15:04.356Z",
+  "lastUpdated": "2026-04-27T00:28:20.730Z",
   "items": [
     {
       "id": "ryutsuu-0058277e",
@@ -12,6 +12,28 @@
       "tags": [
         "オープン"
       ]
+    },
+    {
+      "id": "diamond-f52b664c",
+      "title": "2026年の逆境にスーパーはいかに立ち向かうか？ 利益をさらに稼ぐための2つの強化策",
+      "url": "https://diamond-rm.net/management/businessplan/543374/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-27",
+      "tags": [
+        "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-23782ff4",
+      "title": "栄養食を再定義する「最適化栄養食」の社会的役割",
+      "url": "https://diamond-rm.net/sales-promotion/542414/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-27",
+      "tags": []
     },
     {
       "id": "ssnp-0a66c07f",
@@ -644,17 +666,26 @@
       "tags": []
     },
     {
-      "id": "diamond-b15750a2",
-      "title": "総菜が大進化!?　関西最新店「MEGAドン・キホーテ交野店」の食品売場をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/543270/",
+      "id": "diamond-39de6747",
+      "title": "第７５回　渥美俊一と共済部",
+      "url": "https://diamond-rm.net/life-career/535853/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "店舗",
+      "category": "life-career",
+      "date": "2026-04-23",
+      "tags": []
+    },
+    {
+      "id": "diamond-95b65cc0",
+      "title": "サンデー大南淳二社長が激白！イオングループのリソース活用による「聖域なき事業改革」の全容",
+      "url": "https://diamond-rm.net/management/topinterview/543157/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-04-23",
       "tags": [
-        "ドン・キホーテ",
-        "食品",
-        "新店"
+        "イオン",
+        "社長"
       ]
     },
     {
@@ -673,36 +704,17 @@
       ]
     },
     {
-      "id": "diamond-39de6747",
-      "title": "第７５回　渥美俊一と共済部",
-      "url": "https://diamond-rm.net/life-career/535853/",
+      "id": "diamond-b15750a2",
+      "title": "総菜が大進化!?　関西最新店「MEGAドン・キホーテ交野店」の食品売場をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/543270/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-23",
-      "tags": []
-    },
-    {
-      "id": "diamond-b214a7b5",
-      "title": "業態別　主要店舗月次実績＝2026年3月度",
-      "url": "https://diamond-rm.net/retaildata/543591/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-23",
-      "tags": []
-    },
-    {
-      "id": "diamond-95b65cc0",
-      "title": "サンデー大南淳二社長が激白！イオングループのリソース活用による「聖域なき事業改革」の全容",
-      "url": "https://diamond-rm.net/management/topinterview/543157/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
+      "category": "店舗",
       "date": "2026-04-23",
       "tags": [
-        "イオン",
-        "社長"
+        "ドン・キホーテ",
+        "食品",
+        "新店"
       ]
     },
     {
@@ -716,6 +728,16 @@
       "tags": [
         "生鮮"
       ]
+    },
+    {
+      "id": "diamond-b214a7b5",
+      "title": "業態別　主要店舗月次実績＝2026年3月度",
+      "url": "https://diamond-rm.net/retaildata/543591/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-23",
+      "tags": []
     },
     {
       "id": "ssnp-2ef0ab7d",
@@ -1053,20 +1075,6 @@
       "tags": []
     },
     {
-      "id": "diamond-b41ef694",
-      "title": "EC成長のカギを握る「顧客体験の高度化」と「物流DX」",
-      "url": "https://diamond-rm.net/ec-epayment/542601/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "ec-epayment",
-      "date": "2026-04-22",
-      "tags": [
-        "EC",
-        "DX",
-        "物流"
-      ]
-    },
-    {
       "id": "diamond-52182efa",
       "title": "松源が大阪・浪速区に「都市型店舗」を新規出店へ【今週の大店立地法速報】",
       "url": "https://diamond-rm.net/store/543533/",
@@ -1090,6 +1098,20 @@
         "サミット",
         "オープン",
         "建て替え"
+      ]
+    },
+    {
+      "id": "diamond-b41ef694",
+      "title": "EC成長のカギを握る「顧客体験の高度化」と「物流DX」",
+      "url": "https://diamond-rm.net/ec-epayment/542601/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "ec-epayment",
+      "date": "2026-04-22",
+      "tags": [
+        "EC",
+        "DX",
+        "物流"
       ]
     },
     {
@@ -1537,18 +1559,6 @@
       ]
     },
     {
-      "id": "diamond-0e21d5b0",
-      "title": "無印良品のカレーが人気の理由は徹底した「現地学習」にあった！",
-      "url": "https://diamond-rm.net/sales-promotion/541087/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-21",
-      "tags": [
-        "無印良品"
-      ]
-    },
-    {
       "id": "ssnp-000a9e18",
       "title": "【ファミマ】発売から13日で累計533万食突破　「超も～っちりパン」シリーズから新作登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/676985/",
@@ -1753,6 +1763,18 @@
       "date": "2026-04-21",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-0e21d5b0",
+      "title": "無印良品のカレーが人気の理由は徹底した「現地学習」にあった！",
+      "url": "https://diamond-rm.net/sales-promotion/541087/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-21",
+      "tags": [
+        "無印良品"
       ]
     },
     {
@@ -3455,28 +3477,6 @@
       "category": "大豆",
       "date": "2026-04-16",
       "tags": []
-    },
-    {
-      "id": "ssnp-9052816c",
-      "title": "「ハロハロ 果実氷練乳いちご」発売開始、削ったフローズンいちご×北海道ミルクソフト×練乳入りシロップ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/675573/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-04-16",
-      "tags": []
-    },
-    {
-      "id": "ssnp-fac9b22f",
-      "title": "【松屋】厚切り肉ならではの弾力を堪能　「豚ロースグリル定食」発売　\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/675408/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-16",
-      "tags": [
-        "松屋"
-      ]
     }
   ]
 }
