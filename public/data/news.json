@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T06:53:09.693Z",
+  "lastUpdated": "2026-04-27T12:32:26.671Z",
   "items": [
     {
       "id": "ryutsuu-4c35b97c",
@@ -182,6 +182,18 @@
       ]
     },
     {
+      "id": "ryutsuu-c5cf1154",
+      "title": "日本フードサービス協会／3月の外食売上5.7％増、春休みや歓送迎会需要で堅調",
+      "url": "https://www.ryutsuu.biz/sales/s042712.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-04-27",
+      "tags": [
+        "外食"
+      ]
+    },
+    {
       "id": "diamond-f52b664c",
       "title": "2026年の逆境にスーパーはいかに立ち向かうか？ 利益をさらに稼ぐための2つの強化策",
       "url": "https://diamond-rm.net/management/businessplan/543374/",
@@ -214,8 +226,101 @@
       "tags": []
     },
     {
+      "id": "ssnp-e9e5603a",
+      "title": "どこを食べても“じゃりじゃり”食感　二度焼き採用の新商品を発売【セブン-イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\tコンビニチェーンのセブン-イレブンは、「じゃりじゃりシュガーマーガリントースト」を、北海道・沖縄県を除く店舗で2026年4月28日から順次発売する。 専用のシュガーマーガリンを手作業で1枚ずつパンの端まで塗り、どこから食...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/679859/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-04-27",
+      "tags": [
+        "セブン-イレブン",
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "ssnp-fe35f04f",
+      "title": "【約3割値下げ】ローソンストア100「ツインシュー」106円に　新作ミルククリームも登場\n\t\t\t\t\t\t\t\t\t\t\t\t株式会社ローソンストア100が運営する「ローソンストア100」（565店舗／2026年3月末時点）は5月6日から、全店舗で人気の定番スイーツ「ツインシュー カスタード&ホイップ」の税込価格を138円から106円へ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/679848/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-04-27",
+      "tags": [
+        "ローソン",
+        "値下げ"
+      ]
+    },
+    {
+      "id": "ssnp-d5eab935",
+      "title": "【森永製菓】“大人のご褒美”『よふかしクッキー』登場/ 「TAICHIRO MORINAGA」から数量限定発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/679710/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-04-27",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ssnp-3124d7ae",
+      "title": "ビアードパパ史上“最驚”のパリパリ食感「プレミアム苺ミルフィーユシュー」が初登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/679807/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-04-27",
+      "tags": []
+    },
+    {
+      "id": "ssnp-fc2957ac",
+      "title": "単品購入より440円安くなる「特別ボックス」販売　チキンフィンガー16本やポテト、チーズボールをセットに【bb.q オリーブチキンカフェ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679818/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-27",
+      "tags": []
+    },
+    {
+      "id": "ssnp-3ea42523",
+      "title": "「ガーナチョコレート」×『ONE PIECE』、父の日限定　描き下ろしビジュアル公開/ “親子の本音” 調査結果も【ロッテ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/679780/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-04-27",
+      "tags": [
+        "チョコレート",
+        "EC"
+      ]
+    },
+    {
+      "id": "ssnp-6be841f6",
+      "title": "【総重量661g】バーガーキング“横綱級バーガー”再び　ビーフ5枚×チーズ8枚の圧倒的ボリューム\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679766/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-27",
+      "tags": []
+    },
+    {
+      "id": "ssnp-fdd92d43",
+      "title": "メロンパンにクロワッサン、カレーパンなどが30円引き…セブンカフェベーカリー全品対象【セブン-イレブン創業感謝祭】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/679754/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-04-27",
+      "tags": [
+        "セブン-イレブン"
+      ]
+    },
+    {
       "id": "ssnp-9b23fb70",
-      "title": "1匹から約3％しかとれない希少部位「本まぐろカマトロ」使用、新商品2種を発売【杉玉】\n\t\t\t\t\t\t\t\t\t\t\t\t株式会社FOOD & LIFE INNOVATIONSは、「鮨 酒 肴 杉玉」にて2026年4月28日から、希少部位「本まぐろカマトロ」を使用した商品を発売する。 【画像】「本まぐろカマトロ」使用の新商品、同時販...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "1匹から約3％しかとれない希少部位「本まぐろカマトロ」使用、新商品2種を発売【杉玉】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/679728/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -225,7 +330,7 @@
     },
     {
       "id": "ssnp-79f374eb",
-      "title": "【モスバーガー】淡路島産新たまねぎバーガーを地域限定で発売\n\t\t\t\t\t\t\t\t\t\t\t\tハンバーガーチェーンのモスバーガーは、5月7日から5月中旬まで、関西･中国･四国エリアの店舗(一部除く)で「淡路島産 たまねぎバーガー 和風しょうゆ仕立て」(510円、チーズ入り550円)を販売する。 「淡路島産 たまね...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【モスバーガー】淡路島産新たまねぎバーガーを地域限定で発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/679737/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -434,20 +539,6 @@
       ]
     },
     {
-      "id": "ryutsuu-4ff4e1f5",
-      "title": "オンワード／SC向けブランド「アンフィーロ」初の単独店、ららぽーと豊洲にオープン",
-      "url": "https://www.ryutsuu.biz/report/s042411.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-04-24",
-      "tags": [
-        "注目",
-        "オープン",
-        "SC"
-      ]
-    },
-    {
       "id": "ryutsuu-4bd56d7d",
       "title": "カンリー／「AI検索ユーザー1000人に聞いた、お店の決定までに何を調べ直す？」セミナー5月12～14日開催",
       "url": "https://www.ryutsuu.biz/seminar/s042482.html",
@@ -528,6 +619,18 @@
       ]
     },
     {
+      "id": "diamond-982ccb68",
+      "title": "業態別統計データ 2026年 ホームセンター",
+      "url": "https://diamond-rm.net/retaildata/538319/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-24",
+      "tags": [
+        "ホームセンター"
+      ]
+    },
+    {
       "id": "diamond-301931ca",
       "title": "業態別統計データ 2026年 コンビニエンスストア",
       "url": "https://diamond-rm.net/retaildata/538317/",
@@ -574,19 +677,6 @@
       ]
     },
     {
-      "id": "diamond-f5de3430",
-      "title": "業態別統計データ 2026年 ドラッグストア",
-      "url": "https://diamond-rm.net/retaildata/538323/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-24",
-      "tags": [
-        "ドラッグストア",
-        "ドラッグ"
-      ]
-    },
-    {
       "id": "diamond-46936a87",
       "title": "来たときよりもよい店に――平和堂の旗艦店「アル・プラザつかしん」西村直志支配人の信念",
       "url": "https://diamond-rm.net/management/businessplan/541933/",
@@ -605,6 +695,19 @@
       "category": "sales-promotion",
       "date": "2026-04-24",
       "tags": []
+    },
+    {
+      "id": "diamond-f5de3430",
+      "title": "業態別統計データ 2026年 ドラッグストア",
+      "url": "https://diamond-rm.net/retaildata/538323/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-04-24",
+      "tags": [
+        "ドラッグストア",
+        "ドラッグ"
+      ]
     },
     {
       "id": "ssnp-4f5a6524",
@@ -848,6 +951,20 @@
       "date": "2026-04-24",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "ryutsuu-4ff4e1f5",
+      "title": "オンワード／SC向けブランド「アンフィーロ」初の単独店、ららぽーと豊洲にオープン",
+      "url": "https://www.ryutsuu.biz/report/s042411.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-04-24",
+      "tags": [
+        "注目",
+        "オープン",
+        "SC"
       ]
     },
     {
@@ -3359,131 +3476,6 @@
       "category": "sales-promotion",
       "date": "2026-04-17",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-521d4f3d",
-      "title": "イオン／iAEON内に「イオンオーナーズクラブ」リリース、個人株主との接点拡大",
-      "url": "https://www.ryutsuu.biz/strategy/s041779.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-17",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
-      "id": "ryutsuu-6def5e93",
-      "title": "J.フロント グループ／TableCheckに出資",
-      "url": "https://www.ryutsuu.biz/strategy/a041716.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-17",
-      "tags": [
-        "EC"
-      ]
-    },
-    {
-      "id": "ryutsuu-7dfab11f",
-      "title": "鼻炎薬 売上ランキング／1～3月は久光製薬「アレグラFX」が1位",
-      "url": "https://www.ryutsuu.biz/pos/s041741.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-04-17",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-bb05e4a6",
-      "title": "ローソン 決算／2月期売上・利益ともに過去最高、チェーン全店売上高は初の3兆円突破",
-      "url": "https://www.ryutsuu.biz/accounts/s041743.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-04-17",
-      "tags": [
-        "注目",
-        "ローソン",
-        "売上高",
-        "決算"
-      ]
-    },
-    {
-      "id": "diamond-e8e83d6f",
-      "title": "第139回 「縁側の曖昧性」に学ぶショッピングセンターの居心地",
-      "url": "https://diamond-rm.net/management/541468/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-17",
-      "tags": [
-        "ショッピングセンター"
-      ]
-    },
-    {
-      "id": "diamond-31c34268",
-      "title": "第７１回　ハイパーインフレ進む",
-      "url": "https://diamond-rm.net/life-career/535849/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-17",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-130948e8",
-      "title": "ららぽーと和泉／4／23リニューアル第2弾、ONSPOTZ・舎鈴がオープン",
-      "url": "https://www.ryutsuu.biz/store/s041713.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-17",
-      "tags": [
-        "リニューアル",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-622f33ef",
-      "title": "イオンモール津山インター／核店舗「イオンスタイル」先行リニューアルオープン",
-      "url": "https://www.ryutsuu.biz/store/s041780.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-17",
-      "tags": [
-        "リニューアル",
-        "オープン",
-        "イオン",
-        "モール"
-      ]
-    },
-    {
-      "id": "ryutsuu-97d815f6",
-      "title": "トライアル／神奈川県秦野市に「スーパーセンタートライアル秦野店（店舗面積4274m2）」10／21新設",
-      "url": "https://www.ryutsuu.biz/store/s0417012.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-17",
-      "tags": [
-        "トライアル",
-        "スーパー"
-      ]
-    },
-    {
-      "id": "ryutsuu-b74edf88",
-      "title": "ローソン／大阪府に地域活性化店舗「ハッピー・ローソンタウン」1号店6月オープン",
-      "url": "https://www.ryutsuu.biz/store/s041745.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-17",
-      "tags": [
-        "ローソン",
-        "オープン"
-      ]
     }
   ]
 }
