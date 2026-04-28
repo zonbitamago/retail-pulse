@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T06:54:42.626Z",
+  "lastUpdated": "2026-04-28T12:35:41.469Z",
   "items": [
     {
       "id": "ryutsuu-6871449d",
@@ -13,6 +13,20 @@
         "ヤオコー",
         "スーパー",
         "ライフ"
+      ]
+    },
+    {
+      "id": "ryutsuu-932abf80",
+      "title": "イオンリテール／広島県府中町「イオンスタイル広島府中」リニューアルオープン",
+      "url": "https://www.ryutsuu.biz/store/s042851.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-28",
+      "tags": [
+        "リニューアル",
+        "オープン",
+        "イオン"
       ]
     },
     {
@@ -42,6 +56,18 @@
       ]
     },
     {
+      "id": "ryutsuu-6c10fa05",
+      "title": "賃上げ2026／アインHD平均6.52％のアップ",
+      "url": "https://www.ryutsuu.biz/strategy/s042815.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-04-28",
+      "tags": [
+        "アインHD"
+      ]
+    },
+    {
       "id": "ryutsuu-e1563854",
       "title": "ゲオHD／5月はセカスト・ゲオモバイル・カプセル楽局など4業態・14店舗を新規出店",
       "url": "https://www.ryutsuu.biz/store/s042846.html",
@@ -51,6 +77,50 @@
       "date": "2026-04-28",
       "tags": [
         "出店"
+      ]
+    },
+    {
+      "id": "ryutsuu-81995e56",
+      "title": "カワチ薬品 決算／3月期は減収減益と苦戦、次期は2桁減益の見込み",
+      "url": "https://www.ryutsuu.biz/accounts/s042849.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-04-28",
+      "tags": [
+        "決算",
+        "減収",
+        "減益"
+      ]
+    },
+    {
+      "id": "ryutsuu-0707d7d9",
+      "title": "ゲンキー 決算／7～3月は9.7％増収、利益は2桁の増益に",
+      "url": "https://www.ryutsuu.biz/accounts/s042850.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-04-28",
+      "tags": [
+        "ゲンキー",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "ryutsuu-e0af9d2e",
+      "title": "コメリ 決算／3月期増収増益、プロ向けの作業衣料・電材が堅調",
+      "url": "https://www.ryutsuu.biz/accounts/s042814.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-04-28",
+      "tags": [
+        "コメリ",
+        "決算",
+        "増収",
+        "増益"
       ]
     },
     {
@@ -117,16 +187,6 @@
       ]
     },
     {
-      "id": "ryutsuu-863f95df",
-      "title": "日本チェーンストア協会／3月既存店1.7％減",
-      "url": "https://www.ryutsuu.biz/sales/s042813.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-28",
-      "tags": []
-    },
-    {
       "id": "diamond-87c0b61a",
       "title": "約1000人が行列！ ダイエーの新フォーマット1号店「フードスタイルあびこ駅前店」を速報",
       "url": "https://diamond-rm.net/store/newstorereport/543816/",
@@ -135,6 +195,18 @@
       "category": "店舗",
       "date": "2026-04-28",
       "tags": []
+    },
+    {
+      "id": "diamond-35bf0ef0",
+      "title": "週刊スーパーマーケットニュース　コープさっぽろが組合員数210万人を達成",
+      "url": "https://diamond-rm.net/management/businessplan/543901/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-28",
+      "tags": [
+        "スーパー"
+      ]
     },
     {
       "id": "diamond-4c8197eb",
@@ -184,20 +256,66 @@
       "tags": []
     },
     {
-      "id": "ssnp-bfc71bc6",
-      "title": "ネスレ日本、二子玉川 蔦屋家電で“本とコーヒー”提案 「ネスカフェ ドルチェ グスト ネオ」拡充\n\t\t\t\t\t\t\t\t\t\t\t\tネスレ日本は、ポッド式コーヒーメーカー「ネスカフェ ドルチェ グスト ネオ」のラインアップを拡充するとともに、蔦屋家電・蔦屋書店とのコラボレーションによる体験型イベント「おうちスターバックス 本と、コーヒーと、好きな時間...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/679940/",
+      "id": "ssnp-d0bbdca8",
+      "title": "“お茶とコーヒーがタッグ” 伊藤園とネスレ日本、物流効率化へ共同輸送・ラウンド輸送を開始\n\t\t\t\t\t\t\t\t\t\t\t\t伊藤園とネスレ日本は4月から、物流効率化に向けた共同輸送とラウンド輸送を開始した。トラックドライバー不足など物流を取り巻く課題が深刻化する中、「お～いお茶」と「ネスカフェ」に代表される“お茶とコーヒー”の企業...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/679972/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
       "date": "2026-04-28",
       "tags": [
-        "スターバックス"
+        "物流"
       ]
     },
     {
+      "id": "ssnp-c070a9bf",
+      "title": "【近鉄あべのハルカス本店】惣菜売場リニューアルで関西最大ブランド数の惣菜売場に\n\t\t\t\t\t\t\t\t\t\t\t\tあべのハルカス近鉄本店(大阪市阿倍野区)は4月28日、タワー館地下2階の惣菜売場リニューアルに伴いメディア内覧会を行った。グランドオープンは29日となっている。これまでタワー館とウイング館の惣菜売場はトータル55店を展開...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/679971/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-04-28",
+      "tags": [
+        "リニューアル",
+        "オープン",
+        "惣菜"
+      ]
+    },
+    {
+      "id": "ssnp-0d87d3f4",
+      "title": "【豚肉約20％増量】とんかつ専門店「かつ時」、グランドメニューを刷新\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/679966/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-04-28",
+      "tags": [
+        "専門店"
+      ]
+    },
+    {
+      "id": "ssnp-7e152daf",
+      "title": "ファミマ限定「冷やして食べる とろけるくりーむパン 出雲抹茶」販売開始、とろけるクリームと濃厚抹茶ソースの2層仕立て\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/679956/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-04-28",
+      "tags": []
+    },
+    {
+      "id": "ssnp-bfc71bc6",
+      "title": "ネスレ日本、二子玉川 蔦屋家電で“本とコーヒー”提案 「ネスカフェ ドルチェ グスト ネオ」拡充\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/679940/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-04-28",
+      "tags": []
+    },
+    {
       "id": "ssnp-5ee69bf9",
-      "title": "資さんうどん、細めん＆チキンカツを全店販売　“九州・山口限定”を全出店エリアへ拡大\n\t\t\t\t\t\t\t\t\t\t\t\t北九州発祥のうどんチェーン「資さんうどん」は4月23日から、これまで九州・山口エリア店舗限定で販売していた“細めん（さいめん）”と“チキンカツ”商品の、全店舗（ららぽーとTOKYO-BAY店を除く）での販売を開始した。 ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "資さんうどん、細めん＆チキンカツを全店販売　“九州・山口限定”を全出店エリアへ拡大\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/679932/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -268,6 +386,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-04-28",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-863f95df",
+      "title": "日本チェーンストア協会／3月既存店1.7％減",
+      "url": "https://www.ryutsuu.biz/sales/s042813.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
       "date": "2026-04-28",
       "tags": []
     },
@@ -834,16 +962,6 @@
       ]
     },
     {
-      "id": "diamond-e10c3c16",
-      "title": "ハローズがついに神戸市に進出！「ハローズ伊川谷店」の売場を解説",
-      "url": "https://diamond-rm.net/store/newstorereport/542985/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
       "id": "diamond-2ba6ca18",
       "title": "第７６回　共済部と柏蔭会",
       "url": "https://diamond-rm.net/life-career/535854/",
@@ -854,24 +972,22 @@
       "tags": []
     },
     {
-      "id": "diamond-9d0d137c",
-      "title": "次に売れる食品トレンドはどう読む？ POSデータで兆しを捉える「KSPレンズ」",
-      "url": "https://diamond-rm.net/promotion/pr/538638/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-04-24",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-46936a87",
       "title": "来たときよりもよい店に――平和堂の旗艦店「アル・プラザつかしん」西村直志支配人の信念",
       "url": "https://diamond-rm.net/management/businessplan/541933/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "diamond-e10c3c16",
+      "title": "ハローズがついに神戸市に進出！「ハローズ伊川谷店」の売場を解説",
+      "url": "https://diamond-rm.net/store/newstorereport/542985/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
       "date": "2026-04-24",
       "tags": []
     },
@@ -976,6 +1092,18 @@
       "tags": [
         "ドラッグストア",
         "ドラッグ"
+      ]
+    },
+    {
+      "id": "diamond-9d0d137c",
+      "title": "次に売れる食品トレンドはどう読む？ POSデータで兆しを捉える「KSPレンズ」",
+      "url": "https://diamond-rm.net/promotion/pr/538638/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "promotion",
+      "date": "2026-04-24",
+      "tags": [
+        "食品"
       ]
     },
     {
@@ -1423,19 +1551,6 @@
       "tags": []
     },
     {
-      "id": "diamond-95b65cc0",
-      "title": "サンデー大南淳二社長が激白！イオングループのリソース活用による「聖域なき事業改革」の全容",
-      "url": "https://diamond-rm.net/management/topinterview/543157/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-23",
-      "tags": [
-        "イオン",
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-b15750a2",
       "title": "総菜が大進化!?　関西最新店「MEGAドン・キホーテ交野店」の食品売場をレポート",
       "url": "https://diamond-rm.net/store/newstorereport/543270/",
@@ -1696,6 +1811,19 @@
       ]
     },
     {
+      "id": "diamond-95b65cc0",
+      "title": "サンデー大南淳二社長が激白！イオングループのリソース活用による「聖域なき事業改革」の全容",
+      "url": "https://diamond-rm.net/management/topinterview/543157/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-23",
+      "tags": [
+        "イオン",
+        "社長"
+      ]
+    },
+    {
       "id": "ryutsuu-5f47eed4",
       "title": "PPIH／愛知県あま市に「ロビン・フッド甚目寺店」オープン、食品強化型ドンキ1号店",
       "url": "https://www.ryutsuu.biz/store/s042341.html",
@@ -1810,18 +1938,6 @@
       "date": "2026-04-22",
       "tags": [
         "マクドナルド"
-      ]
-    },
-    {
-      "id": "ryutsuu-fba04f7c",
-      "title": "ノジマ／日立の家電事業を1100億円で買収、日立GLSと新会社を設立",
-      "url": "https://www.ryutsuu.biz/strategy/s042242.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-22",
-      "tags": [
-        "買収"
       ]
     },
     {
@@ -2020,6 +2136,18 @@
       "date": "2026-04-22",
       "tags": [
         "社長"
+      ]
+    },
+    {
+      "id": "ryutsuu-fba04f7c",
+      "title": "ノジマ／日立の家電事業を1100億円で買収、日立GLSと新会社を設立",
+      "url": "https://www.ryutsuu.biz/strategy/s042242.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-04-22",
+      "tags": [
+        "買収"
       ]
     },
     {
@@ -2400,6 +2528,18 @@
       "tags": []
     },
     {
+      "id": "ssnp-c61db68f",
+      "title": "大型連休中の休業と、それに伴う休刊のお知らせ/食品産業新聞社",
+      "url": "https://www.ssnp.co.jp/release/676833/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "release",
+      "date": "2026-04-21",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
       "id": "ssnp-9d8b9334",
       "title": "赤城乳業、4月25日と「風呂の日」26日にアイスサンプリング　風呂あがりに「フロリダサンデー」、東京都台東区・萩の湯で\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/milk/676902/",
@@ -2438,18 +2578,6 @@
       "category": "foodservice",
       "date": "2026-04-21",
       "tags": []
-    },
-    {
-      "id": "ssnp-c61db68f",
-      "title": "大型連休中の休業と、それに伴う休刊のお知らせ/食品産業新聞社",
-      "url": "https://www.ssnp.co.jp/release/676833/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "release",
-      "date": "2026-04-21",
-      "tags": [
-        "食品"
-      ]
     },
     {
       "id": "ssnp-533054b2",
@@ -3377,120 +3505,6 @@
         "マルエツ",
         "オープン"
       ]
-    },
-    {
-      "id": "ryutsuu-47d9383b",
-      "title": "コンビニエンスストア／3月既存店2.2％増、行楽需要で揚げ物・ドリンク好調",
-      "url": "https://www.ryutsuu.biz/sales/s042016.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-20",
-      "tags": [
-        "コンビニ"
-      ]
-    },
-    {
-      "id": "ssnp-05ff28d8",
-      "title": "【不二家】3日間限定の母の日スイーツが登場!ティーギフトもラインアップ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/673267/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-04-19",
-      "tags": []
-    },
-    {
-      "id": "diamond-19cdc79e",
-      "title": "ローソン、2026年度中にミニスーパーの新業態を出店へ",
-      "url": "https://diamond-rm.net/market/accounting/543231/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-04-18",
-      "tags": [
-        "ローソン",
-        "スーパー",
-        "出店"
-      ]
-    },
-    {
-      "id": "ssnp-752530e5",
-      "title": "とんかつ まい泉 星ヶ丘三越店オープン!記念セールでヒレかつやロースかつなどがお得に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/672681/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-18",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "diamond-3212d3de",
-      "title": "青果売場「お客にとって買いやすくする」ための品揃えに欠かせない重要な考え方",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/541578/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-18",
-      "tags": [
-        "青果"
-      ]
-    },
-    {
-      "id": "diamond-127788c3",
-      "title": "食品トレー削減の切り札「真空エコパック」が味付け肉には導入されていない不思議",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/541572/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-18",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-0a96dc36",
-      "title": "流通秀書　第25回『考え方の論理』",
-      "url": "https://diamond-rm.net/life-career/540833/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-18",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-5f9aa9d7",
-      "title": "アイスクリーム 売上ランキング／3月は森永乳業「PARM チョコレート」が1位",
-      "url": "https://www.ryutsuu.biz/pos/s041742.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-04-17",
-      "tags": [
-        "チョコレート"
-      ]
-    },
-    {
-      "id": "diamond-ba765959",
-      "title": "業績好調のサンエー、めざすは総菜売上2倍　約540億円投じセンター併設の新本社建設へ",
-      "url": "https://diamond-rm.net/market/accounting/543186/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-04-17",
-      "tags": []
-    },
-    {
-      "id": "diamond-09a5f291",
-      "title": "イズミの新中計を徹底考察！「SM事業」を成長エンジンに“三度目の正直”なるか",
-      "url": "https://diamond-rm.net/management/businessplan/543008/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-17",
-      "tags": []
     }
   ]
 }
