@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T18:28:08.454Z",
+  "lastUpdated": "2026-04-28T00:31:13.344Z",
   "items": [
     {
       "id": "ryutsuu-81dd7bc1",
@@ -12,6 +12,40 @@
       "tags": [
         "オープン"
       ]
+    },
+    {
+      "id": "diamond-87c0b61a",
+      "title": "約1000人が行列！ ダイエーの新フォーマット1号店「フードスタイルあびこ駅前店」を速報",
+      "url": "https://diamond-rm.net/store/newstorereport/543816/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-28",
+      "tags": []
+    },
+    {
+      "id": "diamond-4c8197eb",
+      "title": "日本に「新規客」はもういない！Amazon・ZOZO・楽天に制空権を奪われた企業の逆転戦略",
+      "url": "https://diamond-rm.net/management/businessplan/543789/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-28",
+      "tags": [
+        "Amazon",
+        "ZOZO",
+        "楽天"
+      ]
+    },
+    {
+      "id": "ssnp-9f614b72",
+      "title": "サントリー「GREEN DA・KA・RA」、水分補給+日傘で“耐える夏”から“楽しむ夏”へ　全国6カ所のレジャー施設で親子日傘を無料レンタル\n\t\t\t\t\t\t\t\t\t\t\t\tサントリービバレッジ&フードは、「GREEN DA・KA・RA」ブランドの熱中症対策啓発活動の一環として、親子で日傘を活用する新施策「おやこひがさ大作戦!」を始動する。全国6カ所のレジャー施設と連携し、親子で使え...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/679866/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-04-28",
+      "tags": []
     },
     {
       "id": "ryutsuu-4c35b97c",
@@ -252,7 +286,7 @@
     },
     {
       "id": "ssnp-fe35f04f",
-      "title": "【約3割値下げ】ローソンストア100「ツインシュー」106円に　新作ミルククリームも登場\n\t\t\t\t\t\t\t\t\t\t\t\t株式会社ローソンストア100が運営する「ローソンストア100」（565店舗／2026年3月末時点）は5月6日から、全店舗で人気の定番スイーツ「ツインシュー カスタード&ホイップ」の税込価格を138円から106円へ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【約3割値下げ】ローソンストア100「ツインシュー」106円に　新作ミルククリームも登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/679848/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -587,28 +621,6 @@
       "tags": []
     },
     {
-      "id": "diamond-4395f2e5",
-      "title": "発売3カ月で2万着突破！洋服の青山「みんなのスーツ」が示した紳士服市場の新たな勝ち筋",
-      "url": "https://diamond-rm.net/sales-promotion/542591/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-24",
-      "tags": [
-        "青山"
-      ]
-    },
-    {
-      "id": "diamond-c5a1a471",
-      "title": "一大トレンドとなったウェルネス関連商品　ターゲットとホールフーズが品揃えを拡充！",
-      "url": "https://diamond-rm.net/sales-promotion/540473/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
       "id": "diamond-2ba6ca18",
       "title": "第７６回　共済部と柏蔭会",
       "url": "https://diamond-rm.net/life-career/535854/",
@@ -665,6 +677,48 @@
       "tags": []
     },
     {
+      "id": "diamond-46936a87",
+      "title": "来たときよりもよい店に――平和堂の旗艦店「アル・プラザつかしん」西村直志支配人の信念",
+      "url": "https://diamond-rm.net/management/businessplan/541933/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "diamond-4395f2e5",
+      "title": "発売3カ月で2万着突破！洋服の青山「みんなのスーツ」が示した紳士服市場の新たな勝ち筋",
+      "url": "https://diamond-rm.net/sales-promotion/542591/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-24",
+      "tags": [
+        "青山"
+      ]
+    },
+    {
+      "id": "diamond-ec0386a1",
+      "title": "「不変」と「変革」が共存するロングセラーの正体",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/542057/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "diamond-c5a1a471",
+      "title": "一大トレンドとなったウェルネス関連商品　ターゲットとホールフーズが品揃えを拡充！",
+      "url": "https://diamond-rm.net/sales-promotion/540473/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
       "id": "diamond-56cf5822",
       "title": "業態別統計データ 2026年 スーパーマーケット",
       "url": "https://diamond-rm.net/retaildata/538310/",
@@ -687,26 +741,6 @@
       "tags": [
         "百貨店"
       ]
-    },
-    {
-      "id": "diamond-46936a87",
-      "title": "来たときよりもよい店に――平和堂の旗艦店「アル・プラザつかしん」西村直志支配人の信念",
-      "url": "https://diamond-rm.net/management/businessplan/541933/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
-      "id": "diamond-ec0386a1",
-      "title": "「不変」と「変革」が共存するロングセラーの正体",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/542057/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-24",
-      "tags": []
     },
     {
       "id": "diamond-f5de3430",
@@ -1568,16 +1602,6 @@
       ]
     },
     {
-      "id": "diamond-2ddc6253",
-      "title": "ダイエーとエフピコが「エコストア協働宣言」 近畿187店舗で水平リサイクルを推進",
-      "url": "https://diamond-rm.net/management/sdgsesg/543490/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-22",
-      "tags": []
-    },
-    {
       "id": "diamond-52182efa",
       "title": "松源が大阪・浪速区に「都市型店舗」を新規出店へ【今週の大店立地法速報】",
       "url": "https://diamond-rm.net/store/543533/",
@@ -1587,20 +1611,6 @@
       "date": "2026-04-22",
       "tags": [
         "出店"
-      ]
-    },
-    {
-      "id": "diamond-d0819078",
-      "title": "2層の都市型小型店最新モデル！建て替えオープンした「サミット西小山店」を徹底解剖",
-      "url": "https://diamond-rm.net/store/newstorereport/541840/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-22",
-      "tags": [
-        "サミット",
-        "オープン",
-        "建て替え"
       ]
     },
     {
@@ -1799,6 +1809,30 @@
       "date": "2026-04-22",
       "tags": [
         "社長"
+      ]
+    },
+    {
+      "id": "diamond-2ddc6253",
+      "title": "ダイエーとエフピコが「エコストア協働宣言」 近畿187店舗で水平リサイクルを推進",
+      "url": "https://diamond-rm.net/management/sdgsesg/543490/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-22",
+      "tags": []
+    },
+    {
+      "id": "diamond-d0819078",
+      "title": "2層の都市型小型店最新モデル！建て替えオープンした「サミット西小山店」を徹底解剖",
+      "url": "https://diamond-rm.net/store/newstorereport/541840/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-22",
+      "tags": [
+        "サミット",
+        "オープン",
+        "建て替え"
       ]
     },
     {
@@ -3442,42 +3476,6 @@
       "category": "foodservice",
       "date": "2026-04-17",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-cab9ef42",
-      "title": "ローソン／ミニスーパー「Lミニマート」26年度上期に開始、生鮮品などを安価に提供",
-      "url": "https://www.ryutsuu.biz/strategy/s041744.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-17",
-      "tags": [
-        "ローソン",
-        "スーパー",
-        "生鮮"
-      ]
-    },
-    {
-      "id": "ssnp-fdbb3da5",
-      "title": "【19貫で1294円】ラインナップは4種類、どれを選んでも安い（超得バリュー盛フェア）\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/676347/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-17",
-      "tags": []
-    },
-    {
-      "id": "ssnp-b3ec21d7",
-      "title": "【ロイヤルホスト】「黒×黒ハンバーグ」リニューアル&新商品「ロイヤルホストハンバーグ」登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/676345/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-17",
-      "tags": [
-        "リニューアル"
-      ]
     }
   ]
 }
