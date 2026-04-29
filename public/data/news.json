@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T18:32:31.307Z",
+  "lastUpdated": "2026-04-29T00:32:32.900Z",
   "items": [
     {
       "id": "ryutsuu-f5501e9c",
@@ -12,6 +12,18 @@
       "tags": [
         "オープン",
         "弁当"
+      ]
+    },
+    {
+      "id": "diamond-24786ccd",
+      "title": "週刊コンビニエンスストアニュース　セコマがご当地カップ麺を発売",
+      "url": "https://diamond-rm.net/management/543910/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-29",
+      "tags": [
+        "コンビニ"
       ]
     },
     {
@@ -975,26 +987,6 @@
       ]
     },
     {
-      "id": "diamond-2ba6ca18",
-      "title": "第７６回　共済部と柏蔭会",
-      "url": "https://diamond-rm.net/life-career/535854/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
-      "id": "diamond-46936a87",
-      "title": "来たときよりもよい店に――平和堂の旗艦店「アル・プラザつかしん」西村直志支配人の信念",
-      "url": "https://diamond-rm.net/management/businessplan/541933/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
       "id": "diamond-e10c3c16",
       "title": "ハローズがついに神戸市に進出！「ハローズ伊川谷店」の売場を解説",
       "url": "https://diamond-rm.net/store/newstorereport/542985/",
@@ -1362,6 +1354,26 @@
       "tags": [
         "AI"
       ]
+    },
+    {
+      "id": "diamond-2ba6ca18",
+      "title": "第７６回　共済部と柏蔭会",
+      "url": "https://diamond-rm.net/life-career/535854/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "diamond-46936a87",
+      "title": "来たときよりもよい店に――平和堂の旗艦店「アル・プラザつかしん」西村直志支配人の信念",
+      "url": "https://diamond-rm.net/management/businessplan/541933/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-24",
+      "tags": []
     },
     {
       "id": "ryutsuu-04addc2c",
@@ -3491,19 +3503,6 @@
         "サンドラッグ",
         "ドラッグ",
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-ecb5dd2b",
-      "title": "イオン／大阪市住吉区「キッチンオリジン イオンタウンあびこ駅前店」4／25オープン",
-      "url": "https://www.ryutsuu.biz/store/s042042.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-20",
-      "tags": [
-        "オープン",
-        "イオン"
       ]
     }
   ]
