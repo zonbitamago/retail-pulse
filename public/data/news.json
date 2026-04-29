@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T00:32:32.900Z",
+  "lastUpdated": "2026-04-29T06:49:56.983Z",
   "items": [
     {
       "id": "ryutsuu-f5501e9c",
@@ -25,6 +25,50 @@
       "tags": [
         "コンビニ"
       ]
+    },
+    {
+      "id": "diamond-19b60490",
+      "title": "第７９回　一高を去った者たち",
+      "url": "https://diamond-rm.net/life-career/535857/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-29",
+      "tags": []
+    },
+    {
+      "id": "ssnp-7ae61967",
+      "title": "新宿に“アイスコーヒーが飲めるアパート”出現、「ネスカフェ アイスブレンド」体験イベント開催/ネスレ日本\n\t\t\t\t\t\t\t\t\t\t\t\tネスレ日本は、アイス専用のレギュラーソリュブルコーヒー「ネスカフェ アイスブレンド」の魅力を体験型で訴求するイベント「NESCAFÉ APARTMENT #隣人と溶けるアイスコーヒー」を、ゴールデンウィーク期間の4月28...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/679995/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-04-29",
+      "tags": [
+        "SC"
+      ]
+    },
+    {
+      "id": "ssnp-3ca92cca",
+      "title": "「玉露」をブレンドした抹茶クリームを詰めた「玉露抹茶シュー」発売\n\t\t\t\t\t\t\t\t\t\t\t\tシュークリーム専門店ビアードパパは、2026年5月1日から、毎年人気の期間限定商品「玉露抹茶シュー」を販売する。 ◆玉露抹茶シュー 販売価格:320円(税込)販売期間:2026年5月1日～6月30日 深いコクと上品な渋み...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/679838/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-04-29",
+      "tags": [
+        "専門店"
+      ]
+    },
+    {
+      "id": "ssnp-43378325",
+      "title": "【モロゾフ】こどもの日限定「デンマーククリームチーズケーキ」発売/2024年発売の人気商品「クリームリッチチーズケーキ」が再登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/679459/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-04-29",
+      "tags": []
     },
     {
       "id": "ryutsuu-6871449d",
@@ -282,7 +326,7 @@
     },
     {
       "id": "ssnp-d0bbdca8",
-      "title": "“お茶とコーヒーがタッグ” 伊藤園とネスレ日本、物流効率化へ共同輸送・ラウンド輸送を開始\n\t\t\t\t\t\t\t\t\t\t\t\t伊藤園とネスレ日本は4月から、物流効率化に向けた共同輸送とラウンド輸送を開始した。トラックドライバー不足など物流を取り巻く課題が深刻化する中、「お～いお茶」と「ネスカフェ」に代表される“お茶とコーヒー”の企業...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "“お茶とコーヒーがタッグ” 伊藤園とネスレ日本、物流効率化へ共同輸送・ラウンド輸送を開始\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/679972/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -294,7 +338,7 @@
     },
     {
       "id": "ssnp-c070a9bf",
-      "title": "【近鉄あべのハルカス本店】惣菜売場リニューアルで関西最大ブランド数の惣菜売場に\n\t\t\t\t\t\t\t\t\t\t\t\tあべのハルカス近鉄本店(大阪市阿倍野区)は4月28日、タワー館地下2階の惣菜売場リニューアルに伴いメディア内覧会を行った。グランドオープンは29日となっている。これまでタワー館とウイング館の惣菜売場はトータル55店を展開...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【近鉄あべのハルカス本店】惣菜売場リニューアルで関西最大ブランド数の惣菜売場に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/679971/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -302,7 +346,6 @@
       "date": "2026-04-28",
       "tags": [
         "リニューアル",
-        "オープン",
         "惣菜"
       ]
     },
@@ -2520,6 +2563,18 @@
       "tags": []
     },
     {
+      "id": "ssnp-c61db68f",
+      "title": "大型連休中の休業と、それに伴う休刊のお知らせ/食品産業新聞社",
+      "url": "https://www.ssnp.co.jp/release/676833/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "release",
+      "date": "2026-04-21",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
       "id": "ssnp-691069ee",
       "title": "カインズ、1本138円のビールが誕生　「黄金ラガービール」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/liquor/676938/",
@@ -2551,18 +2606,6 @@
       "category": "foodservice",
       "date": "2026-04-21",
       "tags": []
-    },
-    {
-      "id": "ssnp-c61db68f",
-      "title": "大型連休中の休業と、それに伴う休刊のお知らせ/食品産業新聞社",
-      "url": "https://www.ssnp.co.jp/release/676833/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "release",
-      "date": "2026-04-21",
-      "tags": [
-        "食品"
-      ]
     },
     {
       "id": "ssnp-9d8b9334",
@@ -3449,59 +3492,6 @@
       "category": "店舗",
       "date": "2026-04-20",
       "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-52c7a5b6",
-      "title": "JR名古屋駅中央コンコース／「cafe＆gifts ぴよりんvillage」6／15オープン",
-      "url": "https://www.ryutsuu.biz/store/s042072.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-20",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-f87826a0",
-      "title": "ワタミ／大阪市北区に「サブウェイ ディアモール大阪店」4／24オープン",
-      "url": "https://www.ryutsuu.biz/store/s042079.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-20",
-      "tags": [
-        "オープン",
-        "モール"
-      ]
-    },
-    {
-      "id": "ryutsuu-b5f54f61",
-      "title": "イオンモール札幌発寒／「プラステ」4／24増床・移転オープン",
-      "url": "https://www.ryutsuu.biz/store/s042012.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-20",
-      "tags": [
-        "オープン",
-        "イオン",
-        "モール"
-      ]
-    },
-    {
-      "id": "ryutsuu-1376d9dd",
-      "title": "ワッツ／福島県田村市に「ワッツウィズ 田村サンドラッグ店」オープン",
-      "url": "https://www.ryutsuu.biz/store/s042044.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-20",
-      "tags": [
-        "サンドラッグ",
-        "ドラッグ",
         "オープン"
       ]
     }
