@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T06:54:59.713Z",
+  "lastUpdated": "2026-05-01T12:20:26.563Z",
   "items": [
     {
       "id": "ryutsuu-fb8861e9",
@@ -42,6 +42,18 @@
       ]
     },
     {
+      "id": "ryutsuu-a54bed29",
+      "title": "ZOZO／香水を中心にした事業を手掛けるHigh Linkを完全子会社化",
+      "url": "https://www.ryutsuu.biz/strategy/s050190.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-05-01",
+      "tags": [
+        "ZOZO"
+      ]
+    },
+    {
       "id": "ryutsuu-fa2576ff",
       "title": "JR東日本×KKday／東日本エリアでインバウンド観光強化、コンテンツの多言語化など推進",
       "url": "https://www.ryutsuu.biz/it/s050172.html",
@@ -64,6 +76,35 @@
       "tags": [
         "オープン",
         "新店"
+      ]
+    },
+    {
+      "id": "ryutsuu-91d19789",
+      "title": "伊藤忠食品 決算／3月期営業利益24.2％増、飲料や麺類伸長・オリジナル品注力",
+      "url": "https://www.ryutsuu.biz/accounts/s050189.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-01",
+      "tags": [
+        "営業利益",
+        "食品",
+        "飲料",
+        "決算"
+      ]
+    },
+    {
+      "id": "ryutsuu-4e5c02b1",
+      "title": "ZOZO 決算／3月期営業利益7.1％増、冬の本セール販売が好調",
+      "url": "https://www.ryutsuu.biz/accounts/s050187.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-01",
+      "tags": [
+        "ZOZO",
+        "営業利益",
+        "決算"
       ]
     },
     {
@@ -176,21 +217,43 @@
       "tags": []
     },
     {
+      "id": "ssnp-db5affef",
+      "title": "【オリジン】人気「なすの辛味噌炒め弁当」今年も登場　3種のジャンで濃厚仕立て\n\t\t\t\t\t\t\t\t\t\t\t\tイオングループのオリジン東秀は、弁当・惣菜専門店「キッチンオリジン」と「オリジン弁当」で5月2日から、「なすの辛味噌炒め弁当～3種のジャンが決め手！～」を販売する。 ■3種のジャンで仕上げた濃厚な味わい 「なすの辛味噌炒...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/680207/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-01",
+      "tags": [
+        "イオン",
+        "専門店",
+        "惣菜",
+        "弁当"
+      ]
+    },
+    {
+      "id": "ssnp-3e05cc36",
+      "title": "味の素AGF、神奈川県とマイボトル利用促進 県内1277店で「ブレンディ」マイボトルスティック訴求\n\t\t\t\t\t\t\t\t\t\t\t\t味の素AGFは5月1日から6月30日まで、神奈川県の「かながわプラごみゼロ宣言」と連携し、「持ち歩こう!マイボトル運動」キャンペーンを実施する。県内小売店など計1277店舗の売り場で告知物を掲示し、《「ブレンディ」マイボ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/680201/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-05-01",
+      "tags": []
+    },
+    {
       "id": "ssnp-ce766873",
-      "title": "【ゴディバ監修】毎回好評のシュークリーム・エクレアに加え、ロールケーキが新登場!【モンテール】\n\t\t\t\t\t\t\t\t\t\t\t\tモンテールは、プレミアムチョコレートブランドのゴディバ ジャパンが監修した「プレミアムショコラロール」など3品を、2026年5月1日～2026年5月31日までスーパーマーケットで販売する。 毎回好評のシュークリームとエク...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【ゴディバ監修】毎回好評のシュークリーム・エクレアに加え、ロールケーキが新登場!【モンテール】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/678999/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
       "date": "2026-05-01",
-      "tags": [
-        "チョコレート",
-        "スーパー"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-390683c3",
-      "title": "兜をかぶったシマエナガのケーキ・こいのぼりラッピングのロールケーキなど「こどもの日スイーツ」を販売【FLO】\n\t\t\t\t\t\t\t\t\t\t\t\t「FLO フロプレステージュ」は、2026年5月2日から5月5日までの4日間限定で、端午の節句を祝う「こどもの日スイーツ」を販売する。 2025年12月30日の発売以来、愛くるしいルックスで人気の「シマエナガのケーキ」が...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "兜をかぶったシマエナガのケーキ・こいのぼりラッピングのロールケーキなど「こどもの日スイーツ」を販売【FLO】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/676571/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -443,31 +506,6 @@
       ]
     },
     {
-      "id": "ryutsuu-506acf86",
-      "title": "イオン東北／福島県相馬市に「イオン相馬店」2027年夏オープン",
-      "url": "https://www.ryutsuu.biz/store/s042843.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-28",
-      "tags": [
-        "オープン",
-        "イオン"
-      ]
-    },
-    {
-      "id": "ryutsuu-a77caa43",
-      "title": "東京メトロ、サンケイビル／表参道「青山通り」沿いに駅直結の複合施設、2032年度竣工",
-      "url": "https://www.ryutsuu.biz/store/s042879.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-28",
-      "tags": [
-        "青山"
-      ]
-    },
-    {
       "id": "ryutsuu-344fb6b9",
       "title": "PLANT 新中計／2031年9月期に売上高1100億円・営業利益30億円を目指す",
       "url": "https://www.ryutsuu.biz/strategy/s042848.html",
@@ -693,6 +731,31 @@
       "category": "飲料",
       "date": "2026-04-28",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-506acf86",
+      "title": "イオン東北／福島県相馬市に「イオン相馬店」2027年夏オープン",
+      "url": "https://www.ryutsuu.biz/store/s042843.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-28",
+      "tags": [
+        "オープン",
+        "イオン"
+      ]
+    },
+    {
+      "id": "ryutsuu-a77caa43",
+      "title": "東京メトロ、サンケイビル／表参道「青山通り」沿いに駅直結の複合施設、2032年度竣工",
+      "url": "https://www.ryutsuu.biz/store/s042879.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-04-28",
+      "tags": [
+        "青山"
+      ]
     },
     {
       "id": "ryutsuu-6871449d",
@@ -3432,63 +3495,6 @@
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "pos",
-      "date": "2026-04-20",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-5c1c53b4",
-      "title": "お菓子 売上ランキング／1位は「チョコエッグ（ポケットモンスター旅立ちの3匹）」",
-      "url": "https://www.ryutsuu.biz/pos/s042041.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-04-20",
-      "tags": [
-        "菓子"
-      ]
-    },
-    {
-      "id": "diamond-2ae93dd4",
-      "title": "作業8割削減！2400店が導入する賞味期限管理アプリでムダを利益に変える",
-      "url": "https://diamond-rm.net/promotion/pr/542626/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-04-20",
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "id": "ssnp-d81a9b94",
-      "title": "玩具菓子「ほねほねザウルスリバイバル」イオングループ限定発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/676793/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-04-20",
-      "tags": [
-        "イオン",
-        "菓子"
-      ]
-    },
-    {
-      "id": "ssnp-814940f3",
-      "title": "【サンマルクカフェの日】毎月30日はチョコクロ 9個セットが30%オフの新キャンペーン誕生【毎月開催】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/676783/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-20",
-      "tags": []
-    },
-    {
-      "id": "ssnp-c499063e",
-      "title": "16時以降限定!国産フレッシュパクチー×ガーリックシュリンプのサラダ発売【フレッシュネスバーガー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/676761/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
       "date": "2026-04-20",
       "tags": []
     }
