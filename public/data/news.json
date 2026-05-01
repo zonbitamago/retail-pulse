@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T18:29:51.833Z",
+  "lastUpdated": "2026-05-01T00:33:59.188Z",
   "items": [
     {
       "id": "ryutsuu-d04278f9",
@@ -8,6 +8,66 @@
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "経営",
+      "date": "2026-05-01",
+      "tags": []
+    },
+    {
+      "id": "diamond-334ba384",
+      "title": "トライアル西友3号店「二俣川店」がオープン　トライアルオリジナル商品の訴求を強化",
+      "url": "https://diamond-rm.net/store/543977/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-01",
+      "tags": [
+        "トライアル",
+        "オープン",
+        "西友"
+      ]
+    },
+    {
+      "id": "diamond-758cd208",
+      "title": "ベルクが西浦和駅近くに新店オープンへ【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/544021/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-01",
+      "tags": [
+        "オープン",
+        "ベルク",
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-d6b7ea27",
+      "title": "ヘアケア市場の変化から考えた、リアル店舗”ならでは”のパーソナライズの方向性",
+      "url": "https://diamond-rm.net/life-career/543872/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-01",
+      "tags": []
+    },
+    {
+      "id": "diamond-d2253fb8",
+      "title": "中川政七商店が挑む「メルマガ改革」　クラスター分析や生成AI活用も",
+      "url": "https://diamond-rm.net/technology/541095/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-05-01",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ssnp-390683c3",
+      "title": "兜をかぶったシマエナガのケーキ・こいのぼりラッピングのロールケーキなど「こどもの日スイーツ」を販売【FLO】\n\t\t\t\t\t\t\t\t\t\t\t\t「FLO フロプレステージュ」は、2026年5月2日から5月5日までの4日間限定で、端午の節句を祝う「こどもの日スイーツ」を販売する。 2025年12月30日の発売以来、愛くるしいルックスで人気の「シマエナガのケーキ」が...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/676571/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
       "date": "2026-05-01",
       "tags": []
     },
@@ -63,7 +123,7 @@
     },
     {
       "id": "ssnp-360dedfd",
-      "title": "かっぱ寿司、全店で50％増量フェア　大切りサーモン80円＆中とろ割引も\n\t\t\t\t\t\t\t\t\t\t\t\t回転寿司チェーンのかっぱ寿司は、5月7日から5月27日までの期間、全店舗で「大切り＆お値段そのまま50％増量祭り」を開催する。 1貫税込80円の「大切りサーモン」をはじめ、価格据え置きで50％増量した「甘海老にぎり」や「...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "かっぱ寿司、全店で50％増量フェア　大切りサーモン80円＆中とろ割引も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/680159/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -206,6 +266,16 @@
       ]
     },
     {
+      "id": "diamond-19b60490",
+      "title": "第７９回　一高を去った者たち",
+      "url": "https://diamond-rm.net/life-career/535857/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-29",
+      "tags": []
+    },
+    {
       "id": "diamond-24786ccd",
       "title": "週刊コンビニエンスストアニュース　セコマがご当地カップ麺を発売",
       "url": "https://diamond-rm.net/management/543910/",
@@ -216,16 +286,6 @@
       "tags": [
         "コンビニ"
       ]
-    },
-    {
-      "id": "diamond-19b60490",
-      "title": "第７９回　一高を去った者たち",
-      "url": "https://diamond-rm.net/life-career/535857/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-29",
-      "tags": []
     },
     {
       "id": "ssnp-7ae61967",
@@ -443,16 +503,6 @@
       ]
     },
     {
-      "id": "diamond-87c0b61a",
-      "title": "約1000人が行列！ ダイエーの新フォーマット1号店「フードスタイルあびこ駅前店」を速報",
-      "url": "https://diamond-rm.net/store/newstorereport/543816/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-28",
-      "tags": []
-    },
-    {
       "id": "diamond-35bf0ef0",
       "title": "週刊スーパーマーケットニュース　コープさっぽろが組合員数210万人を達成",
       "url": "https://diamond-rm.net/management/businessplan/543901/",
@@ -462,20 +512,6 @@
       "date": "2026-04-28",
       "tags": [
         "スーパー"
-      ]
-    },
-    {
-      "id": "diamond-4c8197eb",
-      "title": "日本に「新規客」はもういない！Amazon・ZOZO・楽天に制空権を奪われた企業の逆転戦略",
-      "url": "https://diamond-rm.net/management/businessplan/543789/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-28",
-      "tags": [
-        "Amazon",
-        "ZOZO",
-        "楽天"
       ]
     },
     {
@@ -508,6 +544,30 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "テクノロジー",
+      "date": "2026-04-28",
+      "tags": []
+    },
+    {
+      "id": "diamond-4c8197eb",
+      "title": "日本に「新規客」はもういない！Amazon・ZOZO・楽天に制空権を奪われた企業の逆転戦略",
+      "url": "https://diamond-rm.net/management/businessplan/543789/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-28",
+      "tags": [
+        "Amazon",
+        "ZOZO",
+        "楽天"
+      ]
+    },
+    {
+      "id": "diamond-87c0b61a",
+      "title": "約1000人が行列！ ダイエーの新フォーマット1号店「フードスタイルあびこ駅前店」を速報",
+      "url": "https://diamond-rm.net/store/newstorereport/543816/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
       "date": "2026-04-28",
       "tags": []
     },
@@ -693,16 +753,6 @@
         "オープン",
         "食品"
       ]
-    },
-    {
-      "id": "diamond-6aba38d2",
-      "title": "第７７回　変わりゆく自治寮制度",
-      "url": "https://diamond-rm.net/life-career/535855/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-27",
-      "tags": []
     },
     {
       "id": "diamond-23782ff4",
@@ -905,6 +955,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-04-27",
+      "tags": []
+    },
+    {
+      "id": "diamond-6aba38d2",
+      "title": "第７７回　変わりゆく自治寮制度",
+      "url": "https://diamond-rm.net/life-career/535855/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-04-27",
       "tags": []
     },
@@ -1215,16 +1275,6 @@
         "PPIH",
         "食品"
       ]
-    },
-    {
-      "id": "diamond-e10c3c16",
-      "title": "ハローズがついに神戸市に進出！「ハローズ伊川谷店」の売場を解説",
-      "url": "https://diamond-rm.net/store/newstorereport/542985/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-24",
-      "tags": []
     },
     {
       "id": "diamond-4395f2e5",
@@ -1586,6 +1636,16 @@
       ]
     },
     {
+      "id": "diamond-e10c3c16",
+      "title": "ハローズがついに神戸市に進出！「ハローズ伊川谷店」の売場を解説",
+      "url": "https://diamond-rm.net/store/newstorereport/542985/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
       "id": "diamond-2ba6ca18",
       "title": "第７６回　共済部と柏蔭会",
       "url": "https://diamond-rm.net/life-career/535854/",
@@ -1804,20 +1864,6 @@
       "category": "経営",
       "date": "2026-04-23",
       "tags": []
-    },
-    {
-      "id": "diamond-b15750a2",
-      "title": "総菜が大進化!?　関西最新店「MEGAドン・キホーテ交野店」の食品売場をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/543270/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-23",
-      "tags": [
-        "ドン・キホーテ",
-        "食品",
-        "新店"
-      ]
     },
     {
       "id": "diamond-b214a7b5",
@@ -2051,6 +2097,20 @@
       "date": "2026-04-23",
       "tags": [
         "セブン-イレブン"
+      ]
+    },
+    {
+      "id": "diamond-b15750a2",
+      "title": "総菜が大進化!?　関西最新店「MEGAドン・キホーテ交野店」の食品売場をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/543270/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-23",
+      "tags": [
+        "ドン・キホーテ",
+        "食品",
+        "新店"
       ]
     },
     {
@@ -3413,64 +3473,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "米",
-      "date": "2026-04-20",
-      "tags": []
-    },
-    {
-      "id": "ssnp-56e2b9e4",
-      "title": "インバウンド向けに和素材の1つとしてきな粉を提案【みたけ食品工業】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/676624/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-04-20",
-      "tags": [
-        "インバウンド",
-        "食品"
-      ]
-    },
-    {
-      "id": "ssnp-03dcb856",
-      "title": "【110円から】はま寿司「初夏の特選ねた祭り」開催　あわび・本ずわいがになど数量限定\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/676612/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-20",
-      "tags": []
-    },
-    {
-      "id": "ssnp-0fabc41c",
-      "title": "静岡市小学校のソフト麺納品問題から考える、学校給食で本当に変えるべきこと\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/feeding/676605/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "feeding",
-      "date": "2026-04-20",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-1159fa3d",
-      "title": "コンビニ3社の業績比較（前編）／セブンイレブン・ファミマ・ローソン、客数で明暗",
-      "url": "https://www.ryutsuu.biz/strategy/s042046.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-20",
-      "tags": [
-        "注目",
-        "セブンイレブン",
-        "ローソン",
-        "コンビニ"
-      ]
-    },
-    {
-      "id": "diamond-4c760859",
-      "title": "小売マーケティングの戦術を整理するために押さえておきたい11の質問",
-      "url": "https://diamond-rm.net/management/marketing/541583/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
       "date": "2026-04-20",
       "tags": []
     }
