@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T18:23:30.580Z",
+  "lastUpdated": "2026-05-02T00:31:16.892Z",
   "items": [
     {
       "id": "ryutsuu-3024a970",
@@ -14,6 +14,26 @@
         "スーパー",
         "精肉"
       ]
+    },
+    {
+      "id": "diamond-d29d56b7",
+      "title": "流通秀書　第27回『商いの心くばり』",
+      "url": "https://diamond-rm.net/life-career/541390/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-02",
+      "tags": []
+    },
+    {
+      "id": "ssnp-cbe05ed8",
+      "title": "【船橋屋】「母の日あんみつ」発売、カーネーション型の苺羊羹と彩り豊かな具材で華やかに\n\t\t\t\t\t\t\t\t\t\t\t\t船橋屋は、2026年5月8日から5月10日までの間、母の日限定商品「母の日あんみつ」を全店舗で販売する。あわせて、公式オンラインショップで母の日到着分の予約受付を開始した。 ◆母の日あんみつ 価格:670円(税込)期間:...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/680031/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-05-02",
+      "tags": []
     },
     {
       "id": "ryutsuu-fb8861e9",
@@ -247,7 +267,7 @@
     },
     {
       "id": "ssnp-3e05cc36",
-      "title": "味の素AGF、神奈川県とマイボトル利用促進 県内1277店で「ブレンディ」マイボトルスティック訴求\n\t\t\t\t\t\t\t\t\t\t\t\t味の素AGFは5月1日から6月30日まで、神奈川県の「かながわプラごみゼロ宣言」と連携し、「持ち歩こう!マイボトル運動」キャンペーンを実施する。県内小売店など計1277店舗の売り場で告知物を掲示し、《「ブレンディ」マイボ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "味の素AGF、神奈川県とマイボトル利用促進 県内1277店で「ブレンディ」マイボトルスティック訴求\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/680201/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -557,16 +577,6 @@
       ]
     },
     {
-      "id": "diamond-40d05df0",
-      "title": "第７８回　「全寮制復活宣言」",
-      "url": "https://diamond-rm.net/life-career/535856/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-28",
-      "tags": []
-    },
-    {
       "id": "diamond-77bc26c9",
       "title": "【動画】4月4週目の注目ニュースまとめ、イズミの決算、各地新店ニュースなど",
       "url": "https://diamond-rm.net/management/businessplan/543918/",
@@ -743,6 +753,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-04-28",
+      "tags": []
+    },
+    {
+      "id": "diamond-40d05df0",
+      "title": "第７８回　「全寮制復活宣言」",
+      "url": "https://diamond-rm.net/life-career/535856/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-04-28",
       "tags": []
     },
@@ -3478,28 +3498,6 @@
       "date": "2026-04-21",
       "tags": [
         "スーパー"
-      ]
-    },
-    {
-      "id": "ryutsuu-a1377625",
-      "title": "日本生協連／3月の総供給高1.4％増",
-      "url": "https://www.ryutsuu.biz/sales/s042113.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-21",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-3697eb00",
-      "title": "清涼飲料 売上ランキング／3月1位はサントリー「ギルティ炭酸 NOPE」",
-      "url": "https://www.ryutsuu.biz/pos/s042171.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-04-21",
-      "tags": [
-        "飲料"
       ]
     }
   ]
