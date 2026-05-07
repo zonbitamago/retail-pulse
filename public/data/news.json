@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T06:59:58.492Z",
+  "lastUpdated": "2026-05-07T12:37:07.979Z",
   "items": [
     {
       "id": "ryutsuu-f070ce22",
@@ -13,6 +13,18 @@
         "百貨店",
         "売上高",
         "免税"
+      ]
+    },
+    {
+      "id": "ryutsuu-4e359e36",
+      "title": "ユニクロ／4月既存店売上10.2％増、通年商品・夏物販売が好調",
+      "url": "https://www.ryutsuu.biz/sales/s050712.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-05-07",
+      "tags": [
+        "ユニクロ"
       ]
     },
     {
@@ -194,8 +206,53 @@
       "tags": []
     },
     {
+      "id": "ssnp-53956dfc",
+      "title": "日本コカ・コーラ、沖縄「MAKISHI CARNIVAL」でコークの“パーフェクトサーブ”活用 体験型外食の新拠点始動\n\t\t\t\t\t\t\t\t\t\t\t\t日本コカ・コーラは、那覇市の旧牧志公設市場衣料部跡地に開業した複合商業施設「MAKISHI CARNIVAL」で4月30日、沖縄エリア初となる「コカ･コーラ Foodmarks」を開始した。「コカ･コーラ Foodmar...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/682533/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-05-07",
+      "tags": [
+        "外食",
+        "開業"
+      ]
+    },
+    {
+      "id": "ssnp-ced27af8",
+      "title": "昨年671万皿提供の人気企画が復活 「初夏の牛たんフェア」を開催【しゃぶ葉】\n\t\t\t\t\t\t\t\t\t\t\t\t株式会社すかいらーくレストランツが運営する「しゃぶ葉」は、5月14日(木)から、7月中旬までの期間限定で「初夏の牛たんフェア」を開催する。昨年「牛たん食べ放題」実施時には約671万皿を提供した人気企画で、今年は爽やかな「...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/682524/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-07",
+      "tags": [
+        "すかいらーく"
+      ]
+    },
+    {
+      "id": "ssnp-5682eb09",
+      "title": "【ロイヤルホスト】国産メロン尽くしの限定デザート登場　パフェやブリュレなど全5種\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/682513/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-07",
+      "tags": []
+    },
+    {
+      "id": "ssnp-18285d67",
+      "title": "【松のや】創業25周年記念第2弾、やわらかジューシーな「国産雪国育ちロースかつ」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/682491/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-07",
+      "tags": []
+    },
+    {
       "id": "ssnp-fa296f51",
-      "title": "【バーガーキング】ヒット商品の「マッシュルーム」シリーズ最新作「マッシュルームアグリーバーガー」が登場 / 4種きのこ×4種チーズのクラフトバンズ\n\t\t\t\t\t\t\t\t\t\t\t\tバーガーキングは、期間限定商品として人気を集めた「マッシュルーム」シリーズの最新作『マッシュルームアグリーバーガー』を、5月8日から5月17日まで期間限定で新発売する。 【画像を見る】4種チーズのクラフトバンズを使ったチ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【バーガーキング】ヒット商品の「マッシュルーム」シリーズ最新作「マッシュルームアグリーバーガー」が登場 / 4種きのこ×4種チーズのクラフトバンズ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/682474/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -205,7 +262,7 @@
     },
     {
       "id": "ssnp-312b8ec6",
-      "title": "カプリチョーザ監修の冷凍食品第2弾が登場!レンジアップですぐに食べられる「ライスコロッケ」【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブン･ジャパンは、カジュアルイタリアン「カプリチョーザ」が監修する冷凍食品の第2弾「カプリチョーザ監修 ライスコロッケ」を、5月12日から全国の店舗で発売する。 現在は、第1弾として、カプリチョーザの看板メニ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "カプリチョーザ監修の冷凍食品第2弾が登場!レンジアップですぐに食べられる「ライスコロッケ」【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/682467/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -504,31 +561,6 @@
       ]
     },
     {
-      "id": "ryutsuu-f26f59fb",
-      "title": "イオンリテール／東京都北区・桐ケ丘団地に「そよら」28年春オープン、都内初進出",
-      "url": "https://www.ryutsuu.biz/store/s050173.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-01",
-      "tags": [
-        "オープン",
-        "イオン"
-      ]
-    },
-    {
-      "id": "ryutsuu-55c73982",
-      "title": "三菱商事都市開発ほか／大阪市中央区「味園ビル」跡地に商業など複合施設31年春開業",
-      "url": "https://www.ryutsuu.biz/store/s050181.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-01",
-      "tags": [
-        "開業"
-      ]
-    },
-    {
       "id": "ryutsuu-a54bed29",
       "title": "ZOZO／香水を中心にした事業を手掛けるHigh Linkを完全子会社化",
       "url": "https://www.ryutsuu.biz/strategy/s050190.html",
@@ -653,6 +685,31 @@
       "category": "菓子",
       "date": "2026-05-01",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-f26f59fb",
+      "title": "イオンリテール／東京都北区・桐ケ丘団地に「そよら」28年春オープン、都内初進出",
+      "url": "https://www.ryutsuu.biz/store/s050173.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-05-01",
+      "tags": [
+        "オープン",
+        "イオン"
+      ]
+    },
+    {
+      "id": "ryutsuu-55c73982",
+      "title": "三菱商事都市開発ほか／大阪市中央区「味園ビル」跡地に商業など複合施設31年春開業",
+      "url": "https://www.ryutsuu.biz/store/s050181.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-05-01",
+      "tags": [
+        "開業"
+      ]
     },
     {
       "id": "ryutsuu-fb8861e9",
@@ -2308,6 +2365,18 @@
       ]
     },
     {
+      "id": "ssnp-ab050bf3",
+      "title": "〈シグナル〉AI時代の人間力",
+      "url": "https://www.ssnp.co.jp/signal/679318/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "signal",
+      "date": "2026-04-24",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
       "id": "ssnp-e47ed07e",
       "title": "母の日限定ケーキの予約開始、華やかな花束をイメージしたプチデコレーションケーキなど【銀座コージーコーナー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/679349/",
@@ -2346,18 +2415,6 @@
       "category": "大豆",
       "date": "2026-04-24",
       "tags": []
-    },
-    {
-      "id": "ssnp-ab050bf3",
-      "title": "〈シグナル〉AI時代の人間力",
-      "url": "https://www.ssnp.co.jp/signal/679318/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "signal",
-      "date": "2026-04-24",
-      "tags": [
-        "AI"
-      ]
     },
     {
       "id": "diamond-40f6ca72",
@@ -3434,66 +3491,6 @@
       "tags": [
         "オープン",
         "SC"
-      ]
-    },
-    {
-      "id": "ryutsuu-44447375",
-      "title": "一風堂／千葉県流山市に初進出「流山おおたかの森S.C.店」4／28オープン",
-      "url": "https://www.ryutsuu.biz/store/s042241.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-22",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-0eeba36e",
-      "title": "おひつごはん四六時中／京都市右京区の「京都五条店」4／24リニューアルオープン",
-      "url": "https://www.ryutsuu.biz/store/s042243.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-22",
-      "tags": [
-        "リニューアル",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-f92f5711",
-      "title": "大屋／香川県高松市に「mac香川町店」10／28新設",
-      "url": "https://www.ryutsuu.biz/store/s0422011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-22",
-      "tags": []
-    },
-    {
-      "id": "diamond-9b4c3601",
-      "title": "【動画】4月3週目の注目フラッシュニュースまとめ、イオン、セブン&アイの決算など",
-      "url": "https://diamond-rm.net/management/businessplan/543475/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-21",
-      "tags": [
-        "イオン",
-        "決算"
-      ]
-    },
-    {
-      "id": "diamond-abd581a9",
-      "title": "【決算解説Part4】詳しく解説！決算分析で陥りやすいミスや決算分析を実務に活かす方法",
-      "url": "https://diamond-rm.net/market/accounting/542545/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-04-21",
-      "tags": [
-        "決算"
       ]
     }
   ]
