@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T18:34:04.770Z",
+  "lastUpdated": "2026-05-07T00:31:29.779Z",
   "items": [
     {
       "id": "ryutsuu-e7b2b31b",
@@ -12,6 +12,54 @@
       "tags": [
         "オープン"
       ]
+    },
+    {
+      "id": "diamond-a47f60a0",
+      "title": "「メガセンタートライアル浜北店」が開業　青果スイーツ、魚総菜など最新MDを全力投入！",
+      "url": "https://diamond-rm.net/store/544259/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-07",
+      "tags": [
+        "トライアル",
+        "青果",
+        "開業"
+      ]
+    },
+    {
+      "id": "diamond-f6ffdcec",
+      "title": "最新店「クオーツ心斎橋店」に見る、「2030年に近畿でビオラル20店舗」への布石",
+      "url": "https://diamond-rm.net/store/newstorereport/544025/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-07",
+      "tags": [
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-e49fafcb",
+      "title": "価格競争から脱却し「体験」で差別化する！　ホームセンターの新たなガーデニング戦略",
+      "url": "https://diamond-rm.net/management/businessplan/543583/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-07",
+      "tags": [
+        "ホームセンター"
+      ]
+    },
+    {
+      "id": "diamond-90fd51bf",
+      "title": "高輪ゲートウェイシティで話題の新施設「MIMURE」の全貌をレポート！",
+      "url": "https://diamond-rm.net/store/543883/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-07",
+      "tags": []
     },
     {
       "id": "diamond-edf1c3e2",
@@ -362,18 +410,6 @@
       "tags": []
     },
     {
-      "id": "diamond-d2253fb8",
-      "title": "中川政七商店が挑む「メルマガ改革」　クラスター分析や生成AI活用も",
-      "url": "https://diamond-rm.net/technology/541095/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-05-01",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
       "id": "diamond-d68be1e5",
       "title": "第８１回　寮生１０００人の食生活を守るために",
       "url": "https://diamond-rm.net/life-career/535859/",
@@ -384,14 +420,16 @@
       "tags": []
     },
     {
-      "id": "diamond-c5a1a471",
-      "title": "一大トレンドとなったウェルネス関連商品　ターゲットとホールフーズが品揃えを拡充！",
-      "url": "https://diamond-rm.net/sales-promotion/540473/",
+      "id": "diamond-d2253fb8",
+      "title": "中川政七商店が挑む「メルマガ改革」　クラスター分析や生成AI活用も",
+      "url": "https://diamond-rm.net/technology/541095/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "sales-promotion",
+      "category": "テクノロジー",
       "date": "2026-05-01",
-      "tags": []
+      "tags": [
+        "AI"
+      ]
     },
     {
       "id": "ssnp-db5affef",
@@ -436,21 +474,6 @@
       "tags": []
     },
     {
-      "id": "diamond-abb40c7a",
-      "title": "万代・ライフ・サンディと激突　関西最新店「今川店」でオーケー二宮社長が明かした戦術",
-      "url": "https://diamond-rm.net/store/newstorereport/543851/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-30",
-      "tags": [
-        "オーケー",
-        "ライフ",
-        "新店",
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-73a6e647",
       "title": "プラットフォーマー化する大手アパレルが直面する、OMOの理想と現実",
       "url": "https://diamond-rm.net/management/businessplan/543811/",
@@ -464,14 +487,19 @@
       ]
     },
     {
-      "id": "diamond-9c52f99d",
-      "title": "第８０回　揺れる自治と自由",
-      "url": "https://diamond-rm.net/life-career/535858/",
+      "id": "diamond-abb40c7a",
+      "title": "万代・ライフ・サンディと激突　関西最新店「今川店」でオーケー二宮社長が明かした戦術",
+      "url": "https://diamond-rm.net/store/newstorereport/543851/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "life-career",
+      "category": "店舗",
       "date": "2026-04-30",
-      "tags": []
+      "tags": [
+        "オーケー",
+        "ライフ",
+        "新店",
+        "社長"
+      ]
     },
     {
       "id": "ssnp-d34e1193",
@@ -615,6 +643,16 @@
       "tags": []
     },
     {
+      "id": "diamond-9c52f99d",
+      "title": "第８０回　揺れる自治と自由",
+      "url": "https://diamond-rm.net/life-career/535858/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-04-30",
+      "tags": []
+    },
+    {
       "id": "diamond-24786ccd",
       "title": "週刊コンビニエンスストアニュース　セコマがご当地カップ麺を発売",
       "url": "https://diamond-rm.net/management/543910/",
@@ -754,16 +792,6 @@
       ]
     },
     {
-      "id": "diamond-87c0b61a",
-      "title": "約1000人が行列！ ダイエーの新フォーマット1号店「フードスタイルあびこ駅前店」を速報",
-      "url": "https://diamond-rm.net/store/newstorereport/543816/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-28",
-      "tags": []
-    },
-    {
       "id": "ssnp-d0bbdca8",
       "title": "“お茶とコーヒーがタッグ” 伊藤園とネスレ日本、物流効率化へ共同輸送・ラウンド輸送を開始\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/679972/",
@@ -893,6 +921,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-04-28",
+      "tags": []
+    },
+    {
+      "id": "diamond-87c0b61a",
+      "title": "約1000人が行列！ ダイエーの新フォーマット1号店「フードスタイルあびこ駅前店」を速報",
+      "url": "https://diamond-rm.net/store/newstorereport/543816/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
       "date": "2026-04-28",
       "tags": []
     },
@@ -1651,19 +1689,6 @@
       ]
     },
     {
-      "id": "diamond-40f6ca72",
-      "title": "PPIHの食品強化型新フォーマット1号店「ロビン・フッド甚目寺店」の売場を速報！",
-      "url": "https://diamond-rm.net/store/newstorereport/543735/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-24",
-      "tags": [
-        "PPIH",
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-4395f2e5",
       "title": "発売3カ月で2万着突破！洋服の青山「みんなのスーツ」が示した紳士服市場の新たな勝ち筋",
       "url": "https://diamond-rm.net/sales-promotion/542591/",
@@ -1679,6 +1704,16 @@
       "id": "diamond-ec0386a1",
       "title": "「不変」と「変革」が共存するロングセラーの正体",
       "url": "https://diamond-rm.net/sales-promotion/item-trend/542057/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-24",
+      "tags": []
+    },
+    {
+      "id": "diamond-c5a1a471",
+      "title": "一大トレンドとなったウェルネス関連商品　ターゲットとホールフーズが品揃えを拡充！",
+      "url": "https://diamond-rm.net/sales-promotion/540473/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "sales-promotion",
@@ -2010,6 +2045,19 @@
       "date": "2026-04-24",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "diamond-40f6ca72",
+      "title": "PPIHの食品強化型新フォーマット1号店「ロビン・フッド甚目寺店」の売場を速報！",
+      "url": "https://diamond-rm.net/store/newstorereport/543735/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-24",
+      "tags": [
+        "PPIH",
+        "食品"
       ]
     },
     {
@@ -3431,53 +3479,6 @@
         "ユニクロ",
         "オープン"
       ]
-    },
-    {
-      "id": "ryutsuu-778f19e8",
-      "title": "ライフ／大阪市中央区に「ビオラルなんばマルイ店」5／2オープン、新商品も導入",
-      "url": "https://www.ryutsuu.biz/store/s042172.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-21",
-      "tags": [
-        "オープン",
-        "ライフ"
-      ]
-    },
-    {
-      "id": "ryutsuu-4aa00aa1",
-      "title": "まいばすけっと／東京に「本蓮沼駅東店」など3店舗4／24オープン",
-      "url": "https://www.ryutsuu.biz/store/s042112.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-21",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "diamond-c4fa447c",
-      "title": "新生「スーパー玉出」の挑戦　”安かろう悪かろう”のイメージ脱却なるか？",
-      "url": "https://diamond-rm.net/management/businessplan/542668/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-21",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
-      "id": "diamond-642f83b3",
-      "title": "第７３回　一高自治寮制史",
-      "url": "https://diamond-rm.net/life-career/535851/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-21",
-      "tags": []
     }
   ]
 }
