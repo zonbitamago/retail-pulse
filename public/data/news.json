@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-07T18:34:23.599Z",
+  "lastUpdated": "2026-05-08T00:31:45.818Z",
   "items": [
+    {
+      "id": "diamond-c59cfbd3",
+      "title": "「一円戦争」の聖地へ出店！「ロピア名鉄一宮店」現地ルポ（前編）",
+      "url": "https://diamond-rm.net/store/storevisit/542856/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-08",
+      "tags": [
+        "ロピア",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-7468d5d0",
+      "title": "茨城県内2店舗目「生鮮市場TOP!ひたちなか店」　オープン日の模様をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/544107/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-08",
+      "tags": [
+        "オープン",
+        "生鮮"
+      ]
+    },
+    {
+      "id": "diamond-41a22115",
+      "title": "47都道府県を”一本のジン”に凝縮!? 「県ジンプロジェクト」のねらいとは",
+      "url": "https://diamond-rm.net/management/542654/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-08",
+      "tags": []
+    },
     {
       "id": "ryutsuu-f070ce22",
       "title": "大手百貨店／4月売上高4社そろって増、免税売上増が貢献",
@@ -174,6 +210,16 @@
       ]
     },
     {
+      "id": "diamond-6141bb6c",
+      "title": "第８５回　東京学生同盟",
+      "url": "https://diamond-rm.net/life-career/535863/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-07",
+      "tags": []
+    },
+    {
       "id": "diamond-e49fafcb",
       "title": "価格競争から脱却し「体験」で差別化する！　ホームセンターの新たなガーデニング戦略",
       "url": "https://diamond-rm.net/management/businessplan/543583/",
@@ -184,16 +230,6 @@
       "tags": [
         "ホームセンター"
       ]
-    },
-    {
-      "id": "diamond-6141bb6c",
-      "title": "第８５回　東京学生同盟",
-      "url": "https://diamond-rm.net/life-career/535863/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-07",
-      "tags": []
     },
     {
       "id": "diamond-90fd51bf",
@@ -505,16 +541,6 @@
       "tags": []
     },
     {
-      "id": "diamond-d29d56b7",
-      "title": "流通秀書　第27回『商いの心くばり』",
-      "url": "https://diamond-rm.net/life-career/541390/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-02",
-      "tags": []
-    },
-    {
       "id": "ssnp-792d0173",
       "title": "「かぶと」をかぶったくまさんケーキ、「こどもの日」期間限定で販売【銀座コージーコーナー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/679166/",
@@ -531,6 +557,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
+      "date": "2026-05-02",
+      "tags": []
+    },
+    {
+      "id": "diamond-d29d56b7",
+      "title": "流通秀書　第27回『商いの心くばり』",
+      "url": "https://diamond-rm.net/life-career/541390/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-05-02",
       "tags": []
     },
@@ -595,20 +631,6 @@
       ]
     },
     {
-      "id": "diamond-334ba384",
-      "title": "トライアル西友3号店「二俣川店」がオープン　トライアルオリジナル商品の訴求を強化",
-      "url": "https://diamond-rm.net/store/543977/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-01",
-      "tags": [
-        "トライアル",
-        "オープン",
-        "西友"
-      ]
-    },
-    {
       "id": "diamond-758cd208",
       "title": "ベルクが西浦和駅近くに新店オープンへ【今週の大店立地法速報】",
       "url": "https://diamond-rm.net/store/544021/",
@@ -621,16 +643,6 @@
         "ベルク",
         "新店"
       ]
-    },
-    {
-      "id": "diamond-d68be1e5",
-      "title": "第８１回　寮生１０００人の食生活を守るために",
-      "url": "https://diamond-rm.net/life-career/535859/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-01",
-      "tags": []
     },
     {
       "id": "diamond-d2253fb8",
@@ -683,6 +695,30 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
+      "date": "2026-05-01",
+      "tags": []
+    },
+    {
+      "id": "diamond-334ba384",
+      "title": "トライアル西友3号店「二俣川店」がオープン　トライアルオリジナル商品の訴求を強化",
+      "url": "https://diamond-rm.net/store/543977/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-01",
+      "tags": [
+        "トライアル",
+        "オープン",
+        "西友"
+      ]
+    },
+    {
+      "id": "diamond-d68be1e5",
+      "title": "第８１回　寮生１０００人の食生活を守るために",
+      "url": "https://diamond-rm.net/life-career/535859/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-05-01",
       "tags": []
     },
@@ -856,21 +892,6 @@
       ]
     },
     {
-      "id": "diamond-abb40c7a",
-      "title": "万代・ライフ・サンディと激突　関西最新店「今川店」でオーケー二宮社長が明かした戦術",
-      "url": "https://diamond-rm.net/store/newstorereport/543851/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-30",
-      "tags": [
-        "オーケー",
-        "ライフ",
-        "新店",
-        "社長"
-      ]
-    },
-    {
       "id": "ssnp-d34e1193",
       "title": "「モンスターエナジー」、コカ・コーラ自販機で販売へ 今夏から1都2府35県で順次展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/680175/",
@@ -1012,6 +1033,21 @@
       "tags": []
     },
     {
+      "id": "diamond-abb40c7a",
+      "title": "万代・ライフ・サンディと激突　関西最新店「今川店」でオーケー二宮社長が明かした戦術",
+      "url": "https://diamond-rm.net/store/newstorereport/543851/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-04-30",
+      "tags": [
+        "オーケー",
+        "ライフ",
+        "新店",
+        "社長"
+      ]
+    },
+    {
       "id": "diamond-9c52f99d",
       "title": "第８０回　揺れる自治と自由",
       "url": "https://diamond-rm.net/life-career/535858/",
@@ -1133,18 +1169,6 @@
       "category": "テクノロジー",
       "date": "2026-04-28",
       "tags": []
-    },
-    {
-      "id": "diamond-35bf0ef0",
-      "title": "週刊スーパーマーケットニュース　コープさっぽろが組合員数210万人を達成",
-      "url": "https://diamond-rm.net/management/businessplan/543901/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-28",
-      "tags": [
-        "スーパー"
-      ]
     },
     {
       "id": "ssnp-d0bbdca8",
@@ -1278,6 +1302,18 @@
       "category": "飲料",
       "date": "2026-04-28",
       "tags": []
+    },
+    {
+      "id": "diamond-35bf0ef0",
+      "title": "週刊スーパーマーケットニュース　コープさっぽろが組合員数210万人を達成",
+      "url": "https://diamond-rm.net/management/businessplan/543901/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-28",
+      "tags": [
+        "スーパー"
+      ]
     },
     {
       "id": "diamond-4c8197eb",
@@ -3452,45 +3488,6 @@
         "オープン",
         "専門店",
         "食品"
-      ]
-    },
-    {
-      "id": "ryutsuu-8e1db843",
-      "title": "クスリのアオキ／群馬・山梨・静岡・奈良に4店舗オープン、新潟で2店舗リニューアル",
-      "url": "https://www.ryutsuu.biz/store/s042277.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-22",
-      "tags": [
-        "クスリのアオキ",
-        "リニューアル",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-63f2066e",
-      "title": "二子玉川ライズS.C.／アウトドアブランド「コロンビア」4／23オープン",
-      "url": "https://www.ryutsuu.biz/store/s042276.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-22",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-96879c6a",
-      "title": "田原屋／東京都江東区に「パシオス 南砂町SCスナモ店」オープン",
-      "url": "https://www.ryutsuu.biz/store/s042274.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-22",
-      "tags": [
-        "オープン",
-        "SC"
       ]
     }
   ]
