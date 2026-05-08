@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-05-08T06:36:50.212Z",
+  "lastUpdated": "2026-05-08T12:28:26.698Z",
   "items": [
+    {
+      "id": "ryutsuu-e00b0856",
+      "title": "マミーマート／27年4月入社、初任給29万円で募集",
+      "url": "https://www.ryutsuu.biz/strategy/s050814.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-05-08",
+      "tags": []
+    },
     {
       "id": "ryutsuu-6d353266",
       "title": "サンシャインシティ／ベイクルーズの新業態カフェ7月中旬オープン、来春には地下にフードホールも開業",
@@ -12,6 +22,45 @@
       "tags": [
         "オープン",
         "開業"
+      ]
+    },
+    {
+      "id": "ryutsuu-b254ace5",
+      "title": "コロワイド 決算／3月期は2桁の増収増益、売上収益と事業利益が過去最高に",
+      "url": "https://www.ryutsuu.biz/accounts/s050853.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-08",
+      "tags": [
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "ryutsuu-d634bd45",
+      "title": "メルカリ／マクドナルドのハッピーセット「ちいかわ」を出品禁止に",
+      "url": "https://www.ryutsuu.biz/strategy/s050852.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-05-08",
+      "tags": [
+        "マクドナルド",
+        "メルカリ"
+      ]
+    },
+    {
+      "id": "ryutsuu-43e21aa5",
+      "title": "クスリのアオキHD／株主優待制度を拡充、300株以上対象に長期保有特典を新設",
+      "url": "https://www.ryutsuu.biz/strategy/s050843.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-05-08",
+      "tags": [
+        "クスリのアオキ"
       ]
     },
     {
@@ -28,39 +77,30 @@
       ]
     },
     {
-      "id": "ryutsuu-43e21aa5",
-      "title": "クスリのアオキHD／株主優待制度を拡充、300株以上対象に長期保有特典を新設",
-      "url": "https://www.ryutsuu.biz/strategy/s050843.html",
+      "id": "ryutsuu-8047f4b0",
+      "title": "ヤマダHD 決算／3月期営業利益62.2％減、約240億円規模の在庫処分実施などで",
+      "url": "https://www.ryutsuu.biz/accounts/s050877.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "経営",
+      "category": "accounts",
       "date": "2026-05-08",
       "tags": [
-        "クスリのアオキ"
+        "営業利益",
+        "決算"
       ]
     },
     {
-      "id": "ryutsuu-2d6654f1",
-      "title": "アークランズ／4月の既存店売上高は5.8％増、全店売上高13.5％増",
-      "url": "https://www.ryutsuu.biz/sales/s050842.html",
+      "id": "ryutsuu-d24ad519",
+      "title": "ゲオHD 決算／3月期増収増益、国内外のセカンドストリートが好調",
+      "url": "https://www.ryutsuu.biz/accounts/s050813.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "売上",
+      "category": "accounts",
       "date": "2026-05-08",
       "tags": [
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-76370409",
-      "title": "エディオン／4月の全店売上高13.8％増、エアコンが40.6％増に",
-      "url": "https://www.ryutsuu.biz/sales/s050841.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-05-08",
-      "tags": [
-        "売上高"
+        "決算",
+        "増収",
+        "増益"
       ]
     },
     {
@@ -138,28 +178,72 @@
       ]
     },
     {
+      "id": "ssnp-4fa7558b",
+      "title": "セブン‐イレブン、昨年話題になった「黒い春巻き」が再発売… その中身は？ / 「赤い春巻き」も新登場\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブンは、揚げ物惣菜の新商品「えびとイカの海鮮春巻」と「黒いすき焼き風春巻」を、5月12日(火)より全国のセブン‐イレブンで順次発売する。「黒いすき焼き風春巻」は2025年のブラックフライデーに合わせて発売し話...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/683600/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-05-08",
+      "tags": [
+        "惣菜"
+      ]
+    },
+    {
+      "id": "ssnp-50ffe7d1",
+      "title": "ロイヤルホストデリ、「オムライス～トリュフ香るきのこクリームソース～」を新発売\n\t\t\t\t\t\t\t\t\t\t\t\tロイヤルグループで食品事業を手がけるロイヤル株式会社は12日から、「Royal Host Deli(ロイヤルホスト デリ)」の新商品「オムライス～トリュフ香るきのこクリームソース～」を発売する。 公式ECストアで販売を開...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/frozen/683138/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "冷凍食品",
+      "date": "2026-05-08",
+      "tags": [
+        "EC",
+        "食品"
+      ]
+    },
+    {
+      "id": "ssnp-d89935d1",
+      "title": "ミニストップからハロハロ新フレーバー登場、パチパチ食感の「パチパチコーラ」と2種のメロンを楽しむ「果実氷 ダブルメロン」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/682790/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-05-08",
+      "tags": []
+    },
+    {
+      "id": "ssnp-d061a10d",
+      "title": "アサヒ飲料、ギリシャ発「green cola(グリーンコーラ)」発売 若年層の“ゼロ系炭酸”需要に新提案\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/682783/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-05-08",
+      "tags": [
+        "飲料"
+      ]
+    },
+    {
       "id": "ssnp-ec6d167d",
-      "title": "【不二家×サーティワン】31の人気フレーバーを再現したコラボチョコ発売【チョコミント・ポッピングシャワー】\n\t\t\t\t\t\t\t\t\t\t\t\t不二家は、サーティワン アイスクリームの人気フレーバー「チョコレートミント」と「ポッピングシャワー」をイメージした期間限定チョコレートを発売する。 サーティワンチョコレート（ポッピングシャワー）の画像はこちら 「サーティ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【不二家×サーティワン】31の人気フレーバーを再現したコラボチョコ発売【チョコミント・ポッピングシャワー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/682774/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
       "date": "2026-05-08",
-      "tags": [
-        "チョコレート"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-bc4c02f2",
-      "title": "『ペタグーグミ』が誕生6年目、「ゴールデンパイン味」リニューアル発売\n\t\t\t\t\t\t\t\t\t\t\t\tノーベル製菓は、ハード系グミ「ペタグーグミ ゴールデンパイン味」をリニューアルし、5月18日より全国で発売する。シリーズ誕生から6年目を迎える「ペタグーグミ」リニューアル企画の第3弾商品。価格はオープン価格。 「ペタグー...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "『ペタグーグミ』が誕生6年目、「ゴールデンパイン味」リニューアル発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/682764/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
       "date": "2026-05-08",
       "tags": [
-        "リニューアル",
-        "オープン"
+        "リニューアル"
       ]
     },
     {
@@ -319,19 +403,27 @@
       "tags": []
     },
     {
-      "id": "ryutsuu-75668a52",
-      "title": "アクシアル リテイリング 決算／3月期増収増益、売上・営業利益・経常利益が過去最高",
-      "url": "https://www.ryutsuu.biz/accounts/s050751.html",
+      "id": "ryutsuu-2d6654f1",
+      "title": "アークランズ／4月の既存店売上高は5.8％増、全店売上高13.5％増",
+      "url": "https://www.ryutsuu.biz/sales/s050842.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-07",
+      "category": "売上",
+      "date": "2026-05-08",
       "tags": [
-        "営業利益",
-        "経常利益",
-        "決算",
-        "増収",
-        "増益"
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-76370409",
+      "title": "エディオン／4月の全店売上高13.8％増、エアコンが40.6％増に",
+      "url": "https://www.ryutsuu.biz/sales/s050841.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-05-08",
+      "tags": [
+        "売上高"
       ]
     },
     {
@@ -577,6 +669,22 @@
       "category": "菓子",
       "date": "2026-05-07",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-75668a52",
+      "title": "アクシアル リテイリング 決算／3月期増収増益、売上・営業利益・経常利益が過去最高",
+      "url": "https://www.ryutsuu.biz/accounts/s050751.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-07",
+      "tags": [
+        "営業利益",
+        "経常利益",
+        "決算",
+        "増収",
+        "増益"
+      ]
     },
     {
       "id": "ryutsuu-f070ce22",
@@ -2503,6 +2611,18 @@
       ]
     },
     {
+      "id": "ssnp-ab050bf3",
+      "title": "〈シグナル〉AI時代の人間力",
+      "url": "https://www.ssnp.co.jp/signal/679318/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "signal",
+      "date": "2026-04-24",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
       "id": "ssnp-4f5a6524",
       "title": "【ファミリーマート】『神の雫』との人気コラボワイン2種を再販、新たにハイボール缶も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/liquor/679579/",
@@ -2523,18 +2643,6 @@
       "category": "流通",
       "date": "2026-04-24",
       "tags": []
-    },
-    {
-      "id": "ssnp-ab050bf3",
-      "title": "〈シグナル〉AI時代の人間力",
-      "url": "https://www.ssnp.co.jp/signal/679318/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "signal",
-      "date": "2026-04-24",
-      "tags": [
-        "AI"
-      ]
     },
     {
       "id": "ssnp-e2d8166f",
@@ -3379,109 +3487,6 @@
         "EC",
         "DX",
         "物流"
-      ]
-    },
-    {
-      "id": "diamond-2f429f85",
-      "title": "「DS.INSIGHT」で読み解く「韓国食品」の最新トレンド",
-      "url": "https://diamond-rm.net/promotion/pr/542869/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-04-22",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-2e9ab104",
-      "title": "思わず鬼リピしたくなる！安くておいしいスーパー「ベルク」のおすすめ弁当",
-      "url": "https://diamond-rm.net/sales-promotion/541329/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-22",
-      "tags": [
-        "スーパー",
-        "ベルク",
-        "弁当"
-      ]
-    },
-    {
-      "id": "ssnp-3b22ea1d",
-      "title": "ピザーラで定番ピザが最大400円オフ 「ロングセラー商品 お試しキャンペーン」第2弾開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/679054/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-22",
-      "tags": []
-    },
-    {
-      "id": "ssnp-2eb896ae",
-      "title": "対象メニューが全て半額（何皿でも）、いずれも500円以下に　ジンギスカン専門チェーンがイベント開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/679009/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-22",
-      "tags": []
-    },
-    {
-      "id": "ssnp-7a8d68af",
-      "title": "【なか卯】7種のスパイスで本格四川風の味わいに…「痺辛麻辣冷やし担々うどん」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/678981/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-22",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e09bf702",
-      "title": "サーロインステーキが最大66%増量!「肉の日 お客様感謝デー」を開催【ステーキのあさくま】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/678983/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-22",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-19424290",
-      "title": "マクドナルド／元アルバイト従業員の再雇用促進「カムバっ！クルー」本格導入",
-      "url": "https://www.ryutsuu.biz/strategy/s042244.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-22",
-      "tags": [
-        "マクドナルド"
-      ]
-    },
-    {
-      "id": "ssnp-6a4fcd45",
-      "title": "『タフグミ』ブランド、年間売上高 100億円突破… 3年連続でグミ市場単品売上1位 / ウェブCMや「タフグミ」1.2kgプレゼント企画展開【カバヤ食品】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/678954/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-04-22",
-      "tags": [
-        "売上高",
-        "食品"
-      ]
-    },
-    {
-      "id": "ssnp-cc69ccfe",
-      "title": "「スーパーマリオギャラクシー パレット4」新発売【サーティワン アイスクリーム】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/678941/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-22",
-      "tags": [
-        "スーパー"
       ]
     }
   ]
