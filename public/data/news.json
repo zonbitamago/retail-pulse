@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-05-08T18:29:52.520Z",
+  "lastUpdated": "2026-05-09T00:33:16.139Z",
   "items": [
+    {
+      "id": "diamond-dd3d9049",
+      "title": "めざすは「頭から尻尾まで見える魚屋」　バローの鮮魚戦略を徹底取材！",
+      "url": "https://diamond-rm.net/management/businessplan/544291/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-09",
+      "tags": [
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-733ee9e3",
+      "title": "「角上魚類」になぜお客は殺到するのか？ 圧倒的専門性と緻密な販売戦略に迫る",
+      "url": "https://diamond-rm.net/management/businessplan/544368/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-09",
+      "tags": []
+    },
+    {
+      "id": "diamond-cbb4bff1",
+      "title": "流通秀書　第28回『日本の流通革命』",
+      "url": "https://diamond-rm.net/life-career/541404/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-09",
+      "tags": []
+    },
+    {
+      "id": "ssnp-f891fbee",
+      "title": "スタバ新作、果肉ごろっと「イチゴミルク」登場　チョコフラペチーノ＆限定ネイルも\n\t\t\t\t\t\t\t\t\t\t\t\tスターバックス コーヒー ジャパンは5月11日、全国のスターバックス店舗（一部店舗を除く）で、イチゴを使用した新作ドリンク2種を発売する。 ラインアップは、イチゴのごろっとした果肉感が楽しめる「ごろっと イチゴ ミルク」...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/683287/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-09",
+      "tags": [
+        "スターバックス"
+      ]
+    },
     {
       "id": "ryutsuu-e00b0856",
       "title": "マミーマート／27年4月入社、初任給29万円で募集",
@@ -191,16 +235,13 @@
     },
     {
       "id": "ssnp-50ffe7d1",
-      "title": "ロイヤルホストデリ、「オムライス～トリュフ香るきのこクリームソース～」を新発売\n\t\t\t\t\t\t\t\t\t\t\t\tロイヤルグループで食品事業を手がけるロイヤル株式会社は12日から、「Royal Host Deli(ロイヤルホスト デリ)」の新商品「オムライス～トリュフ香るきのこクリームソース～」を発売する。 公式ECストアで販売を開...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ロイヤルホストデリ、「オムライス～トリュフ香るきのこクリームソース～」を新発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/frozen/683138/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "冷凍食品",
       "date": "2026-05-08",
-      "tags": [
-        "EC",
-        "食品"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-d89935d1",
@@ -427,20 +468,6 @@
       ]
     },
     {
-      "id": "diamond-a47f60a0",
-      "title": "「メガセンタートライアル浜北店」が開業　青果スイーツ、魚総菜など最新MDを全力投入！",
-      "url": "https://diamond-rm.net/store/544259/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-07",
-      "tags": [
-        "トライアル",
-        "青果",
-        "開業"
-      ]
-    },
-    {
       "id": "diamond-7b65b8d3",
       "title": "週刊スーパーマーケットニュース　大阪屋ショップが新業態「大阪屋ショップGO！佐野店」開業",
       "url": "https://diamond-rm.net/management/businessplan/544156/",
@@ -496,6 +523,20 @@
       "category": "店舗",
       "date": "2026-05-07",
       "tags": []
+    },
+    {
+      "id": "diamond-a47f60a0",
+      "title": "「メガセンタートライアル浜北店」が開業　青果スイーツ、魚総菜など最新MDを全力投入！",
+      "url": "https://diamond-rm.net/store/544259/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-07",
+      "tags": [
+        "トライアル",
+        "青果",
+        "開業"
+      ]
     },
     {
       "id": "ssnp-53956dfc",
@@ -2518,16 +2559,6 @@
       "tags": []
     },
     {
-      "id": "diamond-c5a1a471",
-      "title": "一大トレンドとなったウェルネス関連商品　ターゲットとホールフーズが品揃えを拡充！",
-      "url": "https://diamond-rm.net/sales-promotion/540473/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
       "id": "diamond-982ccb68",
       "title": "業態別統計データ 2026年 ホームセンター",
       "url": "https://diamond-rm.net/retaildata/538319/",
@@ -2621,6 +2652,16 @@
       "tags": [
         "AI"
       ]
+    },
+    {
+      "id": "diamond-c5a1a471",
+      "title": "一大トレンドとなったウェルネス関連商品　ターゲットとホールフーズが品揃えを拡充！",
+      "url": "https://diamond-rm.net/sales-promotion/540473/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-24",
+      "tags": []
     },
     {
       "id": "ssnp-4f5a6524",
@@ -3436,57 +3477,6 @@
       "tags": [
         "リニューアル",
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-80ed9c7f",
-      "title": "ビームス／東京「ららぽーと豊洲」千葉「イクスピアリ」に4月24・25日オープン",
-      "url": "https://www.ryutsuu.biz/store/s042375.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-23",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-ceff5d43",
-      "title": "サミット／3月の売上高311億円、既存店は1.2％減",
-      "url": "https://www.ryutsuu.biz/sales/s042373.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-23",
-      "tags": [
-        "サミット",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-afd2bd63",
-      "title": "東急ストア／3月の売上高168億円、既存店0.4％減",
-      "url": "https://www.ryutsuu.biz/sales/s042311.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-04-23",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
-      "id": "diamond-b41ef694",
-      "title": "EC成長のカギを握る「顧客体験の高度化」と「物流DX」",
-      "url": "https://diamond-rm.net/ec-epayment/542601/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "ec-epayment",
-      "date": "2026-04-22",
-      "tags": [
-        "EC",
-        "DX",
-        "物流"
       ]
     }
   ]
