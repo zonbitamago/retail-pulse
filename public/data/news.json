@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-05-09T18:19:45.925Z",
+  "lastUpdated": "2026-05-10T00:32:56.314Z",
   "items": [
+    {
+      "id": "diamond-dd3d9049",
+      "title": "めざすは「頭から尻尾まで見える魚屋」　バローの鮮魚戦略を徹底取材！",
+      "url": "https://diamond-rm.net/management/businessplan/544291/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-09",
+      "tags": [
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-733ee9e3",
+      "title": "「角上魚類」になぜお客は殺到するのか？ 圧倒的専門性と緻密な販売戦略に迫る",
+      "url": "https://diamond-rm.net/management/businessplan/544368/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-09",
+      "tags": []
+    },
+    {
+      "id": "diamond-cbb4bff1",
+      "title": "流通秀書　第28回『日本の流通革命』",
+      "url": "https://diamond-rm.net/life-career/541404/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-09",
+      "tags": []
+    },
     {
       "id": "ssnp-7f4e3c92",
       "title": "「い･ろ･は･す」フレーバー2品刷新、新メッセージ「GOOD FOR みんな」発信/日本コカ・コーラ\n\t\t\t\t\t\t\t\t\t\t\t\tコカ・コーラシステムの天然水ブランド「い･ろ･は･す」は、2026年の新ブランドメッセージとして「GOOD FOR みんな」を掲げ、人だけでなく社会や自然にも良い選択肢であることを訴求している。その一環として3月30日、...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
@@ -50,38 +82,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
-      "date": "2026-05-09",
-      "tags": []
-    },
-    {
-      "id": "diamond-dd3d9049",
-      "title": "めざすは「頭から尻尾まで見える魚屋」　バローの鮮魚戦略を徹底取材！",
-      "url": "https://diamond-rm.net/management/businessplan/544291/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-09",
-      "tags": [
-        "鮮魚"
-      ]
-    },
-    {
-      "id": "diamond-733ee9e3",
-      "title": "「角上魚類」になぜお客は殺到するのか？ 圧倒的専門性と緻密な販売戦略に迫る",
-      "url": "https://diamond-rm.net/management/businessplan/544368/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-09",
-      "tags": []
-    },
-    {
-      "id": "diamond-cbb4bff1",
-      "title": "流通秀書　第28回『日本の流通革命』",
-      "url": "https://diamond-rm.net/life-career/541404/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
       "date": "2026-05-09",
       "tags": []
     },
@@ -185,6 +185,77 @@
         "決算",
         "増収",
         "増益"
+      ]
+    },
+    {
+      "id": "diamond-4e8388d4",
+      "title": "バロー、ヨーカ堂、サミット…有力チェーンがこぞって「鮮魚」を集客の切り札にする理由",
+      "url": "https://diamond-rm.net/management/businessplan/544274/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-08",
+      "tags": [
+        "サミット",
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-c59cfbd3",
+      "title": "「一円戦争」の聖地へ出店！「ロピア名鉄一宮店」現地ルポ（前編）",
+      "url": "https://diamond-rm.net/store/storevisit/542856/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-08",
+      "tags": [
+        "ロピア",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-7468d5d0",
+      "title": "茨城県内2店舗目「生鮮市場TOP!ひたちなか店」　オープン日の模様をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/544107/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-08",
+      "tags": [
+        "オープン",
+        "生鮮"
+      ]
+    },
+    {
+      "id": "diamond-41a22115",
+      "title": "47都道府県を”一本のジン”に凝縮!? 「県ジンプロジェクト」のねらいとは",
+      "url": "https://diamond-rm.net/management/542654/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-3428b006",
+      "title": "第８６回　東京学生同盟事務局長に就く",
+      "url": "https://diamond-rm.net/life-career/535864/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-7b3e27e4",
+      "title": "トライアルとスギ　業態を超えた「包括的協業」スタートのねらい",
+      "url": "https://diamond-rm.net/management/businessplan/534824/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-08",
+      "tags": [
+        "トライアル"
       ]
     },
     {
@@ -408,77 +479,6 @@
       "tags": []
     },
     {
-      "id": "diamond-4e8388d4",
-      "title": "バロー、ヨーカ堂、サミット…有力チェーンがこぞって「鮮魚」を集客の切り札にする理由",
-      "url": "https://diamond-rm.net/management/businessplan/544274/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-08",
-      "tags": [
-        "サミット",
-        "鮮魚"
-      ]
-    },
-    {
-      "id": "diamond-c59cfbd3",
-      "title": "「一円戦争」の聖地へ出店！「ロピア名鉄一宮店」現地ルポ（前編）",
-      "url": "https://diamond-rm.net/store/storevisit/542856/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-08",
-      "tags": [
-        "ロピア",
-        "出店"
-      ]
-    },
-    {
-      "id": "diamond-7468d5d0",
-      "title": "茨城県内2店舗目「生鮮市場TOP!ひたちなか店」　オープン日の模様をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/544107/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-08",
-      "tags": [
-        "オープン",
-        "生鮮"
-      ]
-    },
-    {
-      "id": "diamond-41a22115",
-      "title": "47都道府県を”一本のジン”に凝縮!? 「県ジンプロジェクト」のねらいとは",
-      "url": "https://diamond-rm.net/management/542654/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-08",
-      "tags": []
-    },
-    {
-      "id": "diamond-3428b006",
-      "title": "第８６回　東京学生同盟事務局長に就く",
-      "url": "https://diamond-rm.net/life-career/535864/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-08",
-      "tags": []
-    },
-    {
-      "id": "diamond-7b3e27e4",
-      "title": "トライアルとスギ　業態を超えた「包括的協業」スタートのねらい",
-      "url": "https://diamond-rm.net/management/businessplan/534824/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-08",
-      "tags": [
-        "トライアル"
-      ]
-    },
-    {
       "id": "ryutsuu-2d6654f1",
       "title": "アークランズ／4月の既存店売上高は5.8％増、全店売上高13.5％増",
       "url": "https://www.ryutsuu.biz/sales/s050842.html",
@@ -500,6 +500,77 @@
       "date": "2026-05-08",
       "tags": [
         "売上高"
+      ]
+    },
+    {
+      "id": "diamond-7b65b8d3",
+      "title": "週刊スーパーマーケットニュース　大阪屋ショップが新業態「大阪屋ショップGO！佐野店」開業",
+      "url": "https://diamond-rm.net/management/businessplan/544156/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-07",
+      "tags": [
+        "スーパー",
+        "開業"
+      ]
+    },
+    {
+      "id": "diamond-6141bb6c",
+      "title": "第８５回　東京学生同盟",
+      "url": "https://diamond-rm.net/life-career/535863/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-07",
+      "tags": []
+    },
+    {
+      "id": "diamond-e49fafcb",
+      "title": "価格競争から脱却し「体験」で差別化する！　ホームセンターの新たなガーデニング戦略",
+      "url": "https://diamond-rm.net/management/businessplan/543583/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-07",
+      "tags": [
+        "ホームセンター"
+      ]
+    },
+    {
+      "id": "diamond-f6ffdcec",
+      "title": "最新店「クオーツ心斎橋店」に見る、「2030年に近畿でビオラル20店舗」への布石",
+      "url": "https://diamond-rm.net/store/newstorereport/544025/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-07",
+      "tags": [
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-90fd51bf",
+      "title": "高輪ゲートウェイシティで話題の新施設「MIMURE」の全貌をレポート！",
+      "url": "https://diamond-rm.net/store/543883/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-07",
+      "tags": []
+    },
+    {
+      "id": "diamond-a47f60a0",
+      "title": "「メガセンタートライアル浜北店」が開業　青果スイーツ、魚総菜など最新MDを全力投入！",
+      "url": "https://diamond-rm.net/store/544259/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-07",
+      "tags": [
+        "トライアル",
+        "青果",
+        "開業"
       ]
     },
     {
@@ -674,77 +745,6 @@
       "category": "菓子",
       "date": "2026-05-07",
       "tags": []
-    },
-    {
-      "id": "diamond-7b65b8d3",
-      "title": "週刊スーパーマーケットニュース　大阪屋ショップが新業態「大阪屋ショップGO！佐野店」開業",
-      "url": "https://diamond-rm.net/management/businessplan/544156/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-07",
-      "tags": [
-        "スーパー",
-        "開業"
-      ]
-    },
-    {
-      "id": "diamond-6141bb6c",
-      "title": "第８５回　東京学生同盟",
-      "url": "https://diamond-rm.net/life-career/535863/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-07",
-      "tags": []
-    },
-    {
-      "id": "diamond-e49fafcb",
-      "title": "価格競争から脱却し「体験」で差別化する！　ホームセンターの新たなガーデニング戦略",
-      "url": "https://diamond-rm.net/management/businessplan/543583/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-07",
-      "tags": [
-        "ホームセンター"
-      ]
-    },
-    {
-      "id": "diamond-f6ffdcec",
-      "title": "最新店「クオーツ心斎橋店」に見る、「2030年に近畿でビオラル20店舗」への布石",
-      "url": "https://diamond-rm.net/store/newstorereport/544025/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-07",
-      "tags": [
-        "新店"
-      ]
-    },
-    {
-      "id": "diamond-90fd51bf",
-      "title": "高輪ゲートウェイシティで話題の新施設「MIMURE」の全貌をレポート！",
-      "url": "https://diamond-rm.net/store/543883/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-07",
-      "tags": []
-    },
-    {
-      "id": "diamond-a47f60a0",
-      "title": "「メガセンタートライアル浜北店」が開業　青果スイーツ、魚総菜など最新MDを全力投入！",
-      "url": "https://diamond-rm.net/store/544259/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-07",
-      "tags": [
-        "トライアル",
-        "青果",
-        "開業"
-      ]
     },
     {
       "id": "ryutsuu-75668a52",
@@ -1097,6 +1097,32 @@
       ]
     },
     {
+      "id": "diamond-758cd208",
+      "title": "ベルクが西浦和駅近くに新店オープンへ【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/544021/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-01",
+      "tags": [
+        "オープン",
+        "ベルク",
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-d2253fb8",
+      "title": "中川政七商店が挑む「メルマガ改革」　クラスター分析や生成AI活用も",
+      "url": "https://diamond-rm.net/technology/541095/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-05-01",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
       "id": "ssnp-db5affef",
       "title": "【オリジン】人気「なすの辛味噌炒め弁当」今年も登場　3種のジャンで濃厚仕立て\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/680207/",
@@ -1137,32 +1163,6 @@
       "category": "菓子",
       "date": "2026-05-01",
       "tags": []
-    },
-    {
-      "id": "diamond-758cd208",
-      "title": "ベルクが西浦和駅近くに新店オープンへ【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/544021/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-01",
-      "tags": [
-        "オープン",
-        "ベルク",
-        "新店"
-      ]
-    },
-    {
-      "id": "diamond-d2253fb8",
-      "title": "中川政七商店が挑む「メルマガ改革」　クラスター分析や生成AI活用も",
-      "url": "https://diamond-rm.net/technology/541095/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-05-01",
-      "tags": [
-        "AI"
-      ]
     },
     {
       "id": "ryutsuu-9b5b3849",
@@ -1626,6 +1626,29 @@
       ]
     },
     {
+      "id": "diamond-77bc26c9",
+      "title": "【動画】4月4週目の注目ニュースまとめ、イズミの決算、各地新店ニュースなど",
+      "url": "https://diamond-rm.net/management/businessplan/543918/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-04-28",
+      "tags": [
+        "新店",
+        "決算"
+      ]
+    },
+    {
+      "id": "diamond-cc58741b",
+      "title": "【NRF2026総括】小売を再定義する「エージェンティック・コマース」の衝撃",
+      "url": "https://diamond-rm.net/technology/ai/543260/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-04-28",
+      "tags": []
+    },
+    {
       "id": "ssnp-d0bbdca8",
       "title": "“お茶とコーヒーがタッグ” 伊藤園とネスレ日本、物流効率化へ共同輸送・ラウンド輸送を開始\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/679972/",
@@ -1755,29 +1778,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
-      "date": "2026-04-28",
-      "tags": []
-    },
-    {
-      "id": "diamond-77bc26c9",
-      "title": "【動画】4月4週目の注目ニュースまとめ、イズミの決算、各地新店ニュースなど",
-      "url": "https://diamond-rm.net/management/businessplan/543918/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-28",
-      "tags": [
-        "新店",
-        "決算"
-      ]
-    },
-    {
-      "id": "diamond-cc58741b",
-      "title": "【NRF2026総括】小売を再定義する「エージェンティック・コマース」の衝撃",
-      "url": "https://diamond-rm.net/technology/ai/543260/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
       "date": "2026-04-28",
       "tags": []
     },
@@ -2063,6 +2063,16 @@
       ]
     },
     {
+      "id": "diamond-23782ff4",
+      "title": "栄養食を再定義する「最適化栄養食」の社会的役割",
+      "url": "https://diamond-rm.net/sales-promotion/542414/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-04-27",
+      "tags": []
+    },
+    {
       "id": "ssnp-e9e5603a",
       "title": "どこを食べても“じゃりじゃり”食感　二度焼き採用の新商品を発売【セブン-イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/679859/",
@@ -2253,16 +2263,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
-      "date": "2026-04-27",
-      "tags": []
-    },
-    {
-      "id": "diamond-23782ff4",
-      "title": "栄養食を再定義する「最適化栄養食」の社会的役割",
-      "url": "https://diamond-rm.net/sales-promotion/542414/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
       "date": "2026-04-27",
       "tags": []
     },
@@ -2572,18 +2572,6 @@
       ]
     },
     {
-      "id": "ssnp-ab050bf3",
-      "title": "〈シグナル〉AI時代の人間力",
-      "url": "https://www.ssnp.co.jp/signal/679318/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "signal",
-      "date": "2026-04-24",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
       "id": "diamond-4395f2e5",
       "title": "発売3カ月で2万着突破！洋服の青山「みんなのスーツ」が示した紳士服市場の新たな勝ち筋",
       "url": "https://diamond-rm.net/sales-promotion/542591/",
@@ -2686,6 +2674,18 @@
       "date": "2026-04-24",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "ssnp-ab050bf3",
+      "title": "〈シグナル〉AI時代の人間力",
+      "url": "https://www.ssnp.co.jp/signal/679318/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "signal",
+      "date": "2026-04-24",
+      "tags": [
+        "AI"
       ]
     },
     {
