@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-05-11T07:11:13.282Z",
+  "lastUpdated": "2026-05-11T12:58:41.700Z",
   "items": [
+    {
+      "id": "ryutsuu-c788d678",
+      "title": "エキュートエディション御茶ノ水／駅の改札内外に飲食3店舗を今夏オープン",
+      "url": "https://www.ryutsuu.biz/store/s051179.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-05-11",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-c51981ee",
+      "title": "イオン／4月イオンリテール既存店売上高0.9％増、化粧品好調・食品は前年水準に",
+      "url": "https://www.ryutsuu.biz/sales/s051182.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-05-11",
+      "tags": [
+        "イオン",
+        "化粧品",
+        "売上高",
+        "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-c4bc24f8",
+      "title": "セブンイレブン／4月の既存店売上高0.4％減、客数は2.5％減",
+      "url": "https://www.ryutsuu.biz/sales/s051183.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-05-11",
+      "tags": [
+        "セブンイレブン",
+        "売上高"
+      ]
+    },
     {
       "id": "ryutsuu-091d211d",
       "title": "ローソン／都内2店舗で消費期限が近い商品を半額以下で販売する実証実験開始",
@@ -40,7 +80,7 @@
     },
     {
       "id": "ryutsuu-495edeff",
-      "title": "中部薬品／兵庫県尼崎市に「V･drug武庫之荘薬局」オープン",
+      "title": "中部薬品／兵庫県尼崎市に「V・drug武庫之荘薬局」オープン",
       "url": "https://www.ryutsuu.biz/store/s051145.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
@@ -60,6 +100,18 @@
       "date": "2026-05-11",
       "tags": [
         "ローソン",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-f7921313",
+      "title": "ミニストップ／4月は既存店売上高7.8％減、客数8.1％減",
+      "url": "https://www.ryutsuu.biz/sales/s051184.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-05-11",
+      "tags": [
         "売上高"
       ]
     },
@@ -196,20 +248,80 @@
       ]
     },
     {
+      "id": "ssnp-01c0bca7",
+      "title": "「サントリー×ポケモン30周年」タイアップ第2弾、人気ドリンク『ポケモン進化ボトル』発売\n\t\t\t\t\t\t\t\t\t\t\t\tサントリービバレッジ&フードは、「ポケモン」30周年記念タイアップ企画の第2弾として、「C.C.レモン」「ペプシ〈生〉」「POPメロンソーダ」「なっちゃん」のオリジナルデザイン商品「ポケモン進化ボトル」全18種を...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/684018/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-05-11",
+      "tags": []
+    },
+    {
+      "id": "ssnp-71fae4ea",
+      "title": "ギンビス、初夏向け新作4品を発売　「たべっ子動物」に新フレーバーも登場\n\t\t\t\t\t\t\t\t\t\t\t\tギンビスは、5月の新商品として「ミニたべっ子どうぶつ プリン風味」、「たべっ子水族館チョコミント味」、「ケーキビスケット レアチーズケーキ味」、「GINZA RUSK 至福の塩キャラメル」の全4品を発売する。 【新発売の...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/684009/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-05-11",
+      "tags": []
+    },
+    {
+      "id": "ssnp-97e406a6",
+      "title": "地域限定のおかずむすび･サンドおむすびが登場【ミニストップ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/683997/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-11",
+      "tags": []
+    },
+    {
+      "id": "ssnp-55fad694",
+      "title": "はなまるうどん、冷たいうどん100円引き　「初夏のクーポン祭り」開催【明日から】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/683962/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-11",
+      "tags": []
+    },
+    {
+      "id": "ssnp-470aa0bf",
+      "title": "ザクほろ･もちむにの食感が楽しめる「新食感シュー」が登場&「ダブルシュー」「濃厚カスタードシュー」のリニューアルも【ファミマ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/683948/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-05-11",
+      "tags": [
+        "リニューアル"
+      ]
+    },
+    {
+      "id": "ssnp-05baa8ad",
+      "title": "幸楽苑“史上最辛”の新作「会津レッド」発売　ニンニク×唐辛子の真っ赤な旨辛らーめん\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/683940/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-11",
+      "tags": []
+    },
+    {
       "id": "ssnp-1fd3ed3a",
-      "title": "コメダ珈琲店×ロッテ「クランキー」初コラボ “サクッとチョコサク食感”の「シロノワール CRUNKY」「ジェリコ CRUNKY」登場\n\t\t\t\t\t\t\t\t\t\t\t\tコメダ珈琲店は、ロッテのロングセラーチョコレート「クランキー」とコラボレーションした「シロノワール CRUNKY」「ジェリコ CRUNKY」を、5月14日から全国のコメダ珈琲店で数量限定販売する。販売期間は7月初旬までを...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "コメダ珈琲店×ロッテ「クランキー」初コラボ “サクッとチョコサク食感”の「シロノワール CRUNKY」「ジェリコ CRUNKY」登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/683931/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-05-11",
-      "tags": [
-        "チョコレート"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-26d13894",
-      "title": "『塩分チャージ』、教育機関向けに今年も無償配布/ 提供先を募集　“発汗時”の補給を啓発【カバヤ食品】\n\t\t\t\t\t\t\t\t\t\t\t\tカバヤ食品は5月11日、日本全国の幼稚園･保育園から小･中･高校までの教育機関を対象に、「塩分チャージタブレッツ」(以下、「塩分チャージ」)の無償提供先の募集を開始した。 発汗時の「水分+ミネラル(塩分･カリウム)補給」...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "『塩分チャージ』、教育機関向けに今年も無償配布/ 提供先を募集　“発汗時”の補給を啓発【カバヤ食品】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/683899/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -424,18 +536,6 @@
       ]
     },
     {
-      "id": "ryutsuu-ecd45457",
-      "title": "スシロー／今秋NYに米国初出店、日本らしくコスパの良いすしで勝負",
-      "url": "https://www.ryutsuu.biz/abroad/s050812.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "abroad",
-      "date": "2026-05-08",
-      "tags": [
-        "出店"
-      ]
-    },
-    {
       "id": "ryutsuu-e00b0856",
       "title": "マミーマート／27年4月入社、初任給29万円で募集",
       "url": "https://www.ryutsuu.biz/strategy/s050814.html",
@@ -444,19 +544,6 @@
       "category": "経営",
       "date": "2026-05-08",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-6d353266",
-      "title": "サンシャインシティ／ベイクルーズの新業態カフェ7月中旬オープン、来春には地下にフードホールも開業",
-      "url": "https://www.ryutsuu.biz/store/s050874.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-08",
-      "tags": [
-        "オープン",
-        "開業"
-      ]
     },
     {
       "id": "ryutsuu-d634bd45",
@@ -738,6 +825,31 @@
       "category": "foodservice",
       "date": "2026-05-08",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-ecd45457",
+      "title": "スシロー／今秋NYに米国初出店、日本らしくコスパの良いすしで勝負",
+      "url": "https://www.ryutsuu.biz/abroad/s050812.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "abroad",
+      "date": "2026-05-08",
+      "tags": [
+        "出店"
+      ]
+    },
+    {
+      "id": "ryutsuu-6d353266",
+      "title": "サンシャインシティ／ベイクルーズの新業態カフェ7月中旬オープン、来春には地下にフードホールも開業",
+      "url": "https://www.ryutsuu.biz/store/s050874.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-05-08",
+      "tags": [
+        "オープン",
+        "開業"
+      ]
     },
     {
       "id": "ryutsuu-b254ace5",
@@ -1964,18 +2076,6 @@
       ]
     },
     {
-      "id": "ryutsuu-6c10fa05",
-      "title": "賃上げ2026／アインHD平均6.52％のアップ",
-      "url": "https://www.ryutsuu.biz/strategy/s042815.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-04-28",
-      "tags": [
-        "アインHD"
-      ]
-    },
-    {
       "id": "diamond-77bc26c9",
       "title": "【動画】4月4週目の注目ニュースまとめ、イズミの決算、各地新店ニュースなど",
       "url": "https://diamond-rm.net/management/businessplan/543918/",
@@ -2130,6 +2230,18 @@
       "category": "飲料",
       "date": "2026-04-28",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-6c10fa05",
+      "title": "賃上げ2026／アインHD平均6.52％のアップ",
+      "url": "https://www.ryutsuu.biz/strategy/s042815.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-04-28",
+      "tags": [
+        "アインHD"
+      ]
     },
     {
       "id": "diamond-35bf0ef0",
@@ -3333,130 +3445,6 @@
       "date": "2026-04-24",
       "tags": [
         "詳報"
-      ]
-    },
-    {
-      "id": "ryutsuu-4ff4e1f5",
-      "title": "オンワード／SC向けブランド「アンフィーロ」初の単独店、ららぽーと豊洲にオープン",
-      "url": "https://www.ryutsuu.biz/report/s042411.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-04-24",
-      "tags": [
-        "注目",
-        "オープン",
-        "SC"
-      ]
-    },
-    {
-      "id": "ryutsuu-b1f0abb8",
-      "title": "西友ひたち野うしく店跡地／イオンリテール「そよらひたち野うしく」11月オープン",
-      "url": "https://www.ryutsuu.biz/store/s042477.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-24",
-      "tags": [
-        "オープン",
-        "イオン",
-        "西友"
-      ]
-    },
-    {
-      "id": "ryutsuu-a85d2c30",
-      "title": "トライアル西友／横浜市旭区に新フォーマット3号店「二俣川店」オープン",
-      "url": "https://www.ryutsuu.biz/store/s042476.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-24",
-      "tags": [
-        "トライアル",
-        "オープン",
-        "西友"
-      ]
-    },
-    {
-      "id": "ryutsuu-c218595e",
-      "title": "セブン＆アイ／26年は欧州9カ国を最優先市場としてウォッチ",
-      "url": "https://www.ryutsuu.biz/abroad/s042414.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "abroad",
-      "date": "2026-04-24",
-      "tags": [
-        "セブン＆アイ"
-      ]
-    },
-    {
-      "id": "ryutsuu-da218975",
-      "title": "農水省／Olympicの牛肉加工品の不適正表示に是正指示",
-      "url": "https://www.ryutsuu.biz/government/s042413.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "行政",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-685c867c",
-      "title": "イオンレイクタウンkaze／酒と食のセレクトショップ「リカーウェアハウス クラフト」関東初オープン",
-      "url": "https://www.ryutsuu.biz/store/s042474.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-24",
-      "tags": [
-        "オープン",
-        "イオン"
-      ]
-    },
-    {
-      "id": "ryutsuu-2103b466",
-      "title": "オリックス不動産ほか6社／兵庫県に「神戸市役所本庁舎2号館再整備事業 民間商業施設」2030年新設",
-      "url": "https://www.ryutsuu.biz/store/s0424011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-59feb3d6",
-      "title": "CCC×三井不動産／東京都「シェアラウンジ ワークスタイリング八重洲南口」オープン",
-      "url": "https://www.ryutsuu.biz/store/s042479.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-24",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-070caf7e",
-      "title": "トイザらス／宮城・茨城・福岡・兵庫に4店舗、GWに合わせて連続オープン",
-      "url": "https://www.ryutsuu.biz/store/s042483.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-24",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-e9669359",
-      "title": "タリーズコーヒー／神戸空港第1ターミナルビルに新店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s042475.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-04-24",
-      "tags": [
-        "オープン",
-        "新店"
       ]
     }
   ]
