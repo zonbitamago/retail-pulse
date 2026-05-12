@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-05-12T12:40:22.766Z",
+  "lastUpdated": "2026-05-12T18:37:04.678Z",
   "items": [
+    {
+      "id": "ryutsuu-b60ba0a1",
+      "title": "中部薬品／富山県氷見市に「V・drug氷見鞍川薬局」5月13日オープン",
+      "url": "https://www.ryutsuu.biz/store/s051244.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-05-13",
+      "tags": [
+        "オープン"
+      ]
+    },
     {
       "id": "ryutsuu-c9b45b7b",
       "title": "ヤオコー／今期8店舗の新規出店を計画、5月下旬に「コトエ橋本店」オープン",
@@ -245,6 +257,18 @@
       "tags": []
     },
     {
+      "id": "ssnp-b10640b7",
+      "title": "サントリーBF、韓国素材の茶飲料「美色韓茶」発売 セブン限定でノンカフェイン2品\n\t\t\t\t\t\t\t\t\t\t\t\tサントリービバレッジ&フードは5月12日、韓国素材を取り入れたノンカフェイン茶飲料「美色韓茶（びしょくかんちゃ）〈ざくろフルーツティー〉」「同〈あずきブレンドティー〉」(各500mlPET)を、全国のセブン‐イレ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/684140/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-05-12",
+      "tags": [
+        "飲料"
+      ]
+    },
+    {
       "id": "ssnp-8fb3dfcb",
       "title": "【FLO〈フロプレステージュ〉】メロンのタルトやショートケーキなど…初夏の新作スイーツ発売\n\t\t\t\t\t\t\t\t\t\t\t\tFLO〈フロプレステージュ〉は、2026年5月14日から、季節のプレミアムタルト第2弾「～メロン～」など、旬のメロンを使った初夏の新作スイーツを発売する。 【旬のメロンを使った初夏の新作スイーツ 画像一覧はこちら】 〈5...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/684128/",
@@ -256,7 +280,7 @@
     },
     {
       "id": "ssnp-9af68580",
-      "title": "モスバーガー、初夏限定の「海老バーガー」２種発売　アボカド×バジルの海老カツとエビフライバーガーが登場\n\t\t\t\t\t\t\t\t\t\t\t\tモスバーガーは5月20日(水)から7月中旬まで、全国のモスバーガー店舗(一部店舗を除く)で、「アボカド海老カツバーガー ～国産バジルマヨ～」と「『モスの匠味(たくみ)』 海老エビフライバーガー ～くし切りレモン添え～」を...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "モスバーガー、初夏限定の「海老バーガー」２種発売　アボカド×バジルの海老カツとエビフライバーガーが登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/684116/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -3466,31 +3490,6 @@
       "date": "2026-04-24",
       "tags": [
         "百貨店"
-      ]
-    },
-    {
-      "id": "diamond-f5de3430",
-      "title": "業態別統計データ 2026年 ドラッグストア",
-      "url": "https://diamond-rm.net/retaildata/538323/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-24",
-      "tags": [
-        "ドラッグストア",
-        "ドラッグ"
-      ]
-    },
-    {
-      "id": "diamond-9d0d137c",
-      "title": "次に売れる食品トレンドはどう読む？ POSデータで兆しを捉える「KSPレンズ」",
-      "url": "https://diamond-rm.net/promotion/pr/538638/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-04-24",
-      "tags": [
-        "食品"
       ]
     }
   ]
