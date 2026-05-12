@@ -1,6 +1,79 @@
 {
-  "lastUpdated": "2026-05-11T18:37:56.809Z",
+  "lastUpdated": "2026-05-12T00:32:30.345Z",
   "items": [
+    {
+      "id": "diamond-2214592d",
+      "title": "決算発表に騙されるな　偽りの「黒字」と余命3年のV字回復",
+      "url": "https://diamond-rm.net/management/544633/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-12",
+      "tags": [
+        "決算",
+        "黒字"
+      ]
+    },
+    {
+      "id": "diamond-a7a1f620",
+      "title": "生鮮総菜化のパイオニア、サミットが鮮魚で挑む「素材強化戦略」の全貌",
+      "url": "https://diamond-rm.net/management/businessplan/544554/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-12",
+      "tags": [
+        "サミット",
+        "生鮮",
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-4659d37f",
+      "title": "新潟ローカルのウオロク、祖業の”魚屋回帰”で進める鮮魚売場の大刷新",
+      "url": "https://diamond-rm.net/management/businessplan/544600/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-12",
+      "tags": [
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-12f9f005",
+      "title": "平均日販80万円達成へ　セブン-イレブン、商品戦略大刷新の成否",
+      "url": "https://diamond-rm.net/management/businessplan/544454/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-12",
+      "tags": [
+        "セブン-イレブン"
+      ]
+    },
+    {
+      "id": "diamond-0113f346",
+      "title": "有楽製菓の「ミルクマニア」が、「ブラックサンダー」に続く“第二の柱”に浮上した理由",
+      "url": "https://diamond-rm.net/sales-promotion/543522/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-05-12",
+      "tags": []
+    },
+    {
+      "id": "ssnp-9a631da5",
+      "title": "日本茶がGI登録へ、国産茶の価値明確に 海外需要拡大でブランド保護強化\n\t\t\t\t\t\t\t\t\t\t\t\t海外で日本茶の存在感が高まっている。抹茶を含む粉末茶需要の拡大を背景に、2025年の緑茶輸出額は721億円と過去最高を更新した。 一方で、国内ではリーフ茶の消費量減少に加えて、飲料用途などへの需要シフトや消費スタイルの変...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/684023/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-05-12",
+      "tags": [
+        "飲料"
+      ]
+    },
     {
       "id": "ryutsuu-c788d678",
       "title": "エキュートエディション御茶ノ水／駅の改札内外に飲食3店舗を今夏オープン",
@@ -152,54 +225,6 @@
       ]
     },
     {
-      "id": "diamond-7c4b6e31",
-      "title": "駅ビル4階の“超変則立地”でどう戦う？  「ロピア名鉄一宮店」現地ルポ（後編）",
-      "url": "https://diamond-rm.net/store/543044/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-11",
-      "tags": [
-        "ロピア"
-      ]
-    },
-    {
-      "id": "diamond-8274f450",
-      "title": "セブン-イレブン、3度目の「感謝盛り」企画スタート！　50％以上増量でボリュームを強く訴求",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/544574/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-05-11",
-      "tags": [
-        "セブン-イレブン"
-      ]
-    },
-    {
-      "id": "diamond-a2dc8cc6",
-      "title": "全部398円以下！現役主婦厳選・ヤオコーで絶対買うべき神コスパ総菜7選",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/544092/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-05-11",
-      "tags": [
-        "ヤオコー"
-      ]
-    },
-    {
-      "id": "diamond-c5fa1809",
-      "title": "高精度な販売計画と部門間連携の推進…原信・ナルスの鮮魚MDがさらに進化！",
-      "url": "https://diamond-rm.net/management/businessplan/544433/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-11",
-      "tags": [
-        "鮮魚"
-      ]
-    },
-    {
       "id": "diamond-2244b5c4",
       "title": "週刊コンビニエンスストアニュース　セブンカフェ ベーカリーで「感謝割り」実施",
       "url": "https://diamond-rm.net/management/544543/",
@@ -235,6 +260,54 @@
       "tags": []
     },
     {
+      "id": "diamond-c5fa1809",
+      "title": "高精度な販売計画と部門間連携の推進…原信・ナルスの鮮魚MDがさらに進化！",
+      "url": "https://diamond-rm.net/management/businessplan/544433/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-11",
+      "tags": [
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-a2dc8cc6",
+      "title": "全部398円以下！現役主婦厳選・ヤオコーで絶対買うべき神コスパ総菜7選",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/544092/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-05-11",
+      "tags": [
+        "ヤオコー"
+      ]
+    },
+    {
+      "id": "diamond-8274f450",
+      "title": "セブン-イレブン、3度目の「感謝盛り」企画スタート！　50％以上増量でボリュームを強く訴求",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/544574/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-05-11",
+      "tags": [
+        "セブン-イレブン"
+      ]
+    },
+    {
+      "id": "diamond-7c4b6e31",
+      "title": "駅ビル4階の“超変則立地”でどう戦う？  「ロピア名鉄一宮店」現地ルポ（後編）",
+      "url": "https://diamond-rm.net/store/543044/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-11",
+      "tags": [
+        "ロピア"
+      ]
+    },
+    {
       "id": "diamond-5102de58",
       "title": "【アーカイブ配信】「検索→比較」モデルの崩壊とAIのROI。実機で裏側を解剖する「選ばれるEC」の条件【NRF2026速報】",
       "url": "https://diamond-rm.net/seminar/544079/",
@@ -259,7 +332,7 @@
     },
     {
       "id": "ssnp-71fae4ea",
-      "title": "ギンビス、初夏向け新作4品を発売　「たべっ子動物」に新フレーバーも登場\n\t\t\t\t\t\t\t\t\t\t\t\tギンビスは、5月の新商品として「ミニたべっ子どうぶつ プリン風味」、「たべっ子水族館チョコミント味」、「ケーキビスケット レアチーズケーキ味」、「GINZA RUSK 至福の塩キャラメル」の全4品を発売する。 【新発売の...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ギンビス、初夏向け新作4品を発売　「たべっ子動物」に新フレーバーも登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/684009/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -437,38 +510,6 @@
       "tags": []
     },
     {
-      "id": "diamond-dd3d9049",
-      "title": "めざすは「頭から尻尾まで見える魚屋」　バローの鮮魚戦略を徹底取材！",
-      "url": "https://diamond-rm.net/management/businessplan/544291/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-09",
-      "tags": [
-        "鮮魚"
-      ]
-    },
-    {
-      "id": "diamond-cbb4bff1",
-      "title": "流通秀書　第28回『日本の流通革命』",
-      "url": "https://diamond-rm.net/life-career/541404/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-09",
-      "tags": []
-    },
-    {
-      "id": "diamond-733ee9e3",
-      "title": "「角上魚類」になぜお客は殺到するのか？ 圧倒的専門性と緻密な販売戦略に迫る",
-      "url": "https://diamond-rm.net/management/businessplan/544368/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-09",
-      "tags": []
-    },
-    {
       "id": "ssnp-7f4e3c92",
       "title": "「い･ろ･は･す」フレーバー2品刷新、新メッセージ「GOOD FOR みんな」発信/日本コカ・コーラ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/683795/",
@@ -521,6 +562,38 @@
       "tags": []
     },
     {
+      "id": "diamond-dd3d9049",
+      "title": "めざすは「頭から尻尾まで見える魚屋」　バローの鮮魚戦略を徹底取材！",
+      "url": "https://diamond-rm.net/management/businessplan/544291/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-09",
+      "tags": [
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-cbb4bff1",
+      "title": "流通秀書　第28回『日本の流通革命』",
+      "url": "https://diamond-rm.net/life-career/541404/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-09",
+      "tags": []
+    },
+    {
+      "id": "diamond-733ee9e3",
+      "title": "「角上魚類」になぜお客は殺到するのか？ 圧倒的専門性と緻密な販売戦略に迫る",
+      "url": "https://diamond-rm.net/management/businessplan/544368/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-09",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-d11fec33",
       "title": "F＆LC 決算／10～3月増収増益、中国スシローが大きく貢献",
       "url": "https://www.ryutsuu.biz/accounts/s050811.html",
@@ -569,16 +642,6 @@
       "tags": [
         "クスリのアオキ"
       ]
-    },
-    {
-      "id": "diamond-3428b006",
-      "title": "第８６回　東京学生同盟事務局長に就く",
-      "url": "https://diamond-rm.net/life-career/535864/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-08",
-      "tags": []
     },
     {
       "id": "diamond-c59cfbd3",
@@ -823,6 +886,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-05-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-3428b006",
+      "title": "第８６回　東京学生同盟事務局長に就く",
+      "url": "https://diamond-rm.net/life-career/535864/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-05-08",
       "tags": []
     },
@@ -3381,71 +3454,6 @@
       "category": "foodservice",
       "date": "2026-04-24",
       "tags": []
-    },
-    {
-      "id": "ssnp-14d46d81",
-      "title": "【役員インタビュー】J-オイルミルズ･松本征之常務執行役員CCO\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/679329/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
-      "id": "diamond-40f6ca72",
-      "title": "PPIHの食品強化型新フォーマット1号店「ロビン・フッド甚目寺店」の売場を速報！",
-      "url": "https://diamond-rm.net/store/newstorereport/543735/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-24",
-      "tags": [
-        "PPIH",
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-e10c3c16",
-      "title": "ハローズがついに神戸市に進出！「ハローズ伊川谷店」の売場を解説",
-      "url": "https://diamond-rm.net/store/newstorereport/542985/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
-      "id": "diamond-2ba6ca18",
-      "title": "第７６回　共済部と柏蔭会",
-      "url": "https://diamond-rm.net/life-career/535854/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
-      "id": "diamond-46936a87",
-      "title": "来たときよりもよい店に――平和堂の旗艦店「アル・プラザつかしん」西村直志支配人の信念",
-      "url": "https://diamond-rm.net/management/businessplan/541933/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-04addc2c",
-      "title": "ドンキ 新業態／「ロビン・フッド」1号店、総菜に名古屋グルメ・うどんバイキング…",
-      "url": "https://www.ryutsuu.biz/report/s042441.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-04-24",
-      "tags": [
-        "詳報"
-      ]
     }
   ]
 }
