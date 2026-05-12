@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T06:58:36.069Z",
+  "lastUpdated": "2026-05-12T12:40:22.766Z",
   "items": [
     {
       "id": "ryutsuu-c9b45b7b",
@@ -53,6 +53,36 @@
       ]
     },
     {
+      "id": "ryutsuu-96603a2e",
+      "title": "ゼンショーHD 決算／3月期営業利益8.4％増、コスト増ですき家減益・はま寿司は好調",
+      "url": "https://www.ryutsuu.biz/accounts/s051276.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-12",
+      "tags": [
+        "ゼンショー",
+        "営業利益",
+        "決算",
+        "減益"
+      ]
+    },
+    {
+      "id": "ryutsuu-58dcdb51",
+      "title": "日本マクドナルドHD 決算／1～3月増収増益、期間限定商品や販促が好調",
+      "url": "https://www.ryutsuu.biz/accounts/s051217.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-12",
+      "tags": [
+        "マクドナルド",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
       "id": "ryutsuu-e3209b48",
       "title": "H2O 決算／3月期減収減益、インバウンド売上高19.9％減",
       "url": "https://www.ryutsuu.biz/accounts/s051216.html",
@@ -70,6 +100,16 @@
       ]
     },
     {
+      "id": "ryutsuu-f5af715b",
+      "title": "ユナイテッドアローズ／「TABAYAホールディングス」に商号変更、持株会社へ移行で",
+      "url": "https://www.ryutsuu.biz/strategy/s051245.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-05-12",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-69d4c4c9",
       "title": "ヤオコー／4月の既存店売上高3.3％増、客数は1.3％増",
       "url": "https://www.ryutsuu.biz/sales/s051272.html",
@@ -79,6 +119,18 @@
       "date": "2026-05-12",
       "tags": [
         "ヤオコー",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-33f1d9c0",
+      "title": "ファミマ／4月の既存店売上高1.0％増、客数2.0％減",
+      "url": "https://www.ryutsuu.biz/sales/s051277.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-05-12",
+      "tags": [
         "売上高"
       ]
     },
@@ -93,6 +145,20 @@
       "tags": [
         "コメリ",
         "売上高"
+      ]
+    },
+    {
+      "id": "diamond-aa32ba98",
+      "title": "ヤオコー単体の連続増収増益記録は「37」に！　ブルーゾーンHD、初年度から好調な滑り出し",
+      "url": "https://diamond-rm.net/market/accounting/544835/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-05-12",
+      "tags": [
+        "ヤオコー",
+        "増収",
+        "増益"
       ]
     },
     {
@@ -179,8 +245,40 @@
       "tags": []
     },
     {
+      "id": "ssnp-8fb3dfcb",
+      "title": "【FLO〈フロプレステージュ〉】メロンのタルトやショートケーキなど…初夏の新作スイーツ発売\n\t\t\t\t\t\t\t\t\t\t\t\tFLO〈フロプレステージュ〉は、2026年5月14日から、季節のプレミアムタルト第2弾「～メロン～」など、旬のメロンを使った初夏の新作スイーツを発売する。 【旬のメロンを使った初夏の新作スイーツ 画像一覧はこちら】 〈5...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/684128/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-05-12",
+      "tags": []
+    },
+    {
+      "id": "ssnp-9af68580",
+      "title": "モスバーガー、初夏限定の「海老バーガー」２種発売　アボカド×バジルの海老カツとエビフライバーガーが登場\n\t\t\t\t\t\t\t\t\t\t\t\tモスバーガーは5月20日(水)から7月中旬まで、全国のモスバーガー店舗(一部店舗を除く)で、「アボカド海老カツバーガー ～国産バジルマヨ～」と「『モスの匠味(たくみ)』 海老エビフライバーガー ～くし切りレモン添え～」を...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/684116/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-12",
+      "tags": [
+        "モスバーガー"
+      ]
+    },
+    {
+      "id": "ssnp-af096081",
+      "title": "【サブウェイ】夜限定「NIGHTバリュー」刷新、2個で990円の「ライトチョイス」と1,180円の「リッチチョイス」を展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/684095/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-12",
+      "tags": []
+    },
+    {
       "id": "ssnp-123322e9",
-      "title": "すき家、今年も「めかぶオクラ牛丼」発売　“ねばとろ”でさっぱり、夏向け人気メニュー\n\t\t\t\t\t\t\t\t\t\t\t\t牛丼チェーン「すき家」は5月19日午前9時から、「めかぶオクラ牛丼」を販売する。価格は並盛660円（税込）。販売終了時期は未定で、全国の「すき家」1,983店舗で取り扱う。 あわせて、山かけを加えた「山かけめかぶオクラ牛...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "すき家、今年も「めかぶオクラ牛丼」発売　“ねばとろ”でさっぱり、夏向け人気メニュー\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/684086/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -190,7 +288,7 @@
     },
     {
       "id": "ssnp-cce948a3",
-      "title": "カリッ・じゅわっ・もちっの三種の食感が楽しめる「お店で焼いた カリッじゅワッサン」発売【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブン･ジャパンは、「セブンカフェ ベーカリー」の新商品「お店で焼いた カリッじゅワッサン」を、5月19日から全国の店舗(「セブンカフェ ベーカリー」取り扱い店舗限定)で順次発売する。 店内の専用オーブンで焼き...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "カリッ・じゅわっ・もちっの三種の食感が楽しめる「お店で焼いた カリッじゅワッサン」発売【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/684072/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -294,71 +392,6 @@
       ]
     },
     {
-      "id": "ryutsuu-c788d678",
-      "title": "エキュートエディション御茶ノ水／駅の改札内外に飲食3店舗を今夏オープン",
-      "url": "https://www.ryutsuu.biz/store/s051179.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-11",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-c51981ee",
-      "title": "イオン／4月イオンリテール既存店売上高0.9％増、化粧品好調・食品は前年水準に",
-      "url": "https://www.ryutsuu.biz/sales/s051182.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-05-11",
-      "tags": [
-        "イオン",
-        "化粧品",
-        "売上高",
-        "食品"
-      ]
-    },
-    {
-      "id": "ryutsuu-c4bc24f8",
-      "title": "セブンイレブン／4月の既存店売上高0.4％減、客数は2.5％減",
-      "url": "https://www.ryutsuu.biz/sales/s051183.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-05-11",
-      "tags": [
-        "セブンイレブン",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-091d211d",
-      "title": "ローソン／都内2店舗で消費期限が近い商品を半額以下で販売する実証実験開始",
-      "url": "https://www.ryutsuu.biz/it/s051171.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-05-11",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "ryutsuu-c527d496",
-      "title": "エディオン 決算／3月期は4期連続の増収、PCの買替や新型ゲーム機などがけん引",
-      "url": "https://www.ryutsuu.biz/accounts/s051146.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-11",
-      "tags": [
-        "決算",
-        "増収"
-      ]
-    },
-    {
       "id": "ryutsuu-cffbbaf8",
       "title": "クレオ／ウェビナー「ヒット商品から探る 生活者から共感されるポイントとは」5月11日～22日再配信",
       "url": "https://www.ryutsuu.biz/seminar/s051176.html",
@@ -368,19 +401,6 @@
       "date": "2026-05-11",
       "tags": [
         "PR"
-      ]
-    },
-    {
-      "id": "diamond-5f12c6ec",
-      "title": "鮮魚を集客力アップの起爆剤に 「街の魚屋」めざすイトーヨーカ堂の大胆な改革",
-      "url": "https://diamond-rm.net/management/businessplan/544391/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-11",
-      "tags": [
-        "イトーヨーカ堂",
-        "鮮魚"
       ]
     },
     {
@@ -431,18 +451,6 @@
       ]
     },
     {
-      "id": "diamond-a2dc8cc6",
-      "title": "全部398円以下！現役主婦厳選・ヤオコーで絶対買うべき神コスパ総菜7選",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/544092/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-05-11",
-      "tags": [
-        "ヤオコー"
-      ]
-    },
-    {
       "id": "diamond-7c4b6e31",
       "title": "駅ビル4階の“超変則立地”でどう戦う？  「ロピア名鉄一宮店」現地ルポ（後編）",
       "url": "https://diamond-rm.net/store/543044/",
@@ -452,6 +460,18 @@
       "date": "2026-05-11",
       "tags": [
         "ロピア"
+      ]
+    },
+    {
+      "id": "diamond-a2dc8cc6",
+      "title": "全部398円以下！現役主婦厳選・ヤオコーで絶対買うべき神コスパ総菜7選",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/544092/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-05-11",
+      "tags": [
+        "ヤオコー"
       ]
     },
     {
@@ -479,7 +499,7 @@
     },
     {
       "id": "ssnp-71fae4ea",
-      "title": "ギンビス、初夏向け新作4品を発売　「たべっ子動物」に新フレーバーも登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ギンビス、初夏向け新作4品を発売　「たべっ子どうぶつ」に新フレーバーも登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/684009/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -622,6 +642,84 @@
       "category": "菓子",
       "date": "2026-05-11",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-c788d678",
+      "title": "エキュートエディション御茶ノ水／駅の改札内外に飲食3店舗を今夏オープン",
+      "url": "https://www.ryutsuu.biz/store/s051179.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-05-11",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-c51981ee",
+      "title": "イオン／4月イオンリテール既存店売上高0.9％増、化粧品好調・食品は前年水準に",
+      "url": "https://www.ryutsuu.biz/sales/s051182.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-05-11",
+      "tags": [
+        "イオン",
+        "化粧品",
+        "売上高",
+        "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-c4bc24f8",
+      "title": "セブンイレブン／4月の既存店売上高0.4％減、客数は2.5％減",
+      "url": "https://www.ryutsuu.biz/sales/s051183.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-05-11",
+      "tags": [
+        "セブンイレブン",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-091d211d",
+      "title": "ローソン／都内2店舗で消費期限が近い商品を半額以下で販売する実証実験開始",
+      "url": "https://www.ryutsuu.biz/it/s051171.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-05-11",
+      "tags": [
+        "ローソン"
+      ]
+    },
+    {
+      "id": "ryutsuu-c527d496",
+      "title": "エディオン 決算／3月期は4期連続の増収、PCの買替や新型ゲーム機などがけん引",
+      "url": "https://www.ryutsuu.biz/accounts/s051146.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-11",
+      "tags": [
+        "決算",
+        "増収"
+      ]
+    },
+    {
+      "id": "diamond-5f12c6ec",
+      "title": "鮮魚を集客力アップの起爆剤に 「街の魚屋」めざすイトーヨーカ堂の大胆な改革",
+      "url": "https://diamond-rm.net/management/businessplan/544391/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-11",
+      "tags": [
+        "イトーヨーカ堂",
+        "鮮魚"
+      ]
     },
     {
       "id": "ryutsuu-495edeff",
@@ -2789,6 +2887,19 @@
       ]
     },
     {
+      "id": "ryutsuu-0d06c6d2",
+      "title": "日本アクセス／未発売・開発途中の食品に特化したクラファンサイトをオープン",
+      "url": "https://www.ryutsuu.biz/ec/s042783.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "ec",
+      "date": "2026-04-27",
+      "tags": [
+        "オープン",
+        "食品"
+      ]
+    },
+    {
       "id": "ryutsuu-b89b8ddf",
       "title": "日本小売業協会／10月開催「第22回アジア太平洋小売業者大会」参加登録受付を開始、ニトリ・イオン・三越伊勢丹ほか登壇",
       "url": "https://www.ryutsuu.biz/seminar/s042780.html",
@@ -2801,19 +2912,6 @@
         "三越伊勢丹",
         "イオン",
         "ニトリ"
-      ]
-    },
-    {
-      "id": "ryutsuu-0d06c6d2",
-      "title": "日本アクセス／未発売・開発途中の食品に特化したクラファンサイトをオープン",
-      "url": "https://www.ryutsuu.biz/ec/s042783.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "ec",
-      "date": "2026-04-27",
-      "tags": [
-        "オープン",
-        "食品"
       ]
     },
     {
@@ -3394,95 +3492,6 @@
       "tags": [
         "食品"
       ]
-    },
-    {
-      "id": "ssnp-ab050bf3",
-      "title": "〈シグナル〉AI時代の人間力",
-      "url": "https://www.ssnp.co.jp/signal/679318/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "signal",
-      "date": "2026-04-24",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ryutsuu-4bd56d7d",
-      "title": "カンリー／「AI検索ユーザー1000人に聞いた、お店の決定までに何を調べ直す？」セミナー5月12～14日開催",
-      "url": "https://www.ryutsuu.biz/seminar/s042482.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-04-24",
-      "tags": [
-        "PR",
-        "AI"
-      ]
-    },
-    {
-      "id": "diamond-4395f2e5",
-      "title": "発売3カ月で2万着突破！洋服の青山「みんなのスーツ」が示した紳士服市場の新たな勝ち筋",
-      "url": "https://diamond-rm.net/sales-promotion/542591/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-24",
-      "tags": [
-        "青山"
-      ]
-    },
-    {
-      "id": "diamond-ec0386a1",
-      "title": "「不変」と「変革」が共存するロングセラーの正体",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/542057/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
-      "id": "diamond-c5a1a471",
-      "title": "一大トレンドとなったウェルネス関連商品　ターゲットとホールフーズが品揃えを拡充！",
-      "url": "https://diamond-rm.net/sales-promotion/540473/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
-      "id": "ssnp-4f5a6524",
-      "title": "【ファミリーマート】『神の雫』との人気コラボワイン2種を再販、新たにハイボール缶も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/liquor/679579/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "liquor",
-      "date": "2026-04-24",
-      "tags": [
-        "ファミリーマート"
-      ]
-    },
-    {
-      "id": "ssnp-66c0651e",
-      "title": "日本生協連、75周年記念イベント「喫茶コープ」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/679574/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e2d8166f",
-      "title": "【安楽亭】GW期間は「肉の日祭」を特別延長　定番焼肉が特価、大皿が550円割引、小学生食べ放題1,129円の３施策\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/679560/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-24",
-      "tags": []
     }
   ]
 }
