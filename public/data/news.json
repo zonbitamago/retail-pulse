@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T18:37:04.678Z",
+  "lastUpdated": "2026-05-13T00:35:45.266Z",
   "items": [
     {
       "id": "ryutsuu-b60ba0a1",
@@ -11,6 +11,40 @@
       "date": "2026-05-13",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "diamond-ad66f57e",
+      "title": "年間売上10億円超!?　ドンキの「卵かけご飯のたれ」が大ヒットした理由",
+      "url": "https://diamond-rm.net/sales-promotion/pb/544053/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-05-13",
+      "tags": []
+    },
+    {
+      "id": "diamond-74c251f8",
+      "title": "フジの鮮魚改革戦略　インストア×PCの巧みな連動で「攻め」の原資に！",
+      "url": "https://diamond-rm.net/management/businessplan/544658/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-13",
+      "tags": [
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-0a10b65a",
+      "title": "カギは和歌山の”地の利”　オークワ流・鮮魚の差別化＆収益化戦略の方向性",
+      "url": "https://diamond-rm.net/management/businessplan/544646/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-13",
+      "tags": [
+        "鮮魚"
       ]
     },
     {
@@ -201,16 +235,26 @@
       ]
     },
     {
-      "id": "diamond-4659d37f",
-      "title": "新潟ローカルのウオロク、祖業の”魚屋回帰”で進める鮮魚売場の大刷新",
-      "url": "https://diamond-rm.net/management/businessplan/544600/",
+      "id": "diamond-147c9236",
+      "title": "【動画】5月1週目の注目ニュースまとめ、注目企業の新店情報など",
+      "url": "https://diamond-rm.net/management/businessplan/544759/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
       "date": "2026-05-12",
       "tags": [
-        "鮮魚"
+        "新店"
       ]
+    },
+    {
+      "id": "diamond-b940bd23",
+      "title": "第８８回　秘められたコンプレックス",
+      "url": "https://diamond-rm.net/life-career/535866/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-12",
+      "tags": []
     },
     {
       "id": "diamond-12f9f005",
@@ -235,26 +279,16 @@
       "tags": []
     },
     {
-      "id": "diamond-147c9236",
-      "title": "【動画】5月1週目の注目ニュースまとめ、注目企業の新店情報など",
-      "url": "https://diamond-rm.net/management/businessplan/544759/",
+      "id": "diamond-4659d37f",
+      "title": "新潟ローカルのウオロク、祖業の”魚屋回帰”で進める鮮魚売場の大刷新",
+      "url": "https://diamond-rm.net/management/businessplan/544600/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
       "date": "2026-05-12",
       "tags": [
-        "新店"
+        "鮮魚"
       ]
-    },
-    {
-      "id": "diamond-b940bd23",
-      "title": "第８８回　秘められたコンプレックス",
-      "url": "https://diamond-rm.net/life-career/535866/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-12",
-      "tags": []
     },
     {
       "id": "ssnp-b10640b7",
@@ -440,41 +474,6 @@
       ]
     },
     {
-      "id": "diamond-16e7f630",
-      "title": "週刊スーパーマーケットニュース ダイエーが新フォーマット「フードスタイルあびこ駅前店」出店",
-      "url": "https://diamond-rm.net/management/businessplan/544551/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-11",
-      "tags": [
-        "スーパー",
-        "出店"
-      ]
-    },
-    {
-      "id": "diamond-e60940ce",
-      "title": "第８７回　村井了との邂逅",
-      "url": "https://diamond-rm.net/life-career/535865/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-11",
-      "tags": []
-    },
-    {
-      "id": "diamond-c5fa1809",
-      "title": "高精度な販売計画と部門間連携の推進…原信・ナルスの鮮魚MDがさらに進化！",
-      "url": "https://diamond-rm.net/management/businessplan/544433/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-11",
-      "tags": [
-        "鮮魚"
-      ]
-    },
-    {
       "id": "diamond-7c4b6e31",
       "title": "駅ビル4階の“超変則立地”でどう戦う？  「ロピア名鉄一宮店」現地ルポ（後編）",
       "url": "https://diamond-rm.net/store/543044/",
@@ -484,18 +483,6 @@
       "date": "2026-05-11",
       "tags": [
         "ロピア"
-      ]
-    },
-    {
-      "id": "diamond-a2dc8cc6",
-      "title": "全部398円以下！現役主婦厳選・ヤオコーで絶対買うべき神コスパ総菜7選",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/544092/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-05-11",
-      "tags": [
-        "ヤオコー"
       ]
     },
     {
@@ -666,6 +653,53 @@
       "category": "菓子",
       "date": "2026-05-11",
       "tags": []
+    },
+    {
+      "id": "diamond-16e7f630",
+      "title": "週刊スーパーマーケットニュース ダイエーが新フォーマット「フードスタイルあびこ駅前店」出店",
+      "url": "https://diamond-rm.net/management/businessplan/544551/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-11",
+      "tags": [
+        "スーパー",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-e60940ce",
+      "title": "第８７回　村井了との邂逅",
+      "url": "https://diamond-rm.net/life-career/535865/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-11",
+      "tags": []
+    },
+    {
+      "id": "diamond-c5fa1809",
+      "title": "高精度な販売計画と部門間連携の推進…原信・ナルスの鮮魚MDがさらに進化！",
+      "url": "https://diamond-rm.net/management/businessplan/544433/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-11",
+      "tags": [
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-a2dc8cc6",
+      "title": "全部398円以下！現役主婦厳選・ヤオコーで絶対買うべき神コスパ総菜7選",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/544092/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-05-11",
+      "tags": [
+        "ヤオコー"
+      ]
     },
     {
       "id": "ryutsuu-c788d678",
@@ -3456,40 +3490,6 @@
       "date": "2026-04-24",
       "tags": [
         "コンビニ"
-      ]
-    },
-    {
-      "id": "diamond-330753e2",
-      "title": "業態別統計データ 2026年 チェーンストア",
-      "url": "https://diamond-rm.net/retaildata/538314/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-24",
-      "tags": []
-    },
-    {
-      "id": "diamond-56cf5822",
-      "title": "業態別統計データ 2026年 スーパーマーケット",
-      "url": "https://diamond-rm.net/retaildata/538310/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-24",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
-      "id": "diamond-8afdfbd3",
-      "title": "業態別統計データ 2026年 百貨店",
-      "url": "https://diamond-rm.net/retaildata/538321/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-04-24",
-      "tags": [
-        "百貨店"
       ]
     }
   ]
