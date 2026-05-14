@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-05-14T12:37:16.638Z",
+  "lastUpdated": "2026-05-14T18:37:19.035Z",
   "items": [
+    {
+      "id": "ryutsuu-9ead8145",
+      "title": "アダストリア／大阪府に「ローリーズファーム ららぽーと和泉店」5月15日オープン",
+      "url": "https://www.ryutsuu.biz/store/s051445.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-05-15",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-40f4983c",
+      "title": "河淳／横浜市瀬谷区「ケユカ 相鉄ライフ三ツ境店」5月15日オープン",
+      "url": "https://www.ryutsuu.biz/store/s051471.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-05-15",
+      "tags": [
+        "オープン",
+        "ライフ"
+      ]
+    },
     {
       "id": "ryutsuu-34ab9b05",
       "title": "ヤオコー、サミット／前期はPBの販売が好調、今期は包材不足が商品投入の障壁に",
@@ -3496,26 +3521,6 @@
       "tags": [
         "オープン"
       ]
-    },
-    {
-      "id": "ssnp-b8fc651b",
-      "title": "セブン‐イレブンで「パン100円」セール 創業祭「感謝割り」第2弾を実施\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/679898/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-04-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-0f498059",
-      "title": "テンダーロイン・サーロインを“値段そのまま”増量するGW限定「感謝祭」開催【ステーキのあさくま】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/679888/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-28",
-      "tags": []
     }
   ]
 }
