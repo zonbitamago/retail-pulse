@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-05-15T07:06:28.513Z",
+  "lastUpdated": "2026-05-15T12:37:06.764Z",
   "items": [
+    {
+      "id": "ryutsuu-71d2599d",
+      "title": "住友不動産、森ビル／六本木5丁目プロジェクトにローズウッドホテルを誘致",
+      "url": "https://www.ryutsuu.biz/store/s051514.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-05-15",
+      "tags": []
+    },
     {
       "id": "ryutsuu-f38055ef",
       "title": "くら寿司／プレミアム回転寿司「無添蔵」新宿に7月上旬オープン",
@@ -38,9 +48,69 @@
       ]
     },
     {
+      "id": "ryutsuu-dd519385",
+      "title": "サンドラッグ 決算／3月期増収増益、調剤・EC事業が好調",
+      "url": "https://www.ryutsuu.biz/accounts/s051520.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-15",
+      "tags": [
+        "サンドラッグ",
+        "ドラッグ",
+        "EC",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "ryutsuu-e91cddd4",
+      "title": "マミーマートHD 決算／10～3月増収増益、既存店堅調・生鮮市場TOP！新店好調",
+      "url": "https://www.ryutsuu.biz/accounts/s051579.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-15",
+      "tags": [
+        "生鮮",
+        "新店",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
       "id": "ryutsuu-51cd637a",
       "title": "トリドールHD 決算／3月期営業利益21.9％増、丸亀・海外セグメントでコスト増吸収",
       "url": "https://www.ryutsuu.biz/accounts/s051578.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-15",
+      "tags": [
+        "営業利益",
+        "決算"
+      ]
+    },
+    {
+      "id": "ryutsuu-304c6528",
+      "title": "松屋フーズHD 決算／3月期営業利益72.3％増で過去最高益達成、既存店売上2桁増・販管費改善",
+      "url": "https://www.ryutsuu.biz/accounts/s051580.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-15",
+      "tags": [
+        "営業利益",
+        "松屋",
+        "決算"
+      ]
+    },
+    {
+      "id": "ryutsuu-782c3f0d",
+      "title": "王将フード 決算／3月期営業利益4.5％減、人件費などコスト増加の影響で",
+      "url": "https://www.ryutsuu.biz/accounts/s051581.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "accounts",
@@ -60,6 +130,20 @@
       "date": "2026-05-15",
       "tags": [
         "売上高",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "ryutsuu-889d3dcf",
+      "title": "丸井グループ 決算／3月期増収増益、グループ総取扱高は過去最高の5兆3921億円",
+      "url": "https://www.ryutsuu.biz/accounts/s051519.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-15",
+      "tags": [
         "決算",
         "増収",
         "増益"
@@ -116,19 +200,6 @@
       "tags": []
     },
     {
-      "id": "diamond-d1050e64",
-      "title": "「0時までの注文が最短で翌朝6時に届いたら？」　ネットスーパーを爆伸びさせる秘策",
-      "url": "https://diamond-rm.net/management/businessplan/544474/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-15",
-      "tags": [
-        "ネットスーパー",
-        "スーパー"
-      ]
-    },
-    {
       "id": "diamond-6b276c87",
       "title": "コト消費は幻想なのか？ 「体験型ショッピングセンター」の脆弱性",
       "url": "https://diamond-rm.net/management/businessplan/544142/",
@@ -139,16 +210,6 @@
       "tags": [
         "ショッピングセンター"
       ]
-    },
-    {
-      "id": "diamond-87747aa0",
-      "title": "ウォルマートやカルフールが展開に着手した次世代型店舗「コネクテッドストア」の正体",
-      "url": "https://diamond-rm.net/technology/dx/544473/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-05-15",
-      "tags": []
     },
     {
       "id": "diamond-bcb04f4b",
@@ -173,8 +234,91 @@
       ]
     },
     {
+      "id": "diamond-d1050e64",
+      "title": "「0時までの注文が最短で翌朝6時に届いたら？」　ネットスーパーを爆伸びさせる秘策",
+      "url": "https://diamond-rm.net/management/businessplan/544474/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-15",
+      "tags": [
+        "ネットスーパー",
+        "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-87747aa0",
+      "title": "ウォルマートやカルフールが展開に着手した次世代型店舗「コネクテッドストア」の正体",
+      "url": "https://diamond-rm.net/technology/dx/544473/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-05-15",
+      "tags": []
+    },
+    {
+      "id": "ssnp-14eb4450",
+      "title": "カバヤ食品『塩分チャージ』、調剤薬局 約100店舗で順次販売　“健康拠点”で需要訴求\n\t\t\t\t\t\t\t\t\t\t\t\tカバヤ食品は5月15日、富士薬品が手がける「セイムス」の調剤薬局にて、塩分とカリウムを含むタブレット菓子「塩分チャージタブレッツ」の販売を開始した。約100店舗で順次取り扱いを始める。 対象商品は、「塩分チャージタブレッ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/684833/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-05-15",
+      "tags": [
+        "食品",
+        "菓子"
+      ]
+    },
+    {
+      "id": "ssnp-9fa12a4b",
+      "title": "松屋、アルゼンチン発祥の「チミチュリソース」を使用した新定食発売　厚切り豚肉×爽やかバジルでスタミナ満点\n\t\t\t\t\t\t\t\t\t\t\t\t牛めし・定食チェーンの「松屋」は、「チミチュリソース厚切りポークグリル定食」を5月19日午前10時から発売する。 アルゼンチン発祥の万能ソース「チミチュリソース」を松屋流にアレンジし、ボリューム感のある厚切りポークと組み...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/684835/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-15",
+      "tags": [
+        "松屋"
+      ]
+    },
+    {
+      "id": "ssnp-fb7dfa6d",
+      "title": "ハッピーセット「ちいかわ」、初日は購入券必須に　都内店舗では大きな混乱見られず【マクドナルド】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/684812/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-15",
+      "tags": [
+        "マクドナルド"
+      ]
+    },
+    {
+      "id": "ssnp-76178a67",
+      "title": "くら寿司、AI技術を活用して700g超まで育成した養殖サバ「大型生さば」発売 / 仕入れ価格の高騰や人手不足などの課題に取り組む\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/684791/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-15",
+      "tags": [
+        "人手不足",
+        "AI"
+      ]
+    },
+    {
+      "id": "ssnp-f4df267b",
+      "title": "【NewDays】おにぎり9品を新発売、新発田三新軒の人気駅弁「えび千両ちらし」をイメージしたおにぎりなど\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/684777/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-05-15",
+      "tags": []
+    },
+    {
       "id": "ssnp-1add46bb",
-      "title": "【ゴンチャ】「マスカット&ピーチ 凍頂烏龍」4種を発売、ドリンクにぴったりなクッキーも販売\n\t\t\t\t\t\t\t\t\t\t\t\tゴンチャは、季節に合わせた茶葉を展開する新シリーズ「TEACRAFT(ティークラフト)」を3月にローンチした。 第二弾商品となる「マスカット&ピーチ 凍頂烏龍」を2026年5月21日から、国内ゴンチャ全店で期間限...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【ゴンチャ】「マスカット&ピーチ 凍頂烏龍」4種を発売、ドリンクにぴったりなクッキーも販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/684758/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -184,7 +328,7 @@
     },
     {
       "id": "ssnp-aa9b30c0",
-      "title": "ローソンストア100、5月から“涼活”提案強化 100円台アイスや冷凍フルーツを展開\n\t\t\t\t\t\t\t\t\t\t\t\tローソンストア100は、気温上昇に伴う“涼”需要の高まりを受け、アイスや冷凍フルーツなど手軽に涼を感じられる商品を販売する。2026年も猛暑が予想される中、5月から始まる早めの涼需要に対応する。 同社によると、アイスカテ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ローソンストア100、5月から“涼活”提案強化 100円台アイスや冷凍フルーツを展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/684746/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -350,50 +494,6 @@
       ]
     },
     {
-      "id": "ryutsuu-304a8e2e",
-      "title": "ニトリHD 決算／3月期は減収増益、商品開発進まず既存店客数が7.2％減に",
-      "url": "https://www.ryutsuu.biz/accounts/s051449.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-14",
-      "tags": [
-        "注目",
-        "ニトリ",
-        "決算",
-        "減収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-34ab9b05",
-      "title": "ヤオコー、サミット／前期はPBの販売が好調、今期は包材不足が商品投入の障壁に",
-      "url": "https://www.ryutsuu.biz/commodity/s051441.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-05-14",
-      "tags": [
-        "ヤオコー",
-        "サミット",
-        "PB"
-      ]
-    },
-    {
-      "id": "ryutsuu-a75cb22c",
-      "title": "トライアルHD 決算／7～3月連結売上高が初の1兆円越え、通期予想を上方修正",
-      "url": "https://www.ryutsuu.biz/accounts/s051414.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-14",
-      "tags": [
-        "トライアル",
-        "売上高",
-        "決算"
-      ]
-    },
-    {
       "id": "ryutsuu-25af9c14",
       "title": "千趣会／ベルメゾンから更年期ケアの情報発信型オンラインショップがオープン",
       "url": "https://www.ryutsuu.biz/ec/s051478.html",
@@ -418,6 +518,22 @@
         "トライアル",
         "ベルク",
         "新店"
+      ]
+    },
+    {
+      "id": "diamond-ca9e5ab3",
+      "title": "関西フードの新フォーマット戦略が奏功！ H2Oの26年3月期決算は食品事業が増収増益",
+      "url": "https://diamond-rm.net/market/accounting/544865/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-05-14",
+      "tags": [
+        "H2O",
+        "食品",
+        "決算",
+        "増収",
+        "増益"
       ]
     },
     {
@@ -482,22 +598,6 @@
         "ヤオコー",
         "ライフ",
         "鮮魚"
-      ]
-    },
-    {
-      "id": "diamond-ca9e5ab3",
-      "title": "関西フードの新フォーマット戦略が奏功！ H2Oの26年3月期決算は食品事業が増収増益",
-      "url": "https://diamond-rm.net/market/accounting/544865/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-05-14",
-      "tags": [
-        "H2O",
-        "食品",
-        "決算",
-        "増収",
-        "増益"
       ]
     },
     {
@@ -686,6 +786,50 @@
       "category": "foodservice",
       "date": "2026-05-14",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-304a8e2e",
+      "title": "ニトリHD 決算／3月期は減収増益、商品開発進まず既存店客数が7.2％減に",
+      "url": "https://www.ryutsuu.biz/accounts/s051449.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-14",
+      "tags": [
+        "注目",
+        "ニトリ",
+        "決算",
+        "減収",
+        "増益"
+      ]
+    },
+    {
+      "id": "ryutsuu-34ab9b05",
+      "title": "ヤオコー、サミット／前期はPBの販売が好調、今期は包材不足が商品投入の障壁に",
+      "url": "https://www.ryutsuu.biz/commodity/s051441.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-05-14",
+      "tags": [
+        "ヤオコー",
+        "サミット",
+        "PB"
+      ]
+    },
+    {
+      "id": "ryutsuu-a75cb22c",
+      "title": "トライアルHD 決算／7～3月連結売上高が初の1兆円越え、通期予想を上方修正",
+      "url": "https://www.ryutsuu.biz/accounts/s051414.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-14",
+      "tags": [
+        "トライアル",
+        "売上高",
+        "決算"
+      ]
     },
     {
       "id": "ryutsuu-b661b812",
@@ -1301,6 +1445,20 @@
       "tags": []
     },
     {
+      "id": "diamond-a7a1f620",
+      "title": "生鮮総菜化のパイオニア、サミットが鮮魚で挑む「素材強化戦略」の全貌",
+      "url": "https://diamond-rm.net/management/businessplan/544554/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-12",
+      "tags": [
+        "サミット",
+        "生鮮",
+        "鮮魚"
+      ]
+    },
+    {
       "id": "diamond-147c9236",
       "title": "【動画】5月1週目の注目ニュースまとめ、注目企業の新店情報など",
       "url": "https://diamond-rm.net/management/businessplan/544759/",
@@ -1504,20 +1662,6 @@
       "tags": [
         "決算",
         "黒字"
-      ]
-    },
-    {
-      "id": "diamond-a7a1f620",
-      "title": "生鮮総菜化のパイオニア、サミットが鮮魚で挑む「素材強化戦略」の全貌",
-      "url": "https://diamond-rm.net/management/businessplan/544554/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-12",
-      "tags": [
-        "サミット",
-        "生鮮",
-        "鮮魚"
       ]
     },
     {
@@ -3392,143 +3536,6 @@
         "オープン",
         "出店"
       ]
-    },
-    {
-      "id": "ryutsuu-305b0714",
-      "title": "良品計画／1都3県のナチュラルローソン90店舗で「無印良品」の商品を販売開始",
-      "url": "https://www.ryutsuu.biz/commodity/s050179.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-05-01",
-      "tags": [
-        "ローソン",
-        "無印良品",
-        "良品計画"
-      ]
-    },
-    {
-      "id": "ryutsuu-fa2576ff",
-      "title": "JR東日本×KKday／東日本エリアでインバウンド観光強化、コンテンツの多言語化など推進",
-      "url": "https://www.ryutsuu.biz/it/s050172.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-05-01",
-      "tags": [
-        "インバウンド"
-      ]
-    },
-    {
-      "id": "ryutsuu-7c569242",
-      "title": "猿田彦珈琲／横浜市都筑区の商業施設「サウスウッド」に新店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s050177.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-01",
-      "tags": [
-        "オープン",
-        "新店"
-      ]
-    },
-    {
-      "id": "ryutsuu-91d19789",
-      "title": "伊藤忠食品 決算／3月期営業利益24.2％増、飲料や麺類伸長・オリジナル品注力",
-      "url": "https://www.ryutsuu.biz/accounts/s050189.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-01",
-      "tags": [
-        "営業利益",
-        "食品",
-        "飲料",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-4e5c02b1",
-      "title": "ZOZO 決算／3月期営業利益7.1％増、冬の本セール販売が好調",
-      "url": "https://www.ryutsuu.biz/accounts/s050187.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-01",
-      "tags": [
-        "ZOZO",
-        "営業利益",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-4ef54123",
-      "title": "ジョイフル本田 決算／7～3月売上高959億円、新店がプロ向け需要をけん引",
-      "url": "https://www.ryutsuu.biz/accounts/s050185.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-01",
-      "tags": [
-        "売上高",
-        "新店",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-f491bd40",
-      "title": "アルビス 決算／3月期増収増益、新店効果・プロセスセンターの原価改善などで",
-      "url": "https://www.ryutsuu.biz/accounts/s050184.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-01",
-      "tags": [
-        "新店",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-469155d2",
-      "title": "オークワ／4月の売上198億円、既存店2.6％減",
-      "url": "https://www.ryutsuu.biz/sales/s050171.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-05-01",
-      "tags": []
-    },
-    {
-      "id": "diamond-d6b7ea27",
-      "title": "ヘアケア市場の変化から考えた、リアル店舗”ならでは”のパーソナライズの方向性",
-      "url": "https://diamond-rm.net/life-career/543872/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-d34e1193",
-      "title": "「モンスターエナジー」、コカ・コーラ自販機で販売へ 今夏から1都2府35県で順次展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/680175/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-04-30",
-      "tags": []
-    },
-    {
-      "id": "ssnp-360dedfd",
-      "title": "かっぱ寿司、全店で50％増量フェア　大切りサーモン80円＆中とろ割引も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/680159/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-04-30",
-      "tags": []
     }
   ]
 }
