@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-05-15T18:33:13.004Z",
+  "lastUpdated": "2026-05-16T00:32:11.415Z",
   "items": [
+    {
+      "id": "diamond-aa042122",
+      "title": "小型店＆生鮮強化……ミスターマックスの最新出店戦略を現地レポート",
+      "url": "https://diamond-rm.net/store/storevisit/544475/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-16",
+      "tags": [
+        "生鮮",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-2a384b8c",
+      "title": "イオン・セブン＆アイの26年2月期決算を徹底分析！",
+      "url": "https://diamond-rm.net/market/accounting/544476/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-05-16",
+      "tags": [
+        "セブン＆アイ",
+        "イオン",
+        "決算"
+      ]
+    },
+    {
+      "id": "diamond-33d21156",
+      "title": "流通秀書　第29回『随心随想』",
+      "url": "https://diamond-rm.net/life-career/543321/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-16",
+      "tags": []
+    },
+    {
+      "id": "ssnp-49a857fd",
+      "title": "シャトレーゼ、初夏限定「レモンスイーツ」発売　瀬戸内レモンのモンブランやクレープケーキ\n\t\t\t\t\t\t\t\t\t\t\t\t株式会社シャトレーゼは5月15日から、全国の菓子専門店「シャトレーゼ」で、初夏にぴったりの「レモンスイーツ」5品を期間限定で販売している。 ラインアップは、「瀬戸内レモンとはちみつのクレープケーキ」「瀬戸内レモンモンブラ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/684845/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-05-16",
+      "tags": [
+        "専門店",
+        "菓子"
+      ]
+    },
     {
       "id": "ryutsuu-71d2599d",
       "title": "住友不動産、森ビル／六本木5丁目プロジェクトにローズウッドホテルを誘致",
@@ -271,7 +321,7 @@
     },
     {
       "id": "ssnp-9fa12a4b",
-      "title": "松屋、アルゼンチン発祥の「チミチュリソース」を使用した新定食発売　厚切り豚肉×爽やかバジルでスタミナ満点\n\t\t\t\t\t\t\t\t\t\t\t\t牛めし・定食チェーンの「松屋」は、「チミチュリソース厚切りポークグリル定食」を5月19日午前10時から発売する。 アルゼンチン発祥の万能ソース「チミチュリソース」を松屋流にアレンジし、ボリューム感のある厚切りポークと組み...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "松屋、アルゼンチン発祥の「チミチュリソース」を使用した新定食発売　厚切り豚肉×爽やかバジルでスタミナ満点\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/684835/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -521,22 +571,6 @@
       ]
     },
     {
-      "id": "diamond-ca9e5ab3",
-      "title": "関西フードの新フォーマット戦略が奏功！ H2Oの26年3月期決算は食品事業が増収増益",
-      "url": "https://diamond-rm.net/market/accounting/544865/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-05-14",
-      "tags": [
-        "H2O",
-        "食品",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
       "id": "diamond-d7789e7b",
       "title": "週刊コンビニニュース ローソン、AI発注システムを活用した食品ロス削減の実証実験開始",
       "url": "https://diamond-rm.net/management/544764/",
@@ -553,14 +587,34 @@
       ]
     },
     {
-      "id": "diamond-49b135a4",
-      "title": "第９０回　ユネスコの国内組織づくりに奔走",
-      "url": "https://diamond-rm.net/life-career/535868/",
+      "id": "diamond-1df2743e",
+      "title": "ライフ・ヤオコーの首都圏旗艦店の鮮魚売場を徹底調査! 見えてきた魚の”勝ち筋”",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/544435/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "life-career",
+      "category": "sales-promotion",
       "date": "2026-05-14",
-      "tags": []
+      "tags": [
+        "ヤオコー",
+        "ライフ",
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-ca9e5ab3",
+      "title": "関西フードの新フォーマット戦略が奏功！ H2Oの26年3月期決算は食品事業が増収増益",
+      "url": "https://diamond-rm.net/market/accounting/544865/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-05-14",
+      "tags": [
+        "H2O",
+        "食品",
+        "決算",
+        "増収",
+        "増益"
+      ]
     },
     {
       "id": "diamond-840be944",
@@ -585,20 +639,6 @@
       "category": "sales-promotion",
       "date": "2026-05-14",
       "tags": []
-    },
-    {
-      "id": "diamond-1df2743e",
-      "title": "ライフ・ヤオコーの首都圏旗艦店の鮮魚売場を徹底調査! 見えてきた魚の”勝ち筋”",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/544435/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-05-14",
-      "tags": [
-        "ヤオコー",
-        "ライフ",
-        "鮮魚"
-      ]
     },
     {
       "id": "diamond-e2087c84",
@@ -788,6 +828,16 @@
       "tags": []
     },
     {
+      "id": "diamond-49b135a4",
+      "title": "第９０回　ユネスコの国内組織づくりに奔走",
+      "url": "https://diamond-rm.net/life-career/535868/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-14",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-304a8e2e",
       "title": "ニトリHD 決算／3月期は減収増益、商品開発進まず既存店客数が7.2％減に",
       "url": "https://www.ryutsuu.biz/accounts/s051449.html",
@@ -970,18 +1020,6 @@
       ]
     },
     {
-      "id": "diamond-74c251f8",
-      "title": "フジの鮮魚改革戦略　インストア×PCの巧みな連動で「攻め」の原資に！",
-      "url": "https://diamond-rm.net/management/businessplan/544658/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-13",
-      "tags": [
-        "鮮魚"
-      ]
-    },
-    {
       "id": "ssnp-16f2e04b",
       "title": "カルビー、「ポテトチップス」など14品でパッケージを白黒化　中東情勢の影響により原材料の調達が不安定化\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/684329/",
@@ -1154,6 +1192,18 @@
       "category": "畜産",
       "date": "2026-05-13",
       "tags": []
+    },
+    {
+      "id": "diamond-74c251f8",
+      "title": "フジの鮮魚改革戦略　インストア×PCの巧みな連動で「攻め」の原資に！",
+      "url": "https://diamond-rm.net/management/businessplan/544658/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-13",
+      "tags": [
+        "鮮魚"
+      ]
     },
     {
       "id": "ssnp-dd5668d7",
@@ -1445,20 +1495,6 @@
       "tags": []
     },
     {
-      "id": "diamond-a7a1f620",
-      "title": "生鮮総菜化のパイオニア、サミットが鮮魚で挑む「素材強化戦略」の全貌",
-      "url": "https://diamond-rm.net/management/businessplan/544554/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-12",
-      "tags": [
-        "サミット",
-        "生鮮",
-        "鮮魚"
-      ]
-    },
-    {
       "id": "diamond-147c9236",
       "title": "【動画】5月1週目の注目ニュースまとめ、注目企業の新店情報など",
       "url": "https://diamond-rm.net/management/businessplan/544759/",
@@ -1611,6 +1647,20 @@
       "category": "飲料",
       "date": "2026-05-12",
       "tags": []
+    },
+    {
+      "id": "diamond-a7a1f620",
+      "title": "生鮮総菜化のパイオニア、サミットが鮮魚で挑む「素材強化戦略」の全貌",
+      "url": "https://diamond-rm.net/management/businessplan/544554/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-12",
+      "tags": [
+        "サミット",
+        "生鮮",
+        "鮮魚"
+      ]
     },
     {
       "id": "ryutsuu-5848939d",
@@ -1819,18 +1869,6 @@
       ]
     },
     {
-      "id": "diamond-7c4b6e31",
-      "title": "駅ビル4階の“超変則立地”でどう戦う？  「ロピア名鉄一宮店」現地ルポ（後編）",
-      "url": "https://diamond-rm.net/store/543044/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-11",
-      "tags": [
-        "ロピア"
-      ]
-    },
-    {
       "id": "diamond-5102de58",
       "title": "【アーカイブ配信】「検索→比較」モデルの崩壊とAIのROI。実機で裏側を解剖する「選ばれるEC」の条件【NRF2026速報】",
       "url": "https://diamond-rm.net/seminar/544079/",
@@ -1998,6 +2036,18 @@
       "category": "菓子",
       "date": "2026-05-11",
       "tags": []
+    },
+    {
+      "id": "diamond-7c4b6e31",
+      "title": "駅ビル4階の“超変則立地”でどう戦う？  「ロピア名鉄一宮店」現地ルポ（後編）",
+      "url": "https://diamond-rm.net/store/543044/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-11",
+      "tags": [
+        "ロピア"
+      ]
     },
     {
       "id": "ryutsuu-1459b66b",
@@ -3486,55 +3536,6 @@
         "トライアル",
         "オープン",
         "西友"
-      ]
-    },
-    {
-      "id": "diamond-d68be1e5",
-      "title": "第８１回　寮生１０００人の食生活を守るために",
-      "url": "https://diamond-rm.net/life-career/535859/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-01",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-f26f59fb",
-      "title": "イオンリテール／東京都北区・桐ケ丘団地に「そよら」28年春オープン、都内初進出",
-      "url": "https://www.ryutsuu.biz/store/s050173.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-01",
-      "tags": [
-        "オープン",
-        "イオン"
-      ]
-    },
-    {
-      "id": "ryutsuu-55c73982",
-      "title": "三菱商事都市開発ほか／大阪市中央区「味園ビル」跡地に商業など複合施設31年春開業",
-      "url": "https://www.ryutsuu.biz/store/s050181.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-01",
-      "tags": [
-        "開業"
-      ]
-    },
-    {
-      "id": "ryutsuu-fb8861e9",
-      "title": "カインズ／神奈川県鎌倉市に「鎌倉梶原店」今秋オープン、鎌倉初出店",
-      "url": "https://www.ryutsuu.biz/store/s050178.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-01",
-      "tags": [
-        "カインズ",
-        "オープン",
-        "出店"
       ]
     }
   ]
