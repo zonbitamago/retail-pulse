@@ -1,6 +1,59 @@
 {
-  "lastUpdated": "2026-05-17T18:22:17.115Z",
+  "lastUpdated": "2026-05-18T00:36:12.380Z",
   "items": [
+    {
+      "id": "diamond-c25f8797",
+      "title": "オーケー、関西の店舗数が10店舗に到達　最新店「大東新田西町店」の売場を現地取材",
+      "url": "https://diamond-rm.net/store/newstorereport/544971/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-18",
+      "tags": [
+        "オーケー",
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-ca5a2a7e",
+      "title": "U.S.M.H、ライフ、アークス　26年2月期決算は利益面に明暗",
+      "url": "https://diamond-rm.net/market/accounting/544477/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-05-18",
+      "tags": [
+        "ライフ",
+        "決算"
+      ]
+    },
+    {
+      "id": "diamond-284e5c68",
+      "title": "薬の即日配送に医療事務作業のDX……米アマゾンが仕掛ける「医療の垂直統合」の全貌",
+      "url": "https://diamond-rm.net/overseas/american_economy/544772/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-18",
+      "tags": [
+        "アマゾン",
+        "DX",
+        "配送",
+        "統合"
+      ]
+    },
+    {
+      "id": "diamond-c6afe9c7",
+      "title": "小売企業で相次ぐ大型M&A　今こそ立ち返るべき小売業の原点",
+      "url": "https://diamond-rm.net/management/businessplan/544854/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-18",
+      "tags": [
+        "M&A"
+      ]
+    },
     {
       "id": "ssnp-18413093",
       "title": "ポッカサッポロ、「差し入レモン」で血圧ケア習慣提案 世界高血圧デーに合わせ働く人へレモン水提供\n\t\t\t\t\t\t\t\t\t\t\t\tポッカサッポロフード&ビバレッジは5月15日、深川ギャザリアタワーS棟(東京都江東区)で、機能性表示食品「ポッカレモン100」を使ったレモン水の試飲イベントを開いた。5月17日の「世界高血圧デー」「高血圧の日」に...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
@@ -303,28 +356,6 @@
       ]
     },
     {
-      "id": "diamond-579a0f88",
-      "title": "ロック・フィールドが店舗従業員の考案メニューを商品化　「RF1」などで販売",
-      "url": "https://diamond-rm.net/sales-promotion/544958/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-05-15",
-      "tags": []
-    },
-    {
-      "id": "diamond-6b276c87",
-      "title": "コト消費は幻想なのか？ 「体験型ショッピングセンター」の脆弱性",
-      "url": "https://diamond-rm.net/management/businessplan/544142/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-15",
-      "tags": [
-        "ショッピングセンター"
-      ]
-    },
-    {
       "id": "diamond-bcb04f4b",
       "title": "第９１回　渥美俊一の「戦後」の始まり",
       "url": "https://diamond-rm.net/life-career/535869/",
@@ -347,6 +378,18 @@
       ]
     },
     {
+      "id": "diamond-6b276c87",
+      "title": "コト消費は幻想なのか？ 「体験型ショッピングセンター」の脆弱性",
+      "url": "https://diamond-rm.net/management/businessplan/544142/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-15",
+      "tags": [
+        "ショッピングセンター"
+      ]
+    },
+    {
       "id": "diamond-d1050e64",
       "title": "「0時までの注文が最短で翌朝6時に届いたら？」　ネットスーパーを爆伸びさせる秘策",
       "url": "https://diamond-rm.net/management/businessplan/544474/",
@@ -366,6 +409,16 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "テクノロジー",
+      "date": "2026-05-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-579a0f88",
+      "title": "ロック・フィールドが店舗従業員の考案メニューを商品化　「RF1」などで販売",
+      "url": "https://diamond-rm.net/sales-promotion/544958/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
       "date": "2026-05-15",
       "tags": []
     },
@@ -633,22 +686,6 @@
       ]
     },
     {
-      "id": "diamond-d7789e7b",
-      "title": "週刊コンビニニュース ローソン、AI発注システムを活用した食品ロス削減の実証実験開始",
-      "url": "https://diamond-rm.net/management/544764/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-14",
-      "tags": [
-        "ローソン",
-        "コンビニ",
-        "食品ロス",
-        "AI",
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-1df2743e",
       "title": "ライフ・ヤオコーの首都圏旗艦店の鮮魚売場を徹底調査! 見えてきた魚の”勝ち筋”",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/544435/",
@@ -701,18 +738,6 @@
       "category": "sales-promotion",
       "date": "2026-05-14",
       "tags": []
-    },
-    {
-      "id": "diamond-e2087c84",
-      "title": "「個人依存からの脱却を急げ」　鮮魚強化の潮流の中で専門家が緊急提言！",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/544465/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-05-14",
-      "tags": [
-        "鮮魚"
-      ]
     },
     {
       "id": "ssnp-2485630d",
@@ -888,6 +913,34 @@
       "category": "foodservice",
       "date": "2026-05-14",
       "tags": []
+    },
+    {
+      "id": "diamond-d7789e7b",
+      "title": "週刊コンビニニュース ローソン、AI発注システムを活用した食品ロス削減の実証実験開始",
+      "url": "https://diamond-rm.net/management/544764/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-14",
+      "tags": [
+        "ローソン",
+        "コンビニ",
+        "食品ロス",
+        "AI",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-e2087c84",
+      "title": "「個人依存からの脱却を急げ」　鮮魚強化の潮流の中で専門家が緊急提言！",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/544465/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-05-14",
+      "tags": [
+        "鮮魚"
+      ]
     },
     {
       "id": "diamond-49b135a4",
@@ -3483,50 +3536,6 @@
       "tags": [
         "楽天"
       ]
-    },
-    {
-      "id": "diamond-d2253fb8",
-      "title": "中川政七商店が挑む「メルマガ改革」　クラスター分析や生成AI活用も",
-      "url": "https://diamond-rm.net/technology/541095/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-05-01",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ssnp-db5affef",
-      "title": "【オリジン】人気「なすの辛味噌炒め弁当」今年も登場　3種のジャンで濃厚仕立て\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/680207/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-05-01",
-      "tags": [
-        "弁当"
-      ]
-    },
-    {
-      "id": "ssnp-3e05cc36",
-      "title": "味の素AGF、神奈川県とマイボトル利用促進 県内1277店で「ブレンディ」マイボトルスティック訴求\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/680201/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-05-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-ce766873",
-      "title": "【ゴディバ監修】毎回好評のシュークリーム・エクレアに加え、ロールケーキが新登場!【モンテール】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/678999/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-05-01",
-      "tags": []
     }
   ]
 }
