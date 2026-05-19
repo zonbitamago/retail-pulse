@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-05-19T07:12:44.265Z",
+  "lastUpdated": "2026-05-19T13:03:50.122Z",
   "items": [
+    {
+      "id": "ryutsuu-b847c860",
+      "title": "ガリバー運営会社／山梨県に初の商業施設28年度オープン、テーマは「リユース」",
+      "url": "https://www.ryutsuu.biz/store/s051977.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-05-19",
+      "tags": [
+        "オープン"
+      ]
+    },
     {
       "id": "ryutsuu-cd57d2db",
       "title": "平和堂／27年4月入社の新卒初任給を3万円アップ",
@@ -61,18 +73,6 @@
       ]
     },
     {
-      "id": "ryutsuu-02990068",
-      "title": "ロイヤルホスト／米国産「ブラックアンガスビーフ」使用商品を値上げ",
-      "url": "https://www.ryutsuu.biz/commodity/s051912.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-05-19",
-      "tags": [
-        "値上げ"
-      ]
-    },
-    {
       "id": "ryutsuu-fa74594d",
       "title": "サンマルクカフェ／公式アプリをグループアプリ「myサンマルク」に今夏統合",
       "url": "https://www.ryutsuu.biz/it/s051974.html",
@@ -83,6 +83,18 @@
       "tags": [
         "アプリ",
         "統合"
+      ]
+    },
+    {
+      "id": "ryutsuu-02990068",
+      "title": "ロイヤルホスト／米国産「ブラックアンガスビーフ」使用商品を値上げ",
+      "url": "https://www.ryutsuu.biz/commodity/s051912.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-05-19",
+      "tags": [
+        "値上げ"
       ]
     },
     {
@@ -220,6 +232,16 @@
       ]
     },
     {
+      "id": "ssnp-9f1fad13",
+      "title": "ガスト、人気20品が26％オフ　「クーポンフェス」開催、ハンバーグ・冷麺・かき氷など対象\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーレストラン「ガスト」は5月21日から、「26％OFF人気メニュークーポンフェス」を開催する。あわせて同日から、例年好評の「純氷かき氷」や冷麺メニューの販売も行う。 「26％OFF人気メニュークーポンフェス」では...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/685148/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-19",
+      "tags": []
+    },
+    {
       "id": "ssnp-36f8d977",
       "title": "ベイシア、PB強化で差別化加速　PBで食品売上の20%確保へ\n\t\t\t\t\t\t\t\t\t\t\t\t物価上昇や実質賃金の伸び悩みを背景に、消費者の節約志向が続く。一方、「価格に対する納得感」や「自分にとっての価値」を重視する傾向が強まっている。ベイシア(群馬県前橋市)ではPB(プライベートブランド)商品で、様々なニーズ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/685141/",
@@ -236,15 +258,13 @@
     },
     {
       "id": "ssnp-9e3c152c",
-      "title": "からやま、からあげをカレーダレに絡めて味わう「出汁カレーつけから定食」発売\n\t\t\t\t\t\t\t\t\t\t\t\tからあげ定食専門店「からやま」は5月22日から、期間限定メニュー「出汁カレーつけから定食」を発売する。 価格は通常店舗979円、券売機店舗980円（各税込）。食材がなくなり次第、販売終了となる。 ■和出汁香る特製カレーダ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "からやま、からあげをカレーダレに絡めて味わう「出汁カレーつけから定食」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/685126/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-05-19",
-      "tags": [
-        "専門店"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-cb106f2e",
@@ -404,19 +424,6 @@
       "date": "2026-05-18",
       "tags": [
         "セブンイレブン"
-      ]
-    },
-    {
-      "id": "ryutsuu-37d90432",
-      "title": "PPIH／4月の国内リテール既存店売上高5.2％増、美容関連品などが売上に貢献",
-      "url": "https://www.ryutsuu.biz/sales/s051875.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-05-18",
-      "tags": [
-        "PPIH",
-        "売上高"
       ]
     },
     {
@@ -664,6 +671,19 @@
       "category": "菓子",
       "date": "2026-05-18",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-37d90432",
+      "title": "PPIH／4月の国内リテール既存店売上高5.2％増、美容関連品などが売上に貢献",
+      "url": "https://www.ryutsuu.biz/sales/s051875.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-05-18",
+      "tags": [
+        "PPIH",
+        "売上高"
+      ]
     },
     {
       "id": "ryutsuu-09c9b816",
@@ -3508,31 +3528,6 @@
       "category": "経営",
       "date": "2026-05-08",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-d634bd45",
-      "title": "メルカリ／マクドナルドのハッピーセット「ちいかわ」を出品禁止に",
-      "url": "https://www.ryutsuu.biz/strategy/s050852.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-05-08",
-      "tags": [
-        "マクドナルド",
-        "メルカリ"
-      ]
-    },
-    {
-      "id": "ryutsuu-43e21aa5",
-      "title": "クスリのアオキHD／株主優待制度を拡充、300株以上対象に長期保有特典を新設",
-      "url": "https://www.ryutsuu.biz/strategy/s050843.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-05-08",
-      "tags": [
-        "クスリのアオキ"
-      ]
     }
   ]
 }
