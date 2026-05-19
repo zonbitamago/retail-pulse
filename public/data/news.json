@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T18:36:39.594Z",
+  "lastUpdated": "2026-05-19T00:37:53.556Z",
   "items": [
     {
       "id": "ryutsuu-15c9568e",
@@ -25,6 +25,78 @@
       "tags": [
         "PR"
       ]
+    },
+    {
+      "id": "diamond-b365b636",
+      "title": "ヨークHD石橋社長独占インタビュー 「ヨーカ堂は攻めのフェーズに入る」",
+      "url": "https://diamond-rm.net/management/topinterview/544471/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-19",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-450233fe",
+      "title": "サミット、26年3月期は増収増益　今期は23区内に3店舗を新規出店",
+      "url": "https://diamond-rm.net/market/accounting/545398/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-05-19",
+      "tags": [
+        "サミット",
+        "出店",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "diamond-a8c8d4e7",
+      "title": "セリア河合社長が明かす成長戦略 ”純・100円ショップ”を極め、残存者利益を享受する",
+      "url": "https://diamond-rm.net/management/topinterview/544698/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-19",
+      "tags": [
+        "100円ショップ",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-fb0d2356",
+      "title": "服を買おうとしていたはずなのに、なぜカレーと家具をカートに入れているのか？",
+      "url": "https://diamond-rm.net/management/545261/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-19",
+      "tags": [
+        "家具"
+      ]
+    },
+    {
+      "id": "diamond-c0945420",
+      "title": "三重・伊勢、創業100年超の老舗で「伊勢うどん」を味わう",
+      "url": "https://diamond-rm.net/life-career/life/545172/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-19",
+      "tags": []
+    },
+    {
+      "id": "ssnp-5d44a80b",
+      "title": "セブン‐イレブンが人気商品を50%以上増量、創業感謝祭「感謝盛り」第２弾【本日から】\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブン･ジャパンは、1974年５月の国内営業開始を記念した「創業感謝祭」を実施している。 第２弾として、人気商品を価格据え置きで従来品比50%以上増量した「感謝盛り」シリーズを5月19日から順次発売する。 【画...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/685040/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-05-19",
+      "tags": []
     },
     {
       "id": "ryutsuu-6e483531",
@@ -187,34 +259,6 @@
       ]
     },
     {
-      "id": "diamond-284e5c68",
-      "title": "薬の即日配送に医療事務作業のDX……米アマゾンが仕掛ける「医療の垂直統合」の全貌",
-      "url": "https://diamond-rm.net/overseas/american_economy/544772/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-05-18",
-      "tags": [
-        "アマゾン",
-        "DX",
-        "配送",
-        "統合"
-      ]
-    },
-    {
-      "id": "diamond-ca5a2a7e",
-      "title": "U.S.M.H、ライフ、アークス　26年2月期決算は利益面に明暗",
-      "url": "https://diamond-rm.net/market/accounting/544477/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-05-18",
-      "tags": [
-        "ライフ",
-        "決算"
-      ]
-    },
-    {
       "id": "diamond-ad64e38a",
       "title": "週刊コンビニエンスストアニュース　セブンが店内焼成の新商品「カリッじゅワッサン」発売",
       "url": "https://diamond-rm.net/management/545334/",
@@ -249,6 +293,34 @@
       ]
     },
     {
+      "id": "diamond-ca5a2a7e",
+      "title": "U.S.M.H、ライフ、アークス　26年2月期決算は利益面に明暗",
+      "url": "https://diamond-rm.net/market/accounting/544477/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-05-18",
+      "tags": [
+        "ライフ",
+        "決算"
+      ]
+    },
+    {
+      "id": "diamond-284e5c68",
+      "title": "薬の即日配送に医療事務作業のDX……米アマゾンが仕掛ける「医療の垂直統合」の全貌",
+      "url": "https://diamond-rm.net/overseas/american_economy/544772/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-18",
+      "tags": [
+        "アマゾン",
+        "DX",
+        "配送",
+        "統合"
+      ]
+    },
+    {
       "id": "ssnp-cf3ad2d9",
       "title": "夏限定のねこ型スイーツを新発売!「喫茶ねこねこ」をテーマにしたバターサンドやレモンケーキなど【ねこねこ】\n\t\t\t\t\t\t\t\t\t\t\t\tオールハーツ･カンパニーが運営する「ねこねこ」は、2026年6月1日から「NEKO NEKO Summer Vacation～喫茶店に集うねこたち～」をテーマとする新商品を発売する。 【夏限定 ねこ型スイーツの画像はこち...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/685021/",
@@ -260,7 +332,7 @@
     },
     {
       "id": "ssnp-7daf01d2",
-      "title": "イオン限定「綾鷹に合うおにぎり」5種発売、売場横断で食べ合わせ提案/コカ・コーラシステム\n\t\t\t\t\t\t\t\t\t\t\t\tコカ・コーラシステムは、緑茶ブランド「綾鷹」で進める“おにぎりには「綾鷹」”の取り組みを、イオンの売場に広げる。イオンリテールと一般社団法人おにぎり協会の協力を得て、「綾鷹」に合うイオン限定おにぎり全5種が誕生した。5月...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "イオン限定「綾鷹に合うおにぎり」5種発売、売場横断で食べ合わせ提案/コカ・コーラシステム\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/685011/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -444,16 +516,6 @@
       ]
     },
     {
-      "id": "diamond-33d21156",
-      "title": "流通秀書　第29回『随心随想』",
-      "url": "https://diamond-rm.net/life-career/543321/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-16",
-      "tags": []
-    },
-    {
       "id": "ssnp-34c1a02e",
       "title": "伊藤園、日本茶の需給変化に危機感 「お～いお茶」に純国産茶葉100%表記、生産者支援を強化へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/684884/",
@@ -496,6 +558,16 @@
       "tags": []
     },
     {
+      "id": "diamond-33d21156",
+      "title": "流通秀書　第29回『随心随想』",
+      "url": "https://diamond-rm.net/life-career/543321/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-16",
+      "tags": []
+    },
+    {
       "id": "ssnp-a9efabbc",
       "title": "【ローソン】「抹茶フェア」全8品を発売、老舗茶屋「森半」とコラボレーション\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/684813/",
@@ -529,28 +601,6 @@
       "date": "2026-05-15",
       "tags": [
         "生鮮"
-      ]
-    },
-    {
-      "id": "diamond-bcb04f4b",
-      "title": "第９１回　渥美俊一の「戦後」の始まり",
-      "url": "https://diamond-rm.net/life-career/535869/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-15",
-      "tags": []
-    },
-    {
-      "id": "diamond-2b6f6e42",
-      "title": "【DCS最新号】5月15日号は「鮮魚が店を強くする！」",
-      "url": "https://diamond-rm.net/management/544839/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-15",
-      "tags": [
-        "鮮魚"
       ]
     },
     {
@@ -809,6 +859,28 @@
       "date": "2026-05-15",
       "tags": [
         "アプリ"
+      ]
+    },
+    {
+      "id": "diamond-bcb04f4b",
+      "title": "第９１回　渥美俊一の「戦後」の始まり",
+      "url": "https://diamond-rm.net/life-career/535869/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-2b6f6e42",
+      "title": "【DCS最新号】5月15日号は「鮮魚が店を強くする！」",
+      "url": "https://diamond-rm.net/management/544839/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-15",
+      "tags": [
+        "鮮魚"
       ]
     },
     {
@@ -1080,30 +1152,6 @@
       ]
     },
     {
-      "id": "diamond-840be944",
-      "title": "店舗網を着々と拡大……冷凍食品専門店「FROZEN JOE’S」成長の背景",
-      "url": "https://diamond-rm.net/management/businessplan/534962/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-14",
-      "tags": [
-        "冷凍食品",
-        "専門店",
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-542ccc00",
-      "title": "GREEN×EXPO 2027が変える園芸市場",
-      "url": "https://diamond-rm.net/sales-promotion/event/544515/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-05-14",
-      "tags": []
-    },
-    {
       "id": "ssnp-2485630d",
       "title": "グルテンフリーのブルーノスナックから、待望の新フレーバー「クリスピー シーソルトブラウニー」が登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/684571/",
@@ -1275,6 +1323,30 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-05-14",
+      "tags": []
+    },
+    {
+      "id": "diamond-840be944",
+      "title": "店舗網を着々と拡大……冷凍食品専門店「FROZEN JOE’S」成長の背景",
+      "url": "https://diamond-rm.net/management/businessplan/534962/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-14",
+      "tags": [
+        "冷凍食品",
+        "専門店",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-542ccc00",
+      "title": "GREEN×EXPO 2027が変える園芸市場",
+      "url": "https://diamond-rm.net/sales-promotion/event/544515/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
       "date": "2026-05-14",
       "tags": []
     },
@@ -3461,68 +3533,6 @@
       "tags": [
         "FC"
       ]
-    },
-    {
-      "id": "ssnp-8acc716f",
-      "title": "【なか卯】アトランティックサーモン使用の「漬け旨サーモン丼」発売　「塩だれオニオンサーモン丼」「サーモンユッケ丼」も展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/682353/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-05-07",
-      "tags": []
-    },
-    {
-      "id": "ssnp-91d0dd6e",
-      "title": "【不二家】「超レモンスカッシュグミ」発売、“シャリむにゅ食感”と爽やかな甘酸っぱさ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/682347/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-05-07",
-      "tags": []
-    },
-    {
-      "id": "ssnp-1f804748",
-      "title": "かつや、“売れすぎ”メニュー復活　ハンバーグ・海老フライなど全部のせ「揚げオムカレー」登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/682341/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-05-07",
-      "tags": []
-    },
-    {
-      "id": "ssnp-ee312992",
-      "title": "【ゴディバ】チョコミント味のショコリキサー&ソフトクリームが新登場!\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/682335/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-05-07",
-      "tags": []
-    },
-    {
-      "id": "diamond-f6ffdcec",
-      "title": "最新店「クオーツ心斎橋店」に見る、「2030年に近畿でビオラル20店舗」への布石",
-      "url": "https://diamond-rm.net/store/newstorereport/544025/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-07",
-      "tags": [
-        "新店"
-      ]
-    },
-    {
-      "id": "diamond-90fd51bf",
-      "title": "高輪ゲートウェイシティで話題の新施設「MIMURE」の全貌をレポート！",
-      "url": "https://diamond-rm.net/store/543883/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-07",
-      "tags": []
     }
   ]
 }
