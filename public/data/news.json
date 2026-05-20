@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T07:13:01.293Z",
+  "lastUpdated": "2026-05-20T12:51:19.981Z",
   "items": [
     {
       "id": "ryutsuu-c24f18df",
@@ -37,6 +37,20 @@
       "tags": [
         "ショッピングセンター",
         "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-5e02135b",
+      "title": "日本アクセス 決算／3月期は増収も営業利益2.8％減",
+      "url": "https://www.ryutsuu.biz/accounts/s052016.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-20",
+      "tags": [
+        "営業利益",
+        "決算",
+        "増収"
       ]
     },
     {
@@ -121,6 +135,18 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-c93d0959",
+      "title": "飲食店・深川めし弁当の「太郎」／破産手続き開始、負債3億3000万円",
+      "url": "https://www.ryutsuu.biz/strategy/s052081.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-05-20",
+      "tags": [
+        "弁当"
+      ]
+    },
+    {
       "id": "diamond-cd2929b1",
       "title": "アークス、イオン北海道、コープさっぽろ　道内3強スーパー25年度決算は三者三様の結果に",
       "url": "https://diamond-rm.net/market/accounting/544975/",
@@ -203,8 +229,52 @@
       "tags": []
     },
     {
+      "id": "ssnp-a5a98c3f",
+      "title": "事業系ペットボトルの品質向上へ　全清飲とMUFG、大型ビルでボトルtoボトル実証\n\t\t\t\t\t\t\t\t\t\t\t\t全国清涼飲料連合会(全清飲)と三菱UFJフィナンシャル・グループ(MUFG)は、事業系ペットボトルの分別品質向上に向けた実証実験を始めた。三菱UFJ銀行大阪ビルと同名古屋ビルで、使用済みペットボトルの回収ルートをMUFG...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/685390/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-05-20",
+      "tags": [
+        "飲料"
+      ]
+    },
+    {
+      "id": "ssnp-7b788d77",
+      "title": "「とんかつ新宿さぼてん」のかつ丼を冷凍で再現　オンライン限定「熟成ロースかつ煮」発売\n\t\t\t\t\t\t\t\t\t\t\t\t「とんかつ新宿さぼてん」は5月20日、温めるだけで専門店の味が楽しめる冷凍商品「【揚げたて冷凍かつ】さぼてん 熟成ロースかつ煮」を、公式オンラインショップ限定で発売した。価格は4パック入りで5,490円(税込)。 同日に...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/frozen/685372/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "冷凍食品",
+      "date": "2026-05-20",
+      "tags": [
+        "専門店"
+      ]
+    },
+    {
+      "id": "ssnp-e9dc5362",
+      "title": "名古屋限定の“フルーツドーナツ”新登場!【KKDJ ジェイアール名古屋タカシマヤ店限定】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/685362/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-05-20",
+      "tags": []
+    },
+    {
+      "id": "ssnp-80ef4c7f",
+      "title": "世界初、『完全養殖ウナギ』の蒲焼を試験販売　山田水産が展開/ 水研機構らと共同\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/etc/685351/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "etc",
+      "date": "2026-05-20",
+      "tags": []
+    },
+    {
       "id": "ssnp-f192bd79",
-      "title": "【ゼッテリア】「アジアンバーガーフェア」開催、「えび×ビーフ」の贅沢バーガーなど3品\n\t\t\t\t\t\t\t\t\t\t\t\tハンバーガーショップ「ゼッテリア」は、5月27日から6月中旬までの期間限定で「アジアンガーリックシュリンプビーフバーガー」など新商品3品を販売する。一部店舗を除く269店舗で取り扱う。 【ゼッテリア「アジアンバーガーフェ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【ゼッテリア】「アジアンバーガーフェア」開催、「えび×ビーフ」の贅沢バーガーなど3品\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/685323/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -214,7 +284,7 @@
     },
     {
       "id": "ssnp-00f3478a",
-      "title": "なか卯、紀州南高梅を1粒のせた「紀州南高梅おろしうどん」発売\n\t\t\t\t\t\t\t\t\t\t\t\tなか卯は5月27日午前11時から、「紀州南高梅おろしうどん」を発売する。大粒で肉厚な和歌山県産紀州南高梅の梅干しを丸ごと1粒トッピングした、夏向けのさっぱりとしたメニュー。全国446店舗で販売予定。 「紀州南高梅おろしう...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "なか卯、紀州南高梅を1粒のせた「紀州南高梅おろしうどん」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/685342/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -419,18 +489,6 @@
       "tags": [
         "ニトリ",
         "社長"
-      ]
-    },
-    {
-      "id": "ryutsuu-b847c860",
-      "title": "ガリバー運営会社／山梨県に初の商業施設28年度オープン、テーマは「リユース」",
-      "url": "https://www.ryutsuu.biz/store/s051977.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-19",
-      "tags": [
-        "オープン"
       ]
     },
     {
@@ -733,6 +791,18 @@
       "category": "流通",
       "date": "2026-05-19",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-b847c860",
+      "title": "ガリバー運営会社／山梨県に初の商業施設28年度オープン、テーマは「リユース」",
+      "url": "https://www.ryutsuu.biz/store/s051977.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-05-19",
+      "tags": [
+        "オープン"
+      ]
     },
     {
       "id": "ryutsuu-8228d95c",
@@ -3462,81 +3532,6 @@
       "date": "2026-05-11",
       "tags": [
         "セブンイレブン",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-091d211d",
-      "title": "ローソン／都内2店舗で消費期限が近い商品を半額以下で販売する実証実験開始",
-      "url": "https://www.ryutsuu.biz/it/s051171.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-05-11",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "ryutsuu-c527d496",
-      "title": "エディオン 決算／3月期は4期連続の増収、PCの買替や新型ゲーム機などがけん引",
-      "url": "https://www.ryutsuu.biz/accounts/s051146.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-11",
-      "tags": [
-        "決算",
-        "増収"
-      ]
-    },
-    {
-      "id": "diamond-5f12c6ec",
-      "title": "鮮魚を集客力アップの起爆剤に 「街の魚屋」めざすイトーヨーカ堂の大胆な改革",
-      "url": "https://diamond-rm.net/management/businessplan/544391/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-11",
-      "tags": [
-        "イトーヨーカ堂",
-        "鮮魚"
-      ]
-    },
-    {
-      "id": "ryutsuu-495edeff",
-      "title": "中部薬品／兵庫県尼崎市に「V・drug武庫之荘薬局」オープン",
-      "url": "https://www.ryutsuu.biz/store/s051145.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-11",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-ab45ffe8",
-      "title": "ローソン／4月既存店売上高1.4％増、客数0.9％増",
-      "url": "https://www.ryutsuu.biz/sales/s051181.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-05-11",
-      "tags": [
-        "ローソン",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-f7921313",
-      "title": "ミニストップ／4月は既存店売上高7.8％減、客数8.1％減",
-      "url": "https://www.ryutsuu.biz/sales/s051184.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-05-11",
-      "tags": [
         "売上高"
       ]
     }
