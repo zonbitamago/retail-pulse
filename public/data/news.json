@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T07:17:13.363Z",
+  "lastUpdated": "2026-05-21T13:06:23.784Z",
   "items": [
     {
       "id": "ryutsuu-571e9234",
@@ -216,6 +216,19 @@
       ]
     },
     {
+      "id": "diamond-94ae46ed",
+      "title": "週刊スーパーマーケットニュース　ヤオコーが「コトエ橋本店」を開店",
+      "url": "https://diamond-rm.net/management/businessplan/545628/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-21",
+      "tags": [
+        "ヤオコー",
+        "スーパー"
+      ]
+    },
+    {
       "id": "diamond-1de56eb9",
       "title": "第９５回　前代未聞の恥ずべき不祥事",
       "url": "https://diamond-rm.net/life-career/535873/",
@@ -262,8 +275,34 @@
       ]
     },
     {
+      "id": "ssnp-54a2be2a",
+      "title": "【イトーヨーカ堂】健康志向に対応した新たな惣菜シリーズ追加、新スイーツや麺の刷新も\n\t\t\t\t\t\t\t\t\t\t\t\tイトーヨーカ堂は健康志向に応える新シリーズ「ヴェジボックス」6品を20日に発売する。販売はイトーヨーカドーやヨークフーズなど196店舗。バランスよく野菜を摂取できる商品群で弁当代わりに喫食できる。 また、スイーツでも新シ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/685492/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-05-21",
+      "tags": [
+        "イトーヨーカ堂",
+        "惣菜",
+        "弁当"
+      ]
+    },
+    {
+      "id": "ssnp-cc15c661",
+      "title": "「金の贅沢フィナンシェ」をリニューアル!「スコーン」「ガレット･ブルトンヌ」も同時発売【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブンは、リニューアルした「セブンプレミアム ゴールド 金の贅沢フィナンシェ」を、全国の店舗で4月21日から順次発売している。また、新商品「セブンカフェ チョコチャンクスコーン」「セブンカフェ ガレット･ブルト...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/685479/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-05-21",
+      "tags": [
+        "リニューアル"
+      ]
+    },
+    {
       "id": "ssnp-4c6029ca",
-      "title": "「トリプルポップ」にポップスクープ(1個100円)を最大10個まで追加できる「よくばりフェス」開催【サーティワン】\n\t\t\t\t\t\t\t\t\t\t\t\tB-R サーティワン アイスクリームは、2026年5月28日～6月21日までの間、毎週木･金･土･日曜日限定で、「毎週木金土日はよくばりフェス!」を実施する。好きなポップスクープのアイスクリームを3個選べる「トリプルポッ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "「トリプルポップ」にポップスクープ(1個100円)を最大10個まで追加できる「よくばりフェス」開催【サーティワン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/685457/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -273,7 +312,7 @@
     },
     {
       "id": "ssnp-d98ea71f",
-      "title": "【びっくりドンキー】果肉入りかき氷×北海道ソフトの「夏氷ソフト」2種発売\n\t\t\t\t\t\t\t\t\t\t\t\tハンバーグレストラン びっくりドンキーは、果肉入りの氷に北海道ソフトクリームを乗せた「夏氷ソフト」2種を5月27日から期間限定で販売する。 【「夏氷ソフト」2種の画像はこちら】 ◆「夏氷ソフト(イチゴ)」730円 イチゴ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【びっくりドンキー】果肉入りかき氷×北海道ソフトの「夏氷ソフト」2種発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/685449/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -323,19 +362,6 @@
       "date": "2026-05-21",
       "tags": [
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-adccdeb6",
-      "title": "イトーヨーカドー／総菜強化で今期デリカ売上高5％増目指す、オリジナル比率100％へ",
-      "url": "https://www.ryutsuu.biz/commodity/s052042.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-05-20",
-      "tags": [
-        "注目",
-        "売上高"
       ]
     },
     {
@@ -408,16 +434,6 @@
         "オーケー",
         "出店"
       ]
-    },
-    {
-      "id": "diamond-9b4da472",
-      "title": "日本酒売り場「馴染みが薄い初心者の若年層・女性」へのアプローチがますます求められる理由",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/545144/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-05-20",
-      "tags": []
     },
     {
       "id": "diamond-b9e8d8ac",
@@ -664,6 +680,29 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-05-20",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-adccdeb6",
+      "title": "イトーヨーカドー／総菜強化で今期デリカ売上高5％増目指す、オリジナル比率100％へ",
+      "url": "https://www.ryutsuu.biz/commodity/s052042.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-05-20",
+      "tags": [
+        "注目",
+        "売上高"
+      ]
+    },
+    {
+      "id": "diamond-9b4da472",
+      "title": "日本酒売り場「馴染みが薄い初心者の若年層・女性」へのアプローチがますます求められる理由",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/545144/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
       "date": "2026-05-20",
       "tags": []
     },
@@ -3505,44 +3544,6 @@
         "決算",
         "減収",
         "減益"
-      ]
-    },
-    {
-      "id": "ryutsuu-69d4c4c9",
-      "title": "ヤオコー／4月の既存店売上高3.3％増、客数は1.3％増",
-      "url": "https://www.ryutsuu.biz/sales/s051272.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-05-12",
-      "tags": [
-        "ヤオコー",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-33f1d9c0",
-      "title": "ファミマ／4月の既存店売上高1.0％増、客数2.0％減",
-      "url": "https://www.ryutsuu.biz/sales/s051277.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-05-12",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-2239d59b",
-      "title": "コメリ／4月の既存店売上高4.6％増、雑草対策用品が堅調・石油由来商材の需要増",
-      "url": "https://www.ryutsuu.biz/sales/s051271.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-05-12",
-      "tags": [
-        "コメリ",
-        "売上高"
       ]
     }
   ]
