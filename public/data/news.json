@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-05-21T18:38:25.201Z",
+  "lastUpdated": "2026-05-22T00:37:02.543Z",
   "items": [
+    {
+      "id": "diamond-d86f5468",
+      "title": "イオン九州2年ぶりの「ザ・ビッグ」の新店！「熊本東店」の売場づくりを現地取材",
+      "url": "https://diamond-rm.net/store/newstorereport/545045/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-22",
+      "tags": [
+        "イオン",
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-dd9fe70e",
+      "title": "ダイエーの新フォーマット2号店「フードスタイル十三東店」 生鮮から加工食品まで詳報！",
+      "url": "https://diamond-rm.net/store/newstorereport/545589/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-22",
+      "tags": [
+        "食品",
+        "生鮮"
+      ]
+    },
+    {
+      "id": "diamond-e21a0a98",
+      "title": "ナフコ✕ロピアが熊本市に1万2000㎡超の複合施設！【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/545943/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-22",
+      "tags": [
+        "ロピア"
+      ]
+    },
+    {
+      "id": "diamond-d17bd1d0",
+      "title": "「イオン」と「綾鷹」が異色のコラボ　新たに開発した”綾鷹に合うおにぎり”とは",
+      "url": "https://diamond-rm.net/sales-promotion/newitem/545891/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-05-22",
+      "tags": [
+        "イオン"
+      ]
+    },
     {
       "id": "ryutsuu-571e9234",
       "title": "バーガーキング／新潟に7年ぶりの再進出、5月下旬～6月全国8店舗オープン",
@@ -174,48 +224,6 @@
       ]
     },
     {
-      "id": "diamond-d9445d21",
-      "title": "駅前好立地のSCに出店 「マルエツイオンタウン東浦和店」を徹底解説！",
-      "url": "https://diamond-rm.net/store/newstorereport/544936/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-21",
-      "tags": [
-        "マルエツ",
-        "イオン",
-        "SC",
-        "出店"
-      ]
-    },
-    {
-      "id": "diamond-608e82b6",
-      "title": "サミットのバイヤーに聞く！冷凍食品売場の”最新キーワード”",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/545293/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-05-21",
-      "tags": [
-        "サミット",
-        "冷凍食品",
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-260c1371",
-      "title": "20年越しの建て替えオープンでMD 最新化！「原信六日町店」の売場を解説",
-      "url": "https://diamond-rm.net/store/newstorereport/545164/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-21",
-      "tags": [
-        "オープン",
-        "建て替え"
-      ]
-    },
-    {
       "id": "diamond-94ae46ed",
       "title": "週刊スーパーマーケットニュース　ヤオコーが「コトエ橋本店」を開店",
       "url": "https://diamond-rm.net/management/businessplan/545628/",
@@ -263,6 +271,20 @@
       ]
     },
     {
+      "id": "diamond-608e82b6",
+      "title": "サミットのバイヤーに聞く！冷凍食品売場の”最新キーワード”",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/545293/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-05-21",
+      "tags": [
+        "サミット",
+        "冷凍食品",
+        "食品"
+      ]
+    },
+    {
       "id": "diamond-ce5e78c8",
       "title": "GreenSnapが切り拓くデジタルとリアルの園芸市場",
       "url": "https://diamond-rm.net/technology/dx/545066/",
@@ -272,6 +294,34 @@
       "date": "2026-05-21",
       "tags": [
         "デジタル"
+      ]
+    },
+    {
+      "id": "diamond-260c1371",
+      "title": "20年越しの建て替えオープンでMD 最新化！「原信六日町店」の売場を解説",
+      "url": "https://diamond-rm.net/store/newstorereport/545164/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-21",
+      "tags": [
+        "オープン",
+        "建て替え"
+      ]
+    },
+    {
+      "id": "diamond-d9445d21",
+      "title": "駅前好立地のSCに出店 「マルエツイオンタウン東浦和店」を徹底解説！",
+      "url": "https://diamond-rm.net/store/newstorereport/544936/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-21",
+      "tags": [
+        "マルエツ",
+        "イオン",
+        "SC",
+        "出店"
       ]
     },
     {
@@ -399,30 +449,6 @@
       ]
     },
     {
-      "id": "diamond-cd2929b1",
-      "title": "アークス、イオン北海道、コープさっぽろ　道内3強スーパー25年度決算は三者三様の結果に",
-      "url": "https://diamond-rm.net/market/accounting/544975/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-05-20",
-      "tags": [
-        "スーパー",
-        "イオン",
-        "決算"
-      ]
-    },
-    {
-      "id": "diamond-66a644a1",
-      "title": "第９４回　学制改革と一高",
-      "url": "https://diamond-rm.net/life-career/535872/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-20",
-      "tags": []
-    },
-    {
       "id": "diamond-7b41a94a",
       "title": "関西進出から1年超 神戸での連続出店に見たオーケーの巧みなローカライズ戦略",
       "url": "https://diamond-rm.net/management/businessplan/536516/",
@@ -436,28 +462,17 @@
       ]
     },
     {
-      "id": "diamond-b9e8d8ac",
-      "title": "バローと直接対決！横浜市内の激戦地に出店した「ヤオコー東戸塚店」の勝算",
-      "url": "https://diamond-rm.net/store/newstorereport/544909/",
+      "id": "diamond-cd2929b1",
+      "title": "アークス、イオン北海道、コープさっぽろ　道内3強スーパー25年度決算は三者三様の結果に",
+      "url": "https://diamond-rm.net/market/accounting/544975/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "店舗",
+      "category": "市場動向",
       "date": "2026-05-20",
       "tags": [
-        "ヤオコー",
-        "出店"
-      ]
-    },
-    {
-      "id": "diamond-0df2d944",
-      "title": "近畿圏で11 年ぶりの超大型店 「ライフ緑地公園店」を徹底解説",
-      "url": "https://diamond-rm.net/store/newstorereport/544887/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-20",
-      "tags": [
-        "ライフ"
+        "スーパー",
+        "イオン",
+        "決算"
       ]
     },
     {
@@ -682,6 +697,41 @@
       "category": "foodservice",
       "date": "2026-05-20",
       "tags": []
+    },
+    {
+      "id": "diamond-66a644a1",
+      "title": "第９４回　学制改革と一高",
+      "url": "https://diamond-rm.net/life-career/535872/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-20",
+      "tags": []
+    },
+    {
+      "id": "diamond-b9e8d8ac",
+      "title": "バローと直接対決！横浜市内の激戦地に出店した「ヤオコー東戸塚店」の勝算",
+      "url": "https://diamond-rm.net/store/newstorereport/544909/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-20",
+      "tags": [
+        "ヤオコー",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-0df2d944",
+      "title": "近畿圏で11 年ぶりの超大型店 「ライフ緑地公園店」を徹底解説",
+      "url": "https://diamond-rm.net/store/newstorereport/544887/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-20",
+      "tags": [
+        "ライフ"
+      ]
     },
     {
       "id": "ryutsuu-adccdeb6",
@@ -3484,66 +3534,6 @@
       "date": "2026-05-12",
       "tags": [
         "鮮魚"
-      ]
-    },
-    {
-      "id": "ryutsuu-a4653fa7",
-      "title": "野村不動産／今夏～秋、bono相模大野ショッピングセンターをリニューアル",
-      "url": "https://www.ryutsuu.biz/store/s051213.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-12",
-      "tags": [
-        "ショッピングセンター",
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "ryutsuu-96603a2e",
-      "title": "ゼンショーHD 決算／3月期営業利益8.4％増、コスト増ですき家減益・はま寿司は好調",
-      "url": "https://www.ryutsuu.biz/accounts/s051276.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-12",
-      "tags": [
-        "ゼンショー",
-        "営業利益",
-        "決算",
-        "減益"
-      ]
-    },
-    {
-      "id": "ryutsuu-58dcdb51",
-      "title": "日本マクドナルドHD 決算／1～3月増収増益、期間限定商品や販促が好調",
-      "url": "https://www.ryutsuu.biz/accounts/s051217.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-12",
-      "tags": [
-        "マクドナルド",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-e3209b48",
-      "title": "H2O 決算／3月期減収減益、インバウンド売上高19.9％減",
-      "url": "https://www.ryutsuu.biz/accounts/s051216.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-12",
-      "tags": [
-        "インバウンド",
-        "H2O",
-        "売上高",
-        "決算",
-        "減収",
-        "減益"
       ]
     }
   ]
