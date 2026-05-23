@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-05-23T00:36:29.378Z",
+  "lastUpdated": "2026-05-23T06:54:36.670Z",
   "items": [
+    {
+      "id": "diamond-310d718c",
+      "title": "白髪用と黒髪用で何が違う？「ヘアカラー」最新商品に見える成熟市場での勝利シナリオ",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/545305/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-05-23",
+      "tags": []
+    },
     {
       "id": "diamond-878cb23e",
       "title": "流通秀書　第30回『小売流通企業の戦略デザイン』",
@@ -22,6 +32,32 @@
       "tags": [
         "オープン",
         "ロピア"
+      ]
+    },
+    {
+      "id": "ssnp-2a4c6c72",
+      "title": "伊藤園、食品ブランド「BLOOM Deli」始動　乳酸菌入りヨーグルト菓子「ヨーギュ」発売\n\t\t\t\t\t\t\t\t\t\t\t\t伊藤園は、食品分野へ事業領域を広げ、健康価値の強化を進める。飲料以外で新たな顧客接点を創出し、“健康創造企業”としての価値向上を図る狙いだ。その第一弾として、ヨーグルトベースの菓子食品「ヨーギュ」を発売し、新食品ブランド...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/685751/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-05-23",
+      "tags": [
+        "食品",
+        "飲料",
+        "菓子"
+      ]
+    },
+    {
+      "id": "ssnp-97e35ca1",
+      "title": "アサヒ飲料、「ウェルチ」で初のプレミアムライン 日比谷で2,500本限定販売\n\t\t\t\t\t\t\t\t\t\t\t\tアサヒ飲料は、果汁飲料ブランド「Welch’s(ウェルチ)」で初のプレミアムラインとなる「Welch’s PREMIUM YAKIMA」を投入する。5月22日から24日まで、東京ミッドタウン日比谷...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/685742/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-05-23",
+      "tags": [
+        "飲料"
       ]
     },
     {
@@ -230,7 +266,7 @@
     },
     {
       "id": "ssnp-174425ff",
-      "title": "味の素AGF、「ブレンディ」ポーションで夏のアイス飲用提案　六本木でポムポムプリンコラボカフェ\n\t\t\t\t\t\t\t\t\t\t\t\t味の素AGFは、「ブレンディ」ポーションシリーズで夏場のアイス飲用提案を強化する。サンリオの人気キャラクター「ポムポムプリン」とコラボレーションし、5月21日から新TVCM「Let’sポーション ポムポムプリン」篇を関東...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "味の素AGF、「ブレンディ」ポーションで夏のアイス飲用提案　六本木でポムポムプリンコラボカフェ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/685731/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -240,15 +276,14 @@
     },
     {
       "id": "ssnp-b0626aa5",
-      "title": "シダックス、池袋にアニメや漫画の世界観体感できる直営施設オープンへ\n\t\t\t\t\t\t\t\t\t\t\t\tシダックスグループで、企業や自治体、地域団体と連携して多様なサービスを展開するシダックス･コミュニティープラス(SCP)は7月11日、東京･池袋にアニメや漫画等のIP(知的財産)コンテンツの世界観をテーマにしたエンターテ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "シダックス、池袋にアニメや漫画の世界観体感できる直営施設オープンへ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/685614/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-05-22",
       "tags": [
-        "オープン",
-        "SC"
+        "オープン"
       ]
     },
     {
@@ -3474,47 +3509,6 @@
       "tags": [
         "三越伊勢丹",
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-423f527c",
-      "title": "アトレ吉祥寺／アパレル・美容系3店舗を新規・移転オープン",
-      "url": "https://www.ryutsuu.biz/store/s051311.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-13",
-      "tags": [
-        "アパレル",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-2942f29d",
-      "title": "バローHD 決算／3月期営業利益19.0％増、SM事業の総菜・ベーカリー好調",
-      "url": "https://www.ryutsuu.biz/accounts/s051375.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-13",
-      "tags": [
-        "営業利益",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-4ce8ff25",
-      "title": "マツキヨココカラ 決算／3月期増収増益、美と健康のカテゴリー売上拡大",
-      "url": "https://www.ryutsuu.biz/accounts/s051315.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-13",
-      "tags": [
-        "マツキヨ",
-        "決算",
-        "増収",
-        "増益"
       ]
     }
   ]
