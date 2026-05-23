@@ -1,6 +1,29 @@
 {
-  "lastUpdated": "2026-05-22T18:36:37.361Z",
+  "lastUpdated": "2026-05-23T00:36:29.378Z",
   "items": [
+    {
+      "id": "diamond-878cb23e",
+      "title": "流通秀書　第30回『小売流通企業の戦略デザイン』",
+      "url": "https://diamond-rm.net/life-career/543352/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-23",
+      "tags": []
+    },
+    {
+      "id": "diamond-5866d773",
+      "title": "ロピア有数の繁盛店「京都ヨドバシ店」　オープン4年超で磨き込まれた「究極の個店経営」",
+      "url": "https://diamond-rm.net/store/545131/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-23",
+      "tags": [
+        "オープン",
+        "ロピア"
+      ]
+    },
     {
       "id": "ryutsuu-cbf16bf8",
       "title": "エディオン／兵庫・尼崎駅店でAI店舗ナビゲーションの実証実験を開始",
@@ -462,32 +485,6 @@
       ]
     },
     {
-      "id": "diamond-5582bae5",
-      "title": "ホームセンター月次実績＝2026年4月度",
-      "url": "https://diamond-rm.net/retaildata/545561/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-05-21",
-      "tags": [
-        "ホームセンター"
-      ]
-    },
-    {
-      "id": "diamond-608e82b6",
-      "title": "サミットのバイヤーに聞く！冷凍食品売場の”最新キーワード”",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/545293/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-05-21",
-      "tags": [
-        "サミット",
-        "冷凍食品",
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-ce5e78c8",
       "title": "GreenSnapが切り拓くデジタルとリアルの園芸市場",
       "url": "https://diamond-rm.net/technology/dx/545066/",
@@ -513,18 +510,29 @@
       ]
     },
     {
-      "id": "diamond-d9445d21",
-      "title": "駅前好立地のSCに出店 「マルエツイオンタウン東浦和店」を徹底解説！",
-      "url": "https://diamond-rm.net/store/newstorereport/544936/",
+      "id": "diamond-608e82b6",
+      "title": "サミットのバイヤーに聞く！冷凍食品売場の”最新キーワード”",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/545293/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "店舗",
+      "category": "sales-promotion",
       "date": "2026-05-21",
       "tags": [
-        "マルエツ",
-        "イオン",
-        "SC",
-        "出店"
+        "サミット",
+        "冷凍食品",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-5582bae5",
+      "title": "ホームセンター月次実績＝2026年4月度",
+      "url": "https://diamond-rm.net/retaildata/545561/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-05-21",
+      "tags": [
+        "ホームセンター"
       ]
     },
     {
@@ -602,6 +610,21 @@
       "date": "2026-05-21",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-d9445d21",
+      "title": "駅前好立地のSCに出店 「マルエツイオンタウン東浦和店」を徹底解説！",
+      "url": "https://diamond-rm.net/store/newstorereport/544936/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-21",
+      "tags": [
+        "マルエツ",
+        "イオン",
+        "SC",
+        "出店"
       ]
     },
     {
@@ -3492,35 +3515,6 @@
         "決算",
         "増収",
         "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-e197aeb1",
-      "title": "すかいらーくHD 決算／1～3月、既存店成長・原価低減で増収増益",
-      "url": "https://www.ryutsuu.biz/accounts/s051313.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-13",
-      "tags": [
-        "すかいらーく",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-8faaf26b",
-      "title": "ワタミ 決算／3月期営業利益5.9％増、国内外食好調で客数増",
-      "url": "https://www.ryutsuu.biz/accounts/s051380.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-13",
-      "tags": [
-        "営業利益",
-        "外食",
-        "決算"
       ]
     }
   ]
