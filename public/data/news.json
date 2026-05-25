@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T07:33:06.501Z",
+  "lastUpdated": "2026-05-25T13:08:28.123Z",
   "items": [
     {
       "id": "ryutsuu-fb0ab276",
@@ -30,19 +30,6 @@
       ]
     },
     {
-      "id": "ryutsuu-6887f72a",
-      "title": "コスモス薬品／東京都・茨城県・群馬県に「ドラッグコスモス」計3店舗、12月新設",
-      "url": "https://www.ryutsuu.biz/store/s0525013.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-25",
-      "tags": [
-        "コスモス薬品",
-        "ドラッグ"
-      ]
-    },
-    {
       "id": "ryutsuu-206a40fb",
       "title": "日本百貨店協会／4月の売上高5.2％増、インバウンド2桁増・国内顧客3.7％増",
       "url": "https://www.ryutsuu.biz/sales/s052550.html",
@@ -69,17 +56,29 @@
       ]
     },
     {
-      "id": "ryutsuu-6f820e00",
-      "title": "トイザらス／「カメイドクロック」「イオンモール筑紫野」に5～6月順次オープン",
-      "url": "https://www.ryutsuu.biz/store/s052572.html",
+      "id": "ryutsuu-6887f72a",
+      "title": "コスモス薬品／東京都・茨城県・群馬県に「ドラッグコスモス」計3店舗、12月新設",
+      "url": "https://www.ryutsuu.biz/store/s0525013.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "店舗",
       "date": "2026-05-25",
       "tags": [
-        "オープン",
-        "イオン",
-        "モール"
+        "コスモス薬品",
+        "ドラッグ"
+      ]
+    },
+    {
+      "id": "ryutsuu-e1a1d99d",
+      "title": "ファミマ／東北・新潟1300店舗でおにぎり・弁当の配送1日2便に",
+      "url": "https://www.ryutsuu.biz/strategy/s052513.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-05-25",
+      "tags": [
+        "配送",
+        "弁当"
       ]
     },
     {
@@ -96,16 +95,17 @@
       ]
     },
     {
-      "id": "ryutsuu-e1a1d99d",
-      "title": "ファミマ／東北・新潟1300店舗でおにぎり・弁当の配送1日2便に",
-      "url": "https://www.ryutsuu.biz/strategy/s052513.html",
+      "id": "ryutsuu-6f820e00",
+      "title": "トイザらス／「カメイドクロック」「イオンモール筑紫野」に5～6月順次オープン",
+      "url": "https://www.ryutsuu.biz/store/s052572.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "経営",
+      "category": "店舗",
       "date": "2026-05-25",
       "tags": [
-        "配送",
-        "弁当"
+        "オープン",
+        "イオン",
+        "モール"
       ]
     },
     {
@@ -219,6 +219,21 @@
       "tags": []
     },
     {
+      "id": "diamond-31e9a6f1",
+      "title": "週刊コンビニエンスストアニュース　ローソンがミニスーパー「Lミニマート」を出店",
+      "url": "https://diamond-rm.net/management/546184/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-25",
+      "tags": [
+        "ローソン",
+        "コンビニ",
+        "スーパー",
+        "出店"
+      ]
+    },
+    {
       "id": "diamond-0b1fda56",
       "title": "第９７回　女子大学は僕がオルグに行きました",
       "url": "https://diamond-rm.net/life-career/535875/",
@@ -239,21 +254,53 @@
       "tags": []
     },
     {
-      "id": "ssnp-a1a2ac2d",
-      "title": "うめだ阪急ビアガーデン「旅する屋上ビアガーデン」を開催、選べるメインと旅するメニューで何度でも楽しめるビアガーデンに\n\t\t\t\t\t\t\t\t\t\t\t\t阪急阪神百貨店が運営する阪急うめだ本店は10月13日までの期間限定で、「うめだ阪急ビアガーデン 旅する屋上ビアガーデン」を開催している。また、同フロアで営業しているイタリアンレストラン「トラットリア アル･ポンピエーレ」...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/685936/",
+      "id": "ssnp-6aa76dc1",
+      "title": "DEAN & DELUCA×BEAMS COUTURE、保冷ポーチ付き『ラタンかごバッグ』発売\n\t\t\t\t\t\t\t\t\t\t\t\t食品や雑貨を展開する「DEAN & DELUCA(ディーン&デルーカ)」は5月26日午前11時から、「BEAMS COUTURE コラボレーション ラタンかごバッグ」を販売する。 BEAMS COUTUR...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/685962/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
       "date": "2026-05-25",
       "tags": [
-        "阪急阪神",
-        "百貨店"
+        "食品",
+        "雑貨"
       ]
     },
     {
+      "id": "ssnp-aa7b9a11",
+      "title": "【不二家】ブルーベリー・夕張メロンを使った季節限定カントリーマアム2種発売!\n\t\t\t\t\t\t\t\t\t\t\t\t不二家は、旬のブランド果物を使用した季節限定商品「カントリーマアム(森のサファイアブルーベリー/夕張メロンソフト)」を2026年6月2日に全国発売する。 なお、「カントリーマアムミニ(夕張メロンソフト)」のみ、2026年...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/685951/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-05-25",
+      "tags": []
+    },
+    {
+      "id": "ssnp-6e78866f",
+      "title": "「コカ・コーラ」「ジョージア」など９月から165品値上げ、「コカ・コーラ」500mlPETは200円から220円に/コカ･コーラ ボトラーズジャパン\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/685942/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-05-25",
+      "tags": [
+        "値上げ"
+      ]
+    },
+    {
+      "id": "ssnp-a1a2ac2d",
+      "title": "うめだ阪急ビアガーデン「旅する屋上ビアガーデン」を開催、選べるメインと旅するメニューで何度でも楽しめるビアガーデンに\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/685936/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-05-25",
+      "tags": []
+    },
+    {
       "id": "ssnp-687f1bfe",
-      "title": "【ウエスティンホテル大阪】メロン&グリーンアフタヌーンティーを提供、「東洋と西洋の融合」をテーマにメロンとグリーンの食材を配置\n\t\t\t\t\t\t\t\t\t\t\t\tウエスティンホテル大阪(大阪市北区)は6月20日までの間、和洋のグリーン食材を使用した「メロン&グリーンアフタヌーンティー」(平日7400円、土日祝7900円)を提供している。同ホテルでは1人につき1台ティースタ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【ウエスティンホテル大阪】メロン&グリーンアフタヌーンティーを提供、「東洋と西洋の融合」をテーマにメロンとグリーンの食材を配置\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/685927/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -516,16 +563,6 @@
       ]
     },
     {
-      "id": "diamond-70fd5b6d",
-      "title": "第９６回　東大法学部入試失敗",
-      "url": "https://diamond-rm.net/life-career/535874/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-22",
-      "tags": []
-    },
-    {
       "id": "diamond-87f64d17",
       "title": "消費税減税は小売業にとって毒か薬か？＃１食品小売業に恩恵は？期間限定の減税、その効果とは",
       "url": "https://diamond-rm.net/market/economic/545564/",
@@ -770,6 +807,16 @@
       "tags": []
     },
     {
+      "id": "diamond-70fd5b6d",
+      "title": "第９６回　東大法学部入試失敗",
+      "url": "https://diamond-rm.net/life-career/535874/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-22",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-cbf16bf8",
       "title": "エディオン／兵庫・尼崎駅店でAI店舗ナビゲーションの実証実験を開始",
       "url": "https://www.ryutsuu.biz/it/s052271.html",
@@ -900,18 +947,6 @@
       ]
     },
     {
-      "id": "diamond-ce5e78c8",
-      "title": "GreenSnapが切り拓くデジタルとリアルの園芸市場",
-      "url": "https://diamond-rm.net/technology/dx/545066/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-05-21",
-      "tags": [
-        "デジタル"
-      ]
-    },
-    {
       "id": "diamond-260c1371",
       "title": "20年越しの建て替えオープンでMD 最新化！「原信六日町店」の売場を解説",
       "url": "https://diamond-rm.net/store/newstorereport/545164/",
@@ -922,6 +957,18 @@
       "tags": [
         "オープン",
         "建て替え"
+      ]
+    },
+    {
+      "id": "diamond-ce5e78c8",
+      "title": "GreenSnapが切り拓くデジタルとリアルの園芸市場",
+      "url": "https://diamond-rm.net/technology/dx/545066/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-05-21",
+      "tags": [
+        "デジタル"
       ]
     },
     {
@@ -3441,63 +3488,6 @@
       "category": "life-career",
       "date": "2026-05-14",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-304a8e2e",
-      "title": "ニトリHD 決算／3月期は減収増益、商品開発進まず既存店客数が7.2％減に",
-      "url": "https://www.ryutsuu.biz/accounts/s051449.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-14",
-      "tags": [
-        "注目",
-        "ニトリ",
-        "決算",
-        "減収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-34ab9b05",
-      "title": "ヤオコー、サミット／前期はPBの販売が好調、今期は包材不足が商品投入の障壁に",
-      "url": "https://www.ryutsuu.biz/commodity/s051441.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-05-14",
-      "tags": [
-        "ヤオコー",
-        "サミット",
-        "PB"
-      ]
-    },
-    {
-      "id": "ryutsuu-a75cb22c",
-      "title": "トライアルHD 決算／7～3月連結売上高が初の1兆円越え、通期予想を上方修正",
-      "url": "https://www.ryutsuu.biz/accounts/s051414.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-14",
-      "tags": [
-        "トライアル",
-        "売上高",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-b661b812",
-      "title": "御殿場プレミアム・アウトレット／5～6月ポップアップ8店舗、常設1店舗新規オープン",
-      "url": "https://www.ryutsuu.biz/store/s051477.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-14",
-      "tags": [
-        "アウトレット",
-        "オープン"
-      ]
     }
   ]
 }
