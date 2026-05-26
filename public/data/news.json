@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T07:11:53.932Z",
+  "lastUpdated": "2026-05-26T12:58:37.110Z",
   "items": [
     {
       "id": "ryutsuu-be818632",
@@ -40,6 +40,18 @@
       ]
     },
     {
+      "id": "ryutsuu-6fb2c6c8",
+      "title": "マキヤ／神戸物産と資本業務提携",
+      "url": "https://www.ryutsuu.biz/strategy/s052616.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-05-26",
+      "tags": [
+        "業務提携"
+      ]
+    },
+    {
       "id": "ryutsuu-ed5587c8",
       "title": "セブンイレブン／マーケティング本部に「IP・コンテンツ戦略部」新設",
       "url": "https://www.ryutsuu.biz/store/s052611.html",
@@ -52,18 +64,6 @@
       ]
     },
     {
-      "id": "ryutsuu-9958ac03",
-      "title": "ナルミヤ・インターナショナル／香港でベビー・キッズブランド「プティマイン」出店加速",
-      "url": "https://www.ryutsuu.biz/abroad/s052612.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "abroad",
-      "date": "2026-05-26",
-      "tags": [
-        "出店"
-      ]
-    },
-    {
       "id": "ryutsuu-6c5c81f1",
       "title": "クリエイトSD／静岡県と神奈川県に計2店舗、11～12月新設",
       "url": "https://www.ryutsuu.biz/store/s0526011.html",
@@ -73,6 +73,18 @@
       "date": "2026-05-26",
       "tags": [
         "クリエイトSD"
+      ]
+    },
+    {
+      "id": "ryutsuu-9958ac03",
+      "title": "ナルミヤ・インターナショナル／香港でベビー・キッズブランド「プティマイン」出店加速",
+      "url": "https://www.ryutsuu.biz/abroad/s052612.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "abroad",
+      "date": "2026-05-26",
+      "tags": [
+        "出店"
       ]
     },
     {
@@ -116,6 +128,16 @@
       ]
     },
     {
+      "id": "diamond-80c2aeab",
+      "title": "米クローガー、逆風を乗り越えて見えてきた反転攻勢の確かな糸口",
+      "url": "https://diamond-rm.net/overseas/american_economy/545871/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-26",
+      "tags": []
+    },
+    {
       "id": "diamond-c77968b0",
       "title": "イトーヨーカ堂が2026年度の総菜戦略を発表　売上高構成比15％めざし麺類・スイーツ強化",
       "url": "https://diamond-rm.net/management/businessplan/546042/",
@@ -126,18 +148,6 @@
       "tags": [
         "イトーヨーカ堂",
         "売上高"
-      ]
-    },
-    {
-      "id": "diamond-9c6d0911",
-      "title": "いまアパレルに必要なのは「自分を否定してくれる知的存在」 弁証法が解き明かす、再生への道",
-      "url": "https://diamond-rm.net/management/businessplan/546075/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-26",
-      "tags": [
-        "アパレル"
       ]
     },
     {
@@ -186,16 +196,6 @@
       "tags": []
     },
     {
-      "id": "diamond-80c2aeab",
-      "title": "米クローガー、逆風を乗り越えて見えてきた反転攻勢の確かな糸口",
-      "url": "https://diamond-rm.net/overseas/american_economy/545871/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-05-26",
-      "tags": []
-    },
-    {
       "id": "diamond-ac6f64ac",
       "title": "連結売上高で初の”ウォルマート超え”達成のアマゾン、今後の成長戦略は",
       "url": "https://diamond-rm.net/overseas/american_economy/545870/",
@@ -209,8 +209,52 @@
       ]
     },
     {
+      "id": "diamond-9c6d0911",
+      "title": "いまアパレルに必要なのは「自分を否定してくれる知的存在」 弁証法が解き明かす、再生への道",
+      "url": "https://diamond-rm.net/management/businessplan/546075/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-26",
+      "tags": [
+        "アパレル"
+      ]
+    },
+    {
+      "id": "ssnp-9e2196c5",
+      "title": "【セブン‐イレブン】「ひとくちスイーツ」新シリーズ発売、150円以下で間食需要に対応\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブン・ジャパンは、セブンプレミアム『ひとくちスイーツ』シリーズ全4商品を、全国のセブン‐イレブン店舗で5月26日から順次発売した。価格は各138円（税込149.04円）。 近年広がる「食事を間食で済ませる」ラ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/686206/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-05-26",
+      "tags": []
+    },
+    {
+      "id": "ssnp-9ad7166b",
+      "title": "【ココス】「今月のグルメ～6月～」は色鮮やかな夏野菜の包み焼きハンバーグ&スパイシーなチリコンカン\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーレストラン「ココス」は、6月1日から6月下旬までの間、「今月のグルメ～6月～」として、色鮮やかな夏野菜を使用した包み焼きハンバーグとスパイシーな味わいのチリコンカンを販売する。空港店舗を除く、504店舗で販売予...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/686193/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-26",
+      "tags": []
+    },
+    {
+      "id": "ssnp-dbba5c3e",
+      "title": "【KFC】サクッとケンタ第2弾「辛旨ジンガー」発売、「カーネルクランチポテト」も復活\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/686187/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-26",
+      "tags": [
+        "FC"
+      ]
+    },
+    {
       "id": "ssnp-117a79d1",
-      "title": "ロッテ、「小梅」シリーズ初のグミ入りガム発売 “甘い”と“酸っぱい”が変化する梅の味わい\n\t\t\t\t\t\t\t\t\t\t\t\tロッテは6月2日、「小梅」ブランドから新商品「小梅ガム」を全国で発売する。想定小売価格は183円前後(税込)。 「小梅ガム」は、和歌山県産南高梅果汁を使用したソフトタイプのガムに、酸っぱい梅グミを組み合わせた商品。噛むご...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ロッテ、「小梅」シリーズ初のグミ入りガム発売 “甘い”と“酸っぱい”が変化する梅の味わい\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/686174/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -220,7 +264,7 @@
     },
     {
       "id": "ssnp-c75e7c58",
-      "title": "ローソン、2つの商品を合わせた「合わせすぎチャレンジ」など実施\n\t\t\t\t\t\t\t\t\t\t\t\tローソンは6月2日から「超ハッピーすぎ!チャレンジ」を4週間にわたって実施する。値段はすえ置きで重量を約51%増量する人気キャンペーン「盛りすぎチャレンジ」に加えて、2つの商品を組み合わせた「合わせすぎチャレンジ」や、味...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ローソン、2つの商品を合わせた「合わせすぎチャレンジ」など実施\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/686157/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -3416,62 +3460,6 @@
         "決算",
         "増収",
         "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-e91cddd4",
-      "title": "マミーマートHD 決算／10～3月増収増益、既存店堅調・生鮮市場TOP！新店好調",
-      "url": "https://www.ryutsuu.biz/accounts/s051579.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-15",
-      "tags": [
-        "生鮮",
-        "新店",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-51cd637a",
-      "title": "トリドールHD 決算／3月期営業利益21.9％増、丸亀・海外セグメントでコスト増吸収",
-      "url": "https://www.ryutsuu.biz/accounts/s051578.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-15",
-      "tags": [
-        "営業利益",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-304c6528",
-      "title": "松屋フーズHD 決算／3月期営業利益72.3％増で過去最高益達成、既存店売上2桁増・販管費改善",
-      "url": "https://www.ryutsuu.biz/accounts/s051580.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-15",
-      "tags": [
-        "営業利益",
-        "松屋",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-782c3f0d",
-      "title": "王将フード 決算／3月期営業利益4.5％減、人件費などコスト増加の影響で",
-      "url": "https://www.ryutsuu.biz/accounts/s051581.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-15",
-      "tags": [
-        "営業利益",
-        "決算"
       ]
     }
   ]
