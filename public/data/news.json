@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T18:48:12.164Z",
+  "lastUpdated": "2026-05-27T00:38:11.874Z",
   "items": [
     {
       "id": "ryutsuu-c6119937",
@@ -13,6 +13,50 @@
         "クスリのアオキ",
         "オープン",
         "新店"
+      ]
+    },
+    {
+      "id": "diamond-2cd4492b",
+      "title": "好調アルディと不透明感漂うリドル……好環境下で成長スピードに差がついている理由",
+      "url": "https://diamond-rm.net/overseas/american_economy/545874/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-27",
+      "tags": []
+    },
+    {
+      "id": "diamond-533f8569",
+      "title": "京都・北野白梅町のランドマーク「イズミヤ」 日常を支えるGMSの強さ",
+      "url": "https://diamond-rm.net/store/storevisit/544078/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-27",
+      "tags": [
+        "GMS"
+      ]
+    },
+    {
+      "id": "diamond-7754de22",
+      "title": "ぐるなびが直営のドーナツ店で取り込みめざす「新しい飲食ニーズ」",
+      "url": "https://diamond-rm.net/store/543620/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-27",
+      "tags": []
+    },
+    {
+      "id": "diamond-77e482dc",
+      "title": "コスパのコストコ、タイパのサムズクラブ……ホールセラー2強の顧客獲得戦略",
+      "url": "https://diamond-rm.net/overseas/american_economy/545873/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-27",
+      "tags": [
+        "コストコ"
       ]
     },
     {
@@ -152,19 +196,6 @@
       "tags": []
     },
     {
-      "id": "diamond-c77968b0",
-      "title": "イトーヨーカ堂が2026年度の総菜戦略を発表　売上高構成比15％めざし麺類・スイーツ強化",
-      "url": "https://diamond-rm.net/management/businessplan/546042/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-26",
-      "tags": [
-        "イトーヨーカ堂",
-        "売上高"
-      ]
-    },
-    {
       "id": "diamond-884d130d",
       "title": "【動画】5月3週目の注目ニュースまとめ、注目の新店、各社決算など",
       "url": "https://diamond-rm.net/management/businessplan/546197/",
@@ -232,6 +263,19 @@
       "date": "2026-05-26",
       "tags": [
         "アパレル"
+      ]
+    },
+    {
+      "id": "diamond-c77968b0",
+      "title": "イトーヨーカ堂が2026年度の総菜戦略を発表　売上高構成比15％めざし麺類・スイーツ強化",
+      "url": "https://diamond-rm.net/management/businessplan/546042/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-26",
+      "tags": [
+        "イトーヨーカ堂",
+        "売上高"
       ]
     },
     {
@@ -497,12 +541,12 @@
       ]
     },
     {
-      "id": "diamond-fa04af25",
-      "title": "アメリカ小売業界の今をあぶり出す！国内販売額ランキング徹底解説",
-      "url": "https://diamond-rm.net/overseas/american_economy/545868/",
+      "id": "diamond-47ffae74",
+      "title": "業態別　主要店舗月次実績＝2026年4月度",
+      "url": "https://diamond-rm.net/retaildata/546033/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "overseas",
+      "category": "retaildata",
       "date": "2026-05-25",
       "tags": []
     },
@@ -517,21 +561,6 @@
       "tags": []
     },
     {
-      "id": "diamond-31e9a6f1",
-      "title": "週刊コンビニエンスストアニュース　ローソンがミニスーパー「Lミニマート」を出店",
-      "url": "https://diamond-rm.net/management/546184/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-25",
-      "tags": [
-        "ローソン",
-        "コンビニ",
-        "スーパー",
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-8be65f7d",
       "title": "楽天「SPU」にファミマが参画　楽天経済圏×ファミマ1.6万店舗で相互送客ねらう",
       "url": "https://diamond-rm.net/management/546138/",
@@ -542,26 +571,6 @@
       "tags": [
         "楽天"
       ]
-    },
-    {
-      "id": "diamond-0b1fda56",
-      "title": "第９７回　女子大学は僕がオルグに行きました",
-      "url": "https://diamond-rm.net/life-career/535875/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-05-25",
-      "tags": []
-    },
-    {
-      "id": "diamond-47ffae74",
-      "title": "業態別　主要店舗月次実績＝2026年4月度",
-      "url": "https://diamond-rm.net/retaildata/546033/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-05-25",
-      "tags": []
     },
     {
       "id": "diamond-02ae444c",
@@ -770,6 +779,41 @@
       "tags": [
         "飲料"
       ]
+    },
+    {
+      "id": "diamond-fa04af25",
+      "title": "アメリカ小売業界の今をあぶり出す！国内販売額ランキング徹底解説",
+      "url": "https://diamond-rm.net/overseas/american_economy/545868/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-25",
+      "tags": []
+    },
+    {
+      "id": "diamond-31e9a6f1",
+      "title": "週刊コンビニエンスストアニュース　ローソンがミニスーパー「Lミニマート」を出店",
+      "url": "https://diamond-rm.net/management/546184/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-25",
+      "tags": [
+        "ローソン",
+        "コンビニ",
+        "スーパー",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-0b1fda56",
+      "title": "第９７回　女子大学は僕がオルグに行きました",
+      "url": "https://diamond-rm.net/life-career/535875/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-25",
+      "tags": []
     },
     {
       "id": "ryutsuu-fb0ab276",
@@ -1053,19 +1097,6 @@
       ]
     },
     {
-      "id": "diamond-d86f5468",
-      "title": "イオン九州2年ぶりの「ザ・ビッグ」の新店！「熊本東店」の売場づくりを現地取材",
-      "url": "https://diamond-rm.net/store/newstorereport/545045/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-22",
-      "tags": [
-        "イオン",
-        "新店"
-      ]
-    },
-    {
       "id": "diamond-d17bd1d0",
       "title": "「イオン」と「綾鷹」が異色のコラボ　新たに開発した“綾鷹に合うおにぎり”とは",
       "url": "https://diamond-rm.net/sales-promotion/newitem/545891/",
@@ -1260,6 +1291,19 @@
       "tags": []
     },
     {
+      "id": "diamond-d86f5468",
+      "title": "イオン九州2年ぶりの「ザ・ビッグ」の新店！「熊本東店」の売場づくりを現地取材",
+      "url": "https://diamond-rm.net/store/newstorereport/545045/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-22",
+      "tags": [
+        "イオン",
+        "新店"
+      ]
+    },
+    {
       "id": "diamond-70fd5b6d",
       "title": "第９６回　東大法学部入試失敗",
       "url": "https://diamond-rm.net/life-career/535874/",
@@ -1341,18 +1385,6 @@
       ]
     },
     {
-      "id": "diamond-7d9f0b69",
-      "title": "宮城ローカルのウジエスーパーが都市型小型店に挑戦！その勝算は",
-      "url": "https://diamond-rm.net/management/businessplan/536529/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-21",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
       "id": "diamond-ce5e78c8",
       "title": "GreenSnapが切り拓くデジタルとリアルの園芸市場",
       "url": "https://diamond-rm.net/technology/dx/545066/",
@@ -1362,6 +1394,18 @@
       "date": "2026-05-21",
       "tags": [
         "デジタル"
+      ]
+    },
+    {
+      "id": "diamond-7d9f0b69",
+      "title": "宮城ローカルのウジエスーパーが都市型小型店に挑戦！その勝算は",
+      "url": "https://diamond-rm.net/management/businessplan/536529/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-21",
+      "tags": [
+        "スーパー"
       ]
     },
     {
@@ -3411,52 +3455,6 @@
       "date": "2026-05-15",
       "tags": [
         "鮮魚"
-      ]
-    },
-    {
-      "id": "ryutsuu-71d2599d",
-      "title": "住友不動産、森ビル／六本木5丁目プロジェクトにローズウッドホテルを誘致",
-      "url": "https://www.ryutsuu.biz/store/s051514.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-15",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-f38055ef",
-      "title": "くら寿司／プレミアム回転寿司「無添蔵」新宿に7月上旬オープン",
-      "url": "https://www.ryutsuu.biz/store/s051511.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-15",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-a92dcdf0",
-      "title": "まいばすけっと／埼玉県さいたま市「大宮東町2丁目店」オープン",
-      "url": "https://www.ryutsuu.biz/store/s051572.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-15",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-3ab20087",
-      "title": "渋谷スクランブルスクエア／「ブランジェ浅野屋」5月15日オープン",
-      "url": "https://www.ryutsuu.biz/store/s051517.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-15",
-      "tags": [
-        "オープン"
       ]
     }
   ]
