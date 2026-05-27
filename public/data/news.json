@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-05-27T07:26:00.086Z",
+  "lastUpdated": "2026-05-27T13:07:43.293Z",
   "items": [
+    {
+      "id": "ryutsuu-e0b32256",
+      "title": "ラーメン・カレー・定食／4月既存店丸亀製麺2.9％増、王将フード5.6％減",
+      "url": "https://www.ryutsuu.biz/sales/s052771.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-05-27",
+      "tags": []
+    },
     {
       "id": "ryutsuu-069d1e63",
       "title": "アオキスーパー／AIを用いた最適なアプリクーポン配信の実証実験7月から全店で開始",
@@ -14,16 +24,6 @@
         "アプリ",
         "AI"
       ]
-    },
-    {
-      "id": "ryutsuu-e0b32256",
-      "title": "ラーメン・カレー・定食／4月既存店丸亀製麺2.9％増、王将フード5.6％減",
-      "url": "https://www.ryutsuu.biz/sales/s052771.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-05-27",
-      "tags": []
     },
     {
       "id": "ryutsuu-876fd9d7",
@@ -175,8 +175,28 @@
       ]
     },
     {
+      "id": "ssnp-74b33bdc",
+      "title": "【ピザハット】価格が48%オフ、52%オフ、最大3,091円の「肉の日」を3日間開催　肉系ハーフ&ハーフピザが1,129円から\n\t\t\t\t\t\t\t\t\t\t\t\tピザチェーンの「ピザハット」は、毎月28日･29日の2日間限定で実施している「肉の日」キャンペーンを、5月は5月28日～30日の3日間で開催する。 対象の肉系ハーフ&ハーフピザ2種を持ち帰り1,129円、配達1,...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/686448/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-27",
+      "tags": []
+    },
+    {
+      "id": "ssnp-39d40737",
+      "title": "なめらかなプリン×コクのあるキャラメルソースの「プリンシェーキ」発売【ゼッテリア】\n\t\t\t\t\t\t\t\t\t\t\t\tハンバーガーショップ「ゼッテリア」は、6月3日からデザートシェーキの新商品として、「プリンシェーキ」を販売する。一部店舗を除く270店舗で販売予定。 【好評販売中のコーヒーゼリーシェーキの画像はこちら】 ◆プリンシェーキ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/686436/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-27",
+      "tags": []
+    },
+    {
       "id": "ssnp-878a390b",
-      "title": "「お茶の伊藤園」が新たに香水事業を展開　“ジャスミンに夢中”の社員が新会社設立\n\t\t\t\t\t\t\t\t\t\t\t\t「お茶の伊藤園」が、香水事業を本格化する。伊藤園は、社内ベンチャー制度から生まれたジャスミン特化のフレグランスブランド「Crazy Jasmine（クレイジージャスミン）」を展開する新会社として、5月1日付で株式会社Cr...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "「お茶の伊藤園」が新たに香水事業を展開　“ジャスミンに夢中”の社員が新会社設立\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/686375/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -186,7 +206,7 @@
     },
     {
       "id": "ssnp-3e48abba",
-      "title": "ゴンチャ、静岡「丸七製茶」の一番摘み抹茶を使用した期間限定ドリンク発売\n\t\t\t\t\t\t\t\t\t\t\t\tゴンチャは6月4日から、静岡の老舗製茶会社「丸七製茶」の厳選茶葉を100%使用した「一番摘み抹茶」シリーズを期間限定で販売する。販売期間は6月28日まで。 今年の「一番摘み抹茶」は、この春に摘んだ新茶のみを使用。冬を越え...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ゴンチャ、静岡「丸七製茶」の一番摘み抹茶を使用した期間限定ドリンク発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/686410/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -3428,29 +3448,6 @@
       "category": "菓子",
       "date": "2026-05-16",
       "tags": []
-    },
-    {
-      "id": "ssnp-49a857fd",
-      "title": "シャトレーゼ、初夏限定「レモンスイーツ」発売　瀬戸内レモンのモンブランやクレープケーキ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/684845/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-05-16",
-      "tags": []
-    },
-    {
-      "id": "diamond-aa042122",
-      "title": "小型店＆生鮮強化……ミスターマックスの最新出店戦略を現地レポート",
-      "url": "https://diamond-rm.net/store/storevisit/544475/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-16",
-      "tags": [
-        "生鮮",
-        "出店"
-      ]
     }
   ]
 }
