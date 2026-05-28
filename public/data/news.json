@@ -1,6 +1,67 @@
 {
-  "lastUpdated": "2026-05-27T18:46:45.492Z",
+  "lastUpdated": "2026-05-28T00:34:56.640Z",
   "items": [
+    {
+      "id": "diamond-d2dad9e0",
+      "title": "スプラウツ、ナチュラルグローサーズ…快進撃の「ウェルネス系食品スーパー」3つの共通項",
+      "url": "https://diamond-rm.net/overseas/american_economy/545876/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-28",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-98bdcb50",
+      "title": "スポーツ用品のミズノが、ノンアルコールビール市場に参入したねらい",
+      "url": "https://diamond-rm.net/sales-promotion/543514/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-05-28",
+      "tags": [
+        "ビール"
+      ]
+    },
+    {
+      "id": "diamond-33b85d2c",
+      "title": "アパレルOMOの“現実的正解”とKPI",
+      "url": "https://diamond-rm.net/ec-epayment/ec/545955/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "ec-epayment",
+      "date": "2026-05-28",
+      "tags": [
+        "アパレル",
+        "OMO"
+      ]
+    },
+    {
+      "id": "diamond-17d53a48",
+      "title": "ディスカウント系の注目6社「米国全土で広がる大激戦」安さ以外にこそ見える成長のカギ",
+      "url": "https://diamond-rm.net/overseas/american_economy/545875/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-28",
+      "tags": [
+        "ディスカウント"
+      ]
+    },
+    {
+      "id": "ssnp-a05d82f6",
+      "title": "幸楽苑“ありそうでなかった”新作「冷し味噌らーめん」発売、豚骨×コンソメ×味噌の冷製スープ\n\t\t\t\t\t\t\t\t\t\t\t\tラーメンチェーン「幸楽苑」は6月2日、期間限定メニュー「冷し味噌らーめん」を全国の店舗で発売する。価格は税込830円。 同商品は、幸楽苑として“今までありそうでなかった”という冷たい味噌ラーメン。味噌のコクとコンソメスー...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/686306/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-28",
+      "tags": []
+    },
     {
       "id": "ryutsuu-e0b32256",
       "title": "ラーメン・カレー・定食／4月既存店丸亀製麺2.9％増、王将フード5.6％減",
@@ -186,7 +247,7 @@
     },
     {
       "id": "ssnp-39d40737",
-      "title": "なめらかなプリン×コクのあるキャラメルソースの「プリンシェーキ」発売【ゼッテリア】\n\t\t\t\t\t\t\t\t\t\t\t\tハンバーガーショップ「ゼッテリア」は、6月3日からデザートシェーキの新商品として、「プリンシェーキ」を販売する。一部店舗を除く270店舗で販売予定。 【好評販売中のコーヒーゼリーシェーキの画像はこちら】 ◆プリンシェーキ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "なめらかなプリン×コクのあるキャラメルソースの「プリンシェーキ」発売【ゼッテリア】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/686436/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -439,31 +500,6 @@
       ]
     },
     {
-      "id": "diamond-ccdaaa56",
-      "title": "マミーマート、26年9月期上期決算は増収増益　新たに鮮魚PCを稼働のねらい",
-      "url": "https://diamond-rm.net/market/546213/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-05-26",
-      "tags": [
-        "鮮魚",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "diamond-80c2aeab",
-      "title": "米クローガー、逆風を乗り越えて見えてきた反転攻勢の確かな糸口",
-      "url": "https://diamond-rm.net/overseas/american_economy/545871/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-05-26",
-      "tags": []
-    },
-    {
       "id": "diamond-884d130d",
       "title": "【動画】5月3週目の注目ニュースまとめ、注目の新店、各社決算など",
       "url": "https://diamond-rm.net/management/businessplan/546197/",
@@ -499,6 +535,21 @@
       ]
     },
     {
+      "id": "diamond-ccdaaa56",
+      "title": "マミーマート、26年9月期上期決算は増収増益　新たに鮮魚PCを稼働のねらい",
+      "url": "https://diamond-rm.net/market/546213/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-05-26",
+      "tags": [
+        "鮮魚",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
       "id": "diamond-e9c95b63",
       "title": "かつての”きらめき”を取り戻せるか？ 復活に向けのろしを上げるターゲット",
       "url": "https://diamond-rm.net/overseas/american_economy/545872/",
@@ -509,17 +560,14 @@
       "tags": []
     },
     {
-      "id": "diamond-ac6f64ac",
-      "title": "連結売上高で初の”ウォルマート超え”達成のアマゾン、今後の成長戦略は",
-      "url": "https://diamond-rm.net/overseas/american_economy/545870/",
+      "id": "diamond-80c2aeab",
+      "title": "米クローガー、逆風を乗り越えて見えてきた反転攻勢の確かな糸口",
+      "url": "https://diamond-rm.net/overseas/american_economy/545871/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "overseas",
       "date": "2026-05-26",
-      "tags": [
-        "アマゾン",
-        "売上高"
-      ]
+      "tags": []
     },
     {
       "id": "diamond-c77968b0",
@@ -703,6 +751,19 @@
       "tags": []
     },
     {
+      "id": "diamond-ac6f64ac",
+      "title": "連結売上高で初の”ウォルマート超え”達成のアマゾン、今後の成長戦略は",
+      "url": "https://diamond-rm.net/overseas/american_economy/545870/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-26",
+      "tags": [
+        "アマゾン",
+        "売上高"
+      ]
+    },
+    {
       "id": "ryutsuu-86e3a423",
       "title": "ファミレス／4月既存店すかいらーく7.3％増、サイゼリヤ16.3％増",
       "url": "https://www.ryutsuu.biz/sales/s052675.html",
@@ -839,34 +900,12 @@
       "tags": []
     },
     {
-      "id": "diamond-a9633921",
-      "title": "【アメリカ小売業大全2026】アマゾンがウォルマート超え達成……激動の米小売業界を俯瞰する",
-      "url": "https://diamond-rm.net/overseas/american_economy/545867/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-05-25",
-      "tags": [
-        "アマゾン"
-      ]
-    },
-    {
       "id": "diamond-47ffae74",
       "title": "業態別　主要店舗月次実績＝2026年4月度",
       "url": "https://diamond-rm.net/retaildata/546033/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "retaildata",
-      "date": "2026-05-25",
-      "tags": []
-    },
-    {
-      "id": "diamond-64865f6b",
-      "title": "ウォルマート、総店舗数は純減なのに売上成長が続く背景",
-      "url": "https://diamond-rm.net/overseas/american_economy/545869/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
       "date": "2026-05-25",
       "tags": []
     },
@@ -1089,6 +1128,28 @@
       "tags": [
         "飲料"
       ]
+    },
+    {
+      "id": "diamond-a9633921",
+      "title": "【アメリカ小売業大全2026】アマゾンがウォルマート超え達成……激動の米小売業界を俯瞰する",
+      "url": "https://diamond-rm.net/overseas/american_economy/545867/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-25",
+      "tags": [
+        "アマゾン"
+      ]
+    },
+    {
+      "id": "diamond-64865f6b",
+      "title": "ウォルマート、総店舗数は純減なのに売上成長が続く背景",
+      "url": "https://diamond-rm.net/overseas/american_economy/545869/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-25",
+      "tags": []
     },
     {
       "id": "ryutsuu-551a5855",
@@ -1738,18 +1799,6 @@
       ]
     },
     {
-      "id": "diamond-7d9f0b69",
-      "title": "宮城ローカルのウジエスーパーが都市型小型店に挑戦！その勝算は",
-      "url": "https://diamond-rm.net/management/businessplan/536529/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-21",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
       "id": "diamond-5582bae5",
       "title": "ホームセンター月次実績＝2026年4月度",
       "url": "https://diamond-rm.net/retaildata/545561/",
@@ -1836,6 +1885,18 @@
       "date": "2026-05-21",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-7d9f0b69",
+      "title": "宮城ローカルのウジエスーパーが都市型小型店に挑戦！その勝算は",
+      "url": "https://diamond-rm.net/management/businessplan/536529/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-21",
+      "tags": [
+        "スーパー"
       ]
     },
     {
@@ -3392,62 +3453,6 @@
       "tags": [
         "リニューアル"
       ]
-    },
-    {
-      "id": "ssnp-c1033ea2",
-      "title": "シャインマスカット×クリームチーズの「チョコパイプレミアム」発売【ロッテ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/684522/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-05-17",
-      "tags": []
-    },
-    {
-      "id": "diamond-2a384b8c",
-      "title": "イオン・セブン＆アイの26年2月期決算を徹底分析！",
-      "url": "https://diamond-rm.net/market/accounting/544476/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-05-16",
-      "tags": [
-        "セブン＆アイ",
-        "イオン",
-        "決算"
-      ]
-    },
-    {
-      "id": "ssnp-34c1a02e",
-      "title": "伊藤園、日本茶の需給変化に危機感 「お～いお茶」に純国産茶葉100%表記、生産者支援を強化へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/684884/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-05-16",
-      "tags": []
-    },
-    {
-      "id": "ssnp-7cc1cd65",
-      "title": "【ローソン】「抹茶フェア」全8品を発売、老舗茶屋「森半」とコラボレーション\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/684813/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-05-16",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "ssnp-9873e527",
-      "title": "【有楽製菓】『ハワイアンサンダー』新発売!マカダミアナッツ&Wココナッツで、手軽にハワイ気分\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/684311/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-05-16",
-      "tags": []
     }
   ]
 }
