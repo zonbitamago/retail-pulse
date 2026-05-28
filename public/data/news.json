@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2026-05-28T07:19:46.016Z",
+  "lastUpdated": "2026-05-28T13:12:18.044Z",
   "items": [
+    {
+      "id": "ryutsuu-12640279",
+      "title": "カインズ／「笛吹店」今夏オープン、山梨県に10年ぶり出店",
+      "url": "https://www.ryutsuu.biz/store/s052814.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-05-28",
+      "tags": [
+        "カインズ",
+        "オープン",
+        "出店"
+      ]
+    },
     {
       "id": "ryutsuu-19b655c9",
       "title": "スーパーマーケット／4月既存店売上ライフ2.8％増、ヤオコー3.3％増",
@@ -64,18 +78,14 @@
       ]
     },
     {
-      "id": "diamond-d2dad9e0",
-      "title": "スプラウツ、ナチュラルグローサーズ…快進撃の「ウェルネス系食品スーパー」3つの共通項",
-      "url": "https://diamond-rm.net/overseas/american_economy/545876/",
+      "id": "diamond-870bd5ad",
+      "title": "関東に攻勢の薬王堂、ついに埼玉に上陸！【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/546480/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "overseas",
+      "category": "店舗",
       "date": "2026-05-28",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
-      ]
+      "tags": []
     },
     {
       "id": "diamond-98bdcb50",
@@ -87,6 +97,20 @@
       "date": "2026-05-28",
       "tags": [
         "ビール"
+      ]
+    },
+    {
+      "id": "diamond-d2dad9e0",
+      "title": "スプラウツ、ナチュラルグローサーズ…快進撃の「ウェルネス系食品スーパー」3つの共通項",
+      "url": "https://diamond-rm.net/overseas/american_economy/545876/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-28",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
       ]
     },
     {
@@ -137,8 +161,90 @@
       ]
     },
     {
+      "id": "ssnp-fbcc4285",
+      "title": "サントリー「ギルティ炭酸 NOPE」、発売50日で5500万本突破 令和史上最速の好発進\n\t\t\t\t\t\t\t\t\t\t\t\t“甘くない時代”に挑んだ甘濃い炭酸、ギルティ消費に手応え サントリービバレッジ＆フードの新炭酸ブランド「ギルティ炭酸 NOPE(ノープ)」（600mlPET/自販機向け340ml缶）が、3月24日の発売から5...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/686644/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-05-28",
+      "tags": []
+    },
+    {
+      "id": "ssnp-805d8eb3",
+      "title": "小僧寿し、「本鮪とろたっぷり大祭」開催 / 鮪たっぷりの丼ぶり、8貫756円の握りセットなど\n\t\t\t\t\t\t\t\t\t\t\t\t持ち帰りすし店「小僧寿し」は、2026年5月30日(土)･31日(日)、6月6日(土)･7日(日)の期間限定で、「本鮪とろたっぷり大祭」を開催する。 とろける旨みがたまらない人気ネタ「本鮪とろ」をたっぷり楽しめる、とろ好...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/686626/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-28",
+      "tags": []
+    },
+    {
+      "id": "ssnp-34d689c0",
+      "title": "「スイカバー」がスフレケーキに　ロッテの人気アイス発売40周年でコラボ【Pasco】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/686619/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-05-28",
+      "tags": [
+        "SC"
+      ]
+    },
+    {
+      "id": "ssnp-d007eadb",
+      "title": "キリンビールが「2026年下期ビール成長戦略発表会」を開催 / 「晴れ風」「グッドエール」に続き「一番搾り」ブランドアクション開始\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/liquor/686611/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "liquor",
+      "date": "2026-05-28",
+      "tags": [
+        "ビール"
+      ]
+    },
+    {
+      "id": "ssnp-b215f584",
+      "title": "セブン-イレブン1号店、1974年5月15日開業　日本の食卓と流通を変えた「常識破り」の挑戦【食品産業あの日あの時】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/686460/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-05-28",
+      "tags": [
+        "セブン-イレブン",
+        "食品",
+        "開業"
+      ]
+    },
+    {
+      "id": "ssnp-a7d91d5f",
+      "title": "【累計6800万個突破】赤城乳業「フロリダサンデー」　人気のマンゴーを2年ぶりにリニューアル発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/milk/686603/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "milk",
+      "date": "2026-05-28",
+      "tags": [
+        "リニューアル"
+      ]
+    },
+    {
+      "id": "ssnp-5256b5b9",
+      "title": "中東情勢の緊迫化を踏まえ、農水省が「食品容器包装等情報交換会」開く / 今後の資材調達への不安、流通の目詰まりなど、参加団体･企業から懸念挙がる\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/meat/686600/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "畜産",
+      "date": "2026-05-28",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
       "id": "ssnp-cef7d3bb",
-      "title": "バーガーキング、人気サイドメニューの大容量パック「ビッグバーレル」3種を新発売 / 「ビッグドリンク」も期間限定で復活\n\t\t\t\t\t\t\t\t\t\t\t\tバーガーキングは、人気サイドメニューを大容量で楽しめる『ビッグバーレルA』『ビッグバーレルB』『ビッグバーレルC』を、2026年5月29日より期間限定で発売する。 『ビッグバーレルA』は「チリチーズフライ」2個分と「フレ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "バーガーキング、人気サイドメニューの大容量パック「ビッグバーレル」3種を新発売 / 「ビッグドリンク」も期間限定で復活\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/686580/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -148,7 +254,7 @@
     },
     {
       "id": "ssnp-ac580fd5",
-      "title": "マクドナルド、ハッピーセット「ちいかわ」第2弾発売　“うさぎ”“モモンガ”など登場\n\t\t\t\t\t\t\t\t\t\t\t\t日本マクドナルドは5月29日から、ハッピーセット「ちいかわ」「へんしん！マクドナルドロボ」の第2弾おもちゃの提供を開始する。 販売期間は6月11日までを予定しているが、なくなり次第終了。おもちゃはランダム配布となり、種類...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "マクドナルド、ハッピーセット「ちいかわ」第2弾発売　“うさぎ”“モモンガ”など登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/686578/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -360,18 +466,6 @@
       "date": "2026-05-27",
       "tags": [
         "ローソン"
-      ]
-    },
-    {
-      "id": "ryutsuu-8e9aaa71",
-      "title": "物語コーポレーション／神奈川県に新業態「肉讃岐 もっちりうどん源次郎」オープン",
-      "url": "https://www.ryutsuu.biz/store/s052775.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-27",
-      "tags": [
-        "オープン"
       ]
     },
     {
@@ -625,6 +719,18 @@
       ]
     },
     {
+      "id": "ryutsuu-8e9aaa71",
+      "title": "物語コーポレーション／神奈川県に新業態「肉讃岐 もっちりうどん源次郎」オープン",
+      "url": "https://www.ryutsuu.biz/store/s052775.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-05-27",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
       "id": "ryutsuu-8b1d10a5",
       "title": "ドラッグストアモリ／熊本県と山口県に計2店舗、12月新設",
       "url": "https://www.ryutsuu.biz/store/s0527011.html",
@@ -702,19 +808,6 @@
       ]
     },
     {
-      "id": "diamond-c77968b0",
-      "title": "イトーヨーカ堂が2026年度の総菜戦略を発表　売上高構成比15％めざし麺類・スイーツ強化",
-      "url": "https://diamond-rm.net/management/businessplan/546042/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-26",
-      "tags": [
-        "イトーヨーカ堂",
-        "売上高"
-      ]
-    },
-    {
       "id": "diamond-884d130d",
       "title": "【動画】5月3週目の注目ニュースまとめ、注目の新店、各社決算など",
       "url": "https://diamond-rm.net/management/businessplan/546197/",
@@ -763,6 +856,19 @@
       "category": "overseas",
       "date": "2026-05-26",
       "tags": []
+    },
+    {
+      "id": "diamond-c77968b0",
+      "title": "イトーヨーカ堂が2026年度の総菜戦略を発表　売上高構成比15％めざし麺類・スイーツ強化",
+      "url": "https://diamond-rm.net/management/businessplan/546042/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-26",
+      "tags": [
+        "イトーヨーカ堂",
+        "売上高"
+      ]
     },
     {
       "id": "ssnp-9e2196c5",
@@ -1699,19 +1805,6 @@
       "tags": []
     },
     {
-      "id": "ryutsuu-01fa1d54",
-      "title": "ファミマ／「SPU」に楽天グループ外企業として初参加、ポイ活で売上・客数拡大",
-      "url": "https://www.ryutsuu.biz/strategy/s052212.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-05-22",
-      "tags": [
-        "注目",
-        "楽天"
-      ]
-    },
-    {
       "id": "ryutsuu-2c57c765",
       "title": "アイスクリーム 売上ランキング／4月は森永乳業「PARM チョコレート」2カ月連続1位",
       "url": "https://www.ryutsuu.biz/pos/s052241.html",
@@ -1770,19 +1863,6 @@
       "date": "2026-05-22",
       "tags": [
         "ロピア"
-      ]
-    },
-    {
-      "id": "diamond-dd9fe70e",
-      "title": "ダイエーの新フォーマット2号店「フードスタイル十三東店」 生鮮から加工食品まで詳報！",
-      "url": "https://diamond-rm.net/store/newstorereport/545589/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-22",
-      "tags": [
-        "食品",
-        "生鮮"
       ]
     },
     {
@@ -1990,6 +2070,32 @@
       "category": "菓子",
       "date": "2026-05-22",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-01fa1d54",
+      "title": "ファミマ／「SPU」に楽天グループ外企業として初参加、ポイ活で売上・客数拡大",
+      "url": "https://www.ryutsuu.biz/strategy/s052212.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-05-22",
+      "tags": [
+        "注目",
+        "楽天"
+      ]
+    },
+    {
+      "id": "diamond-dd9fe70e",
+      "title": "ダイエーの新フォーマット2号店「フードスタイル十三東店」 生鮮から加工食品まで詳報！",
+      "url": "https://diamond-rm.net/store/newstorereport/545589/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-22",
+      "tags": [
+        "食品",
+        "生鮮"
+      ]
     },
     {
       "id": "diamond-d86f5468",
@@ -3347,101 +3453,6 @@
       "tags": [
         "PR"
       ]
-    },
-    {
-      "id": "diamond-ca5a2a7e",
-      "title": "U.S.M.H、ライフ、アークス　26年2月期決算は利益面に明暗",
-      "url": "https://diamond-rm.net/market/accounting/544477/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-05-18",
-      "tags": [
-        "ライフ",
-        "決算"
-      ]
-    },
-    {
-      "id": "ssnp-cf3ad2d9",
-      "title": "夏限定のねこ型スイーツを新発売!「喫茶ねこねこ」をテーマにしたバターサンドやレモンケーキなど【ねこねこ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/685021/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-05-18",
-      "tags": []
-    },
-    {
-      "id": "ssnp-7daf01d2",
-      "title": "イオン限定「綾鷹に合うおにぎり」5種発売、売場横断で食べ合わせ提案/コカ・コーラシステム\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/685011/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-05-18",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
-      "id": "ssnp-8213679e",
-      "title": "和食さと「初夏の北海道フェア」開催!海鮮丼やスープカレー、豚丼などをラインアップ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/684999/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-05-18",
-      "tags": []
-    },
-    {
-      "id": "ssnp-23fda78e",
-      "title": "【かっぱ寿司】4日間限定の「かっぱのトクトクメニュー」、海鮮や牛カルビがふんだんに乗った「タワー」メニューがお得に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/684985/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-05-18",
-      "tags": []
-    },
-    {
-      "id": "ssnp-a8451b6e",
-      "title": "『珈琲館』・『珈琲館 蔵』、初夏限定メニューのマンゴー×パッションフルーツ「トロピカルミックスホットケーキ」・「エチオピア モカ シャキッソ」を展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/684992/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-05-18",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f13a8d24",
-      "title": "【ファミマ】バニラ&ミルクのかき氷にごろごろ食感のクッキーを加えた「クッキーバニラフラッペ」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/684977/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-05-18",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f6a6a9f0",
-      "title": "【ハーゲンダッツ】チョコミントフレーバーのミニカップが6年ぶりに登場!『ショコラミント エクストラ』\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/milk/684964/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "milk",
-      "date": "2026-05-18",
-      "tags": []
-    },
-    {
-      "id": "ssnp-6124ee5b",
-      "title": "【カンロ×サボリーノ】規格外「ピュレグミ」活用、“ほんのりフルーティー”な香りのフェイスマスク発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/684937/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-05-18",
-      "tags": []
     }
   ]
 }
