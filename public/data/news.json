@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T18:52:29.588Z",
+  "lastUpdated": "2026-05-29T00:40:38.987Z",
   "items": [
     {
       "id": "ryutsuu-0d23faa6",
@@ -23,6 +23,66 @@
       "date": "2026-05-29",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "diamond-c94237fd",
+      "title": "二宮社長も念願の大阪・北摂エリアへ初進出！ 「オーケー豊中穂積店」を現地レポート",
+      "url": "https://diamond-rm.net/store/newstorereport/546683/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-29",
+      "tags": [
+        "オーケー",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-a9eec028",
+      "title": "楽天・Roktが振り返るNRF 2026　AIコマース時代は「絞ること」が最強の設計戦略に",
+      "url": "https://diamond-rm.net/management/545966/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-05-29",
+      "tags": [
+        "楽天",
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-1bfffeb2",
+      "title": "中東情勢、関税、消費格差…アメリカ社会をめぐる数々の難題に米小売はどう立ち向かうのか",
+      "url": "https://diamond-rm.net/overseas/american_economy/545878/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-29",
+      "tags": []
+    },
+    {
+      "id": "diamond-7cc55430",
+      "title": "アメリカ人に「タンパク質と食物繊維」豊富な食品がやたら好まれるようになってきた事情",
+      "url": "https://diamond-rm.net/overseas/american_economy/545877/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-05-29",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "ssnp-d114ffc4",
+      "title": "サントリー「黒烏龍茶」、油そばと“がっつり飯”提案 渋谷で30秒トッピング選び放題イベント\n\t\t\t\t\t\t\t\t\t\t\t\tサントリービバレッジ&フードは、特定保健用食品「サントリー黒烏龍茶OTPP」で、油そばとの食べ合わせを提案する期間限定イベント「食券無双油そば 黒烏龍亭」を、5月29日から31日まで東京・渋谷の「渋谷サクラステー...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/686651/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-05-29",
+      "tags": [
+        "食品"
       ]
     },
     {
@@ -138,19 +198,6 @@
       ]
     },
     {
-      "id": "diamond-33b85d2c",
-      "title": "アパレルOMOの“現実的正解”とKPI",
-      "url": "https://diamond-rm.net/ec-epayment/ec/545955/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "ec-epayment",
-      "date": "2026-05-28",
-      "tags": [
-        "アパレル",
-        "OMO"
-      ]
-    },
-    {
       "id": "diamond-8b9373ff",
       "title": "第１００回　青少年指導者講習会に参加",
       "url": "https://diamond-rm.net/life-career/535878/",
@@ -170,6 +217,19 @@
       "date": "2026-05-28",
       "tags": [
         "データ活用"
+      ]
+    },
+    {
+      "id": "diamond-33b85d2c",
+      "title": "アパレルOMOの“現実的正解”とKPI",
+      "url": "https://diamond-rm.net/ec-epayment/ec/545955/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "ec-epayment",
+      "date": "2026-05-28",
+      "tags": [
+        "アパレル",
+        "OMO"
       ]
     },
     {
@@ -196,7 +256,7 @@
     },
     {
       "id": "ssnp-805d8eb3",
-      "title": "小僧寿し、「本鮪とろたっぷり大祭」開催 / 鮪たっぷりの丼ぶり、8貫756円の握りセットなど\n\t\t\t\t\t\t\t\t\t\t\t\t持ち帰りすし店「小僧寿し」は、2026年5月30日(土)･31日(日)、6月6日(土)･7日(日)の期間限定で、「本鮪とろたっぷり大祭」を開催する。 とろける旨みがたまらない人気ネタ「本鮪とろ」をたっぷり楽しめる、とろ好...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "小僧寿し、「本鮪とろたっぷり大祭」開催 / 鮪たっぷりの丼ぶり、8貫756円の握りセットなど\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/686626/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -503,6 +563,16 @@
       "tags": []
     },
     {
+      "id": "diamond-d922cd3c",
+      "title": "第９９回　忙しい浪人生活",
+      "url": "https://diamond-rm.net/life-career/535877/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-05-27",
+      "tags": []
+    },
+    {
       "id": "diamond-2cd4492b",
       "title": "好調アルディと不透明感漂うリドル……好環境下で成長スピードに差がついている理由",
       "url": "https://diamond-rm.net/overseas/american_economy/545874/",
@@ -525,12 +595,12 @@
       ]
     },
     {
-      "id": "diamond-d922cd3c",
-      "title": "第９９回　忙しい浪人生活",
-      "url": "https://diamond-rm.net/life-career/535877/",
+      "id": "diamond-7754de22",
+      "title": "ぐるなびが直営のドーナツ店で取り込みめざす「新しい飲食ニーズ」",
+      "url": "https://diamond-rm.net/store/543620/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "life-career",
+      "category": "店舗",
       "date": "2026-05-27",
       "tags": []
     },
@@ -545,16 +615,6 @@
       "tags": [
         "コストコ"
       ]
-    },
-    {
-      "id": "diamond-7754de22",
-      "title": "ぐるなびが直営のドーナツ店で取り込みめざす「新しい飲食ニーズ」",
-      "url": "https://diamond-rm.net/store/543620/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-27",
-      "tags": []
     },
     {
       "id": "ssnp-74b33bdc",
@@ -872,16 +932,6 @@
       ]
     },
     {
-      "id": "diamond-e9c95b63",
-      "title": "かつての”きらめき”を取り戻せるか？ 復活に向けのろしを上げるターゲット",
-      "url": "https://diamond-rm.net/overseas/american_economy/545872/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-05-26",
-      "tags": []
-    },
-    {
       "id": "diamond-c77968b0",
       "title": "イトーヨーカ堂が2026年度の総菜戦略を発表　売上高構成比15％めざし麺類・スイーツ強化",
       "url": "https://diamond-rm.net/management/businessplan/546042/",
@@ -1059,6 +1109,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-05-26",
+      "tags": []
+    },
+    {
+      "id": "diamond-e9c95b63",
+      "title": "かつての”きらめき”を取り戻せるか？ 復活に向けのろしを上げるターゲット",
+      "url": "https://diamond-rm.net/overseas/american_economy/545872/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
       "date": "2026-05-26",
       "tags": []
     },
@@ -1878,48 +1938,12 @@
       ]
     },
     {
-      "id": "diamond-e21a0a98",
-      "title": "ナフコ✕ロピアが熊本市に1万2000㎡超の複合施設！【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/545943/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-22",
-      "tags": [
-        "ロピア"
-      ]
-    },
-    {
       "id": "diamond-87f64d17",
       "title": "消費税減税は小売業にとって毒か薬か？＃１食品小売業に恩恵は？期間限定の減税、その効果とは",
       "url": "https://diamond-rm.net/market/economic/545564/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "市場動向",
-      "date": "2026-05-22",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-d17bd1d0",
-      "title": "「イオン」と「綾鷹」が異色のコラボ　新たに開発した“綾鷹に合うおにぎり”とは",
-      "url": "https://diamond-rm.net/sales-promotion/newitem/545891/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-05-22",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
-      "id": "diamond-ee7b1468",
-      "title": "減塩加工食品「売上シェア上位10アイテム」から見えてくる売り場の最新トレンド",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/545299/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
       "date": "2026-05-22",
       "tags": [
         "食品"
@@ -2094,6 +2118,42 @@
       "category": "菓子",
       "date": "2026-05-22",
       "tags": []
+    },
+    {
+      "id": "diamond-e21a0a98",
+      "title": "ナフコ✕ロピアが熊本市に1万2000㎡超の複合施設！【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/545943/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-05-22",
+      "tags": [
+        "ロピア"
+      ]
+    },
+    {
+      "id": "diamond-d17bd1d0",
+      "title": "「イオン」と「綾鷹」が異色のコラボ　新たに開発した“綾鷹に合うおにぎり”とは",
+      "url": "https://diamond-rm.net/sales-promotion/newitem/545891/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-05-22",
+      "tags": [
+        "イオン"
+      ]
+    },
+    {
+      "id": "diamond-ee7b1468",
+      "title": "減塩加工食品「売上シェア上位10アイテム」から見えてくる売り場の最新トレンド",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/545299/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-05-22",
+      "tags": [
+        "食品"
+      ]
     },
     {
       "id": "ryutsuu-01fa1d54",
@@ -3390,68 +3450,6 @@
       "category": "life-career",
       "date": "2026-05-19",
       "tags": []
-    },
-    {
-      "id": "diamond-a8c8d4e7",
-      "title": "セリア河合社長が明かす成長戦略 ”純・100円ショップ”を極め、残存者利益を享受する",
-      "url": "https://diamond-rm.net/management/topinterview/544698/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-05-19",
-      "tags": [
-        "100円ショップ",
-        "社長"
-      ]
-    },
-    {
-      "id": "ryutsuu-b847c860",
-      "title": "ガリバー運営会社／山梨県に初の商業施設28年度オープン、テーマは「リユース」",
-      "url": "https://www.ryutsuu.biz/store/s051977.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-19",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-8228d95c",
-      "title": "青山商事 新商品／洋服の青山初のビジネス向け「ハーフパンツ」発売",
-      "url": "https://www.ryutsuu.biz/commodity/s051975.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-05-19",
-      "tags": [
-        "青山"
-      ]
-    },
-    {
-      "id": "ryutsuu-fa74594d",
-      "title": "サンマルクカフェ／公式アプリをグループアプリ「myサンマルク」に今夏統合",
-      "url": "https://www.ryutsuu.biz/it/s051974.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-05-19",
-      "tags": [
-        "アプリ",
-        "統合"
-      ]
-    },
-    {
-      "id": "ryutsuu-02990068",
-      "title": "ロイヤルホスト／米国産「ブラックアンガスビーフ」使用商品を値上げ",
-      "url": "https://www.ryutsuu.biz/commodity/s051912.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-05-19",
-      "tags": [
-        "値上げ"
-      ]
     }
   ]
 }
