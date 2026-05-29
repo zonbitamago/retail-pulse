@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T07:19:42.038Z",
+  "lastUpdated": "2026-05-29T13:04:16.989Z",
   "items": [
     {
       "id": "ryutsuu-9a4ec073",
@@ -64,6 +64,18 @@
       "date": "2026-05-29",
       "tags": [
         "クスリのアオキ"
+      ]
+    },
+    {
+      "id": "ryutsuu-c0178c9d",
+      "title": "スギHD／フィリピンで合弁会社設立、コンセプトストア1号店オープン",
+      "url": "https://www.ryutsuu.biz/abroad/s052980.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "abroad",
+      "date": "2026-05-29",
+      "tags": [
+        "オープン"
       ]
     },
     {
@@ -244,20 +256,60 @@
       ]
     },
     {
-      "id": "ssnp-0636f316",
-      "title": "【三田製麺所】“海老味噌感”を強化した濃厚な味わいに進化、「海老つけ麺」&新登場「旨辛海老つけ麺」発売\n\t\t\t\t\t\t\t\t\t\t\t\tつけ麺専門店「三田製麺所」は、6月1日から7月31日までの期間限定で、「海老つけ麺」と「旨辛海老つけ麺」を販売する。 毎年好評の海老シリーズが今年はさらに進化。海老の旨味を最大限に活かした独自配合により、“海老味噌感”の...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/686793/",
+      "id": "ssnp-f88bd89f",
+      "title": "【小僧寿し】12貫970円の炙り寿司セットなど、「旨さ引き立つ『炎の炙り食べ比べ』」開催【平日限定】\n\t\t\t\t\t\t\t\t\t\t\t\t持ち帰りすし店「小僧寿し」は、6月1日(月)～5日(金)、6月8日(月)～12日(金)の期間限定･平日限定で、「旨さ引き立つ『炎の炙り食べ比べ』」を開催する。 香ばしく炙ったネタの旨みを楽しめる、“炙り”ならではの香ばし...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/686859/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-05-29",
+      "tags": []
+    },
+    {
+      "id": "ssnp-32bf8da0",
+      "title": "【キル フェ ボン】「季節のフルーツタルト」がドラゴンフルーツを使用した夏バージョンに!\n\t\t\t\t\t\t\t\t\t\t\t\tキルフェボンは、タルト専門店「キル フェ ボン」の全12店舗で、「季節のフルーツタルト」の夏バージョンを6月1日から8月31日まで発売する。全店舗でネット予約も受け付けている(14日前から)。 旬のフルーツを贅沢に使用す...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/686831/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
       "date": "2026-05-29",
       "tags": [
         "専門店"
       ]
     },
     {
+      "id": "ssnp-8586b5d4",
+      "title": "「ちいかわ」の“むちゃうまヨーグルト”がグミになった / 不二家「アニメちいかわグミ(むちゃうまヨーグルト味)」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/686835/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-05-29",
+      "tags": []
+    },
+    {
+      "id": "ssnp-af795acb",
+      "title": "ガリガリ君45周年&ポケモン30周年記念、限定パッケージが登場 「大人なガリガリ君もぎたてぶどう(6本入り)」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/686803/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-05-29",
+      "tags": []
+    },
+    {
+      "id": "ssnp-0636f316",
+      "title": "【三田製麺所】“海老味噌感”を強化した濃厚な味わいに進化、「海老つけ麺」&新登場「旨辛海老つけ麺」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/686793/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-05-29",
+      "tags": []
+    },
+    {
       "id": "ssnp-d081882f",
-      "title": "とんかつ新宿さぼてん、「山形豚ロースかつ御膳」を期間限定販売\n\t\t\t\t\t\t\t\t\t\t\t\tとんかつチェーン「とんかつ新宿さぼてん」は6月1日から、全国のレストラン店舗で、国産銘柄豚を使用した「山形豚ロースかつ御膳」、「山形豚ロースかつ･大海老フライ御膳」を期間限定で販売する。 〈おいしさを引き立てる「南蛮味噌...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "とんかつ新宿さぼてん、「山形豚ロースかつ御膳」を期間限定販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/686785/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -409,36 +461,6 @@
         "スーパー",
         "オープン",
         "生鮮"
-      ]
-    },
-    {
-      "id": "ryutsuu-ecf3b446",
-      "title": "サミット パークシティ中野店／昼食ニーズ狙いレイアウトで工夫、簡便・即食品を強化",
-      "url": "https://www.ryutsuu.biz/report/s052872.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-05-28",
-      "tags": [
-        "注目",
-        "サミット",
-        "食品"
-      ]
-    },
-    {
-      "id": "ryutsuu-aca40e04",
-      "title": "ドラッグストア業績ランキング／スギHDが売上高1兆円台に、各社食品売上を拡大",
-      "url": "https://www.ryutsuu.biz/accounts/s052912.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-28",
-      "tags": [
-        "注目",
-        "ドラッグストア",
-        "ドラッグ",
-        "売上高",
-        "食品"
       ]
     },
     {
@@ -755,6 +777,36 @@
       "category": "foodservice",
       "date": "2026-05-28",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-ecf3b446",
+      "title": "サミット パークシティ中野店／昼食ニーズ狙いレイアウトで工夫、簡便・即食品を強化",
+      "url": "https://www.ryutsuu.biz/report/s052872.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-05-28",
+      "tags": [
+        "注目",
+        "サミット",
+        "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-aca40e04",
+      "title": "ドラッグストア業績ランキング／スギHDが売上高1兆円台に、各社食品売上を拡大",
+      "url": "https://www.ryutsuu.biz/accounts/s052912.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-05-28",
+      "tags": [
+        "注目",
+        "ドラッグストア",
+        "ドラッグ",
+        "売上高",
+        "食品"
+      ]
     },
     {
       "id": "ryutsuu-12640279",
@@ -3396,69 +3448,6 @@
       "tags": [
         "ショッピングセンター",
         "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-5e02135b",
-      "title": "日本アクセス 決算／3月期は増収も営業利益2.8％減",
-      "url": "https://www.ryutsuu.biz/accounts/s052016.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-05-20",
-      "tags": [
-        "営業利益",
-        "決算",
-        "増収"
-      ]
-    },
-    {
-      "id": "ryutsuu-676103eb",
-      "title": "コスモス薬品／静岡県・高知県・大阪府に「ドラッグコスモス」計3店舗、11月新設",
-      "url": "https://www.ryutsuu.biz/store/s0520012.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-20",
-      "tags": [
-        "コスモス薬品",
-        "ドラッグ"
-      ]
-    },
-    {
-      "id": "ryutsuu-93f41371",
-      "title": "クレオ×日本気象協会／異常気象・気温変動への対策が一目で分かる「52週販促MDカレンダー」発売",
-      "url": "https://www.ryutsuu.biz/promotion/s052080.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "販促",
-      "date": "2026-05-20",
-      "tags": [
-        "PR"
-      ]
-    },
-    {
-      "id": "ryutsuu-a7d0fdb9",
-      "title": "ダイレックス／福岡県と千葉県に計2店舗、11月新設",
-      "url": "https://www.ryutsuu.biz/store/0520011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-20",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-c14a3cf3",
-      "title": "コンビニエンスストア／4月既存店0.01％増、セット割引などで揚げ物・冷凍食品が好調",
-      "url": "https://www.ryutsuu.biz/sales/s052015.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-05-20",
-      "tags": [
-        "コンビニ",
-        "冷凍食品",
-        "食品"
       ]
     }
   ]
