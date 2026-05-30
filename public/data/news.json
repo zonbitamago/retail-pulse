@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T00:37:27.148Z",
+  "lastUpdated": "2026-05-30T07:00:27.390Z",
   "items": [
     {
       "id": "diamond-ea1e15f7",
@@ -8,6 +8,16 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "life-career",
+      "date": "2026-05-30",
+      "tags": []
+    },
+    {
+      "id": "ssnp-75d56313",
+      "title": "メイトーのカスタードプリンが期間限定でポムポムプリンパッケージに!【協同乳業】\n\t\t\t\t\t\t\t\t\t\t\t\t協同乳業は、ロングセラー商品「メイトーのカスタードプリン」の発売45周年を記念し、サンリオの「ポムポムプリン」とコラボした期間限定スペシャルパッケージを、6月1日に全国で発売する。 「ポムポムプリン」は、今年でデビュー3...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/milk/686154/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "milk",
       "date": "2026-05-30",
       "tags": []
     },
@@ -25,7 +35,7 @@
     },
     {
       "id": "ssnp-afcfa83d",
-      "title": "エースコック、“わかめ尽くし”の超大盛り「わかめラーメン」発売　葉・茎・めかぶを一杯に\n\t\t\t\t\t\t\t\t\t\t\t\tエースコックは6月22日、全国で「わかめオールスター わかめラーメン しょうゆ」を新発売する。希望小売価格は348円（税抜）。 1983年発売のロングセラー商品「わかめラーメン」シリーズから、最大の特長である“わかめ素材...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "エースコック、“わかめ尽くし”の超大盛り「わかめラーメン」発売　葉・茎・めかぶを一杯に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/noodles/686434/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -3429,18 +3439,6 @@
       "tags": [
         "ヤオコー",
         "出店"
-      ]
-    },
-    {
-      "id": "diamond-0df2d944",
-      "title": "近畿圏で11 年ぶりの超大型店 「ライフ緑地公園店」を徹底解説",
-      "url": "https://diamond-rm.net/store/newstorereport/544887/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-05-20",
-      "tags": [
-        "ライフ"
       ]
     }
   ]
