@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T07:37:57.141Z",
+  "lastUpdated": "2026-06-02T13:14:43.754Z",
   "items": [
     {
       "id": "ryutsuu-557cdc50",
@@ -77,18 +77,6 @@
       ]
     },
     {
-      "id": "diamond-00ac7c46",
-      "title": "5期連続で過去最高益更新　三菱食品が新体制で描く次なる成長への道筋とは",
-      "url": "https://diamond-rm.net/market/accounting/547180/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-06-02",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-c1791b7c",
       "title": "【売場写真20枚超】会津地方で久々の出店！「ヨークベニマル一箕町店」の注目ポイント",
       "url": "https://diamond-rm.net/store/547027/",
@@ -98,6 +86,18 @@
       "date": "2026-06-02",
       "tags": [
         "出店"
+      ]
+    },
+    {
+      "id": "diamond-00ac7c46",
+      "title": "5期連続で過去最高益更新　三菱食品が新体制で描く次なる成長への道筋とは",
+      "url": "https://diamond-rm.net/market/accounting/547180/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-02",
+      "tags": [
+        "食品"
       ]
     },
     {
@@ -121,6 +121,19 @@
       "category": "overseas",
       "date": "2026-06-02",
       "tags": []
+    },
+    {
+      "id": "diamond-ec963252",
+      "title": "週刊コンビニエンスストアニュース ローソン、節約志向に応える冷凍パスタ3品を発売",
+      "url": "https://diamond-rm.net/management/547131/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-02",
+      "tags": [
+        "ローソン",
+        "コンビニ"
+      ]
     },
     {
       "id": "diamond-ef8b8142",
@@ -190,8 +203,58 @@
       ]
     },
     {
+      "id": "ssnp-52dca781",
+      "title": "ネスレ日本、「ネスカフェ ゴールドブレンド」など6品を価格改定　80gは1200円前後に\n\t\t\t\t\t\t\t\t\t\t\t\tネスレ日本は6月1日、「ネスカフェ ゴールドブレンド」など一部製品について、8月1日納品分から価格改定を実施すると発表した。対象は6品で、店頭価格の想定上昇率は約14％である。 対象製品は、「ネスカフェ ゴールドブレンド...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/687304/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-06-02",
+      "tags": [
+        "価格改定"
+      ]
+    },
+    {
+      "id": "ssnp-a802d689",
+      "title": "キーコーヒー、収益力改善進み増収増益、価格改定浸透と高付加価値品も寄与\n\t\t\t\t\t\t\t\t\t\t\t\tキーコーヒーの2026年3月期連結決算は、売上高が前期比19.6%増の930億6700万円、営業利益が121.3%増の10億7700万円、経常利益が107.2%増の13億1800万円、親会社株主に帰属する当期純利益が36...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/687268/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-06-02",
+      "tags": [
+        "営業利益",
+        "経常利益",
+        "価格改定",
+        "売上高",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "ssnp-1078bf27",
+      "title": "三田製麺所がグランドメニュー刷新、中華そば2種や旨辛つけ麺が新登場 / 「特濃つけ麺」特盛･超特盛はスープ量を33%増量\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/687269/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-02",
+      "tags": []
+    },
+    {
+      "id": "ssnp-51d08da1",
+      "title": "【丸亀製麺】桃をイメージした夏限定「丸亀うどーなつ もも風味」新発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/687257/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-02",
+      "tags": []
+    },
+    {
       "id": "ssnp-7f6ad203",
-      "title": "【セブン‐イレブン】パリパリ･ゴリゴリ食感のチョコミントアイス2品が新登場!\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブンは、「セブンプレミアム ワッフルコーン チョコミント」と「ブラックサンダー チョコミントアイス」を、全国の店舗で6月9日から順次発売する。 【ブラックサンダー チョコミントアイスの画像はこちら】 ◆数量限...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【セブン‐イレブン】パリパリ･ゴリゴリ食感のチョコミントアイス2品が新登場!\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/687251/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -201,7 +264,7 @@
     },
     {
       "id": "ssnp-19b9ad4c",
-      "title": "【スシロー×京都の老舗茶舗 森半】「フラッペ」や「カタラーナアイスブリュレ」など、厳選茶葉を使用した贅沢スイーツ\n\t\t\t\t\t\t\t\t\t\t\t\tスシローは、SUSHIRO Cafeと京都の老舗茶舗「森半」とのコラボ企画を今年も実施する。6月3日から、「フラッペ」や「カタラーナアイスブリュレ」など日本屈指の茶師監修の極上抹茶スイーツを全国の店舗で販売する。 ※いず...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【スシロー×京都の老舗茶舗 森半】「フラッペ」や「カタラーナアイスブリュレ」など、厳選茶葉を使用した贅沢スイーツ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/687238/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -456,16 +519,6 @@
       ]
     },
     {
-      "id": "diamond-ac74f6e9",
-      "title": "第１０２回　僕にとっては、たいへんな革命だった",
-      "url": "https://diamond-rm.net/life-career/542172/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-06-01",
-      "tags": []
-    },
-    {
       "id": "diamond-233cd27c",
       "title": "全社トップ級「イトーヨーカドー木場店」敏腕店長が入社24年で培ってきた揺るぎない仕事の流儀",
       "url": "https://diamond-rm.net/management/businessplan/545879/",
@@ -503,20 +556,6 @@
       ]
     },
     {
-      "id": "diamond-5ae2767d",
-      "title": "今年も酷暑の予想……食品スーパーの売場づくりで考えておきたい4つの切り口",
-      "url": "https://diamond-rm.net/sales-promotion/display/545851/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-01",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-d34f3a11",
       "title": "PPIHの「ロビン・フッド」が2店舗同時オープン　「笠松店」の売場を速報",
       "url": "https://diamond-rm.net/store/546895/",
@@ -538,6 +577,20 @@
       "category": "overseas",
       "date": "2026-06-01",
       "tags": []
+    },
+    {
+      "id": "diamond-5ae2767d",
+      "title": "今年も酷暑の予想……食品スーパーの売場づくりで考えておきたい4つの切り口",
+      "url": "https://diamond-rm.net/sales-promotion/display/545851/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-01",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
     },
     {
       "id": "diamond-fce11e58",
@@ -738,6 +791,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
+      "date": "2026-06-01",
+      "tags": []
+    },
+    {
+      "id": "diamond-ac74f6e9",
+      "title": "第１０２回　僕にとっては、たいへんな革命だった",
+      "url": "https://diamond-rm.net/life-career/542172/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-06-01",
       "tags": []
     },
@@ -1806,18 +1869,6 @@
       ]
     },
     {
-      "id": "ryutsuu-8122e10f",
-      "title": "ローソン／「Lミニマート」にポンタを導入",
-      "url": "https://www.ryutsuu.biz/strategy/s052715.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-05-27",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
       "id": "ryutsuu-da8d3f42",
       "title": "カウネット／「ギフト専用サイト」開設、アデリーと連携",
       "url": "https://www.ryutsuu.biz/ec/s052714.html",
@@ -2023,6 +2074,18 @@
       "date": "2026-05-27",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-8122e10f",
+      "title": "ローソン／「Lミニマート」にポンタを導入",
+      "url": "https://www.ryutsuu.biz/strategy/s052715.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-05-27",
+      "tags": [
+        "ローソン"
       ]
     },
     {
@@ -3368,60 +3431,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
-      "date": "2026-05-22",
-      "tags": []
-    },
-    {
-      "id": "ssnp-922a594b",
-      "title": "梅雨限定のパフェやあんみつが登場する『Raindrop Sweets』【タカノフルーツパーラー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/685566/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-05-22",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ssnp-9e0bd173",
-      "title": "丸亀製麺、うどん全商品「麺増量無料」キャンペーン開催　並→大が3日間無料に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/685550/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-05-22",
-      "tags": []
-    },
-    {
-      "id": "ssnp-ec12731f",
-      "title": "【しゃぶしゃぶ温野菜】「旨辛 麻辣湯しゃぶ」復活、「イタリアン麻辣湯」などアレンジ提案も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/685525/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-05-22",
-      "tags": []
-    },
-    {
-      "id": "ssnp-dc84693e",
-      "title": "「オー･ザック」に新味登場　夏向け『にんにく醤油から揚げ味』発売【ハウス食品】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/685513/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-05-22",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "ssnp-e3c733b7",
-      "title": "「冷やしスンドゥブ」を新提案!“冷やしても旨い!”暑い夏にレンジ･コンロなしで作れる時短メニュー\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/seasoning/685515/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "調味料",
       "date": "2026-05-22",
       "tags": []
     }
