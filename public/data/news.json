@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T12:27:30.730Z",
+  "lastUpdated": "2026-06-06T18:27:22.325Z",
   "items": [
     {
       "id": "diamond-ccf30f73",
@@ -8,6 +8,16 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "life-career",
+      "date": "2026-06-06",
+      "tags": []
+    },
+    {
+      "id": "ssnp-063501cd",
+      "title": "【ブロンコビリー】『韓国グルメフェア』を開催!ブートジョロキアを使った激辛プルダックソースをかけた「がんこハンバーグ」など\n\t\t\t\t\t\t\t\t\t\t\t\tステーキハウス ブロンコビリー(全148店舗)は、2026年夏の激辛メニューBRONCO FIRE第2弾『韓国グルメフェア』を6月23日から7月20日までの期間限定で開催する。 2025年7月、BRONCO FIRE第1...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/687533/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
       "date": "2026-06-06",
       "tags": []
     },
@@ -238,7 +248,7 @@
     },
     {
       "id": "ssnp-e22caa85",
-      "title": "池袋で「海ごみゼロ」キックオフ、全清飲・CGFも参加 街中清掃で資源循環を啓発\n\t\t\t\t\t\t\t\t\t\t\t\t日本財団と環境省が推進する全国一斉清掃キャンペーン「海ごみゼロウィーク2026」のキックオフイベント「コスプレde海ごみゼロ大作戦2026 at 池袋」が5月30日、東京・池袋の東池袋中央公園周辺で開催された。コスプレ海...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "池袋で「海ごみゼロ」キックオフ、全清飲・CGFも参加 街中清掃で資源循環を啓発\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/687819/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -3409,18 +3419,6 @@
       "category": "life-career",
       "date": "2026-05-27",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-8e9aaa71",
-      "title": "物語コーポレーション／神奈川県に新業態「肉讃岐 もっちりうどん源次郎」オープン",
-      "url": "https://www.ryutsuu.biz/store/s052775.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-27",
-      "tags": [
-        "オープン"
-      ]
     }
   ]
 }
