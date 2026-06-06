@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-06-05T18:39:36.839Z",
+  "lastUpdated": "2026-06-06T00:38:55.147Z",
   "items": [
+    {
+      "id": "diamond-ccf30f73",
+      "title": "流通秀書　第32回『ランチェスター戦略入門』",
+      "url": "https://diamond-rm.net/life-career/543723/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-06-06",
+      "tags": []
+    },
+    {
+      "id": "ssnp-169b6db4",
+      "title": "「作りたてスコーンサンド」の新商品「藍苺(国産ブルーベリー)&クリームチーズ」を発売【フレッシュネスバーガー】\n\t\t\t\t\t\t\t\t\t\t\t\tフレッシュネスバーガーは、2026年6月10日から7月7日までの間、店内で仕上げる「作りたてスコーンサンド」の新商品「藍苺(国産ブルーベリー)&クリームチーズ」を発売する。 【「作りたてスコーンサンド 藍苺&am...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/687766/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-06",
+      "tags": []
+    },
     {
       "id": "ryutsuu-b2b808b1",
       "title": "京王百貨店／ホテルに宿泊する訪日外国人客向けポップアップストアオープン",
@@ -228,7 +248,7 @@
     },
     {
       "id": "ssnp-6176cd7d",
-      "title": "ピザーラ、夏限定の旨辛パスタ『夏のHOTナポリタン』を発売\n\t\t\t\t\t\t\t\t\t\t\t\tピザチェーンの「PIZZA-LA(ピザーラ)」は、6月10日(水)から期間限定で『夏のHOTナポリタン』を販売する。価格は1,280円(税込)。 『夏のHOTナポリタン』は、チョリソーとセラーノペッパーをダブルで使用した...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ピザーラ、夏限定の旨辛パスタ『夏のHOTナポリタン』を発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/687862/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -466,16 +486,6 @@
       "tags": []
     },
     {
-      "id": "diamond-f1778abb",
-      "title": "秋田の伊徳が岩手に進出！子育て世代の取り込みねらう「いとく滝沢店」の売場づくりの全容",
-      "url": "https://diamond-rm.net/store/newstorereport/545863/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-04",
-      "tags": []
-    },
-    {
       "id": "diamond-24bec4b1",
       "title": "オール日本スーパーマーケット協会「知恵の共同仕入れ」会員企業でPB商品を一段売る仕掛け",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/545861/",
@@ -499,6 +509,16 @@
       "tags": [
         "スーパー"
       ]
+    },
+    {
+      "id": "diamond-f1778abb",
+      "title": "秋田の伊徳が岩手に進出！子育て世代の取り込みねらう「いとく滝沢店」の売場づくりの全容",
+      "url": "https://diamond-rm.net/store/newstorereport/545863/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-04",
+      "tags": []
     },
     {
       "id": "diamond-b10c6043",
@@ -3400,32 +3420,6 @@
       "date": "2026-05-27",
       "tags": [
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-8b1d10a5",
-      "title": "ドラッグストアモリ／熊本県と山口県に計2店舗、12月新設",
-      "url": "https://www.ryutsuu.biz/store/s0527011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-27",
-      "tags": [
-        "ドラッグストア",
-        "ドラッグ"
-      ]
-    },
-    {
-      "id": "ryutsuu-1e0d0f90",
-      "title": "天丼やまと／「イオンタウンふじみ野店」リニューアル、天ぷら・信州二八そば食べ放題を開始",
-      "url": "https://www.ryutsuu.biz/store/s052711.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-27",
-      "tags": [
-        "リニューアル",
-        "イオン"
       ]
     }
   ]
