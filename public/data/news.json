@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T07:40:47.443Z",
+  "lastUpdated": "2026-06-08T13:27:13.602Z",
   "items": [
     {
       "id": "ryutsuu-54362040",
@@ -100,6 +100,28 @@
       "date": "2026-06-08",
       "tags": [
         "売上高"
+      ]
+    },
+    {
+      "id": "diamond-e3b52ca1",
+      "title": "山西会長独白　イズミがこれからの10年で描き出す「新しい船」の設計図",
+      "url": "https://diamond-rm.net/management/topinterview/547557/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-f79ff6bb",
+      "title": "イズミ町田繁樹社長が示す「地域の総合生活産業」への道筋",
+      "url": "https://diamond-rm.net/management/topinterview/547558/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": [
+        "社長"
       ]
     },
     {
@@ -291,8 +313,54 @@
       "tags": []
     },
     {
+      "id": "ssnp-ad4920d7",
+      "title": "信州ハム・軽井沢工房が長野駅ビルのMIDORI 長野店をリニューアル、長野県産豚肉を使ったハムソーで「長野駅で味わう軽井沢の食文化」を発信\n\t\t\t\t\t\t\t\t\t\t\t\t信州ハムグループの軽井沢工房はこのほど、長野県長野市のＪＲ長野駅に隣接する商業施設内の販売店舗「ＭＩＤＯＲＩ長野店」をリニューアルした。 同店は、「長野駅で味わう軽井沢の食文化」をコンセプトに、2015 年に開店した。今...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/meat/688111/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "畜産",
+      "date": "2026-06-08",
+      "tags": [
+        "リニューアル"
+      ]
+    },
+    {
+      "id": "ssnp-e617fa4c",
+      "title": "キリンビバレッジ、10月から清涼飲料の一部商品を5～18％値上げ　「午後の紅茶」500mlPETは200円から220円に\n\t\t\t\t\t\t\t\t\t\t\t\tキリンビバレッジは、10月1日納品分から、ペットボトル、缶、ボトル缶、パウチ入りの一部商品を価格改定する。メーカー希望小売価格（税別）を5～18％引き上げる。対象は166品、そのうちPET商品が約7割を占める。 代表的な...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/688102/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-06-08",
+      "tags": [
+        "価格改定",
+        "値上げ",
+        "飲料"
+      ]
+    },
+    {
+      "id": "ssnp-6f50bb06",
+      "title": "ギンビス、「たべっ子どうぶつ」「しみチョココーン」から夏限定の４商品を発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/688095/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
+      "id": "ssnp-d2220fc5",
+      "title": "【ハーゲンダッツ】みずみずしい洋梨×濃厚な味わいのミルク バー『洋梨&ミルク』を新発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/milk/688087/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "milk",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
       "id": "ssnp-e99d7ed0",
-      "title": "トマトの酸味とガーリックの香りで夏仕様に、「夏のトマトガーリック」シリーズ発売【かっぱ寿司】\n\t\t\t\t\t\t\t\t\t\t\t\t寿司チェーンの「かっぱ寿司」は、6月11日から期間限定で「夏のトマトガーリック」シリーズ全6品を販売する。 同シリーズは、ポルトガル産トマトペーストを使用した特製トマトガーリックソースを採用。爽やかなトマトの酸味に、オレ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "トマトの酸味とガーリックの香りで夏仕様に、「夏のトマトガーリック」シリーズ発売【かっぱ寿司】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/688076/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -302,15 +370,13 @@
     },
     {
       "id": "ssnp-8f7e03c8",
-      "title": "【セブン‐イレブン】レジ横の揚げ物に「あじフライ(フィレ)」が新登場!\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブンは、レジ横の揚げ物惣菜の新商品「あじフライ(フィレ)」を、6月9日から全国の店舗で順次発売する。 【あじフライ(フィレ)の画像はこちら】 ◆あじフライ(フィレ) 価格:167円(税込180.36円)発売日...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【セブン‐イレブン】レジ横の揚げ物に「あじフライ(フィレ)」が新登場!\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/688068/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
       "date": "2026-06-08",
-      "tags": [
-        "惣菜"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-99b1bbee",
@@ -572,31 +638,6 @@
       ]
     },
     {
-      "id": "diamond-8dbc6816",
-      "title": "好調の波に乗るバローHD　25年度決算の内容に見る”強さの実像”と課題",
-      "url": "https://diamond-rm.net/market/547380/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-06-05",
-      "tags": [
-        "決算"
-      ]
-    },
-    {
-      "id": "diamond-ca54209b",
-      "title": "大井町駅直結の商業施設に出店　「ライフ大井町トラックス店」の売場を詳しく解説！",
-      "url": "https://diamond-rm.net/store/newstorereport/545864/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-05",
-      "tags": [
-        "ライフ",
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-e23aecc2",
       "title": "【動画】Real×Techで描く未来のコンビニへの変革",
       "url": "https://diamond-rm.net/overseas/547209/",
@@ -620,9 +661,34 @@
       "tags": []
     },
     {
+      "id": "diamond-ca54209b",
+      "title": "大井町駅直結の商業施設に出店　「ライフ大井町トラックス店」の売場を詳しく解説！",
+      "url": "https://diamond-rm.net/store/newstorereport/545864/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-05",
+      "tags": [
+        "ライフ",
+        "出店"
+      ]
+    },
+    {
       "id": "diamond-021d0b2d",
       "title": "日本アクセスが26年3月期決算を発表　中期計画2年目は組織改革を推進",
       "url": "https://diamond-rm.net/market/accounting/547587/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-05",
+      "tags": [
+        "決算"
+      ]
+    },
+    {
+      "id": "diamond-8dbc6816",
+      "title": "好調の波に乗るバローHD　25年度決算の内容に見る”強さの実像”と課題",
+      "url": "https://diamond-rm.net/market/547380/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "市場動向",
@@ -3355,72 +3421,6 @@
       "category": "菓子",
       "date": "2026-05-28",
       "tags": []
-    },
-    {
-      "id": "ssnp-7976827b",
-      "title": "【ココイチ】「焙煎スパイスのチキンカレー」発売、焙煎した6種のスパイス×ローストオニオン\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/686510/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-05-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-a29f7746",
-      "title": "【すき家】牛丼と相性抜群、らーめん×とん汁の新しい一杯「とん汁みそらーめん」新発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/686503/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-05-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-fcfd98f9",
-      "title": "【イオン】冷凍スパゲッティ麺発売、ゆでずに電子レンジ約3分でアルデンテ食感に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/686495/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-05-28",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
-      "id": "ssnp-c7e8c968",
-      "title": "バタースイーツ専門店監修の『バターステイツクレープ』、セブンーイレブン限定で発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/686472/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-05-28",
-      "tags": [
-        "専門店"
-      ]
-    },
-    {
-      "id": "ssnp-e5fb7fc3",
-      "title": "ニッスイ、日本最大級のサーモンブランドが始動　養殖サーモン事業に注力、2030年めどに1万トン体制へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/frozen/686482/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "冷凍食品",
-      "date": "2026-05-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-9d5f332e",
-      "title": "売上高は初の400億円超え、かける需要掘り起こし、洋食に合うごま油開発【かどや製油】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/686479/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-05-28",
-      "tags": [
-        "売上高"
-      ]
     }
   ]
 }
