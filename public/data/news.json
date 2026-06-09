@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-06-09T07:13:37.985Z",
+  "lastUpdated": "2026-06-09T12:59:22.069Z",
   "items": [
+    {
+      "id": "ryutsuu-69d18f84",
+      "title": "イズミ／九州のスーパー子会社3社を統合「ゆめマート九州」発足",
+      "url": "https://www.ryutsuu.biz/strategy/s060914.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-06-09",
+      "tags": [
+        "スーパー",
+        "統合"
+      ]
+    },
     {
       "id": "ryutsuu-f4e8476d",
       "title": "家電5社／5月はすべて増収、各社エアコンが2倍超の伸長に",
@@ -11,18 +24,6 @@
       "date": "2026-06-09",
       "tags": [
         "増収"
-      ]
-    },
-    {
-      "id": "ryutsuu-bfea8987",
-      "title": "銀座・阿部養清堂ビル／ジャガー・ルクルト旗艦店8月中旬オープン",
-      "url": "https://www.ryutsuu.biz/store/s060912.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-09",
-      "tags": [
-        "オープン"
       ]
     },
     {
@@ -60,6 +61,18 @@
       "date": "2026-06-09",
       "tags": [
         "PR"
+      ]
+    },
+    {
+      "id": "ryutsuu-bfea8987",
+      "title": "銀座・阿部養清堂ビル／ジャガー・ルクルト旗艦店8月中旬オープン",
+      "url": "https://www.ryutsuu.biz/store/s060912.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-09",
+      "tags": [
+        "オープン"
       ]
     },
     {
@@ -175,6 +188,16 @@
       ]
     },
     {
+      "id": "ssnp-dff496cd",
+      "title": "ハナマルキ、「すぐ旨カップみそ汁」でアウトドア需要開拓　イベントで2000個提供、今後も提案強化\n\t\t\t\t\t\t\t\t\t\t\t\tハナマルキは、即席みそ汁「すぐ旨カップみそ汁」で、アウトドアシーンにおける飲用機会の開拓を進める。今年4月にはアウトドアブランド「THE NORTH FACE」と連携し、トレイルランニングイベントで商品2000個を提供し...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/soy/688192/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "大豆",
+      "date": "2026-06-09",
+      "tags": []
+    },
+    {
       "id": "ssnp-c0f920c8",
       "title": "【ジョナサン】ケーキ型の新感覚かき氷&自分で混ぜて完成する混ぜ混ぜシェイクが登場!\n\t\t\t\t\t\t\t\t\t\t\t\tジョナサンは、2026年6月11日から9月2日までの間、淡雪のような口どけの「純氷ドルチェ-淡雪-」と、新ひんやりドリンク「混ぜ混ぜシェイク」を販売する。 【「純氷ドルチェ-淡雪-」と「混ぜ混ぜシェイク」の画像はこちら】...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/688168/",
@@ -186,20 +209,17 @@
     },
     {
       "id": "ssnp-47c5114b",
-      "title": "【ファミマ】ぼんご監修のおむすび2種発売!「まぐろたたきと生たらこ」&「鳥唐揚げマヨネーズ」\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーマートは、おにぎり専門店ぼんご監修のおむすび「ぼんご監修 大きなおむすび まぐろたたきと生たらこ」(税込348円)と「ぼんご監修 大きなおむすび 鳥唐揚げマヨネーズ」(税込358円)を、2026年6月9日から全...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【ファミマ】ぼんご監修のおむすび2種発売!「まぐろたたきと生たらこ」&「鳥唐揚げマヨネーズ」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/688159/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
       "date": "2026-06-09",
-      "tags": [
-        "ファミリーマート",
-        "専門店"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-df05a048",
-      "title": "【紀ノ国屋】わらび餅や豆観かんてん、あんみつなど「和涼味(わりょうみ)スイーツ」をラインアップ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【紀ノ国屋】わらび餅や豆かんてん、あんみつなど「和涼味(わりょうみ)スイーツ」をラインアップ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/688148/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -292,6 +312,30 @@
       ]
     },
     {
+      "id": "diamond-9f6ecc5d",
+      "title": "ゆめマート熊本・山野社長が激白！「イズミ×サニー」のシナジーを“2段ロケット”で創出",
+      "url": "https://diamond-rm.net/management/topinterview/547560/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-5e891903",
+      "title": "イズミの都市型SMモデル構築へ　ユアーズ根石社長が明かす戦略",
+      "url": "https://diamond-rm.net/management/topinterview/547562/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
       "id": "diamond-e3b52ca1",
       "title": "山西会長独白　イズミがこれからの10年で描き出す「新しい船」の設計図",
       "url": "https://diamond-rm.net/management/topinterview/547557/",
@@ -311,29 +355,6 @@
       "date": "2026-06-08",
       "tags": [
         "社長"
-      ]
-    },
-    {
-      "id": "diamond-57acd33d",
-      "title": "「新しい船」を創造する！　中四国の雄・イズミ、不退転の覚悟で挑む大変革の行方",
-      "url": "https://diamond-rm.net/management/businessplan/547556/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": []
-    },
-    {
-      "id": "diamond-8ac74bd2",
-      "title": "「ハッピーローソンタウン」の全貌とは？　ローソンが大阪・池田に出店した1号店を速報",
-      "url": "https://diamond-rm.net/store/newstorereport/547758/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-08",
-      "tags": [
-        "ローソン",
-        "出店"
       ]
     },
     {
@@ -409,6 +430,19 @@
       "category": "店舗",
       "date": "2026-06-08",
       "tags": []
+    },
+    {
+      "id": "diamond-8ac74bd2",
+      "title": "「ハッピーローソンタウン」の全貌とは？　ローソンが大阪・池田に出店した1号店を速報",
+      "url": "https://diamond-rm.net/store/newstorereport/547758/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-08",
+      "tags": [
+        "ローソン",
+        "出店"
+      ]
     },
     {
       "id": "diamond-fe352e43",
@@ -619,6 +653,16 @@
       "tags": []
     },
     {
+      "id": "diamond-57acd33d",
+      "title": "「新しい船」を創造する！　中四国の雄・イズミ、不退転の覚悟で挑む大変革の行方",
+      "url": "https://diamond-rm.net/management/businessplan/547556/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-54362040",
       "title": "牛丼3社／5月既存店売上高、すき家15.9％増・吉野家9.7％増・松屋5.3％増",
       "url": "https://www.ryutsuu.biz/sales/s060844.html",
@@ -750,18 +794,6 @@
       "tags": []
     },
     {
-      "id": "diamond-5e891903",
-      "title": "イズミの都市型SMモデル構築へ　ユアーズ根石社長が明かす戦略",
-      "url": "https://diamond-rm.net/management/topinterview/547562/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
       "id": "ryutsuu-f7eb11b1",
       "title": "イオン北海道／陸上自衛隊釧路駐屯地に「無人店舗」6月8日オープン",
       "url": "https://www.ryutsuu.biz/store/s060511.html",
@@ -772,18 +804,6 @@
       "tags": [
         "オープン",
         "イオン"
-      ]
-    },
-    {
-      "id": "diamond-9f6ecc5d",
-      "title": "ゆめマート熊本・山野社長が激白！「イズミ×サニー」のシナジーを“2段ロケット”で創出",
-      "url": "https://diamond-rm.net/management/topinterview/547560/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": [
-        "社長"
       ]
     },
     {
@@ -3393,30 +3413,6 @@
         "オープン",
         "高島屋",
         "新店"
-      ]
-    },
-    {
-      "id": "ryutsuu-339a57c1",
-      "title": "クスリのアオキ／岐阜県と群馬県に計3店舗、2027年1～2月新設",
-      "url": "https://www.ryutsuu.biz/store/s0529012.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-29",
-      "tags": [
-        "クスリのアオキ"
-      ]
-    },
-    {
-      "id": "ryutsuu-c0178c9d",
-      "title": "スギHD／フィリピンで合弁会社設立、コンセプトストア1号店オープン",
-      "url": "https://www.ryutsuu.biz/abroad/s052980.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "abroad",
-      "date": "2026-05-29",
-      "tags": [
-        "オープン"
       ]
     }
   ]
