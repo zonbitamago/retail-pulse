@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-06-08T18:49:52.659Z",
+  "lastUpdated": "2026-06-09T00:36:47.218Z",
   "items": [
+    {
+      "id": "diamond-b8419bef",
+      "title": "U.S.M.Hの100坪型フォーマット2店舗目「マルエツ プチ 南大塚二丁目店」が開業",
+      "url": "https://diamond-rm.net/store/547803/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-09",
+      "tags": [
+        "マルエツ",
+        "開業"
+      ]
+    },
+    {
+      "id": "diamond-37075afb",
+      "title": "日本のアパレルは、「エルメス」になれる——ただし、日本市場を捨てれば",
+      "url": "https://diamond-rm.net/management/547363/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-09",
+      "tags": [
+        "アパレル"
+      ]
+    },
     {
       "id": "ryutsuu-54362040",
       "title": "牛丼3社／5月既存店売上高、すき家15.9％増・吉野家9.7％増・松屋5.3％増",
@@ -148,16 +173,6 @@
       ]
     },
     {
-      "id": "diamond-63dc58b5",
-      "title": "人材戦略の情報開示が義務化 高まる「人的資本経営」の重要性",
-      "url": "https://diamond-rm.net/management/547204/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": []
-    },
-    {
       "id": "diamond-2e1b57ae",
       "title": "第１０７回　“渥美理論”なんて存在しない",
       "url": "https://diamond-rm.net/life-career/542177/",
@@ -268,28 +283,6 @@
       "date": "2026-06-08",
       "tags": [
         "ライフ"
-      ]
-    },
-    {
-      "id": "diamond-7ac5989c",
-      "title": "キーワードは「コト・時間・コミュニティ」　イズミの“次世代ＧＭＳ”の全貌",
-      "url": "https://diamond-rm.net/management/businessplan/547563/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": []
-    },
-    {
-      "id": "diamond-5e891903",
-      "title": "イズミの都市型SMモデル構築へ　ユアーズ根石社長が明かす戦略",
-      "url": "https://diamond-rm.net/management/topinterview/547562/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": [
-        "社長"
       ]
     },
     {
@@ -486,6 +479,38 @@
       "tags": []
     },
     {
+      "id": "diamond-63dc58b5",
+      "title": "人材戦略の情報開示が義務化 高まる「人的資本経営」の重要性",
+      "url": "https://diamond-rm.net/management/547204/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-7ac5989c",
+      "title": "キーワードは「コト・時間・コミュニティ」　イズミの“次世代ＧＭＳ”の全貌",
+      "url": "https://diamond-rm.net/management/businessplan/547563/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-5e891903",
+      "title": "イズミの都市型SMモデル構築へ　ユアーズ根石社長が明かす戦略",
+      "url": "https://diamond-rm.net/management/topinterview/547562/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
       "id": "ryutsuu-f7eb11b1",
       "title": "イオン北海道／陸上自衛隊釧路駐屯地に「無人店舗」6月8日オープン",
       "url": "https://www.ryutsuu.biz/store/s060511.html",
@@ -626,18 +651,6 @@
       ]
     },
     {
-      "id": "diamond-4b3e3e0d",
-      "title": "アクシアル、27～28年度で15店舗出店を計画　26年度は「準備の年」に",
-      "url": "https://diamond-rm.net/market/547705/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-06-05",
-      "tags": [
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-e23aecc2",
       "title": "【動画】Real×Techで描く未来のコンビニへの変革",
       "url": "https://diamond-rm.net/overseas/547209/",
@@ -670,6 +683,18 @@
       "date": "2026-06-05",
       "tags": [
         "ライフ",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-4b3e3e0d",
+      "title": "アクシアル、27～28年度で15店舗出店を計画　26年度は「準備の年」に",
+      "url": "https://diamond-rm.net/market/547705/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-05",
+      "tags": [
         "出店"
       ]
     },
@@ -1066,16 +1091,6 @@
       ]
     },
     {
-      "id": "diamond-f1778abb",
-      "title": "秋田の伊徳が岩手に進出！子育て世代の取り込みねらう「いとく滝沢店」の売場づくりの全容",
-      "url": "https://diamond-rm.net/store/newstorereport/545863/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-04",
-      "tags": []
-    },
-    {
       "id": "diamond-b4a94382",
       "title": "「価格競争には陥らない」　コープこうべが関西進出組に示す”非営利の強み”",
       "url": "https://diamond-rm.net/market/accounting/547339/",
@@ -1220,6 +1235,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
+      "date": "2026-06-04",
+      "tags": []
+    },
+    {
+      "id": "diamond-f1778abb",
+      "title": "秋田の伊徳が岩手に進出！子育て世代の取り込みねらう「いとく滝沢店」の売場づくりの全容",
+      "url": "https://diamond-rm.net/store/newstorereport/545863/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
       "date": "2026-06-04",
       "tags": []
     },
@@ -3401,26 +3426,6 @@
       "tags": [
         "松屋"
       ]
-    },
-    {
-      "id": "ssnp-0029ffed",
-      "title": "【串カツ田中】とうもろこしや生ハムズッキーニ、岩下の新生姜などの新作串が登場!\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/686535/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-05-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-daf8036c",
-      "title": "シャトレーゼ、“お父さん顔”ケーキなど父の日スイーツ発売　髭・ネクタイ・帽子モチーフ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/686523/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-05-28",
-      "tags": []
     }
   ]
 }
