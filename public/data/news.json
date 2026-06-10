@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T18:44:00.943Z",
+  "lastUpdated": "2026-06-10T00:42:45.623Z",
   "items": [
     {
       "id": "ryutsuu-14061a85",
@@ -13,6 +13,42 @@
         "オープン",
         "新店"
       ]
+    },
+    {
+      "id": "diamond-9096272f",
+      "title": "千葉市内の人口増加エリアに開業！　「カスミ西千葉店」の売場をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/547759/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-10",
+      "tags": [
+        "カスミ",
+        "開業"
+      ]
+    },
+    {
+      "id": "diamond-1932082e",
+      "title": "これ全部398円！？ヤオコーの「お値段以上」な絶品弁当＆麺類を主婦が実食",
+      "url": "https://diamond-rm.net/sales-promotion/pb/546473/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-10",
+      "tags": [
+        "ヤオコー",
+        "弁当"
+      ]
+    },
+    {
+      "id": "diamond-fcaa6146",
+      "title": "登録者50万人超え！ 老舗書店「有隣堂」がYouTubeで熱烈ファンを創造できた理由",
+      "url": "https://diamond-rm.net/management/545354/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-10",
+      "tags": []
     },
     {
       "id": "ryutsuu-69d18f84",
@@ -137,18 +173,6 @@
       ]
     },
     {
-      "id": "diamond-37075afb",
-      "title": "日本のアパレルは、「エルメス」になれる——ただし、日本市場を捨てれば",
-      "url": "https://diamond-rm.net/management/547363/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-09",
-      "tags": [
-        "アパレル"
-      ]
-    },
-    {
       "id": "diamond-5c827f6b",
       "title": "【動画】6月1週目の注目ニュースまとめ、各社商品戦略、大型再編等",
       "url": "https://diamond-rm.net/management/businessplan/548068/",
@@ -198,6 +222,18 @@
       "date": "2026-06-09",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "diamond-37075afb",
+      "title": "日本のアパレルは、「エルメス」になれる——ただし、日本市場を捨てれば",
+      "url": "https://diamond-rm.net/management/547363/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-09",
+      "tags": [
+        "アパレル"
       ]
     },
     {
@@ -349,28 +385,6 @@
       ]
     },
     {
-      "id": "diamond-e3b52ca1",
-      "title": "山西会長独白　イズミがこれからの10年で描き出す「新しい船」の設計図",
-      "url": "https://diamond-rm.net/management/topinterview/547557/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": []
-    },
-    {
-      "id": "diamond-f79ff6bb",
-      "title": "イズミ町田繁樹社長が示す「地域の総合生活産業」への道筋",
-      "url": "https://diamond-rm.net/management/topinterview/547558/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-2e1b57ae",
       "title": "第１０７回　“渥美理論”なんて存在しない",
       "url": "https://diamond-rm.net/life-career/542177/",
@@ -413,16 +427,6 @@
         "スーパー",
         "黒字"
       ]
-    },
-    {
-      "id": "diamond-284bb997",
-      "title": "イズミの知られざる“最強開発部隊”　新設されたデベロッパー本部に潜入取材！",
-      "url": "https://diamond-rm.net/management/businessplan/547569/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": []
     },
     {
       "id": "diamond-2f001f01",
@@ -479,18 +483,6 @@
       "date": "2026-06-08",
       "tags": [
         "社長"
-      ]
-    },
-    {
-      "id": "diamond-49e1f0eb",
-      "title": "顧客と MD を 20 歳若返らせる！ イズミの「ライフスタイル部門」再構築戦略",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/547564/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-08",
-      "tags": [
-        "ライフ"
       ]
     },
     {
@@ -664,6 +656,50 @@
       "category": "foodservice",
       "date": "2026-06-08",
       "tags": []
+    },
+    {
+      "id": "diamond-e3b52ca1",
+      "title": "山西会長独白　イズミがこれからの10年で描き出す「新しい船」の設計図",
+      "url": "https://diamond-rm.net/management/topinterview/547557/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-f79ff6bb",
+      "title": "イズミ町田繁樹社長が示す「地域の総合生活産業」への道筋",
+      "url": "https://diamond-rm.net/management/topinterview/547558/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-284bb997",
+      "title": "イズミの知られざる“最強開発部隊”　新設されたデベロッパー本部に潜入取材！",
+      "url": "https://diamond-rm.net/management/businessplan/547569/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-49e1f0eb",
+      "title": "顧客と MD を 20 歳若返らせる！ イズミの「ライフスタイル部門」再構築戦略",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/547564/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-08",
+      "tags": [
+        "ライフ"
+      ]
     },
     {
       "id": "diamond-57acd33d",
@@ -948,16 +984,6 @@
       ]
     },
     {
-      "id": "diamond-c3b28d56",
-      "title": "「フードスタイルあびこ駅前店」　新生ダイエーの新フォーマットを大解剖",
-      "url": "https://diamond-rm.net/store/newstorereport/545865/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-05",
-      "tags": []
-    },
-    {
       "id": "diamond-4b3e3e0d",
       "title": "アクシアル、27～28年度で15店舗出店を計画　26年度は「準備の年」に",
       "url": "https://diamond-rm.net/market/547705/",
@@ -992,16 +1018,6 @@
       "tags": [
         "決算"
       ]
-    },
-    {
-      "id": "diamond-423c8ad8",
-      "title": "メーカーの商談資料「バイヤーに伝わらない」を「バイヤーが売りたい」に変える3つのポイント",
-      "url": "https://diamond-rm.net/sales-promotion/buyer/545866/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-05",
-      "tags": []
     },
     {
       "id": "ssnp-e22caa85",
@@ -1178,6 +1194,26 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
+      "date": "2026-06-05",
+      "tags": []
+    },
+    {
+      "id": "diamond-c3b28d56",
+      "title": "「フードスタイルあびこ駅前店」　新生ダイエーの新フォーマットを大解剖",
+      "url": "https://diamond-rm.net/store/newstorereport/545865/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-05",
+      "tags": []
+    },
+    {
+      "id": "diamond-423c8ad8",
+      "title": "メーカーの商談資料「バイヤーに伝わらない」を「バイヤーが売りたい」に変える3つのポイント",
+      "url": "https://diamond-rm.net/sales-promotion/buyer/545866/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
       "date": "2026-06-05",
       "tags": []
     },
@@ -3367,45 +3403,6 @@
       "id": "ryutsuu-aa645c20",
       "title": "三菱地所／福岡・大名に「エムズクロス福岡大名」オープン、東京以外に初進出",
       "url": "https://www.ryutsuu.biz/store/s052948.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-29",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-9a4ec073",
-      "title": "ドラッグストア／4月既存店売上ツルハ5.0％増、コスモス薬品7.0％増",
-      "url": "https://www.ryutsuu.biz/sales/s052971.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-05-29",
-      "tags": [
-        "ドラッグストア",
-        "コスモス薬品",
-        "ドラッグ",
-        "ツルハ"
-      ]
-    },
-    {
-      "id": "ryutsuu-a0cbfcb7",
-      "title": "Zoff／東京都渋谷区「シブハラクロス」に次世代型の旗艦店オープン",
-      "url": "https://www.ryutsuu.biz/store/s052974.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-05-29",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-f05267fb",
-      "title": "高松競輪場／飲食・温浴施設などの複合空間28年上期グランドオープン",
-      "url": "https://www.ryutsuu.biz/store/s052975.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "店舗",
