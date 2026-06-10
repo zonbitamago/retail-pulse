@@ -1,6 +1,21 @@
 {
-  "lastUpdated": "2026-06-10T07:28:16.397Z",
+  "lastUpdated": "2026-06-10T13:08:25.159Z",
   "items": [
+    {
+      "id": "ryutsuu-e2f74423",
+      "title": "イオン／5月イオンリテール既存店売上高5.9％増、食品PBの価格据え置きなど奏功",
+      "url": "https://www.ryutsuu.biz/sales/s061076.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-06-10",
+      "tags": [
+        "イオン",
+        "売上高",
+        "食品",
+        "PB"
+      ]
+    },
     {
       "id": "ryutsuu-99ffee13",
       "title": "セブンイレブン／5月の既存店売上高2.7％増、11カ月ぶりに客数増",
@@ -124,6 +139,18 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-9f05ca8e",
+      "title": "ファミマ／5月の既存店売上高1.2％増、客数2.4％減",
+      "url": "https://www.ryutsuu.biz/sales/s061077.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-06-10",
+      "tags": [
+        "売上高"
+      ]
+    },
+    {
       "id": "ryutsuu-db8f97bc",
       "title": "ローソン／5月既存店売上高3.5％増、客数1.7％増",
       "url": "https://www.ryutsuu.biz/sales/s061074.html",
@@ -133,6 +160,18 @@
       "date": "2026-06-10",
       "tags": [
         "ローソン",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-bed33dc8",
+      "title": "ミニストップ／5月は既存店売上高3.2％減、客数4.5％減",
+      "url": "https://www.ryutsuu.biz/sales/s061078.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-06-10",
+      "tags": [
         "売上高"
       ]
     },
@@ -149,19 +188,6 @@
       ]
     },
     {
-      "id": "diamond-9096272f",
-      "title": "千葉市内の人口増加エリアに開業！　「カスミ西千葉店」の売場をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/547759/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-10",
-      "tags": [
-        "カスミ",
-        "開業"
-      ]
-    },
-    {
       "id": "diamond-1932082e",
       "title": "これ全部398円！？ヤオコーの「お値段以上」な絶品弁当＆麺類を主婦が実食",
       "url": "https://diamond-rm.net/sales-promotion/pb/546473/",
@@ -175,14 +201,17 @@
       ]
     },
     {
-      "id": "diamond-fcaa6146",
-      "title": "登録者50万人超え！ 老舗書店「有隣堂」がYouTubeで熱烈ファンを創造できた理由",
-      "url": "https://diamond-rm.net/management/545354/",
+      "id": "diamond-9096272f",
+      "title": "千葉市内の人口増加エリアに開業！　「カスミ西千葉店」の売場をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/547759/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "経営戦略",
+      "category": "店舗",
       "date": "2026-06-10",
-      "tags": []
+      "tags": [
+        "カスミ",
+        "開業"
+      ]
     },
     {
       "id": "diamond-4126fa2e",
@@ -214,6 +243,16 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "sales-promotion",
+      "date": "2026-06-10",
+      "tags": []
+    },
+    {
+      "id": "diamond-fcaa6146",
+      "title": "登録者50万人超え！ 老舗書店「有隣堂」がYouTubeで熱烈ファンを創造できた理由",
+      "url": "https://diamond-rm.net/management/545354/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-06-10",
       "tags": []
     },
@@ -453,31 +492,6 @@
       ]
     },
     {
-      "id": "ryutsuu-f4e8476d",
-      "title": "家電5社／5月はすべて増収、各社エアコンが2倍超の伸長に",
-      "url": "https://www.ryutsuu.biz/sales/2026060942.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-06-09",
-      "tags": [
-        "増収"
-      ]
-    },
-    {
-      "id": "ryutsuu-ae4bd2a1",
-      "title": "ローソン／公式アプリのクーポン利用が5割増、ガチャも好評",
-      "url": "https://www.ryutsuu.biz/it/s060913.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-06-09",
-      "tags": [
-        "ローソン",
-        "アプリ"
-      ]
-    },
-    {
       "id": "ryutsuu-36bebed9",
       "title": "クリエイト・レストランツ／米国ミネソタ州のレストラン事業を譲受、約38億円で",
       "url": "https://www.ryutsuu.biz/strategy/s060943.html",
@@ -664,6 +678,31 @@
       ]
     },
     {
+      "id": "ryutsuu-f4e8476d",
+      "title": "家電5社／5月はすべて増収、各社エアコンが2倍超の伸長に",
+      "url": "https://www.ryutsuu.biz/sales/2026060942.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-06-09",
+      "tags": [
+        "増収"
+      ]
+    },
+    {
+      "id": "ryutsuu-ae4bd2a1",
+      "title": "ローソン／公式アプリのクーポン利用が5割増、ガチャも好評",
+      "url": "https://www.ryutsuu.biz/it/s060913.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-06-09",
+      "tags": [
+        "ローソン",
+        "アプリ"
+      ]
+    },
+    {
       "id": "ryutsuu-0a0a9ec0",
       "title": "TIS／「商業施設スタッフの意識と現場運営のリアル調査2025」資料を公開",
       "url": "https://www.ryutsuu.biz/it/s052882.html",
@@ -723,6 +762,18 @@
       "tags": [
         "PR",
         "物流"
+      ]
+    },
+    {
+      "id": "diamond-6aa8af25",
+      "title": "「イズミに行く理由」を生み出す　商品戦略の全容を山西副社長が独白！",
+      "url": "https://diamond-rm.net/management/topinterview/547567/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": [
+        "社長"
       ]
     },
     {
@@ -1032,18 +1083,6 @@
       "date": "2026-06-08",
       "tags": [
         "PB"
-      ]
-    },
-    {
-      "id": "diamond-6aa8af25",
-      "title": "「イズミに行く理由」を生み出す　商品戦略の全容を山西副社長が独白！",
-      "url": "https://diamond-rm.net/management/topinterview/547567/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": [
-        "社長"
       ]
     },
     {
@@ -3393,40 +3432,6 @@
       "date": "2026-06-01",
       "tags": [
         "SC"
-      ]
-    },
-    {
-      "id": "ryutsuu-8b63c863",
-      "title": "中部薬品／「各務原市民公園前薬局」「富山経田薬局」V・drug2店舗6月1日オープン",
-      "url": "https://www.ryutsuu.biz/store/s052949.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-01",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ssnp-91777740",
-      "title": "しみチョココーン×ポップコーンなど、全5品が新登場!【ギンビス 6月の新商品】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/686420/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-05-31",
-      "tags": []
-    },
-    {
-      "id": "ssnp-66d947d5",
-      "title": "【肉2倍】ほっともっと「倍盛」シリーズ新登場　しょうが焼き・ハンバーグ・とんかつなど人気弁当11種\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/686818/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-05-31",
-      "tags": [
-        "弁当"
       ]
     }
   ]
