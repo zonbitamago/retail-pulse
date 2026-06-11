@@ -1,6 +1,44 @@
 {
-  "lastUpdated": "2026-06-11T13:16:48.566Z",
+  "lastUpdated": "2026-06-11T18:59:20.629Z",
   "items": [
+    {
+      "id": "ryutsuu-7e42aa9f",
+      "title": "ローソン／横浜市泉区にLAWSONマチの本屋さん「泉緑園四丁目店」6月12日オープン",
+      "url": "https://www.ryutsuu.biz/store/s061177.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-12",
+      "tags": [
+        "ローソン",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-3e0adc86",
+      "title": "有明・東京ドリームパーク／堀口珈琲のディナーも楽しめる新店舗6月12日オープン",
+      "url": "https://www.ryutsuu.biz/store/s061117.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-12",
+      "tags": [
+        "オープン",
+        "新店"
+      ]
+    },
+    {
+      "id": "ryutsuu-f0449518",
+      "title": "アルペン／スポーツデポ栗東店6月12日オープン、アルペンから業態転換",
+      "url": "https://www.ryutsuu.biz/store/s061173.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-12",
+      "tags": [
+        "オープン"
+      ]
+    },
     {
       "id": "ryutsuu-63f940ca",
       "title": "グランスタ東京／銀の鈴エリア、和菓子5店舗を7月新規・改装オープン",
@@ -3398,44 +3436,6 @@
       "category": "overseas",
       "date": "2026-06-01",
       "tags": []
-    },
-    {
-      "id": "diamond-fce11e58",
-      "title": "「DS.INSIGHT」を活用した「ドン・キホーテ」「ロピア」「ヤオコー」の分析",
-      "url": "https://diamond-rm.net/promotion/pr/546269/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-06-01",
-      "tags": [
-        "ドン・キホーテ",
-        "ヤオコー",
-        "ロピア"
-      ]
-    },
-    {
-      "id": "ssnp-6ad1943f",
-      "title": "【銀だこ】一口で魚介の旨味が押し寄せる『魚介系 旨味たこ焼』発売、8種の魚介素材を使用\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/687076/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-570a1860",
-      "title": "【松屋×松屋】牛めしの「松屋」が百貨店の「松屋」に新業態出店、神戸牛や黒毛和牛を使った『松屋PREMIUM』誕生\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/687056/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-01",
-      "tags": [
-        "百貨店",
-        "松屋",
-        "出店"
-      ]
     }
   ]
 }
