@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T07:36:47.858Z",
+  "lastUpdated": "2026-06-12T13:07:51.161Z",
   "items": [
     {
       "id": "ryutsuu-96463376",
@@ -8,6 +8,16 @@
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "行政",
+      "date": "2026-06-12",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-5b88d856",
+      "title": "賃上げ2026／ペッパーフードサービス7月から4％賃上げ、初任給は28万6000円に",
+      "url": "https://www.ryutsuu.biz/strategy/s061218.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
       "date": "2026-06-12",
       "tags": []
     },
@@ -118,7 +128,7 @@
     },
     {
       "id": "diamond-4129c955",
-      "title": "週刊スーパーマーケットニュース　イトーヨーカ堂「ポッポ」の冷凍食品が250万食突破",
+      "title": "週刊スーパーマーケットニュース　イトーヨーカ堂「ポッポ」の冷凍食品が50万食突破",
       "url": "https://diamond-rm.net/management/businessplan/548389/",
       "source": "diamond-chain",
       "sourceName": "DCS",
@@ -181,8 +191,30 @@
       ]
     },
     {
+      "id": "ssnp-e0df0e4d",
+      "title": "ドミノ･ピザがピザ全品S→Mサイズへのサイズアップ無料【14日間限定】\n\t\t\t\t\t\t\t\t\t\t\t\tドミノ･ピザ ジャパンは、6月15日から6月28日までの14日間限定で「絶対に食べてほしいピザが、ドミノにある」キャンペーンを開催する。期間中はデリバリー限定で、通常600円～700円の追加料金がかかるSサイズからMサイ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/688773/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-12",
+      "tags": []
+    },
+    {
+      "id": "ssnp-9ee61556",
+      "title": "13年ぶりに復活した『チョコミントシュー』、販売店舗を14店舗へ拡大【ビアードパパ】\n\t\t\t\t\t\t\t\t\t\t\t\tシュークリーム専門店「ビアードパパ」は、2026年6月15日から、『チョコミントシュー』(税込320円)の販売店舗を7店舗から14店舗へ拡大する。 【『チョコミントシュー』の画像はこちら】 『チョコミントシュー』は、20...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/688768/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-06-12",
+      "tags": [
+        "専門店"
+      ]
+    },
+    {
       "id": "ssnp-022e2337",
-      "title": "キーコーヒー、アイスコーヒーのマリアージュ提案 生活者向けセミナー開催\n\t\t\t\t\t\t\t\t\t\t\t\tキーコーヒーは6月9日、一般生活者向け特別セミナー「アイスコーヒーのマリアージュを楽しもう」を本社で開催した。アイスコーヒー需要の拡大を背景に、「抽出」から一歩進んだ食との組み合わせによる新たな飲用価値を提案。フードやス...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "キーコーヒー、アイスコーヒーのマリアージュ提案 生活者向けセミナー開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/688703/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -192,7 +224,7 @@
     },
     {
       "id": "ssnp-c45640fb",
-      "title": "キッザニア東京『お菓子工場』リニューアル　オリジナル「ハイチュウ」が作れるパビリオン、期間限定フレーバー提供も【森永製菓】\n\t\t\t\t\t\t\t\t\t\t\t\t森永製菓はこのほど、東京･豊洲のこどもの職業･社会体験施設「キッザニア東京」に出展している「お菓子工場」パビリオンを刷新し、7月14日午後4時にリニューアルオープンする。 「お菓子工場」は、オリジナル「ハイチュウ」の製造...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "キッザニア東京『お菓子工場』リニューアル　オリジナル「ハイチュウ」が作れるパビリオン、期間限定フレーバー提供も【森永製菓】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/688743/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -200,7 +232,6 @@
       "date": "2026-06-12",
       "tags": [
         "リニューアル",
-        "オープン",
         "菓子"
       ]
     },
@@ -3413,44 +3444,6 @@
       "category": "overseas",
       "date": "2026-06-02",
       "tags": []
-    },
-    {
-      "id": "diamond-f2b4b33e",
-      "title": "共創！Commerce Marketing ラボ＃３共創型リテールメディアの実例",
-      "url": "https://diamond-rm.net/technology/545626/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-06-02",
-      "tags": [
-        "リテールメディア"
-      ]
-    },
-    {
-      "id": "ssnp-52dca781",
-      "title": "ネスレ日本、「ネスカフェ ゴールドブレンド」など6品を価格改定　80gは1200円前後に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/687304/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-06-02",
-      "tags": [
-        "価格改定"
-      ]
-    },
-    {
-      "id": "ssnp-a802d689",
-      "title": "キーコーヒー、収益力改善進み増収増益、価格改定浸透と高付加価値品も寄与\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/687268/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-06-02",
-      "tags": [
-        "価格改定",
-        "増収",
-        "増益"
-      ]
     }
   ]
 }
