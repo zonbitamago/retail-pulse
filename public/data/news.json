@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T18:59:20.629Z",
+  "lastUpdated": "2026-06-12T00:44:32.347Z",
   "items": [
     {
       "id": "ryutsuu-7e42aa9f",
@@ -37,6 +37,45 @@
       "date": "2026-06-12",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "diamond-c62ad965",
+      "title": "東京・渋谷に出店! 家具EC「LOWYA」が仕掛ける実店舗戦略の現在地",
+      "url": "https://diamond-rm.net/management/548011/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-12",
+      "tags": [
+        "EC",
+        "家具",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-0d85d785",
+      "title": "第142回 ショッピングセンターは体験型消費から決別する勇気を",
+      "url": "https://diamond-rm.net/management/548075/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-12",
+      "tags": [
+        "ショッピングセンター"
+      ]
+    },
+    {
+      "id": "diamond-eb00417f",
+      "title": "総菜の新商品が目白押し！ヤオコー最新店「コトエ橋本店」の売場を分析",
+      "url": "https://diamond-rm.net/store/545908/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-12",
+      "tags": [
+        "ヤオコー",
+        "新店"
       ]
     },
     {
@@ -430,18 +469,6 @@
       ]
     },
     {
-      "id": "diamond-7764f7bb",
-      "title": "ライフの「BIO-RAL」と「くら寿司」が異色のコラボを実現した背景",
-      "url": "https://diamond-rm.net/sales-promotion/548248/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-10",
-      "tags": [
-        "ライフ"
-      ]
-    },
-    {
       "id": "diamond-4126fa2e",
       "title": "週刊コンビニエンスストアニュース ファミリーマート、「ファミマATM」設置を開始",
       "url": "https://diamond-rm.net/management/548025/",
@@ -452,6 +479,18 @@
       "tags": [
         "ファミリーマート",
         "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-7764f7bb",
+      "title": "ライフの「BIO-RAL」と「くら寿司」が異色のコラボを実現した背景",
+      "url": "https://diamond-rm.net/sales-promotion/548248/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-10",
+      "tags": [
+        "ライフ"
       ]
     },
     {
@@ -912,16 +951,6 @@
       "tags": []
     },
     {
-      "id": "diamond-76e57dc4",
-      "title": "第１０８回　小篠綾子　回顧",
-      "url": "https://diamond-rm.net/life-career/542178/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-06-09",
-      "tags": []
-    },
-    {
       "id": "diamond-ea7251f9",
       "title": "NRF2026速報レポート　エージェンティックコマースの衝撃！",
       "url": "https://diamond-rm.net/technology/dx/537217/",
@@ -930,31 +959,6 @@
       "category": "テクノロジー",
       "date": "2026-06-09",
       "tags": []
-    },
-    {
-      "id": "diamond-37075afb",
-      "title": "日本のアパレルは、「エルメス」になれる——ただし、日本市場を捨てれば",
-      "url": "https://diamond-rm.net/management/547363/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-09",
-      "tags": [
-        "アパレル"
-      ]
-    },
-    {
-      "id": "diamond-b8419bef",
-      "title": "U.S.M.Hの100坪型フォーマット2店舗目「マルエツ プチ 南大塚二丁目店」が開業",
-      "url": "https://diamond-rm.net/store/547803/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-09",
-      "tags": [
-        "マルエツ",
-        "開業"
-      ]
     },
     {
       "id": "diamond-990115b4",
@@ -1063,6 +1067,41 @@
       "date": "2026-06-09",
       "tags": [
         "冷食"
+      ]
+    },
+    {
+      "id": "diamond-76e57dc4",
+      "title": "第１０８回　小篠綾子　回顧",
+      "url": "https://diamond-rm.net/life-career/542178/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-06-09",
+      "tags": []
+    },
+    {
+      "id": "diamond-37075afb",
+      "title": "日本のアパレルは、「エルメス」になれる——ただし、日本市場を捨てれば",
+      "url": "https://diamond-rm.net/management/547363/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-09",
+      "tags": [
+        "アパレル"
+      ]
+    },
+    {
+      "id": "diamond-b8419bef",
+      "title": "U.S.M.Hの100坪型フォーマット2店舗目「マルエツ プチ 南大塚二丁目店」が開業",
+      "url": "https://diamond-rm.net/store/547803/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-09",
+      "tags": [
+        "マルエツ",
+        "開業"
       ]
     },
     {
@@ -1204,38 +1243,6 @@
         "スーパー",
         "黒字"
       ]
-    },
-    {
-      "id": "diamond-6aa8af25",
-      "title": "「イズミに行く理由」を生み出す　商品戦略の全容を山西副社長が独白！",
-      "url": "https://diamond-rm.net/management/topinterview/547567/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-479418d1",
-      "title": "流通アナリストが財務から読み解く、イズミの強さと今後の行方",
-      "url": "https://diamond-rm.net/management/businessplan/547571/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": []
-    },
-    {
-      "id": "diamond-2f001f01",
-      "title": "競合から“仲間”に　「ゆめマート」「サニー」の至近競合が占うイズミの「新SM」の成否",
-      "url": "https://diamond-rm.net/management/businessplan/547561/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": []
     },
     {
       "id": "diamond-7a4be241",
@@ -1416,6 +1423,38 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-6aa8af25",
+      "title": "「イズミに行く理由」を生み出す　商品戦略の全容を山西副社長が独白！",
+      "url": "https://diamond-rm.net/management/topinterview/547567/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-479418d1",
+      "title": "流通アナリストが財務から読み解く、イズミの強さと今後の行方",
+      "url": "https://diamond-rm.net/management/businessplan/547571/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-2f001f01",
+      "title": "競合から“仲間”に　「ゆめマート」「サニー」の至近競合が占うイズミの「新SM」の成否",
+      "url": "https://diamond-rm.net/management/businessplan/547561/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-06-08",
       "tags": []
     },
@@ -3402,40 +3441,6 @@
         "AI",
         "食品"
       ]
-    },
-    {
-      "id": "ryutsuu-fbfcbf23",
-      "title": "ハートフレンド／大阪市「フレスコ三国店」リニューアル、冷凍冷蔵ケース増設",
-      "url": "https://www.ryutsuu.biz/store/s060214.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-02",
-      "tags": [
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "diamond-e5650d21",
-      "title": "AI投資という「終わりのない固定費」の恐怖 リテールを襲う逆転のマルクス主義",
-      "url": "https://diamond-rm.net/management/546595/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-02",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "diamond-f5dffee0",
-      "title": "【DCS最新号】6月1日号は「アメリカ小売業大全2026」",
-      "url": "https://diamond-rm.net/overseas/american_economy/546616/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-06-01",
-      "tags": []
     }
   ]
 }
