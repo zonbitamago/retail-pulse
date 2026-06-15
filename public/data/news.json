@@ -1,6 +1,181 @@
 {
-  "lastUpdated": "2026-06-14T18:29:30.026Z",
+  "lastUpdated": "2026-06-15T00:44:55.306Z",
   "items": [
+    {
+      "id": "diamond-610569ec",
+      "title": "業績好調の中、なぜブルーゾーンHDに参画したのか？クックマート白井社長が語る",
+      "url": "https://diamond-rm.net/management/topinterview/547551/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-15",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-42d2bec3",
+      "title": "セブン-イレブン、電通・サイバーエージェントと合弁会社を設立　リテールメディア事業に本腰",
+      "url": "https://diamond-rm.net/management/548527/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-15",
+      "tags": [
+        "セブン-イレブン",
+        "リテールメディア"
+      ]
+    },
+    {
+      "id": "diamond-bbcf1002",
+      "title": "三菱食品 伊藤社長インタビュー　新たな経営体制で「食品卸」の価値を最大化する",
+      "url": "https://diamond-rm.net/management/topinterview/547573/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-15",
+      "tags": [
+        "食品",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-dafd33d5",
+      "title": "大型再編劇が頻発！業態別に占う、2026年流通小売の勢力図",
+      "url": "https://diamond-rm.net/management/ma/545882/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-f5a2c455",
+      "title": "【DCS最新号】6月15日号は「イズミの決断」",
+      "url": "https://diamond-rm.net/management/businessplan/548311/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-162fc986",
+      "title": "北東北で爆発的集客力誇る「カブセンター」、岩手1号店の実力を現地調査！",
+      "url": "https://diamond-rm.net/store/storevisit/547572/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-e14b8aac",
+      "title": "地元信金と連携！東急ストアフードステーション元住吉店の売場づくりを解説",
+      "url": "https://diamond-rm.net/store/newstorereport/547555/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-18d12a1d",
+      "title": "新生ダイエーの新フォーマット 2 号店「フードスタイル十三東店」の売場を徹底分析",
+      "url": "https://diamond-rm.net/store/newstorereport/547554/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-662be899",
+      "title": "6～7㎞圏内の広域集客ねらう!「ベルクス北柏店」を徹底レポート",
+      "url": "https://diamond-rm.net/store/newstorereport/547553/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-15",
+      "tags": [
+        "ベルク"
+      ]
+    },
+    {
+      "id": "diamond-908ab5f2",
+      "title": "総菜の新商品に注目！　ヤオコー最新店「コトエ橋本店」の売場を徹底解説",
+      "url": "https://diamond-rm.net/store/newstorereport/547552/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-15",
+      "tags": [
+        "ヤオコー",
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-873f84fe",
+      "title": "アマゾンも強化する「AIボイスアシスタント」は購買体験をどう変えるか",
+      "url": "https://diamond-rm.net/technology/ai/547550/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-06-15",
+      "tags": [
+        "アマゾン",
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-84e0592b",
+      "title": "海外で脚光浴びるエージェンティックコマース　日本の流通業はどう向き合うべきか？",
+      "url": "https://diamond-rm.net/technology/ai/547549/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-06-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-31f960d7",
+      "title": "朝だけで月商1000万円！？ネットスーパーの「早朝便」がもたらした成果",
+      "url": "https://diamond-rm.net/ec-epayment/net-super/547548/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "ec-epayment",
+      "date": "2026-06-15",
+      "tags": [
+        "ネットスーパー",
+        "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-a3992448",
+      "title": "イオンが新中計を発表 「営業収益15兆円」の壮大な目標達成なるか",
+      "url": "https://diamond-rm.net/market/547547/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-15",
+      "tags": [
+        "イオン"
+      ]
+    },
+    {
+      "id": "diamond-cff561d1",
+      "title": "ライフの自然派PB「ビオラル」、ついに売上高100億円突破の背景とこれから",
+      "url": "https://diamond-rm.net/market/547546/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-15",
+      "tags": [
+        "ライフ",
+        "売上高",
+        "PB"
+      ]
+    },
     {
       "id": "ryutsuu-c19273c8",
       "title": "リンガーハット／カンボジアに「チップモン271メガモール店」6月14日オープン",
@@ -1457,16 +1632,6 @@
       "tags": []
     },
     {
-      "id": "diamond-990115b4",
-      "title": "猛暑＆長い夏に備えよ！小売業をめぐる「熱中症関連商品」の最新事情",
-      "url": "https://diamond-rm.net/sales-promotion/pr-strategy/546133/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-09",
-      "tags": []
-    },
-    {
       "id": "diamond-f42b414e",
       "title": "流通、小売の生成AI活用を促進するHP POS製品群とVINX「Retail Brain」",
       "url": "https://diamond-rm.net/promotion/pr/547278/",
@@ -1477,6 +1642,16 @@
       "tags": [
         "AI"
       ]
+    },
+    {
+      "id": "diamond-990115b4",
+      "title": "猛暑＆長い夏に備えよ！小売業をめぐる「熱中症関連商品」の最新事情",
+      "url": "https://diamond-rm.net/sales-promotion/pr-strategy/546133/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-09",
+      "tags": []
     },
     {
       "id": "ssnp-dff496cd",
@@ -1724,19 +1899,6 @@
       "tags": []
     },
     {
-      "id": "diamond-282afc8c",
-      "title": "イズミなのに“ゆめタウン化”をあえて否定!?　異端の巨大SC「LECT」の哲学",
-      "url": "https://diamond-rm.net/management/businessplan/547566/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": [
-        "SC",
-        "EC"
-      ]
-    },
-    {
       "id": "diamond-11439eb9",
       "title": "波に乗るイズミのネットスーパー事業　黒字化モデル蓄積し新フェーズ突入へ",
       "url": "https://diamond-rm.net/ec-epayment/net-super/547570/",
@@ -1748,6 +1910,19 @@
         "ネットスーパー",
         "スーパー",
         "黒字"
+      ]
+    },
+    {
+      "id": "diamond-282afc8c",
+      "title": "イズミなのに“ゆめタウン化”をあえて否定!?　異端の巨大SC「LECT」の哲学",
+      "url": "https://diamond-rm.net/management/businessplan/547566/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": [
+        "SC",
+        "EC"
       ]
     },
     {
@@ -3261,180 +3436,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
-      "date": "2026-06-03",
-      "tags": []
-    },
-    {
-      "id": "ssnp-aa36b2f9",
-      "title": "【セブン‐イレブン】愛知県産大葉を使用した計7品を東海3県限定で発売!学生が考えたレシピを商品化\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/687329/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-03",
-      "tags": []
-    },
-    {
-      "id": "ssnp-bf9ad64f",
-      "title": "コメダ珈琲店「2026年サマーバッグ」予約開始　コーヒーチケット付き、保冷ポーチ初登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/687320/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-03",
-      "tags": []
-    },
-    {
-      "id": "ssnp-a4b11386",
-      "title": "大豆ミールの新たな評価指標をMITと開発中、SSAP使用を50カ国へ【USSEC】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/687316/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-06-03",
-      "tags": [
-        "EC"
-      ]
-    },
-    {
-      "id": "ssnp-0421552f",
-      "title": "127万回再生も、子どもに負けないくらい給食を楽しむSNS「給食おじさんず」の狙いとは\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/feeding/687301/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "feeding",
-      "date": "2026-06-03",
-      "tags": [
-        "SNS"
-      ]
-    },
-    {
-      "id": "ssnp-73f1d386",
-      "title": "夕方限定で「ななチキ」「アメリカンドッグ」などレジ横の揚げ物・フランクが半額！　セブンが「揚げ物スーパーセール」を4日間限定開催【本日から】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/686268/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-06-03",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
-      "id": "ssnp-64d41477",
-      "title": "【価格そのまま】チャンピオンカレー、看板「Lカツカレー」にチーズ66gトッピング　66周年記念企画第1弾\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/687288/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-03",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-d29b30c9",
-      "title": "セブンイレブン／加盟店から容器リサイクル委託料を過大徴収",
-      "url": "https://www.ryutsuu.biz/strategy/s060315.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-06-03",
-      "tags": [
-        "セブンイレブン"
-      ]
-    },
-    {
-      "id": "ryutsuu-4e811997",
-      "title": "ファミマ／レジ袋の石油由来原料の使用を削減、バイオマス50％配合へ",
-      "url": "https://www.ryutsuu.biz/strategy/s060343.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-06-03",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-270d76de",
-      "title": "カンリー／「世代によってこんなに違うAI検索の使い方」セミナー6月18・19・22日開催",
-      "url": "https://www.ryutsuu.biz/seminar/s060375.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-06-03",
-      "tags": [
-        "PR",
-        "AI"
-      ]
-    },
-    {
-      "id": "diamond-70b82eda",
-      "title": "地域で熱烈な支持集めたダイエーの店舗を転換 「イオンスタイル鴨居」をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/547231/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-03",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
-      "id": "ryutsuu-a585b672",
-      "title": "アパレル売上高ランキング／ユニクロを筆頭にSPA3社は過去最高、老舗衣料が追随",
-      "url": "https://www.ryutsuu.biz/accounts/s060241.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-06-03",
-      "tags": [
-        "注目",
-        "ユニクロ",
-        "アパレル",
-        "SPA",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-6b06254c",
-      "title": "心斎橋パルコ／6月オニツカタイガーなど新規・移転5店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s060316.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-03",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "diamond-11eed94e",
-      "title": "ベイシア相木社長、就任4年で描いてきた成長軌道　「首都圏攻勢」の秘策とは",
-      "url": "https://diamond-rm.net/management/topinterview/545859/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-03",
-      "tags": [
-        "ベイシア",
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-53837113",
-      "title": "第１０４回　「まるきり違う思想」を教わった",
-      "url": "https://diamond-rm.net/life-career/542174/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-06-03",
-      "tags": []
-    },
-    {
-      "id": "diamond-4b09c04d",
-      "title": "日本の小売業が低価格／ローコスト運営だけで「勝てなくなった」時代に勝ち筋をどう描けばいいか",
-      "url": "https://diamond-rm.net/management/marketing/545858/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
       "date": "2026-06-03",
       "tags": []
     }
