@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T07:57:23.820Z",
+  "lastUpdated": "2026-06-15T14:06:38.216Z",
   "items": [
     {
       "id": "ryutsuu-dfaf3d0b",
@@ -127,18 +127,6 @@
       ]
     },
     {
-      "id": "diamond-610569ec",
-      "title": "業績好調の中、なぜブルーゾーンHDに参画したのか？クックマート白井社長が語る",
-      "url": "https://diamond-rm.net/management/topinterview/547551/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-15",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-42d2bec3",
       "title": "セブン-イレブン、電通・サイバーエージェントと合弁会社を設立　リテールメディア事業に本腰",
       "url": "https://diamond-rm.net/management/548527/",
@@ -149,19 +137,6 @@
       "tags": [
         "セブン-イレブン",
         "リテールメディア"
-      ]
-    },
-    {
-      "id": "diamond-bbcf1002",
-      "title": "三菱食品 伊藤社長インタビュー　新たな経営体制で「食品卸」の価値を最大化する",
-      "url": "https://diamond-rm.net/management/topinterview/547573/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-15",
-      "tags": [
-        "食品",
-        "社長"
       ]
     },
     {
@@ -193,6 +168,19 @@
       "category": "経営戦略",
       "date": "2026-06-15",
       "tags": []
+    },
+    {
+      "id": "diamond-bbcf1002",
+      "title": "三菱食品 伊藤社長インタビュー　新たな経営体制で「食品卸」の価値を最大化する",
+      "url": "https://diamond-rm.net/management/topinterview/547573/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-15",
+      "tags": [
+        "食品",
+        "社長"
+      ]
     },
     {
       "id": "diamond-162fc986",
@@ -247,6 +235,18 @@
       "tags": [
         "ヤオコー",
         "新店"
+      ]
+    },
+    {
+      "id": "diamond-610569ec",
+      "title": "業績好調の中、なぜブルーゾーンHDに参画したのか？クックマート白井社長が語る",
+      "url": "https://diamond-rm.net/management/topinterview/547551/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-15",
+      "tags": [
+        "社長"
       ]
     },
     {
@@ -312,22 +312,50 @@
       ]
     },
     {
+      "id": "ssnp-5f1a7f6d",
+      "title": "【UHA味覚糖】「忍者めし」キャラクターが自分の顔に…プリントサービス展開　大阪で\n\t\t\t\t\t\t\t\t\t\t\t\tUHA味覚糖は6月15日、大阪市中央区の本社ビル内の「UHA PARK & CAFE」で、「忍者めし 巨峰」のパッケージをオリジナルデザインにできるプリントサービスを開始した。 パッケージに描かれたキャラクターの...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/689037/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-06-15",
+      "tags": []
+    },
+    {
+      "id": "ssnp-a27a381c",
+      "title": "ピザハット、新規会員登録で対象ピザが持ち帰り590円･配達990円【1カ月限定キャンペーン】\n\t\t\t\t\t\t\t\t\t\t\t\t日本ピザハットは6月11日から7月16日までの期間限定で、新規会員登録者を対象に、Mサイズピザ2種類を持ち帰り590円、配達990円で購入できるクーポンをプレゼントするキャンペーンを実施する。 対象商品は人気No.1の「...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/689026/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-15",
+      "tags": []
+    },
+    {
+      "id": "ssnp-829d6600",
+      "title": "値ごろ感のある『銀しゃりむすび』シリーズを新発売!【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/689007/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-06-15",
+      "tags": []
+    },
+    {
       "id": "ssnp-12a64c34",
-      "title": "“過去最大規模”「Afternoon Tea」監修フェア開催　スイーツや新登場のアルコール飲料など、28商品展開【ファミマ】\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーマートは6月16日、紅茶ブランド「Afternoon Tea」監修の「アフタヌーンティー」フェアを全国の約1万6,400店で開始する。 “過去最大規模”のコラボとして、プリンや焼き菓子のほか、パン、アイス、飲料...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "“過去最大規模”「Afternoon Tea」監修フェア開催　スイーツや新登場のアルコール飲料など、28商品展開【ファミマ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/688964/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
       "date": "2026-06-15",
       "tags": [
-        "ファミリーマート",
-        "飲料",
-        "菓子"
+        "飲料"
       ]
     },
     {
       "id": "ssnp-e0596acf",
-      "title": "【ペッパーランチ】6月26日から5日間限定「肉の日WEEK」開催、対象商品のお肉を29%増量\n\t\t\t\t\t\t\t\t\t\t\t\t株式会社ホットパレットは、6月26日(金)から6月30日(火)までの5日間限定で、ペッパーランチ、ペッパーランチPLUS、武蔵ハンバーグ、ロックスハンバーグの全店(一部店舗を除く)にて「肉の日WEEK」を実施する。 毎月...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【ペッパーランチ】6月26日から5日間限定「肉の日WEEK」開催、対象商品のお肉を29%増量\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/688954/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -688,21 +716,6 @@
       ]
     },
     {
-      "id": "diamond-4129c955",
-      "title": "週刊スーパーマーケットニュース　イトーヨーカ堂「ポッポ」の冷凍食品が50万食突破",
-      "url": "https://diamond-rm.net/management/businessplan/548389/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-12",
-      "tags": [
-        "イトーヨーカ堂",
-        "スーパー",
-        "冷凍食品",
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-c62ad965",
       "title": "東京・渋谷に出店! 家具EC「LOWYA」が仕掛ける実店舗戦略の現在地",
       "url": "https://diamond-rm.net/management/548011/",
@@ -913,6 +926,21 @@
       "category": "foodservice",
       "date": "2026-06-12",
       "tags": []
+    },
+    {
+      "id": "diamond-4129c955",
+      "title": "週刊スーパーマーケットニュース　イトーヨーカ堂「ポッポ」の冷凍食品が50万食突破",
+      "url": "https://diamond-rm.net/management/businessplan/548389/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-12",
+      "tags": [
+        "イトーヨーカ堂",
+        "スーパー",
+        "冷凍食品",
+        "食品"
+      ]
     },
     {
       "id": "ryutsuu-96463376",
@@ -2251,14 +2279,36 @@
       ]
     },
     {
-      "id": "diamond-2f001f01",
-      "title": "競合から“仲間”に　「ゆめマート」「サニー」の至近競合が占うイズミの「新SM」の成否",
-      "url": "https://diamond-rm.net/management/businessplan/547561/",
+      "id": "diamond-57acd33d",
+      "title": "「新しい船」を創造する！　中四国の雄・イズミ、不退転の覚悟で挑む大変革の行方",
+      "url": "https://diamond-rm.net/management/businessplan/547556/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
       "date": "2026-06-08",
       "tags": []
+    },
+    {
+      "id": "diamond-e3b52ca1",
+      "title": "山西会長独白　イズミがこれからの10年で描き出す「新しい船」の設計図",
+      "url": "https://diamond-rm.net/management/topinterview/547557/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-f79ff6bb",
+      "title": "イズミ町田繁樹社長が示す「地域の総合生活産業」への道筋",
+      "url": "https://diamond-rm.net/management/topinterview/547558/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": [
+        "社長"
+      ]
     },
     {
       "id": "diamond-11439eb9",
@@ -2409,6 +2459,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-2f001f01",
+      "title": "競合から“仲間”に　「ゆめマート」「サニー」の至近競合が占うイズミの「新SM」の成否",
+      "url": "https://diamond-rm.net/management/businessplan/547561/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-06-08",
       "tags": []
     },
@@ -2585,28 +2645,6 @@
       ]
     },
     {
-      "id": "diamond-e3b52ca1",
-      "title": "山西会長独白　イズミがこれからの10年で描き出す「新しい船」の設計図",
-      "url": "https://diamond-rm.net/management/topinterview/547557/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": []
-    },
-    {
-      "id": "diamond-f79ff6bb",
-      "title": "イズミ町田繁樹社長が示す「地域の総合生活産業」への道筋",
-      "url": "https://diamond-rm.net/management/topinterview/547558/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-284bb997",
       "title": "イズミの知られざる“最強開発部隊”　新設されたデベロッパー本部に潜入取材！",
       "url": "https://diamond-rm.net/management/businessplan/547569/",
@@ -2627,16 +2665,6 @@
       "tags": [
         "ライフ"
       ]
-    },
-    {
-      "id": "diamond-57acd33d",
-      "title": "「新しい船」を創造する！　中四国の雄・イズミ、不退転の覚悟で挑む大変革の行方",
-      "url": "https://diamond-rm.net/management/businessplan/547556/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": []
     },
     {
       "id": "ryutsuu-54362040",
@@ -3404,38 +3432,6 @@
       "tags": [
         "松屋"
       ]
-    },
-    {
-      "id": "ssnp-4b2fe786",
-      "title": "【銀だこ】サッカー日本代表デザインの限定だんらんパック発売、6月8日から数量限定販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/687467/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-04",
-      "tags": []
-    },
-    {
-      "id": "ssnp-a34766c5",
-      "title": "【サブウェイ】ローストビーフサンドをリニューアル、クッキーの新ラインアップ『ダブルチョコクッキー』も登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/687459/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-04",
-      "tags": [
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "ssnp-12143625",
-      "title": "【ミニストップ】十勝ハッシュドポテトに新フレーバー!クリーミーな酸味とオニオンが香る「サワークリームオニオン風味」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/687451/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-06-04",
-      "tags": []
     }
   ]
 }
