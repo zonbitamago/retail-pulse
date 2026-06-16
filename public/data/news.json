@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T19:20:01.684Z",
+  "lastUpdated": "2026-06-16T00:49:45.204Z",
   "items": [
     {
       "id": "ryutsuu-3368914b",
@@ -14,6 +14,55 @@
         "値上げ",
         "通販",
         "物流"
+      ]
+    },
+    {
+      "id": "diamond-1234d19b",
+      "title": "ベイシアの新たなDS業態「ココトク！」が誕生！　売場の全貌を徹底レポート",
+      "url": "https://diamond-rm.net/store/548595/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-16",
+      "tags": [
+        "ベイシア"
+      ]
+    },
+    {
+      "id": "diamond-9d1f14f4",
+      "title": "PLの先にある真実――ワークマンとyutoriが直面する「ビジネスOSの限界」",
+      "url": "https://diamond-rm.net/market/accounting/548219/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-16",
+      "tags": [
+        "ワークマン"
+      ]
+    },
+    {
+      "id": "diamond-6b161028",
+      "title": "ホームセンターを近隣型ショッピングセンターに転換！ 「コトエ橋本」が見せた新戦略とは",
+      "url": "https://diamond-rm.net/store/newstorereport/548467/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-16",
+      "tags": [
+        "ショッピングセンター",
+        "ホームセンター"
+      ]
+    },
+    {
+      "id": "ssnp-32aee071",
+      "title": "【ヨックモック】割って楽しむ“飲むクッキー”新発売　シガールから着想、東京駅限定\n\t\t\t\t\t\t\t\t\t\t\t\tヨックモックは6月19日、ヨックモック東京駅一番街店限定で、新デザート「クーシェ（COO-CHE）」（税込780円）の販売を開始する。 「クーシェ」は、ヨックモックを代表する焼き菓子「シガール」から着想を得て開発したデザ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/689030/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-06-16",
+      "tags": [
+        "菓子"
       ]
     },
     {
@@ -155,16 +204,6 @@
       ]
     },
     {
-      "id": "diamond-dafd33d5",
-      "title": "大型再編劇が頻発！業態別に占う、2026年流通小売の勢力図",
-      "url": "https://diamond-rm.net/management/ma/545882/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-15",
-      "tags": []
-    },
-    {
       "id": "diamond-233dc2dd",
       "title": "第１１２回　氏家齊一郎登場",
       "url": "https://diamond-rm.net/life-career/542182/",
@@ -265,29 +304,6 @@
       ]
     },
     {
-      "id": "diamond-873f84fe",
-      "title": "アマゾンも強化する「AIボイスアシスタント」は購買体験をどう変えるか",
-      "url": "https://diamond-rm.net/technology/ai/547550/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-06-15",
-      "tags": [
-        "アマゾン",
-        "AI"
-      ]
-    },
-    {
-      "id": "diamond-84e0592b",
-      "title": "海外で脚光浴びるエージェンティックコマース　日本の流通業はどう向き合うべきか？",
-      "url": "https://diamond-rm.net/technology/ai/547549/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-06-15",
-      "tags": []
-    },
-    {
       "id": "diamond-a3992448",
       "title": "イオンが新中計を発表 「営業収益15兆円」の壮大な目標達成なるか",
       "url": "https://diamond-rm.net/market/547547/",
@@ -327,6 +343,29 @@
       ]
     },
     {
+      "id": "diamond-873f84fe",
+      "title": "アマゾンも強化する「AIボイスアシスタント」は購買体験をどう変えるか",
+      "url": "https://diamond-rm.net/technology/ai/547550/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-06-15",
+      "tags": [
+        "アマゾン",
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-84e0592b",
+      "title": "海外で脚光浴びるエージェンティックコマース　日本の流通業はどう向き合うべきか？",
+      "url": "https://diamond-rm.net/technology/ai/547549/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-06-15",
+      "tags": []
+    },
+    {
       "id": "ssnp-5f1a7f6d",
       "title": "【UHA味覚糖】「忍者めし」キャラクターが自分の顔に…プリントサービス展開　大阪で\n\t\t\t\t\t\t\t\t\t\t\t\tUHA味覚糖は6月15日、大阪市中央区の本社ビル内の「UHA PARK & CAFE」で、「忍者めし 巨峰」のパッケージをオリジナルデザインにできるプリントサービスを開始した。 パッケージに描かれたキャラクターの...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/689037/",
@@ -338,7 +377,7 @@
     },
     {
       "id": "ssnp-a27a381c",
-      "title": "ピザハット、新規会員登録で対象ピザが持ち帰り590円･配達990円【1カ月限定キャンペーン】\n\t\t\t\t\t\t\t\t\t\t\t\t日本ピザハットは6月11日から7月16日までの期間限定で、新規会員登録者を対象に、Mサイズピザ2種類を持ち帰り590円、配達990円で購入できるクーポンをプレゼントするキャンペーンを実施する。 対象商品は人気No.1の「...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ピザハット、新規会員登録で対象ピザが持ち帰り590円･配達990円【1カ月限定キャンペーン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/689026/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -539,6 +578,16 @@
       ]
     },
     {
+      "id": "diamond-dafd33d5",
+      "title": "大型再編劇が頻発！業態別に占う、2026年流通小売の勢力図",
+      "url": "https://diamond-rm.net/management/ma/545882/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-15",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-9eeac562",
       "title": "サンドラッグ／京都市左京区に「松ケ崎店」6月14日オープン",
       "url": "https://www.ryutsuu.biz/store/s061545.html",
@@ -728,20 +777,6 @@
       "tags": [
         "EC",
         "AI"
-      ]
-    },
-    {
-      "id": "diamond-c62ad965",
-      "title": "東京・渋谷に出店! 家具EC「LOWYA」が仕掛ける実店舗戦略の現在地",
-      "url": "https://diamond-rm.net/management/548011/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-12",
-      "tags": [
-        "EC",
-        "家具",
-        "出店"
       ]
     },
     {
@@ -941,6 +976,20 @@
       "category": "foodservice",
       "date": "2026-06-12",
       "tags": []
+    },
+    {
+      "id": "diamond-c62ad965",
+      "title": "東京・渋谷に出店! 家具EC「LOWYA」が仕掛ける実店舗戦略の現在地",
+      "url": "https://diamond-rm.net/management/548011/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-12",
+      "tags": [
+        "EC",
+        "家具",
+        "出店"
+      ]
     },
     {
       "id": "diamond-4129c955",
@@ -2314,18 +2363,6 @@
       "tags": []
     },
     {
-      "id": "diamond-f79ff6bb",
-      "title": "イズミ町田繁樹社長が示す「地域の総合生活産業」への道筋",
-      "url": "https://diamond-rm.net/management/topinterview/547558/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-11439eb9",
       "title": "波に乗るイズミのネットスーパー事業　黒字化モデル蓄積し新フェーズ突入へ",
       "url": "https://diamond-rm.net/ec-epayment/net-super/547570/",
@@ -2466,6 +2503,18 @@
       "category": "流通",
       "date": "2026-06-08",
       "tags": []
+    },
+    {
+      "id": "diamond-f79ff6bb",
+      "title": "イズミ町田繁樹社長が示す「地域の総合生活産業」への道筋",
+      "url": "https://diamond-rm.net/management/topinterview/547558/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": [
+        "社長"
+      ]
     },
     {
       "id": "ssnp-0254a227",
@@ -3389,50 +3438,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
-      "date": "2026-06-04",
-      "tags": []
-    },
-    {
-      "id": "ssnp-56b95c84",
-      "title": "【びっくりドンキー】ピーチデザート4品を期間限定で販売!パフェやサンデー、シフォンケーキなど\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/687514/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-04",
-      "tags": []
-    },
-    {
-      "id": "ssnp-786b9f5a",
-      "title": "外食店で広く使われる「ジェフダ」ロゴ刷新　2030年の50周年を見据えブランド強化\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/687509/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-04",
-      "tags": [
-        "外食"
-      ]
-    },
-    {
-      "id": "ssnp-1862502e",
-      "title": "【Jオイル】「美味得徳こくアップオイル」特に注力、「AV‐CHECK」でコスト削減提案\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/687501/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-06-04",
-      "tags": [
-        "EC"
-      ]
-    },
-    {
-      "id": "ssnp-e77c0444",
-      "title": "【セブン‐イレブン】韓国グルメフェア第2弾!二度焼きクリスピー生地の「クロッチ」や「チヂミパン」など新登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/687475/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
       "date": "2026-06-04",
       "tags": []
     }
