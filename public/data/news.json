@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T07:49:32.766Z",
+  "lastUpdated": "2026-06-17T13:14:32.957Z",
   "items": [
     {
       "id": "ryutsuu-30f49dc8",
@@ -161,6 +161,20 @@
       "date": "2026-06-17",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "diamond-88f5f6c3",
+      "title": "週刊コンビニエンスストアニュース 「ローソンアプリ」が累計4000万ダウンロードを突破",
+      "url": "https://diamond-rm.net/management/548590/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-17",
+      "tags": [
+        "ローソン",
+        "コンビニ",
+        "アプリ"
       ]
     },
     {
@@ -444,18 +458,6 @@
       ]
     },
     {
-      "id": "diamond-1234d19b",
-      "title": "ベイシアの新たなDS業態「ココトク！」が誕生！　売場の全貌を徹底レポート",
-      "url": "https://diamond-rm.net/store/548595/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-16",
-      "tags": [
-        "ベイシア"
-      ]
-    },
-    {
       "id": "diamond-5c729b59",
       "title": "【動画】6月2週目の注目ニュースまとめ、各社新業態のオープン、新たな取り組みなど",
       "url": "https://diamond-rm.net/management/businessplan/548559/",
@@ -510,6 +512,18 @@
       "date": "2026-06-16",
       "tags": [
         "ワークマン"
+      ]
+    },
+    {
+      "id": "diamond-1234d19b",
+      "title": "ベイシアの新たなDS業態「ココトク！」が誕生！　売場の全貌を徹底レポート",
+      "url": "https://diamond-rm.net/store/548595/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-16",
+      "tags": [
+        "ベイシア"
       ]
     },
     {
@@ -765,6 +779,19 @@
       ]
     },
     {
+      "id": "diamond-31f960d7",
+      "title": "朝だけで月商1000万円！？ネットスーパーの「早朝便」がもたらした成果",
+      "url": "https://diamond-rm.net/ec-epayment/net-super/547548/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "ec-epayment",
+      "date": "2026-06-15",
+      "tags": [
+        "ネットスーパー",
+        "スーパー"
+      ]
+    },
+    {
       "id": "diamond-cff561d1",
       "title": "ライフの自然派PB「ビオラル」、ついに売上高100億円突破の背景とこれから",
       "url": "https://diamond-rm.net/market/547546/",
@@ -808,19 +835,6 @@
       "date": "2026-06-15",
       "tags": [
         "イオン"
-      ]
-    },
-    {
-      "id": "diamond-31f960d7",
-      "title": "朝だけで月商1000万円！？ネットスーパーの「早朝便」がもたらした成果",
-      "url": "https://diamond-rm.net/ec-epayment/net-super/547548/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "ec-epayment",
-      "date": "2026-06-15",
-      "tags": [
-        "ネットスーパー",
-        "スーパー"
       ]
     },
     {
@@ -3018,6 +3032,16 @@
       ]
     },
     {
+      "id": "diamond-479418d1",
+      "title": "流通アナリストが財務から読み解く、イズミの強さと今後の行方",
+      "url": "https://diamond-rm.net/management/businessplan/547571/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
       "id": "diamond-11439eb9",
       "title": "波に乗るイズミのネットスーパー事業　黒字化モデル蓄積し新フェーズ突入へ",
       "url": "https://diamond-rm.net/ec-epayment/net-super/547570/",
@@ -3281,16 +3305,6 @@
       ]
     },
     {
-      "id": "diamond-479418d1",
-      "title": "流通アナリストが財務から読み解く、イズミの強さと今後の行方",
-      "url": "https://diamond-rm.net/management/businessplan/547571/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": []
-    },
-    {
       "id": "diamond-9f6ecc5d",
       "title": "ゆめマート熊本・山野社長が激白！「イズミ×サニー」のシナジーを“2段ロケット”で創出",
       "url": "https://diamond-rm.net/management/topinterview/547560/",
@@ -3441,20 +3455,6 @@
       "category": "店舗",
       "date": "2026-06-08",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-994cdbaa",
-      "title": "タカハシ／千葉県に衣料品ディスカウント型店舗「鎌ヶ谷店」をオープン",
-      "url": "https://www.ryutsuu.biz/store/s060812.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-08",
-      "tags": [
-        "ディスカウント",
-        "オープン",
-        "衣料品"
-      ]
     }
   ]
 }
