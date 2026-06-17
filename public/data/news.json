@@ -1,6 +1,57 @@
 {
-  "lastUpdated": "2026-06-16T19:13:00.566Z",
+  "lastUpdated": "2026-06-17T00:44:18.154Z",
   "items": [
+    {
+      "id": "diamond-7e28d0e8",
+      "title": "神戸牛の牛めしも！　百貨店の「松屋」に牛丼チェーンの「松屋」が出店のねらい",
+      "url": "https://diamond-rm.net/store/newstorereport/548575/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-17",
+      "tags": [
+        "百貨店",
+        "松屋",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-f615a4e9",
+      "title": "コンセも逃げ出すほど凋落する量販店衣料品はどうなるのか",
+      "url": "https://diamond-rm.net/management/businessplan/548109/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-17",
+      "tags": [
+        "衣料品"
+      ]
+    },
+    {
+      "id": "diamond-1063d8b6",
+      "title": "AIフル活用で”感情訴求”から脱却　キューサイ・マーケティング改革の舞台裏",
+      "url": "https://diamond-rm.net/management/546226/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-17",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ssnp-bfbe8a79",
+      "title": "マクドナルド「スーパーマリオ」ハッピーセット第2弾発売　ピーチ姫やクッパ、ファイアマリオが登場\n\t\t\t\t\t\t\t\t\t\t\t\t日本マクドナルドは6月19日、ハッピーセット「ザ・スーパーマリオギャラクシー・ムービー」第2弾の販売を全国のマクドナルド（一部店舗を除く）で開始する。 現在公開中の任天堂とイルミネーションによる映画『ザ・スーパーマリオギ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/689122/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-17",
+      "tags": [
+        "マクドナルド",
+        "スーパー"
+      ]
+    },
     {
       "id": "ryutsuu-19e8a89f",
       "title": "大丸神戸店／デパ地下リニューアル、茅乃舎など4つの和ブランドを新規出店・改装",
@@ -166,31 +217,6 @@
       ]
     },
     {
-      "id": "diamond-9d1f14f4",
-      "title": "PLの先にある真実――ワークマンとyutoriが直面する「ビジネスOSの限界」",
-      "url": "https://diamond-rm.net/market/accounting/548219/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-06-16",
-      "tags": [
-        "ワークマン"
-      ]
-    },
-    {
-      "id": "diamond-6b161028",
-      "title": "ホームセンターを近隣型ショッピングセンターに転換！ 「コトエ橋本」が見せた新戦略とは",
-      "url": "https://diamond-rm.net/store/newstorereport/548467/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-16",
-      "tags": [
-        "ショッピングセンター",
-        "ホームセンター"
-      ]
-    },
-    {
       "id": "diamond-5c729b59",
       "title": "【動画】6月2週目の注目ニュースまとめ、各社新業態のオープン、新たな取り組みなど",
       "url": "https://diamond-rm.net/management/businessplan/548559/",
@@ -236,6 +262,31 @@
       "tags": []
     },
     {
+      "id": "diamond-9d1f14f4",
+      "title": "PLの先にある真実――ワークマンとyutoriが直面する「ビジネスOSの限界」",
+      "url": "https://diamond-rm.net/market/accounting/548219/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-16",
+      "tags": [
+        "ワークマン"
+      ]
+    },
+    {
+      "id": "diamond-6b161028",
+      "title": "ホームセンターを近隣型ショッピングセンターに転換！ 「コトエ橋本」が見せた新戦略とは",
+      "url": "https://diamond-rm.net/store/newstorereport/548467/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-16",
+      "tags": [
+        "ショッピングセンター",
+        "ホームセンター"
+      ]
+    },
+    {
       "id": "ssnp-c2f317f1",
       "title": "【牛角】平日限定「焼肉酒場セット」2178円注文で「スタミナWガーリックカルビ」1皿無料キャンペーン開催\n\t\t\t\t\t\t\t\t\t\t\t\t焼肉チェーンの「牛角」は、6月22日から7月14日までの平日限定で、「焼肉酒場セット」注文者を対象に「スタミナWガーリックカルビ」(ハーフサイズ)を1人1皿無料で提供するキャンペーンを実施する。 〈平日限定の人気メニュー...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/689161/",
@@ -247,15 +298,13 @@
     },
     {
       "id": "ssnp-2d1a9a34",
-      "title": "コメダ珈琲店、夏恒例「カリー祭り」開催　新作「カリーナンドッグ」「アサイーミックスラッシー」発売\n\t\t\t\t\t\t\t\t\t\t\t\tコメダ珈琲店は6月24日から、全国の店舗で季節限定フェア「カリー祭り」を開催する。 今年は新宿中村屋監修のカリーソースを使用したスナック4品と、カリーとの相性を意識したドリンク2品を展開する。販売期間は7月中旬までを予定...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "コメダ珈琲店、夏恒例「カリー祭り」開催　新作「カリーナンドッグ」「アサイーミックスラッシー」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/689147/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-06-16",
-      "tags": [
-        "スナック"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-83a5ca38",
@@ -352,16 +401,6 @@
       ]
     },
     {
-      "id": "diamond-162fc986",
-      "title": "北東北で爆発的集客力誇る「カブセンター」、岩手1号店の実力を現地調査！",
-      "url": "https://diamond-rm.net/store/storevisit/547572/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-15",
-      "tags": []
-    },
-    {
       "id": "diamond-cff561d1",
       "title": "ライフの自然派PB「ビオラル」、ついに売上高100億円突破の背景とこれから",
       "url": "https://diamond-rm.net/market/547546/",
@@ -374,6 +413,16 @@
         "売上高",
         "PB"
       ]
+    },
+    {
+      "id": "diamond-162fc986",
+      "title": "北東北で爆発的集客力誇る「カブセンター」、岩手1号店の実力を現地調査！",
+      "url": "https://diamond-rm.net/store/storevisit/547572/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-15",
+      "tags": []
     },
     {
       "id": "diamond-233dc2dd",
@@ -396,32 +445,9 @@
       "tags": []
     },
     {
-      "id": "diamond-bbcf1002",
-      "title": "三菱食品 伊藤社長インタビュー　新たな経営体制で「食品卸」の価値を最大化する",
-      "url": "https://diamond-rm.net/management/topinterview/547573/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-15",
-      "tags": [
-        "食品",
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-e14b8aac",
       "title": "地元信金と連携！東急ストアフードステーション元住吉店の売場づくりを解説",
       "url": "https://diamond-rm.net/store/newstorereport/547555/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-15",
-      "tags": []
-    },
-    {
-      "id": "diamond-18d12a1d",
-      "title": "新生ダイエーの新フォーマット 2 号店「フードスタイル十三東店」の売場を徹底分析",
-      "url": "https://diamond-rm.net/store/newstorereport/547554/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "店舗",
@@ -473,6 +499,16 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "テクノロジー",
+      "date": "2026-06-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-18d12a1d",
+      "title": "新生ダイエーの新フォーマット 2 号店「フードスタイル十三東店」の売場を徹底分析",
+      "url": "https://diamond-rm.net/store/newstorereport/547554/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
       "date": "2026-06-15",
       "tags": []
     },
@@ -698,6 +734,19 @@
       "date": "2026-06-15",
       "tags": [
         "スターバックス"
+      ]
+    },
+    {
+      "id": "diamond-bbcf1002",
+      "title": "三菱食品 伊藤社長インタビュー　新たな経営体制で「食品卸」の価値を最大化する",
+      "url": "https://diamond-rm.net/management/topinterview/547573/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-15",
+      "tags": [
+        "食品",
+        "社長"
       ]
     },
     {
@@ -2605,16 +2654,6 @@
       ]
     },
     {
-      "id": "diamond-57acd33d",
-      "title": "「新しい船」を創造する！　中四国の雄・イズミ、不退転の覚悟で挑む大変革の行方",
-      "url": "https://diamond-rm.net/management/businessplan/547556/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": []
-    },
-    {
       "id": "diamond-11439eb9",
       "title": "波に乗るイズミのネットスーパー事業　黒字化モデル蓄積し新フェーズ突入へ",
       "url": "https://diamond-rm.net/ec-epayment/net-super/547570/",
@@ -2660,6 +2699,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
+      "date": "2026-06-08",
+      "tags": []
+    },
+    {
+      "id": "diamond-57acd33d",
+      "title": "「新しい船」を創造する！　中四国の雄・イズミ、不退転の覚悟で挑む大変革の行方",
+      "url": "https://diamond-rm.net/management/businessplan/547556/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-06-08",
       "tags": []
     },
@@ -3397,48 +3446,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
-      "date": "2026-06-05",
-      "tags": []
-    },
-    {
-      "id": "ssnp-8ba8a4f7",
-      "title": "ネスレ日本、島川基氏が社長兼CEOに 深谷龍彦氏は6月末で退任\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/687669/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-06-05",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
-      "id": "ssnp-11dde041",
-      "title": "松のや、人気スタミナメニュー「にんにく醤油の“揚げる”厚切り豚テキ･鶏テキ」復活\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/687660/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-05",
-      "tags": []
-    },
-    {
-      "id": "ssnp-5b975933",
-      "title": "Umios、「新中華街」シリーズから夏向けに「酸辣焼そば」を発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/frozen/687655/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "冷凍食品",
-      "date": "2026-06-05",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f8d02023",
-      "title": "【新しい挑戦を続ける老舗みそメーカー役員に聞く】ハナマルキ･平田伸行取締役/25年は塩こうじ事業で20億円を達成、PRと人材強化で売上に寄与\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/687652/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
       "date": "2026-06-05",
       "tags": []
     }
