@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T07:39:56.140Z",
+  "lastUpdated": "2026-06-18T13:08:15.924Z",
   "items": [
     {
       "id": "ryutsuu-30c1d785",
@@ -131,6 +131,20 @@
       "tags": []
     },
     {
+      "id": "diamond-dc49721e",
+      "title": "週刊スーパーマーケットニュース　ライフがネットスーパー顧客満足度調査で2年連続1位",
+      "url": "https://diamond-rm.net/management/businessplan/548779/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-18",
+      "tags": [
+        "ネットスーパー",
+        "スーパー",
+        "ライフ"
+      ]
+    },
+    {
       "id": "diamond-3f9a6cb5",
       "title": "第１１５回　渥美の意地",
       "url": "https://diamond-rm.net/life-career/542185/",
@@ -202,27 +216,56 @@
       ]
     },
     {
+      "id": "ssnp-eb7569e0",
+      "title": "サントリーBF、11月1日から131品を価格改定 「クラフトボス」「伊右衛門」など\n\t\t\t\t\t\t\t\t\t\t\t\tサントリービバレッジ&フードは、2026年11月1日出荷分から、日本国内で販売する一部の商品について価格改定を実施する。6月18日に発表した。 対象は同社商品の約55%にあたる131品目で、同社の主要ブランドを含...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/689729/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-06-18",
+      "tags": [
+        "価格改定"
+      ]
+    },
+    {
+      "id": "ssnp-11ba2c5d",
+      "title": "バーガーキング、牛バラステーキと直火焼きビーフを重ねた『BBQステーキワッパー』発売\n\t\t\t\t\t\t\t\t\t\t\t\tバーガーキングは、直火焼きの100％ビーフパティに牛バラステーキを重ね、10種のスパイスをブレンドした「特製BBQスパイスソース」で仕上げた『BBQステーキワッパー』『チーズBBQステーキワッパー』『ダブルBBQステーキ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/689711/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-18",
+      "tags": []
+    },
+    {
+      "id": "ssnp-d3b07ee6",
+      "title": "大関、50年続いたロングセラー甘酒の瓶入り商品を製造終了　1974年発売「大関 甘酒190G瓶詰」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/liquor/689704/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "liquor",
+      "date": "2026-06-18",
+      "tags": []
+    },
+    {
       "id": "ssnp-33c438e7",
-      "title": "ザクザク氷×シュワシュワ炭酸の夏限定ドリンク「ザ･クラッシュソーダ」2品登場!【サーティワン】\n\t\t\t\t\t\t\t\t\t\t\t\tB‐R サーティワン アイスクリームは、2026年6月23日から8月31日までの間、ザクザク氷とシュワシュワ炭酸を組み合わせた「ザ･クラッシュソーダ」を発売する。リニューアルした毎年人気の「メロン&ブルー」、新作...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ザクザク氷×シュワシュワ炭酸の夏限定ドリンク「ザ･クラッシュソーダ」2品登場!【サーティワン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/689694/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-06-18",
-      "tags": [
-        "リニューアル"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-acf1dd9b",
-      "title": "じゅうじゅうカルビ、具材約2倍の「デカ盛り弁当」新登場　テイクアウト全店展開へ\n\t\t\t\t\t\t\t\t\t\t\t\tすかいらーくグループのトマトアンドアソシエイツが展開する焼肉食べ放題「じゅうじゅうカルビ」は6月18日、これまで一部店舗限定で実施してきたテイクアウト販売を全43店舗（2026年5月31日時点）へ拡大した。 あわせて、対...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "じゅうじゅうカルビ、具材約2倍の「デカ盛り弁当」新登場　テイクアウト全店展開へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/689674/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-06-18",
       "tags": [
-        "すかいらーく",
         "弁当"
       ]
     },
@@ -347,19 +390,6 @@
       ]
     },
     {
-      "id": "ryutsuu-30f49dc8",
-      "title": "パルコ／商業施設の問い合わせ対応を自動化する「AIアシスタント」提供開始",
-      "url": "https://www.ryutsuu.biz/it/s061773.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-06-17",
-      "tags": [
-        "自動化",
-        "AI"
-      ]
-    },
-    {
       "id": "ryutsuu-d0402090",
       "title": "外用鎮痛・消炎薬 売上ランキング／3～5月は「ニューアンメルツヨコヨコA」が1位",
       "url": "https://www.ryutsuu.biz/pos/s061741.html",
@@ -390,16 +420,6 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "life-career",
-      "date": "2026-06-17",
-      "tags": []
-    },
-    {
-      "id": "diamond-243ec270",
-      "title": "「豆乳」が金額PI・数量PIとも2ケタ増、カフェのソイラテ需要が市場を押し上げ",
-      "url": "https://diamond-rm.net/sales-promotion/547578/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
       "date": "2026-06-17",
       "tags": []
     },
@@ -440,6 +460,16 @@
         "松屋",
         "出店"
       ]
+    },
+    {
+      "id": "diamond-243ec270",
+      "title": "「豆乳」が金額PI・数量PIとも2ケタ増、カフェのソイラテ需要が市場を押し上げ",
+      "url": "https://diamond-rm.net/sales-promotion/547578/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-17",
+      "tags": []
     },
     {
       "id": "diamond-234f761e",
@@ -686,6 +716,19 @@
       "tags": [
         "マクドナルド",
         "スーパー"
+      ]
+    },
+    {
+      "id": "ryutsuu-30f49dc8",
+      "title": "パルコ／商業施設の問い合わせ対応を自動化する「AIアシスタント」提供開始",
+      "url": "https://www.ryutsuu.biz/it/s061773.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-06-17",
+      "tags": [
+        "自動化",
+        "AI"
       ]
     },
     {
@@ -3424,55 +3467,6 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": []
-    },
-    {
-      "id": "diamond-11439eb9",
-      "title": "波に乗るイズミのネットスーパー事業　黒字化モデル蓄積し新フェーズ突入へ",
-      "url": "https://diamond-rm.net/ec-epayment/net-super/547570/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "ec-epayment",
-      "date": "2026-06-08",
-      "tags": [
-        "ネットスーパー",
-        "スーパー",
-        "黒字"
-      ]
-    },
-    {
-      "id": "ssnp-ad4920d7",
-      "title": "信州ハム・軽井沢工房が長野駅ビルのMIDORI 長野店をリニューアル、長野県産豚肉を使ったハムソーで「長野駅で味わう軽井沢の食文化」を発信\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/meat/688111/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "畜産",
-      "date": "2026-06-08",
-      "tags": [
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "ssnp-e617fa4c",
-      "title": "キリンビバレッジ、10月から清涼飲料の一部商品を5～18％値上げ　「午後の紅茶」500mlPETは200円から220円に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/688102/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-06-08",
-      "tags": [
-        "値上げ",
-        "飲料"
-      ]
-    },
-    {
-      "id": "ssnp-6f50bb06",
-      "title": "ギンビス、「たべっ子どうぶつ」「しみチョココーン」から夏限定の４商品を発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/688095/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
       "date": "2026-06-08",
       "tags": []
     }
