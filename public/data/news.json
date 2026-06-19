@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-18T18:48:05.950Z",
+  "lastUpdated": "2026-06-19T00:49:23.083Z",
   "items": [
+    {
+      "id": "diamond-69c3b9b4",
+      "title": "コンビニの中にパウダースペース⁉ 　セブン-イレブン、勝負の一手で若年層取り込む",
+      "url": "https://diamond-rm.net/sales-promotion/548541/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-19",
+      "tags": [
+        "セブン-イレブン",
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-01a2a91c",
+      "title": "めざすは年間売上高1億円！　万代がカインズPBを導入拡大する理由",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/546526/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-19",
+      "tags": [
+        "カインズ",
+        "売上高",
+        "PB"
+      ]
+    },
     {
       "id": "ryutsuu-30c1d785",
       "title": "メルカリ／米国で「メルカリ グローバルアプリ」提供開始、越境取引事業の拡大加速",
@@ -121,16 +148,6 @@
       ]
     },
     {
-      "id": "diamond-e96b587b",
-      "title": "平日ランチは「自炊派」がトップ！ それでも平均予算が上がり続ける理由",
-      "url": "https://diamond-rm.net/market/economic/548360/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-06-18",
-      "tags": []
-    },
-    {
       "id": "diamond-dc49721e",
       "title": "週刊スーパーマーケットニュース　ライフがネットスーパー顧客満足度調査で2年連続1位",
       "url": "https://diamond-rm.net/management/businessplan/548779/",
@@ -201,6 +218,16 @@
       "tags": [
         "DCM"
       ]
+    },
+    {
+      "id": "diamond-e96b587b",
+      "title": "平日ランチは「自炊派」がトップ！ それでも平均予算が上がり続ける理由",
+      "url": "https://diamond-rm.net/market/economic/548360/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-18",
+      "tags": []
     },
     {
       "id": "diamond-74763a5a",
@@ -400,6 +427,16 @@
       "tags": []
     },
     {
+      "id": "diamond-2ebcf19a",
+      "title": "第１１４回　商業の取材に着手した理由",
+      "url": "https://diamond-rm.net/life-career/542184/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-06-17",
+      "tags": []
+    },
+    {
       "id": "diamond-88f5f6c3",
       "title": "週刊コンビニエンスストアニュース 「ローソンアプリ」が累計4000万ダウンロードを突破",
       "url": "https://diamond-rm.net/management/548590/",
@@ -414,16 +451,6 @@
       ]
     },
     {
-      "id": "diamond-2ebcf19a",
-      "title": "第１１４回　商業の取材に着手した理由",
-      "url": "https://diamond-rm.net/life-career/542184/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-06-17",
-      "tags": []
-    },
-    {
       "id": "diamond-f615a4e9",
       "title": "コンセも逃げ出すほど凋落する量販店衣料品はどうなるのか",
       "url": "https://diamond-rm.net/management/businessplan/548109/",
@@ -433,18 +460,6 @@
       "date": "2026-06-17",
       "tags": [
         "衣料品"
-      ]
-    },
-    {
-      "id": "diamond-1063d8b6",
-      "title": "AIフル活用で”感情訴求”から脱却　キューサイ・マーケティング改革の舞台裏",
-      "url": "https://diamond-rm.net/management/546226/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-17",
-      "tags": [
-        "AI"
       ]
     },
     {
@@ -719,6 +734,18 @@
       ]
     },
     {
+      "id": "diamond-1063d8b6",
+      "title": "AIフル活用で”感情訴求”から脱却　キューサイ・マーケティング改革の舞台裏",
+      "url": "https://diamond-rm.net/management/546226/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-17",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
       "id": "ryutsuu-30f49dc8",
       "title": "パルコ／商業施設の問い合わせ対応を自動化する「AIアシスタント」提供開始",
       "url": "https://www.ryutsuu.biz/it/s061773.html",
@@ -944,29 +971,6 @@
       ]
     },
     {
-      "id": "diamond-6c05cadc",
-      "title": "25年度下半期、値上げが続くなかで数量PIも伸びた注目の食品カテゴリーは?",
-      "url": "https://diamond-rm.net/sales-promotion/547576/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-16",
-      "tags": [
-        "値上げ",
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-b3790ec9",
-      "title": "パワーカテゴリー2026｜26分類中20が前年超え、大容量・健康志向が伸びる",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/547575/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-16",
-      "tags": []
-    },
-    {
       "id": "ssnp-c2f317f1",
       "title": "【牛角】平日限定「焼肉酒場セット」2178円注文で「スタミナWガーリックカルビ」1皿無料キャンペーン開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/689161/",
@@ -1053,6 +1057,29 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
+      "date": "2026-06-16",
+      "tags": []
+    },
+    {
+      "id": "diamond-6c05cadc",
+      "title": "25年度下半期、値上げが続くなかで数量PIも伸びた注目の食品カテゴリーは?",
+      "url": "https://diamond-rm.net/sales-promotion/547576/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-16",
+      "tags": [
+        "値上げ",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-b3790ec9",
+      "title": "パワーカテゴリー2026｜26分類中20が前年超え、大容量・健康志向が伸びる",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/547575/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
       "date": "2026-06-16",
       "tags": []
     },
@@ -3446,29 +3473,6 @@
       "tags": [
         "ビックカメラ"
       ]
-    },
-    {
-      "id": "ryutsuu-05e936b5",
-      "title": "JILS／「九州・東アジア 国際物流総合展 INNOVATION EXPO 2026」6月24・25日福岡で開催",
-      "url": "https://www.ryutsuu.biz/seminar/s060877.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-06-08",
-      "tags": [
-        "PR",
-        "物流"
-      ]
-    },
-    {
-      "id": "diamond-479418d1",
-      "title": "流通アナリストが財務から読み解く、イズミの強さと今後の行方",
-      "url": "https://diamond-rm.net/management/businessplan/547571/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-08",
-      "tags": []
     }
   ]
 }
