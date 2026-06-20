@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T00:40:25.829Z",
+  "lastUpdated": "2026-06-20T07:19:57.050Z",
   "items": [
     {
       "id": "ryutsuu-bfcf41ae",
@@ -23,6 +23,18 @@
       "category": "life-career",
       "date": "2026-06-20",
       "tags": []
+    },
+    {
+      "id": "ssnp-22708208",
+      "title": "マクドナルド、ポテトM・Lサイズを250円で販売　最大150円お得、12日間限定\n\t\t\t\t\t\t\t\t\t\t\t\t日本マクドナルドは、全国の店舗で6月22日から7月3日までの12日間限定で、人気サイドメニュー「マックフライポテト」のMサイズとLサイズを特別価格250円で販売する。 通常価格はMサイズが350円～、Lサイズが400円～...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/689841/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-20",
+      "tags": [
+        "マクドナルド"
+      ]
     },
     {
       "id": "ryutsuu-a8a83272",
@@ -224,15 +236,13 @@
     },
     {
       "id": "ssnp-581dffd9",
-      "title": "【キル フェ ボン】「特選 ”佐藤錦”のキャンドルナイトケーキ」2日間限定で販売\n\t\t\t\t\t\t\t\t\t\t\t\tタルト専門店「キル フェ ボン」は、「特選 ”佐藤錦”のキャンドルナイトケーキ」を、2026年6月20日･21日の2日間限定で販売する。全12店舗で取り扱う。 【「特選 ”佐藤錦”のキャンドルナイトケーキ」の画像はこちら...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【キル フェ ボン】「特選 ”佐藤錦”のキャンドルナイトケーキ」2日間限定で販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/689169/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
       "date": "2026-06-19",
-      "tags": [
-        "専門店"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-13bf9e0b",
@@ -3466,18 +3476,6 @@
       "tags": [
         "モール",
         "AI"
-      ]
-    },
-    {
-      "id": "ryutsuu-95a007b3",
-      "title": "食べログ カレー百名店／東京から「創作カレーMANOS」など初選出店8店舗",
-      "url": "https://www.ryutsuu.biz/store/s061012.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-10",
-      "tags": [
-        "出店"
       ]
     }
   ]
