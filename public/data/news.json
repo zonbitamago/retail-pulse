@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T18:36:28.222Z",
+  "lastUpdated": "2026-06-20T00:40:25.829Z",
   "items": [
     {
       "id": "ryutsuu-bfcf41ae",
@@ -13,6 +13,16 @@
         "しまむら",
         "オープン"
       ]
+    },
+    {
+      "id": "diamond-2e55b64f",
+      "title": "流通秀書　第34回『人間復興の経済』小さいことは美しい",
+      "url": "https://diamond-rm.net/life-career/545527/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-06-20",
+      "tags": []
     },
     {
       "id": "ryutsuu-a8a83272",
@@ -3468,18 +3478,6 @@
       "date": "2026-06-10",
       "tags": [
         "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-8caa1951",
-      "title": "大丸東京店／ヘアアイロンのレンタルスポット「ReCute」導入",
-      "url": "https://www.ryutsuu.biz/store/s061014.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-10",
-      "tags": [
-        "EC"
       ]
     }
   ]
