@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-06-21T18:31:35.904Z",
+  "lastUpdated": "2026-06-22T00:43:23.754Z",
   "items": [
+    {
+      "id": "diamond-450eff86",
+      "title": "鮮魚・青果で来店目的を創出！　「バロー東岸和田店」を現地で徹底調査",
+      "url": "https://diamond-rm.net/store/storevisit/547793/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-22",
+      "tags": [
+        "青果",
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-7624d0a3",
+      "title": "【一部無料公開】100坪型の3店舗目「マルエツ プチ 東高円寺駅前店」の売場を速報",
+      "url": "https://diamond-rm.net/store/newstorereport/548792/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-22",
+      "tags": [
+        "マルエツ"
+      ]
+    },
     {
       "id": "diamond-45e8d1f2",
       "title": "【一部無料公開】クルベ4号店は「魚市場」に！ 「旬鮮魚市場クルベ熊谷銀座店」開業日レポート",
@@ -464,19 +489,6 @@
       "tags": []
     },
     {
-      "id": "diamond-43725ca9",
-      "title": "ドンキが広島市西区に3000㎡超の新店！さとうは兵庫に出店【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/548766/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-18",
-      "tags": [
-        "出店",
-        "新店"
-      ]
-    },
-    {
       "id": "diamond-dc49721e",
       "title": "週刊スーパーマーケットニュース　ライフがネットスーパー顧客満足度調査で2年連続1位",
       "url": "https://diamond-rm.net/management/businessplan/548779/",
@@ -501,6 +513,19 @@
       "tags": []
     },
     {
+      "id": "diamond-43725ca9",
+      "title": "ドンキが広島市西区に3000㎡超の新店！さとうは兵庫に出店【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/548766/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-18",
+      "tags": [
+        "出店",
+        "新店"
+      ]
+    },
+    {
       "id": "diamond-8aaa4cc1",
       "title": "PPIH＆トライアルHDの中間決算を徹底解説！両社とも成長のカギは「新フォーマット」",
       "url": "https://diamond-rm.net/management/businessplan/539410/",
@@ -512,18 +537,6 @@
         "トライアル",
         "PPIH",
         "決算"
-      ]
-    },
-    {
-      "id": "diamond-d2555567",
-      "title": "「トマト・野菜飲料」明暗くっきり、野菜飲料は停滞・トマトジュースは好調",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/547580/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-18",
-      "tags": [
-        "飲料"
       ]
     },
     {
@@ -572,6 +585,18 @@
       "tags": [
         "アマゾン",
         "配送"
+      ]
+    },
+    {
+      "id": "diamond-d2555567",
+      "title": "「トマト・野菜飲料」明暗くっきり、野菜飲料は停滞・トマトジュースは好調",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/547580/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-18",
+      "tags": [
+        "飲料"
       ]
     },
     {
@@ -1340,19 +1365,6 @@
       ]
     },
     {
-      "id": "diamond-6b161028",
-      "title": "ホームセンターを近隣型ショッピングセンターに転換！ 「コトエ橋本」が見せた新戦略とは",
-      "url": "https://diamond-rm.net/store/newstorereport/548467/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-16",
-      "tags": [
-        "ショッピングセンター",
-        "ホームセンター"
-      ]
-    },
-    {
       "id": "diamond-9d1f14f4",
       "title": "PLの先にある真実――ワークマンとyutoriが直面する「ビジネスOSの限界」",
       "url": "https://diamond-rm.net/market/accounting/548219/",
@@ -1453,6 +1465,19 @@
       "category": "菓子",
       "date": "2026-06-16",
       "tags": []
+    },
+    {
+      "id": "diamond-6b161028",
+      "title": "ホームセンターを近隣型ショッピングセンターに転換！ 「コトエ橋本」が見せた新戦略とは",
+      "url": "https://diamond-rm.net/store/newstorereport/548467/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-16",
+      "tags": [
+        "ショッピングセンター",
+        "ホームセンター"
+      ]
     },
     {
       "id": "diamond-1234d19b",
@@ -1677,16 +1702,6 @@
       ]
     },
     {
-      "id": "diamond-84e0592b",
-      "title": "海外で脚光浴びるエージェンティックコマース　日本の流通業はどう向き合うべきか？",
-      "url": "https://diamond-rm.net/technology/ai/547549/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-06-15",
-      "tags": []
-    },
-    {
       "id": "diamond-a3992448",
       "title": "イオンが新中計を発表 「営業収益15兆円」の壮大な目標達成なるか",
       "url": "https://diamond-rm.net/market/547547/",
@@ -1737,6 +1752,16 @@
         "アマゾン",
         "AI"
       ]
+    },
+    {
+      "id": "diamond-84e0592b",
+      "title": "海外で脚光浴びるエージェンティックコマース　日本の流通業はどう向き合うべきか？",
+      "url": "https://diamond-rm.net/technology/ai/547549/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-06-15",
+      "tags": []
     },
     {
       "id": "ssnp-5f1a7f6d",
@@ -3439,34 +3464,6 @@
         "注目",
         "オープン",
         "松屋"
-      ]
-    },
-    {
-      "id": "ryutsuu-e2f74423",
-      "title": "イオン／5月イオンリテール既存店売上高5.9％増、食品PBの価格据え置きなど奏功",
-      "url": "https://www.ryutsuu.biz/sales/s061076.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-06-10",
-      "tags": [
-        "イオン",
-        "売上高",
-        "食品",
-        "PB"
-      ]
-    },
-    {
-      "id": "ryutsuu-99ffee13",
-      "title": "セブンイレブン／5月の既存店売上高2.7％増、11カ月ぶりに客数増",
-      "url": "https://www.ryutsuu.biz/sales/s061075.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-06-10",
-      "tags": [
-        "セブンイレブン",
-        "売上高"
       ]
     }
   ]
