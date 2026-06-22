@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2026-06-22T00:43:23.754Z",
+  "lastUpdated": "2026-06-22T07:59:13.738Z",
   "items": [
+    {
+      "id": "ryutsuu-6d348296",
+      "title": "一風堂／東京「イオン八王子滝山店」宮城「MIREO仙台六丁の目店」6月下旬オープン",
+      "url": "https://www.ryutsuu.biz/store/s062273.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-22",
+      "tags": [
+        "オープン",
+        "イオン"
+      ]
+    },
+    {
+      "id": "ryutsuu-4501ede6",
+      "title": "丸永製菓／「白くまバー」リニューアル、東京・大阪など4都市で計6000本無料配布",
+      "url": "https://www.ryutsuu.biz/commodity/s062212.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-06-22",
+      "tags": [
+        "リニューアル"
+      ]
+    },
+    {
+      "id": "ryutsuu-d8eeabd0",
+      "title": "バーガーキング／6月下旬に新規9店舗オープン、宮崎県に初出店",
+      "url": "https://www.ryutsuu.biz/store/s062274.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-22",
+      "tags": [
+        "オープン",
+        "出店"
+      ]
+    },
+    {
+      "id": "ryutsuu-807248b1",
+      "title": "オギノ茅野ショッピングセンター／買取専門店「モノ・ループ」オープン",
+      "url": "https://www.ryutsuu.biz/store/s062211.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-22",
+      "tags": [
+        "ショッピングセンター",
+        "オープン",
+        "専門店"
+      ]
+    },
+    {
+      "id": "ryutsuu-e54ebbf7",
+      "title": "コメ兵グループ／千葉県市原市に「BRAND OFF ユニモちはら台店」オープン",
+      "url": "https://www.ryutsuu.biz/store/s062245.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-22",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-7604dca5",
+      "title": "ファミマ／「1個買うと1個もらえる」キャンペーン、97品ラインアップ",
+      "url": "https://www.ryutsuu.biz/commodity/s062213.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-e996457c",
+      "title": "ヤマエグループHD／集合住宅向けユニットバス事業「ブレクスHD」を子会社化",
+      "url": "https://www.ryutsuu.biz/strategy/s062241.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-05190abc",
+      "title": "コンビニエンスストア／5月既存店0.7％増、行楽需要・好天が貢献",
+      "url": "https://www.ryutsuu.biz/sales/s062219.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-06-22",
+      "tags": [
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "ryutsuu-e99b721b",
+      "title": "お菓子 売上ランキング／5月1位は「チョコパイ シャインマスカットのフロマージュ」",
+      "url": "https://www.ryutsuu.biz/pos/s062242.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-06-22",
+      "tags": [
+        "菓子"
+      ]
+    },
     {
       "id": "diamond-450eff86",
       "title": "鮮魚・青果で来店目的を創出！　「バロー東岸和田店」を現地で徹底調査",
@@ -27,6 +135,211 @@
       ]
     },
     {
+      "id": "diamond-7a249d06",
+      "title": "ホームセンター月次実績＝2026年5月度",
+      "url": "https://diamond-rm.net/retaildata/549008/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-06-22",
+      "tags": [
+        "ホームセンター"
+      ]
+    },
+    {
+      "id": "diamond-433413a3",
+      "title": "業態別　主要店舗月次実績＝2026年5月度",
+      "url": "https://diamond-rm.net/retaildata/549003/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
+      "id": "diamond-e41ab17e",
+      "title": "第１１７回　日本チェーンストア協会の力",
+      "url": "https://diamond-rm.net/life-career/542187/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
+      "id": "ssnp-7421c651",
+      "title": "【4日間限定】対象の「冷たい麺」が50円引き　冷し中華やざるそば、冷製パスタなど / セブン‐イレブン\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブン･ジャパンは、6月25日～28日の4日間限定で、「冷たい麺」を対象とした50円引きセールを全国のセブン‐イレブン店舗で実施する。 冷し中華などの「調理麺」のほか「スパゲティ･パスタ」カテゴリの冷製パスタ、...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/690266/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
+      "id": "ssnp-6990e072",
+      "title": "【セブン-イレブン】既存店日販は70万円を突破、2030年に日販80万円目指す【26年上半期コンビニ動向 #1】\n\t\t\t\t\t\t\t\t\t\t\t\t長引く物価高騰などで消費者の節約志向はより一層強まっている。その中でコンビニ各社は、来店客の確保に向けて値ごろ感や楽しさを打ち出した企画を行っているほか、強みを活かしたコンテンツの展開なども進めている。2025年において...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/690273/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-06-22",
+      "tags": [
+        "セブン-イレブン",
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "ssnp-847debfc",
+      "title": "【くら寿司 × PEANUTS】コラボメニュー販売や限定グッズのプレゼント企画、店内装飾などを展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690182/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
+      "id": "ssnp-2c8e10d9",
+      "title": "【ファミマ】フラッペ「味わうごほうびフルーツ」シリーズ誕生!メロン･ストロベリー･シャインマスカット･ピーチ･マンゴーの全5種を2週間ごとに発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/690174/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
+      "id": "ssnp-8a0cf7d2",
+      "title": "【吉野家】冷凍牛丼の具が累計５億食突破 / 記念キャンペーンを実施、大盛牛丼の具10袋が1,102円オフの特別価格5,000円など\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/frozen/690198/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "冷凍食品",
+      "date": "2026-06-22",
+      "tags": [
+        "吉野家"
+      ]
+    },
+    {
+      "id": "ssnp-4578040c",
+      "title": "和食さと、鰻・鱧の夏フェア開催 「鰻の二味重御膳」「四季めぐり膳」など8月26日まで\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690143/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
+      "id": "ssnp-f78fc51f",
+      "title": "なか卯、すっきりとした甘さの夏季限定ドリンク「ゆずネードスカッシュ」を発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690147/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
+      "id": "ssnp-6e2284de",
+      "title": "セブンプレミアムから2種のフルーツアイス「温州みかん氷」「ライチバー」登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/690133/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
+      "id": "ssnp-92ff804b",
+      "title": "【リンガーハット】夏の期間限定メニュー第2弾、3品を展開　「夏辛ちゃんぽん」がリニューアル登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690120/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-22",
+      "tags": [
+        "リニューアル"
+      ]
+    },
+    {
+      "id": "ssnp-7e2e9901",
+      "title": "松屋が参鶏湯発売、「定番メニューとの参鶏湯風スープセット」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690111/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-22",
+      "tags": [
+        "松屋"
+      ]
+    },
+    {
+      "id": "ssnp-d6e22ea0",
+      "title": "【6月30日限定】サンマルクカフェ、チョコクロ9個が30％オフに　通常2250円→1570円【月1回開催】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690096/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
+      "id": "ssnp-1aa05318",
+      "title": "【三幸製菓】ひと口サイズの『雪の宿』から塩バニラ風味の新商品が登場!【コンビニ限定】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/690098/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-06-22",
+      "tags": [
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "ssnp-a90cec73",
+      "title": "生サバやアジのたたきが110円(税込)で食べられる「はま寿司の九州うまかねた祭り」開催!\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690075/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
+      "id": "ssnp-c47b81bc",
+      "title": "ローソン「盛りすぎ！どらもっち」発売　あんこ＆ホイップ51％増量、ちゃんぽん・チャーシューマヨおにぎりも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/690004/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-06-22",
+      "tags": [
+        "ローソン"
+      ]
+    },
+    {
+      "id": "ssnp-a6ca8da0",
+      "title": "銚子丸「夏の福袋」を初展開　“総額最大4,268円分”食事券付きで3,300円、グラスなどオリジナルグッズも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690048/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
+      "id": "ssnp-b7ab8662",
+      "title": "松のや、やわらかジューシーなとんかつ160gの「超厚切りリブロースかつ」6月24日発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690057/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-22",
+      "tags": []
+    },
+    {
       "id": "diamond-45e8d1f2",
       "title": "【一部無料公開】クルベ4号店は「魚市場」に！ 「旬鮮魚市場クルベ熊谷銀座店」開業日レポート",
       "url": "https://diamond-rm.net/store/548934/",
@@ -41,7 +354,7 @@
     },
     {
       "id": "ssnp-7bf6b180",
-      "title": "コカ・コーラ、唐揚げで食事需要開拓　日本の食事時飲用は主要40カ国平均の6分の1\n\t\t\t\t\t\t\t\t\t\t\t\t日本では、昼食・夕食時に「コカ・コーラ」を飲む割合が主要40カ国平均の6分の1にとどまる。日本コカ・コーラは、唐揚げと「コカ・コーラ」の組み合わせを通じ、食事シーンでの飲用機会拡大に取り組んでいる。 6月19日には都内で...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "コカ・コーラ、唐揚げで食事需要開拓　日本の食事時飲用は主要40カ国平均の6分の1\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/690023/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -51,15 +364,13 @@
     },
     {
       "id": "ssnp-26e5548c",
-      "title": "夏季限定のサラダ2種を新発売、毎年人気の「BBQチキン」と新登場「麻婆春雨」【WithGreen】\n\t\t\t\t\t\t\t\t\t\t\t\tサラダボウル専門店『WithGreen』は、2026年7月1日から8月31日までの間、夏季限定サラダ「BBQチキンと彩り夏野菜のサラダ」と「肉味噌たっぷり麻婆春雨と夏採れズッキーニのサラダ」を、全国の54店舗で販売する。...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "夏季限定のサラダ2種を新発売、毎年人気の「BBQチキン」と新登場「麻婆春雨」【WithGreen】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/689910/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-06-21",
-      "tags": [
-        "専門店"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-ff4169a9",
@@ -107,6 +418,32 @@
       ]
     },
     {
+      "id": "ryutsuu-218d482b",
+      "title": "ヨークHD／CSC1号店を27年上期オープン、イトーヨーカドーGMS78店舗を刷新",
+      "url": "https://www.ryutsuu.biz/store/s061912.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-19",
+      "tags": [
+        "オープン",
+        "GMS",
+        "SC"
+      ]
+    },
+    {
+      "id": "ryutsuu-8bca9582",
+      "title": "セブンイレブン／新契約タイプを導入、複数店経営を支援",
+      "url": "https://www.ryutsuu.biz/strategy/s061915.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-06-19",
+      "tags": [
+        "セブンイレブン"
+      ]
+    },
+    {
       "id": "ryutsuu-a8a83272",
       "title": "サツドラHD／MBO実施、上場廃止",
       "url": "https://www.ryutsuu.biz/strategy/s061916.html",
@@ -120,33 +457,6 @@
       ]
     },
     {
-      "id": "ryutsuu-558fdbea",
-      "title": "サツドラHD 決算／5月期は2桁の減益、人件費増加や電気料金上昇などが響く",
-      "url": "https://www.ryutsuu.biz/accounts/s061952.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-06-19",
-      "tags": [
-        "決算",
-        "減益"
-      ]
-    },
-    {
-      "id": "ryutsuu-12afd960",
-      "title": "土岐プレミアム・アウトレット／今夏までに計12店舗をオープン・リニューアル",
-      "url": "https://www.ryutsuu.biz/store/s061945.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-19",
-      "tags": [
-        "アウトレット",
-        "リニューアル",
-        "オープン"
-      ]
-    },
-    {
       "id": "ryutsuu-aeb67eeb",
       "title": "ヨークHD／CIOに元トリドールの磯村康典氏が就任、IPO準備室も開設",
       "url": "https://www.ryutsuu.biz/strategy/s061911.html",
@@ -156,79 +466,6 @@
       "date": "2026-06-19",
       "tags": [
         "IPO"
-      ]
-    },
-    {
-      "id": "ryutsuu-5c028d8c",
-      "title": "キュービックプラザ新横浜／今夏、鎌倉ウィッチ・崎陽軒など4店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s061913.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-19",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-bf810b58",
-      "title": "LOWYA／埼玉県草加市に初の「大型路面店」来春オープン、大型家具が多数そろう",
-      "url": "https://www.ryutsuu.biz/store/s061976.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-19",
-      "tags": [
-        "オープン",
-        "家具"
-      ]
-    },
-    {
-      "id": "ryutsuu-94ee0457",
-      "title": "ケンタッキー／7月に東京都・愛知県で計4店舗を新規オープン",
-      "url": "https://www.ryutsuu.biz/store/s061941.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-19",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-03ae6df3",
-      "title": "サイゼリヤ／新潟・神奈川の2店舗で「朝サイゼ」7月から提供開始、新潟で初導入",
-      "url": "https://www.ryutsuu.biz/commodity/s061973.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-06-19",
-      "tags": [
-        "サイゼリヤ"
-      ]
-    },
-    {
-      "id": "ryutsuu-f6d5b9b6",
-      "title": "薬王堂／青森市に「青森新城店」オープン、465店舗目",
-      "url": "https://www.ryutsuu.biz/store/s061942.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-19",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-94efd10d",
-      "title": "アルコール飲料 売上ランキング／5月の1・2位は「アサヒゴールド」",
-      "url": "https://www.ryutsuu.biz/pos/s061972.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-06-19",
-      "tags": [
-        "飲料"
       ]
     },
     {
@@ -453,6 +690,106 @@
       ]
     },
     {
+      "id": "ryutsuu-558fdbea",
+      "title": "サツドラHD 決算／5月期は2桁の減益、人件費増加や電気料金上昇などが響く",
+      "url": "https://www.ryutsuu.biz/accounts/s061952.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-06-19",
+      "tags": [
+        "決算",
+        "減益"
+      ]
+    },
+    {
+      "id": "ryutsuu-12afd960",
+      "title": "土岐プレミアム・アウトレット／今夏までに計12店舗をオープン・リニューアル",
+      "url": "https://www.ryutsuu.biz/store/s061945.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-19",
+      "tags": [
+        "アウトレット",
+        "リニューアル",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-5c028d8c",
+      "title": "キュービックプラザ新横浜／今夏、鎌倉ウィッチ・崎陽軒など4店舗オープン",
+      "url": "https://www.ryutsuu.biz/store/s061913.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-19",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-bf810b58",
+      "title": "LOWYA／埼玉県草加市に初の「大型路面店」来春オープン、大型家具が多数そろう",
+      "url": "https://www.ryutsuu.biz/store/s061976.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-19",
+      "tags": [
+        "オープン",
+        "家具"
+      ]
+    },
+    {
+      "id": "ryutsuu-94ee0457",
+      "title": "ケンタッキー／7月に東京都・愛知県で計4店舗を新規オープン",
+      "url": "https://www.ryutsuu.biz/store/s061941.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-19",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-03ae6df3",
+      "title": "サイゼリヤ／新潟・神奈川の2店舗で「朝サイゼ」7月から提供開始、新潟で初導入",
+      "url": "https://www.ryutsuu.biz/commodity/s061973.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-06-19",
+      "tags": [
+        "サイゼリヤ"
+      ]
+    },
+    {
+      "id": "ryutsuu-f6d5b9b6",
+      "title": "薬王堂／青森市に「青森新城店」オープン、465店舗目",
+      "url": "https://www.ryutsuu.biz/store/s061942.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-19",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-94efd10d",
+      "title": "アルコール飲料 売上ランキング／5月の1・2位は「アサヒゴールド」",
+      "url": "https://www.ryutsuu.biz/pos/s061972.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-06-19",
+      "tags": [
+        "飲料"
+      ]
+    },
+    {
       "id": "ryutsuu-ea1cc6f2",
       "title": "ヨークHD／3年でイトーヨーカドー・ヨークベニマル店舗に1000億円強投資、低価格PB売上2.8倍に",
       "url": "https://www.ryutsuu.biz/strategy/s061815.html",
@@ -476,6 +813,18 @@
       "tags": [
         "越境EC",
         "EC"
+      ]
+    },
+    {
+      "id": "ryutsuu-cfd3867a",
+      "title": "アイスクリーム 売上ランキング／5月は森永乳業「PARM チョコレート」3カ月連続1位",
+      "url": "https://www.ryutsuu.biz/pos/s061842.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-06-18",
+      "tags": [
+        "チョコレート"
       ]
     },
     {
@@ -503,29 +852,6 @@
       ]
     },
     {
-      "id": "diamond-3f9a6cb5",
-      "title": "第１１５回　渥美の意地",
-      "url": "https://diamond-rm.net/life-career/542185/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-06-18",
-      "tags": []
-    },
-    {
-      "id": "diamond-43725ca9",
-      "title": "ドンキが広島市西区に3000㎡超の新店！さとうは兵庫に出店【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/548766/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-18",
-      "tags": [
-        "出店",
-        "新店"
-      ]
-    },
-    {
       "id": "diamond-8aaa4cc1",
       "title": "PPIH＆トライアルHDの中間決算を徹底解説！両社とも成長のカギは「新フォーマット」",
       "url": "https://diamond-rm.net/management/businessplan/539410/",
@@ -549,6 +875,19 @@
       "date": "2026-06-18",
       "tags": [
         "DCM"
+      ]
+    },
+    {
+      "id": "diamond-43725ca9",
+      "title": "ドンキが広島市西区に3000㎡超の新店！さとうは兵庫に出店【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/548766/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-18",
+      "tags": [
+        "出店",
+        "新店"
       ]
     },
     {
@@ -738,6 +1077,16 @@
       "tags": []
     },
     {
+      "id": "diamond-3f9a6cb5",
+      "title": "第１１５回　渥美の意地",
+      "url": "https://diamond-rm.net/life-career/542185/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-06-18",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-0340d26f",
       "title": "ヨークHD 決算／25年度売上高1兆5671億円・営業利益503億円、28年度売上高10％増目標",
       "url": "https://www.ryutsuu.biz/accounts/s061814.html",
@@ -825,18 +1174,6 @@
       "tags": []
     },
     {
-      "id": "ryutsuu-cfd3867a",
-      "title": "アイスクリーム 売上ランキング／5月は森永乳業「PARM チョコレート」3カ月連続1位",
-      "url": "https://www.ryutsuu.biz/pos/s061842.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-06-18",
-      "tags": [
-        "チョコレート"
-      ]
-    },
-    {
       "id": "ryutsuu-2dbd00d0",
       "title": "peace put／自由が丘に「ネオナイスバーガー」など3ブランド複合店6月18日オープン",
       "url": "https://www.ryutsuu.biz/store/s061774.html",
@@ -859,16 +1196,6 @@
       "tags": [
         "食品"
       ]
-    },
-    {
-      "id": "ryutsuu-d0402090",
-      "title": "外用鎮痛・消炎薬 売上ランキング／3～5月は「ニューアンメルツヨコヨコA」が1位",
-      "url": "https://www.ryutsuu.biz/pos/s061741.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-06-17",
-      "tags": []
     },
     {
       "id": "diamond-88f5f6c3",
@@ -1134,6 +1461,16 @@
         "マクドナルド",
         "スーパー"
       ]
+    },
+    {
+      "id": "ryutsuu-d0402090",
+      "title": "外用鎮痛・消炎薬 売上ランキング／3～5月は「ニューアンメルツヨコヨコA」が1位",
+      "url": "https://www.ryutsuu.biz/pos/s061741.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-06-17",
+      "tags": []
     },
     {
       "id": "diamond-2ebcf19a",
@@ -1677,31 +2014,6 @@
       ]
     },
     {
-      "id": "ryutsuu-548a6437",
-      "title": "セブン＆アイ／海外事業強化に向け組織変革を推進「国際事業統括室」を新設",
-      "url": "https://www.ryutsuu.biz/strategy/s061550.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-06-15",
-      "tags": [
-        "セブン＆アイ"
-      ]
-    },
-    {
-      "id": "diamond-908ab5f2",
-      "title": "総菜の新商品に注目！　ヤオコー最新店「コトエ橋本店」の売場を徹底解説",
-      "url": "https://diamond-rm.net/store/newstorereport/547552/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-15",
-      "tags": [
-        "ヤオコー",
-        "新店"
-      ]
-    },
-    {
       "id": "diamond-a3992448",
       "title": "イオンが新中計を発表 「営業収益15兆円」の壮大な目標達成なるか",
       "url": "https://diamond-rm.net/market/547547/",
@@ -1711,20 +2023,6 @@
       "date": "2026-06-15",
       "tags": [
         "イオン"
-      ]
-    },
-    {
-      "id": "diamond-cff561d1",
-      "title": "ライフの自然派PB「ビオラル」、ついに売上高100億円突破の背景とこれから",
-      "url": "https://diamond-rm.net/market/547546/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-06-15",
-      "tags": [
-        "ライフ",
-        "売上高",
-        "PB"
       ]
     },
     {
@@ -1973,6 +2271,45 @@
       "date": "2026-06-15",
       "tags": [
         "スターバックス"
+      ]
+    },
+    {
+      "id": "ryutsuu-548a6437",
+      "title": "セブン＆アイ／海外事業強化に向け組織変革を推進「国際事業統括室」を新設",
+      "url": "https://www.ryutsuu.biz/strategy/s061550.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-06-15",
+      "tags": [
+        "セブン＆アイ"
+      ]
+    },
+    {
+      "id": "diamond-908ab5f2",
+      "title": "総菜の新商品に注目！　ヤオコー最新店「コトエ橋本店」の売場を徹底解説",
+      "url": "https://diamond-rm.net/store/newstorereport/547552/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-15",
+      "tags": [
+        "ヤオコー",
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-cff561d1",
+      "title": "ライフの自然派PB「ビオラル」、ついに売上高100億円突破の背景とこれから",
+      "url": "https://diamond-rm.net/market/547546/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-15",
+      "tags": [
+        "ライフ",
+        "売上高",
+        "PB"
       ]
     },
     {
@@ -3122,348 +3459,6 @@
       "date": "2026-06-11",
       "tags": [
         "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-8855a879",
-      "title": "TOPPAN／商業施設・住宅向け空間演出「expace」で脱炭素化支援を開始",
-      "url": "https://www.ryutsuu.biz/store/s061116.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-11",
-      "tags": [
-        "脱炭素"
-      ]
-    },
-    {
-      "id": "ryutsuu-0fd67cfb",
-      "title": "バーガーキング／イオンモール新潟亀田インターに新店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s061115.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-11",
-      "tags": [
-        "オープン",
-        "イオン",
-        "モール",
-        "新店"
-      ]
-    },
-    {
-      "id": "ryutsuu-9d209171",
-      "title": "ミニストップ／毎週金曜日にコーヒーSサイズ無料クーポン配信、アプリ限定",
-      "url": "https://www.ryutsuu.biz/commodity/s061113.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-06-11",
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "id": "ryutsuu-967efd07",
-      "title": "アインHD 決算／4月期増収増益、さくら薬局の収益改善が貢献",
-      "url": "https://www.ryutsuu.biz/accounts/s061122.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-06-11",
-      "tags": [
-        "アインHD",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ssnp-9f04b0e2",
-      "title": "ルピシア、全ティーバッグのフィルターを生分解性素材へ　環境配慮で全面刷新\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/688378/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-1372d379",
-      "title": "井村屋新工場「アイスFACTORY」竣工　あずきバー4億本体制へ、海外も強化\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/688372/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-49f28c48",
-      "title": "マクドナルド、FIFAワールドカップ26記念の「VIVA!ワールドマック」発売　新商品発表会に岡田准一、中澤佑二、影山優佳が登場 / 中澤佑二が予想するW杯決勝カードは？\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688203/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-10",
-      "tags": [
-        "マクドナルド"
-      ]
-    },
-    {
-      "id": "ssnp-b84a24d3",
-      "title": "【USEN】飲食店向け新サービス「USEN AI店長」開始、状況分析してアドバイスなど 現場の負担軽減に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688334/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-10",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ssnp-dd8a9405",
-      "title": "魁力屋、背脂×担々スープの新作ラーメン発売　花椒香る「シビカラ麻辣担々麺」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688327/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-0b8f1d13",
-      "title": "【てんや】『冷や汁うどん』や『鰹の冷やしそば』など夏限定メニューが新登場!\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688301/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-34487380",
-      "title": "ほっともっと、豚タン使用の新作弁当発売　「ねぎ塩レモン豚タン弁当」登場、肉2倍の倍盛も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688299/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-10",
-      "tags": [
-        "弁当"
-      ]
-    },
-    {
-      "id": "ssnp-7edf1b13",
-      "title": "ネスレ日本、「ネスカフェ クーラー」でマイボトル文化を提案 島川常務「マイボトルを格好よく持ち歩く動きをつくる」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/688289/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e7de4466",
-      "title": "“噛んで食べる”塩飴が登場　冷涼感広がる「塩レモン」風味、暑さ対策を想定【カンロ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/688274/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-8d5095b5",
-      "title": "【スシロー×メ～テレ「ドデスカ!」初コラボ】「みそカツ風ロール」や「スシロー流ひつまぶし」など4品を発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688264/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-b98c98e3",
-      "title": "「モンスターエナジー」、コカ・コーラ ボトラーズジャパンの自販機で販売開始 1都2府35県に順次展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/688261/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-d1f9d7e0",
-      "title": "【ライフ】「くら寿司」とコラボした2種のグミアソートを発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/688256/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-06-10",
-      "tags": [
-        "ライフ"
-      ]
-    },
-    {
-      "id": "ssnp-65e877e9",
-      "title": "八芳園「食パラダイス鳥取県×食のみやこ熊本県フェア」開催、期間限定 初夏のごちそう御膳を提供\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688250/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-cdacf05e",
-      "title": "【日豆協】第50回通常総会、今年度に技能実習評価試験の実施機関に正式認定の見通し\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/688245/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-23a93f98",
-      "title": "給食業界でDX進む　受発注や献立作成を効率化、人手不足に対応\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/feeding/688237/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "feeding",
-      "date": "2026-06-10",
-      "tags": [
-        "人手不足",
-        "DX"
-      ]
-    },
-    {
-      "id": "ssnp-854c77d7",
-      "title": "ONODERA GROUP、新潟で38haの稲作事業 地元農家を雇用、初年度200トン計画\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/feeding/688232/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "feeding",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-6ab01952",
-      "title": "ホッピービバレッジ創業120周年･「ホッピー」発売77周年/帝国ホテルで感謝の集い\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/liquor/688227/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "liquor",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-feec6593",
-      "title": "国分グループ本社／「未利用食品の活用推進コンソーシアム」開始",
-      "url": "https://www.ryutsuu.biz/strategy/s061018.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-06-10",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-4126fa2e",
-      "title": "週刊コンビニエンスストアニュース ファミリーマート、「ファミマATM」設置を開始",
-      "url": "https://diamond-rm.net/management/548025/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-10",
-      "tags": [
-        "ファミリーマート",
-        "コンビニ"
-      ]
-    },
-    {
-      "id": "diamond-7764f7bb",
-      "title": "ライフの「BIO-RAL」と「くら寿司」が異色のコラボを実現した背景",
-      "url": "https://diamond-rm.net/sales-promotion/548248/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-10",
-      "tags": [
-        "ライフ"
-      ]
-    },
-    {
-      "id": "diamond-02b53d1e",
-      "title": "第１０９回　お客のことを考えて売るんだよ",
-      "url": "https://diamond-rm.net/life-career/542179/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "diamond-fcaa6146",
-      "title": "登録者50万人超え！ 老舗書店「有隣堂」がYouTubeで熱烈ファンを創造できた理由",
-      "url": "https://diamond-rm.net/management/545354/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "diamond-9096272f",
-      "title": "千葉市内の人口増加エリアに開業！　「カスミ西千葉店」の売場をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/547759/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-10",
-      "tags": [
-        "カスミ",
-        "開業"
-      ]
-    },
-    {
-      "id": "diamond-75183bd6",
-      "title": "「チルド麺」コモディイイダから見える米食需要を奪い伸びている商品の実像",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/546166/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-10",
-      "tags": []
-    },
-    {
-      "id": "diamond-1932082e",
-      "title": "これ全部398円！？ヤオコーの「お値段以上」な絶品弁当＆麺類を主婦が実食",
-      "url": "https://diamond-rm.net/sales-promotion/pb/546473/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-10",
-      "tags": [
-        "ヤオコー",
-        "弁当"
-      ]
-    },
-    {
-      "id": "ryutsuu-68272d13",
-      "title": "松屋フーズ／松屋銀座に「松屋プレミアム」オープン、日商100万円目指す",
-      "url": "https://www.ryutsuu.biz/report/s061073.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-06-10",
-      "tags": [
-        "注目",
-        "オープン",
-        "松屋"
       ]
     }
   ]
