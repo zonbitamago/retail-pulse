@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-22T19:05:51.282Z",
+  "lastUpdated": "2026-06-23T00:39:56.626Z",
   "items": [
+    {
+      "id": "diamond-4d548fb4",
+      "title": "「日本をIBM化せよ」──yutoriとワークマンへの提言",
+      "url": "https://diamond-rm.net/management/businessplan/548929/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-23",
+      "tags": [
+        "ワークマン"
+      ]
+    },
+    {
+      "id": "diamond-2de63842",
+      "title": "円安打開の奥の手？ 食品小売は「海外気分」で需要喚起を！",
+      "url": "https://diamond-rm.net/sales-promotion/pr-strategy/548971/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-23",
+      "tags": [
+        "食品"
+      ]
+    },
     {
       "id": "ryutsuu-6d348296",
       "title": "一風堂／東京「イオン八王子滝山店」宮城「MIREO仙台六丁の目店」6月下旬オープン",
@@ -110,19 +134,6 @@
       ]
     },
     {
-      "id": "diamond-450eff86",
-      "title": "鮮魚・青果で来店目的を創出！　「バロー東岸和田店」を現地で徹底調査",
-      "url": "https://diamond-rm.net/store/storevisit/547793/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-22",
-      "tags": [
-        "青果",
-        "鮮魚"
-      ]
-    },
-    {
       "id": "diamond-7624d0a3",
       "title": "【一部無料公開】100坪型の3店舗目「マルエツ プチ 東高円寺駅前店」の売場を速報",
       "url": "https://diamond-rm.net/store/newstorereport/548792/",
@@ -177,6 +188,19 @@
       "category": "life-career",
       "date": "2026-06-22",
       "tags": []
+    },
+    {
+      "id": "diamond-450eff86",
+      "title": "鮮魚・青果で来店目的を創出！　「バロー東岸和田店」を現地で徹底調査",
+      "url": "https://diamond-rm.net/store/storevisit/547793/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-22",
+      "tags": [
+        "青果",
+        "鮮魚"
+      ]
     },
     {
       "id": "ssnp-c85fc04e",
@@ -508,19 +532,6 @@
       ]
     },
     {
-      "id": "diamond-69c3b9b4",
-      "title": "コンビニの中にパウダースペース⁉ 　セブン-イレブン、勝負の一手で若年層取り込む",
-      "url": "https://diamond-rm.net/sales-promotion/548541/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-19",
-      "tags": [
-        "セブン-イレブン",
-        "コンビニ"
-      ]
-    },
-    {
       "id": "diamond-fbf1bc64",
       "title": "リカバリーウェアを本格投入！　イオンリテールの衣料品新戦略",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/539499/",
@@ -544,16 +555,6 @@
       "tags": []
     },
     {
-      "id": "diamond-03ae614f",
-      "title": "食用油市場、生活者の節約志向で前年割れ、付加価値型商品の育成がカギ",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/547574/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-19",
-      "tags": []
-    },
-    {
       "id": "diamond-01a2a91c",
       "title": "めざすは年間売上高1億円！　万代がカインズPBを導入拡大する理由",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/546526/",
@@ -565,6 +566,29 @@
         "カインズ",
         "売上高",
         "PB"
+      ]
+    },
+    {
+      "id": "diamond-03ae614f",
+      "title": "食用油市場、生活者の節約志向で前年割れ、付加価値型商品の育成がカギ",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/547574/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-19",
+      "tags": []
+    },
+    {
+      "id": "diamond-69c3b9b4",
+      "title": "コンビニの中にパウダースペース⁉ 　セブン-イレブン、勝負の一手で若年層取り込む",
+      "url": "https://diamond-rm.net/sales-promotion/548541/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-19",
+      "tags": [
+        "セブン-イレブン",
+        "コンビニ"
       ]
     },
     {
@@ -966,18 +990,6 @@
       ]
     },
     {
-      "id": "diamond-d2555567",
-      "title": "「トマト・野菜飲料」明暗くっきり、野菜飲料は停滞・トマトジュースは好調",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/547580/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-06-18",
-      "tags": [
-        "飲料"
-      ]
-    },
-    {
       "id": "diamond-e9774b9f",
       "title": "「明治おいしい牛乳」に700ml追加、併売で牛乳売場の回転率向上をねらう",
       "url": "https://diamond-rm.net/promotion/pr/547579/",
@@ -1116,6 +1128,18 @@
       "tags": []
     },
     {
+      "id": "diamond-d2555567",
+      "title": "「トマト・野菜飲料」明暗くっきり、野菜飲料は停滞・トマトジュースは好調",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/547580/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-06-18",
+      "tags": [
+        "飲料"
+      ]
+    },
+    {
       "id": "diamond-3f9a6cb5",
       "title": "第１１５回　渥美の意地",
       "url": "https://diamond-rm.net/life-career/542185/",
@@ -1234,20 +1258,6 @@
       "date": "2026-06-17",
       "tags": [
         "食品"
-      ]
-    },
-    {
-      "id": "diamond-88f5f6c3",
-      "title": "週刊コンビニエンスストアニュース 「ローソンアプリ」が累計4000万ダウンロードを突破",
-      "url": "https://diamond-rm.net/management/548590/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-17",
-      "tags": [
-        "ローソン",
-        "コンビニ",
-        "アプリ"
       ]
     },
     {
@@ -1499,6 +1509,20 @@
       "tags": [
         "マクドナルド",
         "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-88f5f6c3",
+      "title": "週刊コンビニエンスストアニュース 「ローソンアプリ」が累計4000万ダウンロードを突破",
+      "url": "https://diamond-rm.net/management/548590/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-17",
+      "tags": [
+        "ローソン",
+        "コンビニ",
+        "アプリ"
       ]
     },
     {
@@ -3437,29 +3461,6 @@
         "オープン",
         "菓子",
         "改装"
-      ]
-    },
-    {
-      "id": "ryutsuu-a8a87acc",
-      "title": "まいばすけっと 新商品／手巻おにぎり7品を税別108円で発売",
-      "url": "https://www.ryutsuu.biz/commodity/s061112.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-06-11",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-941bf9a3",
-      "title": "BAKE／新業態のコーヒー菓子「A Bite Coffee」東京駅に9月オープン",
-      "url": "https://www.ryutsuu.biz/store/s061111.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-11",
-      "tags": [
-        "オープン",
-        "菓子"
       ]
     }
   ]
