@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T07:13:50.523Z",
+  "lastUpdated": "2026-06-23T12:56:34.038Z",
   "items": [
     {
       "id": "ryutsuu-30bcd069",
@@ -122,8 +122,30 @@
       ]
     },
     {
+      "id": "ssnp-7e2d3fc9",
+      "title": "味の素AGF、群馬で父の日親子イベント　木工クラフトやコーヒー焙煎を体験\n\t\t\t\t\t\t\t\t\t\t\t\t味の素AGFは6月21日、群馬県前橋市の県立赤城森林公園「赤城ふれあいの森」で、群馬クレインサンダーズ、一般社団法人スリーピースとの共同企画「父の日親子木工クラフト体験会」を開催した。森林保全や水資源保全に取り組む「AG...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/690334/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-06-23",
+      "tags": []
+    },
+    {
+      "id": "ssnp-d4e79234",
+      "title": "「コメダのフラッペ～Kiri～」発売、クリームチーズのコク×アプリコットソースの甘酸っぱさ\n\t\t\t\t\t\t\t\t\t\t\t\tコメダ珈琲店は、ベル ジャポンが販売するロングセラー商品「キリ」とのコラボレーション商品「コメダのフラッペ～Kiri～」を、2026年7月1日から一部店舗で販売する。8月下旬までの販売を予定しているが、季節限定につき、各...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690420/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-23",
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
       "id": "ssnp-ab457ccf",
-      "title": "「北海道産毛がに姿盛り」をはじめ、帆立やたこなどを取りそろえる「北海道祭り」を開催【木曽路】\n\t\t\t\t\t\t\t\t\t\t\t\t「しゃぶしゃぶ･日本料理 木曽路」は、2026年6月24日から8月7日までの間、北海道産の食材を生かした多彩なメニューを取りそろえた「北海道祭り」を全国の店舗で開催する。 木曽路の「北海道祭り」は、過去の開催でも人気を博...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "「北海道産毛がに姿盛り」をはじめ、帆立やたこなどを取りそろえる「北海道祭り」を開催【木曽路】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/690406/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -133,15 +155,14 @@
     },
     {
       "id": "ssnp-5d1b9c98",
-      "title": "カルディ「レモンバッグ」発売、オンラインは完売　保冷バッグに限定レモンサワー＆スナック付き\n\t\t\t\t\t\t\t\t\t\t\t\tカルディコーヒーファームは6月19日から、毎年人気の「レモンバッグ」（税込1,980円）を販売している。 2026年の「レモンバッグ」は、保冷機能付きのトートバッグに、セット限定のハニーレモンサワーやスナック菓子、バッグ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "カルディ「レモンバッグ」発売、オンラインは完売　保冷バッグに限定レモンサワー＆スナック付き\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/690391/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
       "date": "2026-06-23",
       "tags": [
-        "スナック",
-        "菓子"
+        "スナック"
       ]
     },
     {
@@ -242,19 +263,6 @@
       "tags": [
         "注目",
         "PB"
-      ]
-    },
-    {
-      "id": "ryutsuu-352df8eb",
-      "title": "大創産業 決算／25年度売上高7710億円、15年連続過去最高を更新",
-      "url": "https://www.ryutsuu.biz/accounts/s062218.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-06-22",
-      "tags": [
-        "売上高",
-        "決算"
       ]
     },
     {
@@ -520,6 +528,19 @@
       "category": "foodservice",
       "date": "2026-06-22",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-352df8eb",
+      "title": "大創産業 決算／25年度売上高7710億円、15年連続過去最高を更新",
+      "url": "https://www.ryutsuu.biz/accounts/s062218.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-06-22",
+      "tags": [
+        "売上高",
+        "決算"
+      ]
     },
     {
       "id": "ryutsuu-6d348296",
@@ -3426,26 +3447,6 @@
       "id": "ssnp-166e7448",
       "title": "【ゼッテリア】ガツンと牛カルビ、さっぱり日向夏を楽しむ「夏バーガーフェア」開催 / 新作バーガー4品を期間限定販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/688548/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-24fcd1ab",
-      "title": "「紅茶花伝」に「日焼けしたクロミ」登場　はぴだんぶいも、限定ボトル全30種類/コカ・コーラシステム\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/688528/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-06-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-de826b69",
-      "title": "「贅沢マンゴーハニーフロート」など夏の新作メニュー4品を新発売【カフェ･ベローチェ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688530/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
