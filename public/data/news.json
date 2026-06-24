@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T18:41:27.276Z",
+  "lastUpdated": "2026-06-24T00:34:55.023Z",
   "items": [
     {
       "id": "ryutsuu-c99442c3",
@@ -23,6 +23,45 @@
       "date": "2026-06-24",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "diamond-6a4c7952",
+      "title": "駅前立地の価値をどう創出するか？　「バロー東岸和田店」の精肉・総菜・加工食品を調査",
+      "url": "https://diamond-rm.net/store/storevisit/547799/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-24",
+      "tags": [
+        "食品",
+        "精肉"
+      ]
+    },
+    {
+      "id": "diamond-edc0bf65",
+      "title": "ヨークHD、2028年度までに低価格PB拡充　総合スーパーのCSC化も推進へ",
+      "url": "https://diamond-rm.net/management/businessplan/549318/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-24",
+      "tags": [
+        "スーパー",
+        "SC",
+        "PB"
+      ]
+    },
+    {
+      "id": "diamond-0dcf0911",
+      "title": "小売物流の構造転換　「商流は選択から設計へ」",
+      "url": "https://diamond-rm.net/management/businessplan/548987/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-24",
+      "tags": [
+        "物流"
       ]
     },
     {
@@ -110,18 +149,6 @@
       ]
     },
     {
-      "id": "diamond-c44adff0",
-      "title": "共創！Commerce Marketing ラボ＃４　ファミマ、リテールメディア戦略の全貌",
-      "url": "https://diamond-rm.net/technology/digitalmarketing/548793/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-06-23",
-      "tags": [
-        "リテールメディア"
-      ]
-    },
-    {
       "id": "diamond-0ed2ea1d",
       "title": "【動画】6月3週目の注目ニュースまとめ、注目企業の新店など多数",
       "url": "https://diamond-rm.net/management/businessplan/549035/",
@@ -143,6 +170,18 @@
       "date": "2026-06-23",
       "tags": [
         "ショッピングセンター"
+      ]
+    },
+    {
+      "id": "diamond-c44adff0",
+      "title": "共創！Commerce Marketing ラボ＃４　ファミマ、リテールメディア戦略の全貌",
+      "url": "https://diamond-rm.net/technology/digitalmarketing/548793/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-06-23",
+      "tags": [
+        "リテールメディア"
       ]
     },
     {
@@ -1163,29 +1202,16 @@
       "tags": []
     },
     {
-      "id": "diamond-8d1e58cb",
-      "title": "DCMホールディングス、第4次中期経営計画を発表",
-      "url": "https://diamond-rm.net/market/accounting/548493/",
+      "id": "diamond-43725ca9",
+      "title": "ドンキが広島市西区に3000㎡超の新店！さとうは兵庫に出店【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/548766/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "市場動向",
+      "category": "店舗",
       "date": "2026-06-18",
       "tags": [
-        "DCM"
-      ]
-    },
-    {
-      "id": "diamond-dc49721e",
-      "title": "週刊スーパーマーケットニュース　ライフがネットスーパー顧客満足度調査で2年連続1位",
-      "url": "https://diamond-rm.net/management/businessplan/548779/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-18",
-      "tags": [
-        "ネットスーパー",
-        "スーパー",
-        "ライフ"
+        "出店",
+        "新店"
       ]
     },
     {
@@ -1203,29 +1229,15 @@
       ]
     },
     {
-      "id": "diamond-43725ca9",
-      "title": "ドンキが広島市西区に3000㎡超の新店！さとうは兵庫に出店【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/548766/",
+      "id": "diamond-8d1e58cb",
+      "title": "DCMホールディングス、第4次中期経営計画を発表",
+      "url": "https://diamond-rm.net/market/accounting/548493/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "店舗",
+      "category": "市場動向",
       "date": "2026-06-18",
       "tags": [
-        "出店",
-        "新店"
-      ]
-    },
-    {
-      "id": "diamond-04e4dee9",
-      "title": "25年間地域に愛されたダイエーの店舗を転換！ 「イオンスタイル武蔵村山南」の食品売場を速報",
-      "url": "https://diamond-rm.net/store/548596/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-18",
-      "tags": [
-        "イオン",
-        "食品"
+        "DCM"
       ]
     },
     {
@@ -1388,6 +1400,33 @@
       "category": "foodservice",
       "date": "2026-06-18",
       "tags": []
+    },
+    {
+      "id": "diamond-dc49721e",
+      "title": "週刊スーパーマーケットニュース　ライフがネットスーパー顧客満足度調査で2年連続1位",
+      "url": "https://diamond-rm.net/management/businessplan/548779/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-18",
+      "tags": [
+        "ネットスーパー",
+        "スーパー",
+        "ライフ"
+      ]
+    },
+    {
+      "id": "diamond-04e4dee9",
+      "title": "25年間地域に愛されたダイエーの店舗を転換！ 「イオンスタイル武蔵村山南」の食品売場を速報",
+      "url": "https://diamond-rm.net/store/548596/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-06-18",
+      "tags": [
+        "イオン",
+        "食品"
+      ]
     },
     {
       "id": "ryutsuu-c75f8bfc",
@@ -2352,18 +2391,6 @@
       ]
     },
     {
-      "id": "diamond-a3992448",
-      "title": "イオンが新中計を発表 「営業収益15兆円」の壮大な目標達成なるか",
-      "url": "https://diamond-rm.net/market/547547/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-06-15",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
       "id": "diamond-31f960d7",
       "title": "朝だけで月商1000万円！？ネットスーパーの「早朝便」がもたらした成果",
       "url": "https://diamond-rm.net/ec-epayment/net-super/547548/",
@@ -2505,6 +2532,18 @@
       "date": "2026-06-15",
       "tags": [
         "リニューアル"
+      ]
+    },
+    {
+      "id": "diamond-a3992448",
+      "title": "イオンが新中計を発表 「営業収益15兆円」の壮大な目標達成なるか",
+      "url": "https://diamond-rm.net/market/547547/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-15",
+      "tags": [
+        "イオン"
       ]
     },
     {
@@ -3418,43 +3457,6 @@
       "tags": [
         "ローソン",
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-3e0adc86",
-      "title": "有明・東京ドリームパーク／堀口珈琲のディナーも楽しめる新店舗6月12日オープン",
-      "url": "https://www.ryutsuu.biz/store/s061117.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-12",
-      "tags": [
-        "オープン",
-        "新店"
-      ]
-    },
-    {
-      "id": "ryutsuu-f0449518",
-      "title": "アルペン／スポーツデポ栗東店6月12日オープン、アルペンから業態転換",
-      "url": "https://www.ryutsuu.biz/store/s061173.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-12",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-702619a1",
-      "title": "ローソン／「ゴーストレストラン」鹿児島県に初導入、6月11日から",
-      "url": "https://www.ryutsuu.biz/ec/s060811.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "ec",
-      "date": "2026-06-11",
-      "tags": [
-        "ローソン"
       ]
     }
   ]
