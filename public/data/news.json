@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T07:10:55.618Z",
+  "lastUpdated": "2026-06-24T12:43:51.997Z",
   "items": [
     {
       "id": "ryutsuu-317a1f71",
@@ -37,17 +37,17 @@
       ]
     },
     {
-      "id": "ryutsuu-5ee348db",
-      "title": "イオン南風原店／沖縄初出店のフード＆アミューズメント融合型施設「Feedy」7月下旬オープン",
-      "url": "https://www.ryutsuu.biz/store/s062474.html",
+      "id": "ryutsuu-c6e58d8a",
+      "title": "くら寿司／タイ・バンコクに27年新店舗オープン、東南アジア初出店",
+      "url": "https://www.ryutsuu.biz/abroad/s062418.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "店舗",
+      "category": "abroad",
       "date": "2026-06-24",
       "tags": [
         "オープン",
-        "イオン",
-        "出店"
+        "出店",
+        "新店"
       ]
     },
     {
@@ -60,6 +60,20 @@
       "date": "2026-06-24",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-5ee348db",
+      "title": "イオン南風原店／沖縄初出店のフード＆アミューズメント融合型施設「Feedy」7月下旬オープン",
+      "url": "https://www.ryutsuu.biz/store/s062474.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-24",
+      "tags": [
+        "オープン",
+        "イオン",
+        "出店"
       ]
     },
     {
@@ -172,8 +186,63 @@
       "tags": []
     },
     {
+      "id": "ssnp-c56e6f47",
+      "title": "雪印メグミルクG、初のバター専門カフェをオープン　“作りたてバター”を味わえる新業態\n\t\t\t\t\t\t\t\t\t\t\t\t雪印メグミルクと雪印パーラーは、グループ初となるバター専門カフェ「THE BUTTER(ザ バター)」を、7月25日に北海道札幌市の商業施設「赤れんが テラス」内にオープンする。6月23日に明らかにした。 新業態店舗「T...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/milk/690690/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "milk",
+      "date": "2026-06-24",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ssnp-a796e27f",
+      "title": "【不二家レストラン】うなぎやハンバーグ、貫目氷かき氷などを揃えた「夏のごちそうフェア」開催、割引キャンペーンも\n\t\t\t\t\t\t\t\t\t\t\t\t不二家は、全国の不二家レストラン29店舗で「夏のごちそうフェア」を6月25日(木)から8月末頃まで開催する。鹿児島県産うなぎを使用したスタミナメニューや冷製パスタ、夏限定ハンバーグ、注文ごとに貫目氷を削って仕上げる不二家...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690674/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-24",
+      "tags": []
+    },
+    {
+      "id": "ssnp-8c31da8d",
+      "title": "発売5周年の「だけ弁当」から「ハムエッグ」など3品登場/弁当の価格帯を3つに再編、298円ラインを強化【ローソンストア100】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/690657/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-06-24",
+      "tags": [
+        "ローソン",
+        "弁当"
+      ]
+    },
+    {
+      "id": "ssnp-44b50c42",
+      "title": "餃子の王将、会計5％オフ会員証がもらえる恒例キャンペーン開始　餃子型カバー付き傘やラーメン鉢も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690646/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-24",
+      "tags": []
+    },
+    {
+      "id": "ssnp-af3471a1",
+      "title": "ジョイフル、4日間限定「キッズメニュー半額キャンペーン」実施\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690637/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-24",
+      "tags": []
+    },
+    {
       "id": "ssnp-73a17a6a",
-      "title": "サンマルクカフェ、『ミニオンズ&モンスターズ』コラボ商品を7月3日より期間限定発売\n\t\t\t\t\t\t\t\t\t\t\t\tサンマルクカフェは、映画『ミニオンズ&モンスターズ』の全国ロードショー(8月7日)を記念し、2026年7月3日(金)～9月4日(金)の期間限定で、コラボレーションメニューおよびグッズ付きセットを数量限定で販売する...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "サンマルクカフェ、『ミニオンズ&モンスターズ』コラボ商品を7月3日より期間限定発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/690602/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -183,7 +252,7 @@
     },
     {
       "id": "ssnp-201414c1",
-      "title": "【サーティワン×どうぶつの森】初コラボ　“島”を表現した新作フレーバーや限定商品、ゲーム連携企画など展開\n\t\t\t\t\t\t\t\t\t\t\t\tB-R サーティワン アイスクリームはこのほど、任天堂の人気ゲームシリーズ「どうぶつの森」と初コラボし、7月1日～31日の期間でキャンペーンを展開する。 「どうぶつの森」の島をイメージした新作フレーバーをはじめ、コラボ限...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【サーティワン×どうぶつの森】初コラボ　“島”を表現した新作フレーバーや限定商品、ゲーム連携企画など展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/690573/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -374,20 +443,6 @@
       "tags": [
         "スーパー",
         "物流"
-      ]
-    },
-    {
-      "id": "ryutsuu-90dd6ca4",
-      "title": "旧名鉄百貨店本店／スーパーマーケット「サポーレ」2026年度冬頃オープン",
-      "url": "https://www.ryutsuu.biz/store/s062342.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-06-23",
-      "tags": [
-        "スーパー",
-        "オープン",
-        "百貨店"
       ]
     },
     {
@@ -606,6 +661,20 @@
       "category": "飲料",
       "date": "2026-06-23",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-90dd6ca4",
+      "title": "旧名鉄百貨店本店／スーパーマーケット「サポーレ」2026年度冬頃オープン",
+      "url": "https://www.ryutsuu.biz/store/s062342.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-23",
+      "tags": [
+        "スーパー",
+        "オープン",
+        "百貨店"
+      ]
     },
     {
       "id": "ryutsuu-b4c81f7a",
@@ -3396,69 +3465,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
-      "date": "2026-06-12",
-      "tags": []
-    },
-    {
-      "id": "ssnp-c45640fb",
-      "title": "キッザニア東京『お菓子工場』リニューアル　オリジナル「ハイチュウ」が作れるパビリオン、期間限定フレーバー提供も【森永製菓】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/688743/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-06-12",
-      "tags": [
-        "リニューアル",
-        "菓子"
-      ]
-    },
-    {
-      "id": "ssnp-222b2e8d",
-      "title": "【スシロー】山形の名店“中華そば処 琴平荘”監修「煮干し香る 鶏醤油ラーメン」登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688751/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-12",
-      "tags": []
-    },
-    {
-      "id": "ssnp-3293d87d",
-      "title": "【ドトールコーヒー】「ミラノサンド牛カルビ」4種や「ヨーグルン」の新フレーバー、果実感たっぷりの新作スイーツなど新発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688732/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-12",
-      "tags": []
-    },
-    {
-      "id": "ssnp-27762423",
-      "title": "【食べ放題】ゆず庵、夏限定メニュー登場　牛骨×麻辣の新だしや「炙りとろ鰻握り」を投入\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688713/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-12",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e223f70f",
-      "title": "「セブンプレミアム カフェラテ氷」「ひと夏の黄色いスイカバー」を発売【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/688714/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-06-12",
-      "tags": []
-    },
-    {
-      "id": "ssnp-d53938b7",
-      "title": "【NewDays】『背徳フェア』を初開催、「禁断のコンボ」をテーマに、厚切り焼豚にニンニク背脂を合わせた「スゴおに」など全9品\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/688689/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
       "date": "2026-06-12",
       "tags": []
     }
