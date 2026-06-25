@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-06-25T07:11:11.271Z",
+  "lastUpdated": "2026-06-25T12:48:06.795Z",
   "items": [
+    {
+      "id": "ryutsuu-012fec81",
+      "title": "天王寺ミオ／7～9月スタバなど飲食3店舗オープン",
+      "url": "https://www.ryutsuu.biz/store/s062512.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-06-25",
+      "tags": [
+        "オープン"
+      ]
+    },
     {
       "id": "ryutsuu-7c1b5113",
       "title": "三菱食品、東急エージェンシーなど／リテールメディアの効果可視化するサービス開始",
@@ -65,6 +77,19 @@
       "tags": [
         "オープン",
         "モール"
+      ]
+    },
+    {
+      "id": "ryutsuu-b34ddee0",
+      "title": "平和堂 決算／3～5月は粗利益率が低下し2桁減益、営業収益は3.4％増",
+      "url": "https://www.ryutsuu.biz/accounts/s062549.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-06-25",
+      "tags": [
+        "決算",
+        "減益"
       ]
     },
     {
@@ -153,6 +178,31 @@
       "tags": []
     },
     {
+      "id": "diamond-f3dd3988",
+      "title": "総合スーパー決算ランキング2026　利益面の明暗大きく分かれる",
+      "url": "https://diamond-rm.net/market/accounting/549160/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-25",
+      "tags": [
+        "スーパー",
+        "決算"
+      ]
+    },
+    {
+      "id": "diamond-b492e930",
+      "title": "週刊スーパーマーケットニュース　ヨークベニマルがひたちなか市に「馬渡店」を開店",
+      "url": "https://diamond-rm.net/management/businessplan/549595/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-25",
+      "tags": [
+        "スーパー"
+      ]
+    },
+    {
       "id": "diamond-13d3e0e9",
       "title": "上場小売業決算ランキング2026　業態間で“稼ぐ力”の差が鮮明に",
       "url": "https://diamond-rm.net/market/accounting/549158/",
@@ -203,6 +253,19 @@
       "date": "2026-06-25",
       "tags": [
         "ライフ"
+      ]
+    },
+    {
+      "id": "diamond-9e938d08",
+      "title": "週刊コンビニエンスストアニュース　セブン-イレブンが加盟条件を見直しへ",
+      "url": "https://diamond-rm.net/management/549025/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-06-25",
+      "tags": [
+        "セブン-イレブン",
+        "コンビニ"
       ]
     },
     {
@@ -321,35 +384,58 @@
       ]
     },
     {
-      "id": "diamond-1485975f",
-      "title": "ドラッグストア決算ランキング2026　「1兆円企業」が続々誕生",
-      "url": "https://diamond-rm.net/market/accounting/549161/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
+      "id": "ssnp-60da3784",
+      "title": "農水省、5年ぶりとなる第5次食育推進基本計画を策定　半数以上の項目で数値悪化　個人と地域に分けた目標設定に\n\t\t\t\t\t\t\t\t\t\t\t\t農林水産省は6月24日、第9回食育推進会議を開催し、第5次食育推進基本計画を決定した。同計画は、今年5月27日に公布･施行された改正食育基本法の基本理念や基本的施策等を具体化し、食育に関する施策を総合的かつ計画的に推進す...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/feeding/690854/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "feeding",
       "date": "2026-06-25",
-      "tags": [
-        "ドラッグストア",
-        "ドラッグ",
-        "決算"
-      ]
+      "tags": []
     },
     {
-      "id": "diamond-f3dd3988",
-      "title": "総合スーパー決算ランキング2026　利益面の明暗大きく分かれる",
-      "url": "https://diamond-rm.net/market/accounting/549160/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
+      "id": "ssnp-0f8cda5d",
+      "title": "【サンマルクカフェ】夏の新作ホットサンドやシャインマスカットを使用したスムージーなど4商品を発売\n\t\t\t\t\t\t\t\t\t\t\t\tサンマルクカフェは、岡山県産シャインマスカットを使用した『シャインマスカットスムージー』をはじめ、夏の新作パンメニュー『サンマルクホットサンド 和風鶏』『THEホットドッグ クラシックアメリカン』、さらに一部店舗限定のパ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690842/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
       "date": "2026-06-25",
-      "tags": [
-        "スーパー",
-        "決算"
-      ]
+      "tags": []
+    },
+    {
+      "id": "ssnp-563534cd",
+      "title": "【バーガーキング】サイドメニュー2個で500円になるキャンペーン開催、最大33%オフ250円引きに!\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690828/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-25",
+      "tags": []
+    },
+    {
+      "id": "ssnp-a21ab7bc",
+      "title": "ドミノ・ピザ「安売りブランド」脱却へ　持ち帰り半額終了、チーズ20％増量\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690816/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-25",
+      "tags": []
+    },
+    {
+      "id": "ssnp-7de7b3cc",
+      "title": "マッシュルーム香る人気ソースが約7か月ぶりの復活「ブラウンソースハンバーグ定食」6月30日発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/690797/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-06-25",
+      "tags": []
     },
     {
       "id": "ssnp-b9e06e27",
-      "title": "「綾鷹」×「ドラゴンボールZ」限定ボトル全7種を6月29日発売　ポーチ配布やQUOカード抽選も/コカ・コーラシステム\n\t\t\t\t\t\t\t\t\t\t\t\tコカ・コーラシステムは6月29日、緑茶ブランド「綾鷹」で、人気アニメ「ドラゴンボールZ」とコラボレーションしたキャンペーンを開始する。同日から、同作品のキャラクターをデザインした「綾鷹」限定パッケージ全7種（650mlP...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "「綾鷹」×「ドラゴンボールZ」限定ボトル全7種を6月29日発売　ポーチ配布やQUOカード抽選も/コカ・コーラシステム\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/690790/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -359,15 +445,13 @@
     },
     {
       "id": "ssnp-abb626c7",
-      "title": "【ビアードパパ】ゴジラのゴツゴツとした表皮を再現したシュー生地の中に、苺クリームを入れた『ゴジラシュー』\n\t\t\t\t\t\t\t\t\t\t\t\tシュークリーム専門店ビアードパパは、2026年7月1日から、「ゴジラ」との初のコラボレーション商品『ゴジラシュー』を7月限定で販売する。 【『ゴジラシュー』の画像はこちら】 ◆ゴジラシュー 販売期間:2026年7月1日～...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【ビアードパパ】ゴジラのゴツゴツとした表皮を再現したシュー生地の中に、苺クリームを入れた『ゴジラシュー』\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/690776/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
       "date": "2026-06-25",
-      "tags": [
-        "専門店"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-ca4e4e56",
@@ -393,7 +477,7 @@
     },
     {
       "id": "ssnp-43227af9",
-      "title": "【ミニストップ】店内調理のファストフードを訴求、新フォーマット店の確立も目指す【コンビニ各社動向#4】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【ミニストップ】店内調理のファストフードを訴求、新フォーマット店の確立も目指す【コンビニ各社動向 #4】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/690752/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -443,6 +527,20 @@
       "category": "流通",
       "date": "2026-06-25",
       "tags": []
+    },
+    {
+      "id": "diamond-1485975f",
+      "title": "ドラッグストア決算ランキング2026　「1兆円企業」が続々誕生",
+      "url": "https://diamond-rm.net/market/accounting/549161/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-25",
+      "tags": [
+        "ドラッグストア",
+        "ドラッグ",
+        "決算"
+      ]
     },
     {
       "id": "ryutsuu-83fb1400",
@@ -1658,19 +1756,6 @@
       ]
     },
     {
-      "id": "ryutsuu-a8a83272",
-      "title": "サツドラHD／MBO実施、上場廃止",
-      "url": "https://www.ryutsuu.biz/strategy/s061916.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-06-19",
-      "tags": [
-        "MBO",
-        "上場"
-      ]
-    },
-    {
       "id": "ryutsuu-94efd10d",
       "title": "アルコール飲料 売上ランキング／5月の1・2位は「アサヒゴールド」",
       "url": "https://www.ryutsuu.biz/pos/s061972.html",
@@ -1891,6 +1976,19 @@
       "date": "2026-06-19",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "ryutsuu-a8a83272",
+      "title": "サツドラHD／MBO実施、上場廃止",
+      "url": "https://www.ryutsuu.biz/strategy/s061916.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-06-19",
+      "tags": [
+        "MBO",
+        "上場"
       ]
     },
     {
@@ -3396,98 +3494,6 @@
       "tags": [
         "イオン"
       ]
-    },
-    {
-      "id": "ssnp-dadfcd08",
-      "title": "「スパイシーチキンのジャンバラヤ」や「割って食べるパリチョコレモンティラミス」など新作メニューが登場【エクセルシオールカフェ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688897/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-03751c64",
-      "title": "しゃぶしゃぶどん亭、父の日期間限定で「黒毛和牛リブロース」を販売 / 飲み放題550円キャンペーンも実施\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688887/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-6c03897a",
-      "title": "【4日間限定】「喜多方ラーメン」200円引き　「坂内感謝祭」を全国で開催　6月16日から\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688874/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-3b35ebb0",
-      "title": "税込110円の「ジャンボとろサーモン」や値段そのままで約2倍サイズになった「倍切り!うなぎの蒲焼き」など【スシローの日2026第二弾】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688856/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-c24171eb",
-      "title": "KFC、560円お得な「父の日バーレル」発売　オリジナルチキン7ピース入り\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688870/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-15",
-      "tags": [
-        "FC"
-      ]
-    },
-    {
-      "id": "ssnp-19315d6f",
-      "title": "資さんうどん、人気おにぎり4種を期間限定で100円提供【資おに100円キャンペーン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688844/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f0fa66eb",
-      "title": "宮崎県産マンゴーを使った“SUNSHINE MANGO”フェア、クレープとソフトクリームの2品登場【gelato pique cafe】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/688838/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-8d927a1d",
-      "title": "【マーガリン市場動向】家庭用はバターの高騰でグルメタイプが代替需要の受け皿に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/688836/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-06-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-6f4ba6f7",
-      "title": "ミツハシ×横浜武道館×横浜エクセレンスの3者連携企画　地場産品「横濱武道舞(米)」田植えイベント\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/rice/688832/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "米",
-      "date": "2026-06-15",
-      "tags": []
     }
   ]
 }
