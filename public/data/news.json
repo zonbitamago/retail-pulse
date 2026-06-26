@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T07:17:37.802Z",
+  "lastUpdated": "2026-06-26T12:42:23.435Z",
   "items": [
     {
       "id": "ryutsuu-91bcfad1",
@@ -100,27 +100,17 @@
       ]
     },
     {
-      "id": "ryutsuu-029b5560",
-      "title": "オークワ 決算／3～5月営業収益0.6％減、消費者の節約志向などで売上苦戦・客数減",
-      "url": "https://www.ryutsuu.biz/accounts/s062680.html",
+      "id": "ryutsuu-0fe430d3",
+      "title": "DCM 決算／3～5月営業利益17.4％増、中東情勢影響のまとめ買い・空調関連などで",
+      "url": "https://www.ryutsuu.biz/accounts/s062681.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "accounts",
       "date": "2026-06-26",
       "tags": [
+        "営業利益",
+        "DCM",
         "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-8fcc83f5",
-      "title": "公取委／ベイシア電器に勧告、業務委託の報酬減額・買いたたきで",
-      "url": "https://www.ryutsuu.biz/government/s062611.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "行政",
-      "date": "2026-06-26",
-      "tags": [
-        "ベイシア"
       ]
     },
     {
@@ -156,8 +146,33 @@
       "tags": []
     },
     {
+      "id": "ssnp-ed63d9e3",
+      "title": "“塩茹でとうもろこし”の味わいをイメージ　「ベビースターラーメン丸」に夏季限定の新味登場【おやつカンパニー】\n\t\t\t\t\t\t\t\t\t\t\t\tおやつカンパニーは6月29日、「ベビースターラーメン丸」シリーズから、夏季限定の新フレーバー「しおコーン味」を全国のコンビニで発売する。 ビッツ形状の「ベビースターラーメン丸」にフリーズドライコーンを加え、とうもろこしの...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/691101/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-06-26",
+      "tags": [
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "ssnp-c5d17945",
+      "title": "シャトレーゼ「ももフェア」開催　山梨県産“完熟桃”1/2個使用タルトなど登場、店舗で仕上げる限定ケーキも\n\t\t\t\t\t\t\t\t\t\t\t\t株式会社シャトレーゼ(本社:山梨県甲府市)は7月3日から、全国の菓子専門店「シャトレーゼ」で毎年恒例の「ももフェア」を順次開催する。 フェアでは、日本一の桃の名産地･山梨県産の“完熟桃”を使ったスイーツを展開する。シャト...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/691054/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-06-26",
+      "tags": [
+        "専門店",
+        "菓子"
+      ]
+    },
+    {
       "id": "ssnp-1f7abd66",
-      "title": "最大150円お得!タコスサンド3種が各500円になる『タコス祭 第2弾』開催【サブウェイ】\n\t\t\t\t\t\t\t\t\t\t\t\tサンドイッチチェーン「サブウェイ」は、期間限定タコスサンド3種が1点500円で楽しめる『タコス祭 第2弾』を、2026年6月27日から7月1日の5日間、全国の店舗で開催する。 2026年5月に販売を開始した期間限定のタコ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "最大150円お得!タコスサンド3種が各500円になる『タコス祭 第2弾』開催【サブウェイ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/691035/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -167,15 +182,13 @@
     },
     {
       "id": "ssnp-786eed24",
-      "title": "【ほっともっと】甘辛たれで“スタミナ満点”「牛カルビ&ホルモン」シリーズ全3商品を発売　「真夏の旨×辛フェア」\n\t\t\t\t\t\t\t\t\t\t\t\t全国に2,421店舗を展開する持ち帰り弁当チェーン「Hotto Motto(ほっともっと)」は7月2日、「真夏の旨×辛フェア」として、「牛カルビ&ホルモン」シリーズを全国で新発売する。 牛カルビとホルモンを組み合...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【ほっともっと】甘辛たれで“スタミナ満点”「牛カルビ&ホルモン」シリーズ全3商品を発売　「真夏の旨×辛フェア」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/691026/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-06-26",
-      "tags": [
-        "弁当"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-ac76494a",
@@ -356,6 +369,30 @@
       "tags": [
         "コンビニ",
         "惣菜"
+      ]
+    },
+    {
+      "id": "ryutsuu-029b5560",
+      "title": "オークワ 決算／3～5月営業収益0.6％減、消費者の節約志向などで売上苦戦・客数減",
+      "url": "https://www.ryutsuu.biz/accounts/s062680.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-06-26",
+      "tags": [
+        "決算"
+      ]
+    },
+    {
+      "id": "ryutsuu-8fcc83f5",
+      "title": "公取委／ベイシア電器に勧告、業務委託の報酬減額・買いたたきで",
+      "url": "https://www.ryutsuu.biz/government/s062611.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "行政",
+      "date": "2026-06-26",
+      "tags": [
+        "ベイシア"
       ]
     },
     {
@@ -3440,36 +3477,6 @@
       "id": "ssnp-42e1b6bb",
       "title": "カフェ・ベローチェ、40周年記念「黒ねこサマーバッグ2026」発売　最大1660円相当のフード引換券付き\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/689100/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-16",
-      "tags": []
-    },
-    {
-      "id": "ssnp-2742ac89",
-      "title": "【かっぱ寿司】初夏限定の「極旨ネタ祭り」開催、一本釣りかつおや天然あじが110円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/689088/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-16",
-      "tags": []
-    },
-    {
-      "id": "ssnp-c3b34cfe",
-      "title": "セブン‐イレブン、おにぎり2個購入でドリンク1本無料キャンペーンを実施\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/689084/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-06-16",
-      "tags": []
-    },
-    {
-      "id": "ssnp-d6ef0052",
-      "title": "からやま、塩にんにくからあげ×豚しゃぶの新定食発売　香酢だれでさっぱりと\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/689067/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
