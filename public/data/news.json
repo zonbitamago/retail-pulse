@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T07:20:59.732Z",
+  "lastUpdated": "2026-06-28T12:28:05.137Z",
   "items": [
     {
       "id": "ssnp-c9564647",
@@ -502,6 +502,34 @@
       ]
     },
     {
+      "id": "diamond-1485975f",
+      "title": "ドラッグストア決算ランキング2026　「1兆円企業」が続々誕生",
+      "url": "https://diamond-rm.net/market/accounting/549161/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-25",
+      "tags": [
+        "ドラッグストア",
+        "ドラッグ",
+        "決算"
+      ]
+    },
+    {
+      "id": "diamond-554222bb",
+      "title": "コンビニ決算ランキング2026 ファミマとローソンの好調際立つ",
+      "url": "https://diamond-rm.net/market/accounting/549162/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-25",
+      "tags": [
+        "ローソン",
+        "コンビニ",
+        "決算"
+      ]
+    },
+    {
       "id": "diamond-f3dd3988",
       "title": "総合スーパー決算ランキング2026　利益面の明暗大きく分かれる",
       "url": "https://diamond-rm.net/market/accounting/549160/",
@@ -524,34 +552,6 @@
       "date": "2026-06-25",
       "tags": [
         "スーパー"
-      ]
-    },
-    {
-      "id": "diamond-13d3e0e9",
-      "title": "上場小売業決算ランキング2026　業態間で“稼ぐ力”の差が鮮明に",
-      "url": "https://diamond-rm.net/market/accounting/549158/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-06-25",
-      "tags": [
-        "決算",
-        "上場"
-      ]
-    },
-    {
-      "id": "diamond-5ea2dc61",
-      "title": "食品スーパー決算ランキング2026　“1兆円クラブ”入り企業が続々誕生の予感",
-      "url": "https://diamond-rm.net/market/accounting/549159/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-06-25",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品",
-        "決算"
       ]
     },
     {
@@ -814,6 +814,34 @@
       "tags": []
     },
     {
+      "id": "diamond-13d3e0e9",
+      "title": "上場小売業決算ランキング2026　業態間で“稼ぐ力”の差が鮮明に",
+      "url": "https://diamond-rm.net/market/accounting/549158/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-25",
+      "tags": [
+        "決算",
+        "上場"
+      ]
+    },
+    {
+      "id": "diamond-5ea2dc61",
+      "title": "食品スーパー決算ランキング2026　“1兆円クラブ”入り企業が続々誕生の予感",
+      "url": "https://diamond-rm.net/market/accounting/549159/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-25",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品",
+        "決算"
+      ]
+    },
+    {
       "id": "ryutsuu-012fec81",
       "title": "天王寺ミオ／7～9月スタバなど飲食3店舗オープン",
       "url": "https://www.ryutsuu.biz/store/s062512.html",
@@ -1012,34 +1040,6 @@
       "date": "2026-06-25",
       "tags": [
         "ライフ"
-      ]
-    },
-    {
-      "id": "diamond-554222bb",
-      "title": "コンビニ決算ランキング2026 ファミマとローソンの好調際立つ",
-      "url": "https://diamond-rm.net/market/accounting/549162/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-06-25",
-      "tags": [
-        "ローソン",
-        "コンビニ",
-        "決算"
-      ]
-    },
-    {
-      "id": "diamond-1485975f",
-      "title": "ドラッグストア決算ランキング2026　「1兆円企業」が続々誕生",
-      "url": "https://diamond-rm.net/market/accounting/549161/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-06-25",
-      "tags": [
-        "ドラッグストア",
-        "ドラッグ",
-        "決算"
       ]
     },
     {
