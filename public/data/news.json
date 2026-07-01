@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-07-01T07:29:35.091Z",
+  "lastUpdated": "2026-07-01T12:57:12.645Z",
   "items": [
+    {
+      "id": "ryutsuu-151db579",
+      "title": "セブンイレブン／スタートアップ企業などから食のアイデア募集",
+      "url": "https://www.ryutsuu.biz/strategy/s070150.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-07-01",
+      "tags": [
+        "セブンイレブン"
+      ]
+    },
     {
       "id": "ryutsuu-3a4c0c97",
       "title": "帝国データバンク／7月の食品値上げは2566品目、中東情勢によるコスト増響く",
@@ -66,19 +78,6 @@
       ]
     },
     {
-      "id": "ryutsuu-4e0f43fd",
-      "title": "イオン北海道／札幌市に「ザ・ビッグ厚別店」9月中旬オープン",
-      "url": "https://www.ryutsuu.biz/store/s070112.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-01",
-      "tags": [
-        "オープン",
-        "イオン"
-      ]
-    },
-    {
       "id": "ryutsuu-43c5adb2",
       "title": "流通経済研究所／「ID-POSデータ活用講座3 実践編」7月23・30日開催",
       "url": "https://www.ryutsuu.biz/seminar/s070172.html",
@@ -90,6 +89,19 @@
         "PR",
         "ID-POS",
         "データ活用"
+      ]
+    },
+    {
+      "id": "ryutsuu-4e0f43fd",
+      "title": "イオン北海道／札幌市に「ザ・ビッグ厚別店」9月中旬オープン",
+      "url": "https://www.ryutsuu.biz/store/s070112.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-01",
+      "tags": [
+        "オープン",
+        "イオン"
       ]
     },
     {
@@ -191,6 +203,30 @@
       ]
     },
     {
+      "id": "diamond-988403d2",
+      "title": "U.S.M.H井出社長独占インタビュー　「グループ最適」でシナジー創出に本腰",
+      "url": "https://diamond-rm.net/management/topinterview/549152/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-01",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-c84df37a",
+      "title": "【DCS最新号】7月1日号は「決算2026ランキング」",
+      "url": "https://diamond-rm.net/market/accounting/549800/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-07-01",
+      "tags": [
+        "決算"
+      ]
+    },
+    {
       "id": "diamond-0c7fed17",
       "title": "【一部無料公開】「ロビン・フッド」が静岡県に進出！ 4号店「香貫店」をレポート",
       "url": "https://diamond-rm.net/store/550140/",
@@ -270,18 +306,6 @@
       ]
     },
     {
-      "id": "diamond-c84df37a",
-      "title": "【DCS最新号】7月1日号は「決算2026ランキング」",
-      "url": "https://diamond-rm.net/market/accounting/549800/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-07-01",
-      "tags": [
-        "決算"
-      ]
-    },
-    {
       "id": "diamond-3186726b",
       "title": "フジグラン広島・酒井店長の型にはまらないリーダシップ論！",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/549169/",
@@ -351,18 +375,6 @@
       "tags": []
     },
     {
-      "id": "diamond-988403d2",
-      "title": "U.S.M.H井出社長独占インタビュー　「グループ最適」でシナジー創出に本腰",
-      "url": "https://diamond-rm.net/management/topinterview/549152/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-01",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-6c7e3819",
       "title": "ウォルマートが小売・外食向けに「保守管理サービス」を開始した背景",
       "url": "https://diamond-rm.net/overseas/american_economy/549150/",
@@ -421,8 +433,91 @@
       ]
     },
     {
+      "id": "ssnp-761c8a33",
+      "title": "鰻の成瀬“第二章”始動　品質強化でブランド磨く　斎藤佑樹氏がCOO就任\n\t\t\t\t\t\t\t\t\t\t\t\tうなぎチェーン「鰻の成瀬」を運営するフランチャイズビジネスインキュベーションは7月1日、東京都内で発表会を開催した。今年4月にAIフュージョンキャピタルグループの連結子会社となって以降初となるブランド刷新として、元プロ野...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/691687/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-07-01",
+      "tags": [
+        "フランチャイズ",
+        "AI"
+      ]
+    },
+    {
+      "id": "ssnp-726920a0",
+      "title": "「大切りびん長まぐろ」が110円、『年に一度の別格まぐろ祭』7月3日開始 / のどぐろも110円で登場【スシロー】\n\t\t\t\t\t\t\t\t\t\t\t\t寿司チェーンのスシローは、静岡の鮪問屋「八洲水産」とタッグを組んだ『年に一度の別格まぐろ祭』を、7月3日から全国のスシローで開催する。 天然本鮪やびん長まぐろなど、厳選した鮪を使用した商品を販売するほか、7月15日(水)...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/691667/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-07-01",
+      "tags": []
+    },
+    {
+      "id": "ssnp-d45e11c6",
+      "title": "ネスレ日本、ボトルコーヒー4品を11月から価格改定 「ネスカフェ エクセラ」約9～25%上昇\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/691664/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-07-01",
+      "tags": [
+        "価格改定"
+      ]
+    },
+    {
+      "id": "ssnp-c0544634",
+      "title": "メロンパンのクッキー生地×チョコクッキー「お店で焼いた メロンパンみたいなチョコクッキー」を新発売【セブンカフェ ベーカリー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/691637/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-07-01",
+      "tags": []
+    },
+    {
+      "id": "ssnp-112a658f",
+      "title": "【木曽路】開業60周年記念「キソジナイト」開催、水･日曜夜限定で肉が1.5倍に【本日から】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/691618/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-07-01",
+      "tags": [
+        "開業"
+      ]
+    },
+    {
+      "id": "ssnp-cb8c0e0e",
+      "title": "「三ツ矢サイダー」「カルピスウォーター」など151品目値上げ アサヒ飲料、11月1日出荷分から\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/691626/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-07-01",
+      "tags": [
+        "値上げ",
+        "飲料"
+      ]
+    },
+    {
+      "id": "ssnp-89fbaa92",
+      "title": "「資さんうどん」東海エリア初出店へ、愛知県に1号店　SNSで反響\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/691617/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-07-01",
+      "tags": [
+        "SNS",
+        "出店"
+      ]
+    },
+    {
       "id": "ssnp-025b4678",
-      "title": "夏の新作ケーキは北海道産クリームチーズ&クリームを使用した「ご褒美レアチーズ」など全3種【コメダ珈琲店】\n\t\t\t\t\t\t\t\t\t\t\t\tコメダ珈琲店は、夏の新作ケーキ3種「ご褒美レアチーズ」「氷点下ショコラ」「紅茶日和」を2026年7月7日から季節限定で販売する。 【商品概要】 販売価格(税込):各530円～590円※店舗により価格は異なる。 販売期間:...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "夏の新作ケーキは北海道産クリームチーズ&クリームを使用した「ご褒美レアチーズ」など全3種【コメダ珈琲店】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/691609/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -432,7 +527,7 @@
     },
     {
       "id": "ssnp-8e6ce501",
-      "title": "【3日間限定】ゆず庵「小学生無料キャンペーン」展開　注文した大人1人につき “1人無料”に\n\t\t\t\t\t\t\t\t\t\t\t\t物語コーポレーションが展開する「寿司･しゃぶしゃぶ ゆず庵」は、7月10日～12日までの3日間限定で、「小学生無料キャンペーン」を実施する。 「夏のゆず庵コース」または「贅沢コース」を注文した大人1人につき、小学生1人が...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【3日間限定】ゆず庵「小学生無料キャンペーン」展開　注文した大人1人につき “1人無料”に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/691596/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -685,32 +780,15 @@
       ]
     },
     {
-      "id": "ryutsuu-452203c2",
-      "title": "西武HD／ペットゴーと資本業務提携、アプリなどでペット向けサービスの拡張目指す",
-      "url": "https://www.ryutsuu.biz/strategy/s063078.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-06-30",
-      "tags": [
-        "業務提携",
-        "アプリ"
-      ]
-    },
-    {
-      "id": "diamond-61191613",
-      "title": "「イオン八王子滝山」がオープン　ネットスーパー「Green Beans」のCFC併設",
-      "url": "https://diamond-rm.net/store/newstorereport/549937/",
+      "id": "diamond-196cd427",
+      "title": "＃５ファミマのリテールメディア、成果の上がる組織と仕組み",
+      "url": "https://diamond-rm.net/technology/549834/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "店舗",
+      "category": "テクノロジー",
       "date": "2026-06-30",
       "tags": [
-        "ネットスーパー",
-        "スーパー",
-        "オープン",
-        "イオン",
-        "FC"
+        "リテールメディア"
       ]
     },
     {
@@ -727,15 +805,19 @@
       ]
     },
     {
-      "id": "diamond-196cd427",
-      "title": "＃５ファミマのリテールメディア、成果の上がる組織と仕組み",
-      "url": "https://diamond-rm.net/technology/549834/",
+      "id": "diamond-61191613",
+      "title": "「イオン八王子滝山」がオープン　ネットスーパー「Green Beans」のCFC併設",
+      "url": "https://diamond-rm.net/store/newstorereport/549937/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "テクノロジー",
+      "category": "店舗",
       "date": "2026-06-30",
       "tags": [
-        "リテールメディア"
+        "ネットスーパー",
+        "スーパー",
+        "オープン",
+        "イオン",
+        "FC"
       ]
     },
     {
@@ -878,6 +960,19 @@
       "tags": [
         "食品ロス",
         "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-452203c2",
+      "title": "西武HD／ペットゴーと資本業務提携、アプリなどでペット向けサービスの拡張目指す",
+      "url": "https://www.ryutsuu.biz/strategy/s063078.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-06-30",
+      "tags": [
+        "業務提携",
+        "アプリ"
       ]
     },
     {
@@ -3405,96 +3500,6 @@
       "category": "foodservice",
       "date": "2026-06-22",
       "tags": []
-    },
-    {
-      "id": "ssnp-6e2284de",
-      "title": "セブンプレミアムから2種のフルーツアイス「温州みかん氷」「ライチバー」登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/690133/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-06-22",
-      "tags": []
-    },
-    {
-      "id": "ssnp-92ff804b",
-      "title": "【リンガーハット】夏の期間限定メニュー第2弾、3品を展開　「夏辛ちゃんぽん」がリニューアル登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/690120/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-22",
-      "tags": [
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "ssnp-7e2e9901",
-      "title": "松屋が参鶏湯発売、「定番メニューとの参鶏湯風スープセット」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/690111/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-22",
-      "tags": [
-        "松屋"
-      ]
-    },
-    {
-      "id": "ssnp-d6e22ea0",
-      "title": "【6月30日限定】サンマルクカフェ、チョコクロ9個が30％オフに　通常2250円→1570円【月1回開催】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/690096/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-22",
-      "tags": []
-    },
-    {
-      "id": "ssnp-1aa05318",
-      "title": "【三幸製菓】ひと口サイズの『雪の宿』から塩バニラ風味の新商品が登場!【コンビニ限定】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/690098/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-06-22",
-      "tags": [
-        "コンビニ"
-      ]
-    },
-    {
-      "id": "diamond-7624d0a3",
-      "title": "【一部無料公開】100坪型の3店舗目「マルエツ プチ 東高円寺駅前店」の売場を速報",
-      "url": "https://diamond-rm.net/store/newstorereport/548792/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-22",
-      "tags": [
-        "マルエツ"
-      ]
-    },
-    {
-      "id": "ssnp-a90cec73",
-      "title": "生サバやアジのたたきが110円(税込)で食べられる「はま寿司の九州うまかねた祭り」開催!\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/690075/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-22",
-      "tags": []
-    },
-    {
-      "id": "ssnp-c47b81bc",
-      "title": "ローソン「盛りすぎ！どらもっち」発売　あんこ＆ホイップ51％増量、ちゃんぽん・チャーシューマヨおにぎりも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/690004/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-06-22",
-      "tags": [
-        "ローソン"
-      ]
     }
   ]
 }
