@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T18:39:06.198Z",
+  "lastUpdated": "2026-07-02T00:39:11.967Z",
   "items": [
     {
       "id": "ryutsuu-6df762bd",
@@ -11,6 +11,38 @@
       "date": "2026-07-02",
       "tags": [
         "PB"
+      ]
+    },
+    {
+      "id": "diamond-14631dab",
+      "title": "なぜ観光客は「ツルヤ」をめざすのか？　関西主婦がオリジナル商品5品を実食！",
+      "url": "https://diamond-rm.net/sales-promotion/pb/548876/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-02",
+      "tags": []
+    },
+    {
+      "id": "diamond-52d76313",
+      "title": "名古屋名物と思いきや──実は三重発祥の味噌カツをいただく",
+      "url": "https://diamond-rm.net/life-career/life/545208/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-07-02",
+      "tags": []
+    },
+    {
+      "id": "diamond-3a4e15b7",
+      "title": "カンセキ　大田垣社長が語る成長戦略",
+      "url": "https://diamond-rm.net/management/topinterview/549680/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-02",
+      "tags": [
+        "社長"
       ]
     },
     {
@@ -263,16 +295,6 @@
       ]
     },
     {
-      "id": "diamond-d6616338",
-      "title": "全国4500施設へ導入拡大！「落とし物クラウドfind」ヒットの理由",
-      "url": "https://diamond-rm.net/management/547926/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-01",
-      "tags": []
-    },
-    {
       "id": "diamond-9cc78ff1",
       "title": "3000店を超えたUber Eats「ピック・パック・ペイ」の魅力",
       "url": "https://diamond-rm.net/promotion/pr/549990/",
@@ -364,6 +386,16 @@
       ]
     },
     {
+      "id": "diamond-1e70baef",
+      "title": "マーケティング・マネジメントをどう運用するか",
+      "url": "https://diamond-rm.net/management/marketing/549153/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-01",
+      "tags": []
+    },
+    {
       "id": "diamond-6e0faccc",
       "title": "中野駅近くの再開発エリアに出店　「サミットストアパークシティ中野店」を詳報",
       "url": "https://diamond-rm.net/store/newstorereport/549154/",
@@ -377,12 +409,12 @@
       ]
     },
     {
-      "id": "diamond-1e70baef",
-      "title": "マーケティング・マネジメントをどう運用するか",
-      "url": "https://diamond-rm.net/management/marketing/549153/",
+      "id": "diamond-07dd6af7",
+      "title": "脅威！？世界的な抹茶ブームで存在感高める中国企業",
+      "url": "https://diamond-rm.net/overseas/chinaeastasianews/549151/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "経営戦略",
+      "category": "overseas",
       "date": "2026-07-01",
       "tags": []
     },
@@ -397,16 +429,6 @@
       "tags": [
         "外食"
       ]
-    },
-    {
-      "id": "diamond-07dd6af7",
-      "title": "脅威！？世界的な抹茶ブームで存在感高める中国企業",
-      "url": "https://diamond-rm.net/overseas/chinaeastasianews/549151/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-07-01",
-      "tags": []
     },
     {
       "id": "diamond-d33d69db",
@@ -430,18 +452,6 @@
       "date": "2026-07-01",
       "tags": [
         "青果"
-      ]
-    },
-    {
-      "id": "diamond-2f53e594",
-      "title": "スーパーマーケットが今考えるべき「残暑マーケティング」の方向性",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/549147/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-01",
-      "tags": [
-        "スーパー"
       ]
     },
     {
@@ -699,6 +709,28 @@
       "category": "signal",
       "date": "2026-07-01",
       "tags": []
+    },
+    {
+      "id": "diamond-d6616338",
+      "title": "全国4500施設へ導入拡大！「落とし物クラウドfind」ヒットの理由",
+      "url": "https://diamond-rm.net/management/547926/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-01",
+      "tags": []
+    },
+    {
+      "id": "diamond-2f53e594",
+      "title": "スーパーマーケットが今考えるべき「残暑マーケティング」の方向性",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/549147/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-01",
+      "tags": [
+        "スーパー"
+      ]
     },
     {
       "id": "ryutsuu-b5426aa8",
@@ -2095,19 +2127,6 @@
       ]
     },
     {
-      "id": "diamond-13d3e0e9",
-      "title": "上場小売業決算ランキング2026　業態間で“稼ぐ力”の差が鮮明に",
-      "url": "https://diamond-rm.net/market/accounting/549158/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-06-25",
-      "tags": [
-        "決算",
-        "上場"
-      ]
-    },
-    {
       "id": "diamond-973a861a",
       "title": "人気アナリストが徹底解説! 主要7業態2025年度決算総括",
       "url": "https://diamond-rm.net/market/accounting/549168/",
@@ -2315,6 +2334,19 @@
       "category": "流通",
       "date": "2026-06-25",
       "tags": []
+    },
+    {
+      "id": "diamond-13d3e0e9",
+      "title": "上場小売業決算ランキング2026　業態間で“稼ぐ力”の差が鮮明に",
+      "url": "https://diamond-rm.net/market/accounting/549158/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-25",
+      "tags": [
+        "決算",
+        "上場"
+      ]
     },
     {
       "id": "diamond-78eac489",
@@ -3470,38 +3502,6 @@
       "tags": [
         "菓子"
       ]
-    },
-    {
-      "id": "diamond-7a249d06",
-      "title": "ホームセンター月次実績＝2026年5月度",
-      "url": "https://diamond-rm.net/retaildata/549008/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-06-22",
-      "tags": [
-        "ホームセンター"
-      ]
-    },
-    {
-      "id": "diamond-433413a3",
-      "title": "業態別　主要店舗月次実績＝2026年5月度",
-      "url": "https://diamond-rm.net/retaildata/549003/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-06-22",
-      "tags": []
-    },
-    {
-      "id": "ssnp-4578040c",
-      "title": "和食さと、鰻・鱧の夏フェア開催 「鰻の二味重御膳」「四季めぐり膳」など8月26日まで\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/690143/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-22",
-      "tags": []
     }
   ]
 }
