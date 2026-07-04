@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T19:09:25.749Z",
+  "lastUpdated": "2026-07-04T02:15:10.785Z",
   "items": [
     {
       "id": "ryutsuu-753ca424",
@@ -11,6 +11,28 @@
       "date": "2026-07-04",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "diamond-95bcc6ff",
+      "title": "流通秀書　第36回『シアーズの革命』",
+      "url": "https://diamond-rm.net/life-career/546131/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-07-04",
+      "tags": []
+    },
+    {
+      "id": "ssnp-bf5188e3",
+      "title": "惣菜パンの新商品「スパイシーピザパン」を発売、食事や手軽な軽食にもぴったりなボリューム系パン【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブンは、惣菜パンの新商品「スパイシーピザパン」を、7月7日から順次発売する。 【スパイシーピザパンの画像はこちら】 ◆スパイシーピザパン 価格:198円(税込213.84円)発売日:7月7日～順次販売エリア:...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/691446/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-07-04",
+      "tags": [
+        "惣菜"
       ]
     },
     {
@@ -208,7 +230,7 @@
     },
     {
       "id": "ssnp-86c8460f",
-      "title": "カルディ、人気「ネコバッグ」抽選申込スタート　かごバッグ風デザイン×ねこ柄インナーバッグ、食品4種入り\n\t\t\t\t\t\t\t\t\t\t\t\tカルディコーヒーファームは7月3日から、毎回人気を集める「ネコバッグ」の事前抽選を受け付けている。 実店舗と公式オンラインストアでそれぞれ異なるセットを用意しており、両方に申し込むことも可能。価格は、実店舗販売の「ネコバ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "カルディ、人気「ネコバッグ」抽選申込スタート　かごバッグ風デザイン×ねこ柄インナーバッグ、食品4種入り\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/691987/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -481,16 +503,6 @@
       ]
     },
     {
-      "id": "diamond-52d76313",
-      "title": "名古屋名物と思いきや──実は三重発祥の味噌カツをいただく",
-      "url": "https://diamond-rm.net/life-career/life/545208/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-02",
-      "tags": []
-    },
-    {
       "id": "diamond-14631dab",
       "title": "なぜ観光客は「ツルヤ」をめざすのか？　関西主婦がオリジナル商品5品を実食！",
       "url": "https://diamond-rm.net/sales-promotion/pb/548876/",
@@ -639,6 +651,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "etc",
+      "date": "2026-07-02",
+      "tags": []
+    },
+    {
+      "id": "diamond-52d76313",
+      "title": "名古屋名物と思いきや──実は三重発祥の味噌カツをいただく",
+      "url": "https://diamond-rm.net/life-career/life/545208/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-07-02",
       "tags": []
     },
@@ -3470,26 +3492,6 @@
         "オープン",
         "出店"
       ]
-    },
-    {
-      "id": "ssnp-ffe81174",
-      "title": "【最大2811円お得】築地銀だこ「夏の回数券」発売、毎回完売の人気企画\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/690546/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-24",
-      "tags": []
-    },
-    {
-      "id": "ssnp-beeea434",
-      "title": "『クリームソーダゼリー』『なめらか塩キャラメルプリン』など、「喫茶パステル」がテーマの夏限定スイーツが登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/690528/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-06-24",
-      "tags": []
     }
   ]
 }
