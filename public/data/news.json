@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-07-05T02:30:59.960Z",
+  "lastUpdated": "2026-07-05T08:45:39.351Z",
   "items": [
+    {
+      "id": "ssnp-a10d7ba8",
+      "title": "【がブリチキン。】夏限定メニュー「大葉タルタルからあげ」「ももももハイボール」などが新登場!\n\t\t\t\t\t\t\t\t\t\t\t\t『がブリチキン。』は、夏限定メニュー「大葉タルタルからあげ」を2026年7月7日から販売する。むね肉に酸味のある塩レモンの風味を効かせた下味で仕上げたからあげに、爽やかな大葉香るタルタルソースを合わせた。さっぱりとした味...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/691817/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-07-05",
+      "tags": []
+    },
     {
       "id": "ssnp-6d3c0f1b",
       "title": "『旅気分』が楽しめる弁当シリーズからビビンバが新登場!本場韓国の淳昌コチュジャン使用【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブンは、ボックス容器を採用した新しいスタイルの弁当「旅するCAFÉ BOX」シリーズから、新商品「温玉ビビンバ(もち麦)」を、7月7日から順次、全国の店舗で発売する。 【「旅するCAFÉ BOX」3品の画像は...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
@@ -37,7 +47,7 @@
     },
     {
       "id": "ssnp-bb721cf6",
-      "title": "アサヒ飲料、社員1000人と近藤社長が店頭で「カルピス」手渡し “つくる楽しさ”を次世代へ\n\t\t\t\t\t\t\t\t\t\t\t\tアサヒ飲料が、「カルピス」を店頭で体験してもらう取り組みを強めている。7月7日の「カルピスの誕生日」に合わせ、全国約500店で社員参加型の店頭活動を実施した。約1000人の社員が店頭に立ち、来店客に「カルピス」の試飲を提...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "アサヒ飲料、社員1000人と近藤社長が店頭で「カルピス」手渡し “つくる楽しさ”を次世代へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/692031/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -185,28 +195,6 @@
       ]
     },
     {
-      "id": "diamond-6083e6be",
-      "title": "【写真20枚超＆一部無料公開】改装店「村上インター店」に見る、原信の最新MDの現在地！",
-      "url": "https://diamond-rm.net/store/550335/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-03",
-      "tags": [
-        "改装"
-      ]
-    },
-    {
-      "id": "diamond-5c07c5ba",
-      "title": "初の2層構造で収益モデルを磨き込む！ 「ロビン・フッド久保田店」の売場を現地レポート",
-      "url": "https://diamond-rm.net/store/newstorereport/550256/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-03",
-      "tags": []
-    },
-    {
       "id": "diamond-95749e17",
       "title": "日本生協連が2025年度決算を公表　CO・OP商品の販売好調",
       "url": "https://diamond-rm.net/market/accounting/550298/",
@@ -216,6 +204,18 @@
       "date": "2026-07-03",
       "tags": [
         "決算"
+      ]
+    },
+    {
+      "id": "diamond-6083e6be",
+      "title": "【写真20枚超＆一部無料公開】改装店「村上インター店」に見る、原信の最新MDの現在地！",
+      "url": "https://diamond-rm.net/store/550335/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-03",
+      "tags": [
+        "改装"
       ]
     },
     {
@@ -252,6 +252,16 @@
       "tags": [
         "値上げ"
       ]
+    },
+    {
+      "id": "diamond-5c07c5ba",
+      "title": "初の2層構造で収益モデルを磨き込む！ 「ロビン・フッド久保田店」の売場を現地レポート",
+      "url": "https://diamond-rm.net/store/newstorereport/550256/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-03",
+      "tags": []
     },
     {
       "id": "ssnp-833da444",
@@ -482,16 +492,6 @@
       ]
     },
     {
-      "id": "diamond-c508000c",
-      "title": "第１２５回　ブルー・オーシャン戦略",
-      "url": "https://diamond-rm.net/life-career/542195/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-02",
-      "tags": []
-    },
-    {
       "id": "diamond-b72e949b",
       "title": "金秀商事が沖縄・読谷村にスーパー✕ホームセンターの複合施設を出店へ【今週の大店立地法速報】",
       "url": "https://diamond-rm.net/store/550294/",
@@ -504,6 +504,16 @@
         "スーパー",
         "出店"
       ]
+    },
+    {
+      "id": "diamond-c508000c",
+      "title": "第１２５回　ブルー・オーシャン戦略",
+      "url": "https://diamond-rm.net/life-career/542195/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-07-02",
+      "tags": []
     },
     {
       "id": "diamond-e014da79",
@@ -800,6 +810,16 @@
       ]
     },
     {
+      "id": "diamond-3186726b",
+      "title": "フジグラン広島・酒井店長の型にはまらないリーダシップ論！",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/549169/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-01",
+      "tags": []
+    },
+    {
       "id": "diamond-b4e01ab6",
       "title": "メーカー営業が「物売り提案」から脱却するための方法",
       "url": "https://diamond-rm.net/management/marketing/549146/",
@@ -808,30 +828,6 @@
       "category": "経営戦略",
       "date": "2026-07-01",
       "tags": []
-    },
-    {
-      "id": "diamond-6c7e3819",
-      "title": "ウォルマートが小売・外食向けに「保守管理サービス」を開始した背景",
-      "url": "https://diamond-rm.net/overseas/american_economy/549150/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-07-01",
-      "tags": [
-        "外食"
-      ]
-    },
-    {
-      "id": "diamond-2f53e594",
-      "title": "スーパーマーケットが今考えるべき「残暑マーケティング」の方向性",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/549147/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-01",
-      "tags": [
-        "スーパー"
-      ]
     },
     {
       "id": "diamond-5422181c",
@@ -857,16 +853,6 @@
         "PPIH",
         "食品"
       ]
-    },
-    {
-      "id": "diamond-3186726b",
-      "title": "フジグラン広島・酒井店長の型にはまらないリーダシップ論！",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/549169/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-01",
-      "tags": []
     },
     {
       "id": "diamond-1e70baef",
@@ -935,6 +921,18 @@
       "category": "overseas",
       "date": "2026-07-01",
       "tags": []
+    },
+    {
+      "id": "diamond-6c7e3819",
+      "title": "ウォルマートが小売・外食向けに「保守管理サービス」を開始した背景",
+      "url": "https://diamond-rm.net/overseas/american_economy/549150/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-07-01",
+      "tags": [
+        "外食"
+      ]
     },
     {
       "id": "diamond-d33d69db",
@@ -1210,6 +1208,18 @@
       "category": "signal",
       "date": "2026-07-01",
       "tags": []
+    },
+    {
+      "id": "diamond-2f53e594",
+      "title": "スーパーマーケットが今考えるべき「残暑マーケティング」の方向性",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/549147/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-01",
+      "tags": [
+        "スーパー"
+      ]
     },
     {
       "id": "ryutsuu-151db579",
@@ -2865,18 +2875,6 @@
       ]
     },
     {
-      "id": "diamond-973a861a",
-      "title": "人気アナリストが徹底解説! 主要7業態2025年度決算総括",
-      "url": "https://diamond-rm.net/market/accounting/549168/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-06-25",
-      "tags": [
-        "決算"
-      ]
-    },
-    {
       "id": "diamond-7849e543",
       "title": "上場小売企業時価総額ランキング2026 ファストリが 25 兆円を突破！",
       "url": "https://diamond-rm.net/market/accounting/549167/",
@@ -2886,6 +2884,18 @@
       "date": "2026-06-25",
       "tags": [
         "上場"
+      ]
+    },
+    {
+      "id": "diamond-973a861a",
+      "title": "人気アナリストが徹底解説! 主要7業態2025年度決算総括",
+      "url": "https://diamond-rm.net/market/accounting/549168/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-06-25",
+      "tags": [
+        "決算"
       ]
     },
     {
@@ -3479,16 +3489,6 @@
       "id": "ssnp-44b50c42",
       "title": "餃子の王将、会計5％オフ会員証がもらえる恒例キャンペーン開始　餃子型カバー付き傘やラーメン鉢も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/690646/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-06-24",
-      "tags": []
-    },
-    {
-      "id": "ssnp-af3471a1",
-      "title": "ジョイフル、4日間限定「キッズメニュー半額キャンペーン」実施\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/690637/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
