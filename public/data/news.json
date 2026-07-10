@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2026-07-09T19:28:34.855Z",
+  "lastUpdated": "2026-07-10T02:24:47.522Z",
   "items": [
+    {
+      "id": "ryutsuu-22a5e079",
+      "title": "ファミマ／麻布台に初の旗艦店「FAMIMA PARK AZABUDAI」7月10日オープン",
+      "url": "https://www.ryutsuu.biz/report/s070944.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-07-10",
+      "tags": [
+        "注目",
+        "オープン",
+        "AI"
+      ]
+    },
     {
       "id": "ryutsuu-53247f20",
       "title": "メガネトップ／旗艦店「眼鏡市場 心斎橋本店」7月10日移転オープン",
@@ -11,6 +25,74 @@
       "date": "2026-07-10",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "diamond-9125f0e8",
+      "title": "イオンと提携解消のクスリのアオキHD、26年5月期は2ケタ増収・出店数は業界最多に",
+      "url": "https://diamond-rm.net/market/551275/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-07-10",
+      "tags": [
+        "クスリのアオキ",
+        "イオン",
+        "出店",
+        "増収"
+      ]
+    },
+    {
+      "id": "ssnp-dc419d59",
+      "title": "【森永製菓】夏休みの親子向け食育イベント開催　“厚さ2.3cm”のホットケーキを作るコツを解説、調理体験も\n\t\t\t\t\t\t\t\t\t\t\t\t森永製菓は8月24日、親子向け食育イベント「研究員が教える!おやこホットケーキ教室～目指せ2.3cmのふんわりホットケーキ～」を、横浜市鶴見区の見学施設「森永エンゼルミュージアム MORIUM(モリウム)」で開催する。 ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/692862/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-07-10",
+      "tags": []
+    },
+    {
+      "id": "ssnp-699fbe97",
+      "title": "UCC、表参道で「ひみつのドリップ」開催　45種類のアイスコーヒーを提案\n\t\t\t\t\t\t\t\t\t\t\t\tUCC上島珈琲は、アイスコーヒーの新たな楽しみ方を提案する期間限定イベント「#バリスタのいないアイスコーヒー専門店『ひみつのドリップ』」を、7月10日から8月2日まで東京・表参道の「Rand表参道」で開催する。15種類の...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/692861/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-07-10",
+      "tags": [
+        "専門店"
+      ]
+    },
+    {
+      "id": "ryutsuu-ff6bd2e9",
+      "title": "イオンビッグ／生鮮・デリカ・PB強化した「ザ・ビッグ港南台店」オープン",
+      "url": "https://www.ryutsuu.biz/report/s070911.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-07-09",
+      "tags": [
+        "注目",
+        "オープン",
+        "イオン",
+        "PB",
+        "生鮮"
+      ]
+    },
+    {
+      "id": "ryutsuu-236dfa32",
+      "title": "セブン＆アイ 決算／2～5月営業利益61.4％増、海外コンビニのガソリン収益増で通期上方修正",
+      "url": "https://www.ryutsuu.biz/accounts/s070912.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-07-09",
+      "tags": [
+        "セブン＆アイ",
+        "コンビニ",
+        "営業利益",
+        "決算"
       ]
     },
     {
@@ -177,19 +259,6 @@
       "tags": []
     },
     {
-      "id": "diamond-693a66c2",
-      "title": "オンワード樫山「２３区」初の旗艦店を青山にオープン　自活集客とブランドコミュニティ創出へ",
-      "url": "https://diamond-rm.net/store/545369/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-09",
-      "tags": [
-        "オープン",
-        "青山"
-      ]
-    },
-    {
       "id": "diamond-7b143fbb",
       "title": "第１３０回　入学前の冷たい悲しみ",
       "url": "https://diamond-rm.net/life-career/542200/",
@@ -238,21 +307,33 @@
       ]
     },
     {
+      "id": "diamond-693a66c2",
+      "title": "オンワード樫山「２３区」初の旗艦店を青山にオープン　自活集客とブランドコミュニティ創出へ",
+      "url": "https://diamond-rm.net/store/545369/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-09",
+      "tags": [
+        "オープン",
+        "青山"
+      ]
+    },
+    {
       "id": "ssnp-4c7b4d9e",
-      "title": "シダックス、池袋に初の「キングレコード」公式カフェオープン　第1弾は人気アニメ「多聞くん今どっち!?」のアイドルグループ「F/ACE」テーマに\n\t\t\t\t\t\t\t\t\t\t\t\tシダックスグループのシダックス･コミュニティープラス(SCP)は7月11日、「キングレコード」公式カフェとして、「キングレコード」が保有するIP(知的財産)コンテンツを活用した直営の「IPエンターテインメント施設 Com...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "シダックス、池袋に初の「キングレコード」公式カフェオープン　第1弾は人気アニメ「多聞くん今どっち!?」のアイドルグループ「F/ACE」テーマに\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/692842/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-07-09",
       "tags": [
-        "オープン",
-        "SC"
+        "オープン"
       ]
     },
     {
       "id": "ssnp-daee46ff",
-      "title": "「ごちそう フェアプレート」780円、うに三昧790、かっぱ寿司「ごち寿司」シリーズ新商品を発売\n\t\t\t\t\t\t\t\t\t\t\t\t寿司チェーンの「かっぱ寿司」は、厳選素材を楽しめる「ごち寿司」シリーズの新商品「ごちそう フェアプレート」を、7月9日から期間限定で販売している。同時に、「夏の彩り3貫」や「贅沢 うに三昧」、「贅沢 9種の海鮮丼」も販売...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "「ごちそう フェアプレート」780円、うに三昧790、かっぱ寿司「ごち寿司」シリーズ新商品を発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/692836/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -469,26 +550,6 @@
       ]
     },
     {
-      "id": "ryutsuu-622acc70",
-      "title": "フレッシュネス、ゼッテリア／特製バーガーでハワイ気分を、夏限定ハワイアンメニュー",
-      "url": "https://www.ryutsuu.biz/commodity/s070841.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-07-08",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-f019ebb0",
-      "title": "家電5社／エアコン売上が失速、6月は猛暑の反動や天候不順で全社前年割れ",
-      "url": "https://www.ryutsuu.biz/sales/s070843.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-07-08",
-      "tags": []
-    },
-    {
       "id": "ryutsuu-ea2dd912",
       "title": "丸井グループ／リサーチメディア「まるいらぼ」開始、関係・交換がキーワード",
       "url": "https://www.ryutsuu.biz/strategy/s070812.html",
@@ -509,6 +570,16 @@
       "tags": [
         "PR"
       ]
+    },
+    {
+      "id": "diamond-b9c959b3",
+      "title": "“播州愛”が炸裂！姫路ローカル「銀ビルストアー」の地域密着の矜持",
+      "url": "https://diamond-rm.net/management/businessplan/550676/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-08",
+      "tags": []
     },
     {
       "id": "diamond-f186f54a",
@@ -532,18 +603,6 @@
       "category": "経営戦略",
       "date": "2026-07-08",
       "tags": []
-    },
-    {
-      "id": "diamond-a47bdf6a",
-      "title": "「逆風やからこそド派手にいく」　観光客殺到の「スーパー玉出新世界店」を徹底レポート",
-      "url": "https://diamond-rm.net/store/newstorereport/549968/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-08",
-      "tags": [
-        "スーパー"
-      ]
     },
     {
       "id": "diamond-1d36126c",
@@ -588,14 +647,16 @@
       "tags": []
     },
     {
-      "id": "diamond-b9c959b3",
-      "title": "“播州愛”が炸裂！姫路ローカル「銀ビルストアー」の地域密着の矜持",
-      "url": "https://diamond-rm.net/management/businessplan/550676/",
+      "id": "diamond-a47bdf6a",
+      "title": "「逆風やからこそド派手にいく」　観光客殺到の「スーパー玉出新世界店」を徹底レポート",
+      "url": "https://diamond-rm.net/store/newstorereport/549968/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "経営戦略",
+      "category": "店舗",
       "date": "2026-07-08",
-      "tags": []
+      "tags": [
+        "スーパー"
+      ]
     },
     {
       "id": "diamond-e83e5175",
@@ -882,6 +943,26 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "signal",
+      "date": "2026-07-08",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-622acc70",
+      "title": "フレッシュネス、ゼッテリア／特製バーガーでハワイ気分を、夏限定ハワイアンメニュー",
+      "url": "https://www.ryutsuu.biz/commodity/s070841.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-07-08",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-f019ebb0",
+      "title": "家電5社／エアコン売上が失速、6月は猛暑の反動や天候不順で全社前年割れ",
+      "url": "https://www.ryutsuu.biz/sales/s070843.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
       "date": "2026-07-08",
       "tags": []
     },
@@ -1211,7 +1292,7 @@
     },
     {
       "id": "diamond-fb94f519",
-      "title": "【小売・メーカー・卸向け】有力ドラッグストアのDX戦略2026セミナー　AI・顧客データ活用で変わる売場と商談",
+      "title": "【小売・メーカー・卸限定】有力ドラッグストアのDX戦略2026セミナー　AI・顧客データ活用で変わる売場と商談",
       "url": "https://diamond-rm.net/seminar/544170/",
       "source": "diamond-chain",
       "sourceName": "DCS",
@@ -3428,82 +3509,6 @@
         "ドン・キホーテ",
         "食品",
         "出店"
-      ]
-    },
-    {
-      "id": "diamond-d6f630c0",
-      "title": "専門家が徹底解説！気象リスク前提の「夏の青果MD」の練り方",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/549148/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-01",
-      "tags": [
-        "青果"
-      ]
-    },
-    {
-      "id": "diamond-d6616338",
-      "title": "全国4500施設へ導入拡大！「落とし物クラウドfind」ヒットの理由",
-      "url": "https://diamond-rm.net/management/547926/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-01",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-b5426aa8",
-      "title": "セブンイレブンの日／コーヒー2杯目半額・総菜2個で割引など、7月1日から11日間",
-      "url": "https://www.ryutsuu.biz/strategy/s062447.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-07-01",
-      "tags": [
-        "注目",
-        "セブンイレブン"
-      ]
-    },
-    {
-      "id": "diamond-419ec0ef",
-      "title": "アパレル企業が直面する上場の重力、そのキャッシュは「弾薬」か、それとも「遺産」か",
-      "url": "https://diamond-rm.net/management/businessplan/549689/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-06-30",
-      "tags": [
-        "アパレル",
-        "上場"
-      ]
-    },
-    {
-      "id": "diamond-196cd427",
-      "title": "＃５ファミマのリテールメディア、成果の上がる組織と仕組み",
-      "url": "https://diamond-rm.net/technology/549834/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-06-30",
-      "tags": [
-        "リテールメディア"
-      ]
-    },
-    {
-      "id": "diamond-61191613",
-      "title": "「イオン八王子滝山」がオープン　ネットスーパー「Green Beans」のCFC併設",
-      "url": "https://diamond-rm.net/store/newstorereport/549937/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-06-30",
-      "tags": [
-        "ネットスーパー",
-        "スーパー",
-        "オープン",
-        "イオン",
-        "FC"
       ]
     }
   ]
