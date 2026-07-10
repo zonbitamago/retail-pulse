@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-07-10T14:07:46.630Z",
+  "lastUpdated": "2026-07-10T19:19:42.855Z",
   "items": [
+    {
+      "id": "ryutsuu-e1fff66a",
+      "title": "ローソン／札幌市内の3店舗で「アバター接客」の実証実験7月11日開始",
+      "url": "https://www.ryutsuu.biz/strategy/s071079.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-07-11",
+      "tags": [
+        "ローソン"
+      ]
+    },
+    {
+      "id": "ryutsuu-0e78eb23",
+      "title": "ベルジョイス／「スーパーアークス一関店」7月11日オープン、ビッグハウスを改装",
+      "url": "https://www.ryutsuu.biz/store/s071072.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-11",
+      "tags": [
+        "スーパー",
+        "オープン",
+        "改装"
+      ]
+    },
     {
       "id": "ryutsuu-462a01cc",
       "title": "ヨドバシカメラ／名鉄百貨店本店跡地「名鉄ビル」に26年夏新店舗オープン",
@@ -3504,30 +3530,6 @@
       "category": "菓子",
       "date": "2026-07-01",
       "tags": []
-    },
-    {
-      "id": "ssnp-63a21027",
-      "title": "【ローソン】スープにこだわった具なし冷凍ラーメン2品を発売、価格は約2割安く\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/691497/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-07-01",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "ssnp-dcf6459c",
-      "title": "ケンコーマヨネーズ、9月からマヨネーズなど1000品超を約3～26%値上げ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/seasoning/691478/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "調味料",
-      "date": "2026-07-01",
-      "tags": [
-        "値上げ"
-      ]
     }
   ]
 }
