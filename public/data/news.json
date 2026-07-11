@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T19:19:42.855Z",
+  "lastUpdated": "2026-07-11T02:02:55.695Z",
   "items": [
     {
       "id": "ryutsuu-e1fff66a",
@@ -26,6 +26,26 @@
         "オープン",
         "改装"
       ]
+    },
+    {
+      "id": "diamond-93be72db",
+      "title": "流通秀書　第37回『商店繁栄の人間的条件』",
+      "url": "https://diamond-rm.net/life-career/547299/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-07-11",
+      "tags": []
+    },
+    {
+      "id": "ssnp-2830f085",
+      "title": "内袋付きの「クリアミディアムバッグ」が登場、A4サイズが横に入るミディアムサイズ【紀ノ国屋】\n\t\t\t\t\t\t\t\t\t\t\t\t紀ノ国屋は、涼しげで軽やかな透け感が特徴の「クリアミディアムバッグ」にファスナー付きの内袋をセットした新作を、7月8日20時から紀ノ国屋公式オンラインストアで、7月11日から店舗で順次販売する。 【内袋付きの「クリアミデ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/693030/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-07-11",
+      "tags": []
     },
     {
       "id": "ryutsuu-462a01cc",
@@ -290,7 +310,7 @@
     },
     {
       "id": "ssnp-2369c07c",
-      "title": "エスビー食品、飲食店25店舗でハーブ使用の限定メニュー展開　日本橋兜町･茅場町のイベントに協力\n\t\t\t\t\t\t\t\t\t\t\t\tエスビー食品は、7月10日から東京･兜町、茅場町エリアで開始したイベント「LIVING GREEN FES vol.4」に協力し、ハーブ関連商品を使用した限定メニューの提供やサンプリングを実施する。 グリーン(緑･自然)...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "エスビー食品、飲食店25店舗でハーブ使用の限定メニュー展開　日本橋兜町･茅場町のイベントに協力\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/seasoning/693056/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -956,16 +976,6 @@
       "tags": []
     },
     {
-      "id": "diamond-1d36126c",
-      "title": "第１２９回　「悲傷」",
-      "url": "https://diamond-rm.net/life-career/542199/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-08",
-      "tags": []
-    },
-    {
       "id": "diamond-7784edf4",
       "title": "ローカルVS.ローカルの時代!?　岩手・盛岡周辺部に見た、意外な対立構図の競争の行方",
       "url": "https://diamond-rm.net/store/storevisit/550679/",
@@ -1282,6 +1292,16 @@
       "tags": [
         "飲料"
       ]
+    },
+    {
+      "id": "diamond-1d36126c",
+      "title": "第１２９回　「悲傷」",
+      "url": "https://diamond-rm.net/life-career/542199/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-07-08",
+      "tags": []
     },
     {
       "id": "ryutsuu-99cc772c",
@@ -3505,29 +3525,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "pr",
-      "date": "2026-07-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-33a7b125",
-      "title": "ニッスイ家庭用冷凍食品、ワンプレート「まんぞくプレート」が大幅伸長/新規性ある丼メニューを投入し、さらなる活性化へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/frozen/691504/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "冷凍食品",
-      "date": "2026-07-01",
-      "tags": [
-        "冷凍食品",
-        "食品"
-      ]
-    },
-    {
-      "id": "ssnp-e0bcf5ef",
-      "title": "【期間限定】モンテール×「桔梗信玄餅」、新作クレープなど展開　きなこの風味･黒蜜のコクを表現\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/691482/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
       "date": "2026-07-01",
       "tags": []
     }
