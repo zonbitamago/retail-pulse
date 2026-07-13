@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T08:56:38.786Z",
+  "lastUpdated": "2026-07-13T14:17:06.759Z",
   "items": [
     {
       "id": "ryutsuu-cf8209ef",
@@ -416,19 +416,6 @@
       ]
     },
     {
-      "id": "diamond-94cc2a92",
-      "title": "【売場レポート】「トライアル西友」の4号店が千葉・浦安に　魚総菜・肉総菜の新ブランド投入！",
-      "url": "https://diamond-rm.net/store/551314/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-10",
-      "tags": [
-        "トライアル",
-        "西友"
-      ]
-    },
-    {
       "id": "diamond-d8b003e6",
       "title": "第１３１回　天駆けりゆく個の生命",
       "url": "https://diamond-rm.net/life-career/542201/",
@@ -447,6 +434,19 @@
       "category": "経営戦略",
       "date": "2026-07-10",
       "tags": []
+    },
+    {
+      "id": "diamond-94cc2a92",
+      "title": "【売場レポート】「トライアル西友」の4号店が千葉・浦安に　魚総菜・肉総菜の新ブランド投入！",
+      "url": "https://diamond-rm.net/store/551314/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-10",
+      "tags": [
+        "トライアル",
+        "西友"
+      ]
     },
     {
       "id": "diamond-9125f0e8",
@@ -1290,16 +1290,6 @@
       ]
     },
     {
-      "id": "diamond-7784edf4",
-      "title": "ローカルVS.ローカルの時代!?　岩手・盛岡周辺部に見た、意外な対立構図の競争の行方",
-      "url": "https://diamond-rm.net/store/storevisit/550679/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-08",
-      "tags": []
-    },
-    {
       "id": "diamond-fc5a5b55",
       "title": "専門家が提言！ローカルスーパーは「稼ぐ」ことが何より先決",
       "url": "https://diamond-rm.net/management/businessplan/550678/",
@@ -1310,6 +1300,16 @@
       "tags": [
         "スーパー"
       ]
+    },
+    {
+      "id": "diamond-7784edf4",
+      "title": "ローカルVS.ローカルの時代!?　岩手・盛岡周辺部に見た、意外な対立構図の競争の行方",
+      "url": "https://diamond-rm.net/store/storevisit/550679/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-08",
+      "tags": []
     },
     {
       "id": "diamond-eb7a939f",
