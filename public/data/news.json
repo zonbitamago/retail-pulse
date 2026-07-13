@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-07-12T18:56:53.255Z",
+  "lastUpdated": "2026-07-13T02:08:15.333Z",
   "items": [
+    {
+      "id": "ryutsuu-036f7f41",
+      "title": "クスリのアオキ／徳島県に計2店舗、11～12月新設",
+      "url": "https://www.ryutsuu.biz/store/s0710011.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-13",
+      "tags": [
+        "クスリのアオキ"
+      ]
+    },
+    {
+      "id": "ryutsuu-3bd3775f",
+      "title": "CGC／ハローデイが新規加盟",
+      "url": "https://www.ryutsuu.biz/strategy/s071311.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "id": "diamond-387798b7",
+      "title": "イオンのDS「ザ・ビッグ」が横浜進出！ロピアやオーケーとの価格競争激化",
+      "url": "https://diamond-rm.net/store/551475/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-13",
+      "tags": [
+        "オーケー",
+        "イオン",
+        "ロピア"
+      ]
+    },
+    {
+      "id": "diamond-32076aa2",
+      "title": "スーパーならではの調達力でデパ地下に挑む！　近商ストアの総菜専門店の勝算",
+      "url": "https://diamond-rm.net/management/businessplan/549825/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-13",
+      "tags": [
+        "スーパー",
+        "専門店"
+      ]
+    },
+    {
+      "id": "diamond-f5e0f18f",
+      "title": "キリンビールOBが長崎・五島で手掛けるクラフトジン、急成長の理由",
+      "url": "https://diamond-rm.net/management/548814/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-13",
+      "tags": [
+        "ビール"
+      ]
+    },
+    {
+      "id": "ssnp-01ad4a16",
+      "title": "【ゼッテリア】「SUMMER BAG」発売　販売価格同額分の食事クーポン、エコバッグなどグッズ3点をセット\n\t\t\t\t\t\t\t\t\t\t\t\tハンバーガーショップ「ゼッテリア」は7月15日、3,500円分の食事クーポンとオリジナルグッズ3点をセットした「ゼッテリアSUMMER BAG 2026」を、一部店舗を除く全国で発売する。価格は税込3,500円。数量限定...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/693113/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "id": "ssnp-bff17832",
+      "title": "ゼッテリア「ギガサイズドリンク」全6種(各550円)を販売開始、1,000mlの大容量サイズ\n\t\t\t\t\t\t\t\t\t\t\t\tハンバーガーショップ「ゼッテリア」は、1,000mlのギガサイズカップを使用した「ギガサイズドリンク」全6種(各550円)を、7月15日から一部店舗を除く268店舗で販売する。 【ギガサイズドリンクの画像はこちら】 ライ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/693105/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-07-13",
+      "tags": []
+    },
     {
       "id": "diamond-13c8bf86",
       "title": "薬王堂が出店ラッシュ！ 宮城県多賀城市ではフレスコと共同出店へ【今週の大店立地法速報】",
@@ -15,26 +96,23 @@
     },
     {
       "id": "ssnp-14c863f5",
-      "title": "【ココイチ×ベビースター】チーズカツカレー味/チキンと夏ベジのスパイスカレー味の2品を新発売\n\t\t\t\t\t\t\t\t\t\t\t\tおやつカンパニーは、カレー専門店「カレーハウスCoCo壱番屋」を運営する壱番屋とのコラボレーション商品として「ベビースタードデカイラーメン(CoCo壱番屋監修 チーズカツカレー味/チキンと夏ベジのスパイスカレー味)」を、...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【ココイチ×ベビースター】チーズカツカレー味/チキンと夏ベジのスパイスカレー味の2品を新発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/693048/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
       "date": "2026-07-12",
-      "tags": [
-        "専門店"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-f2ae9573",
-      "title": "「夕食、何作ろう」を減らす 大塚食品の下味冷凍調味料「メインディップ」、開発者の育児・復職経験から誕生\n\t\t\t\t\t\t\t\t\t\t\t\t大塚食品が、夕食づくりの悩みに応える下味冷凍用調味料「MainDip(メインディップ)」の提案を強めている。肉を袋に入れて冷凍し、食べたい時に解凍して野菜と調理するだけで、肉と野菜を使った大皿メニューを作れる。共働き世帯...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "「夕食、何作ろう」を減らす 大塚食品の下味冷凍調味料「メインディップ」、開発者の育児・復職経験から誕生\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/seasoning/693092/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "調味料",
       "date": "2026-07-12",
       "tags": [
-        "AI",
         "食品"
       ]
     },
@@ -48,20 +126,6 @@
       "date": "2026-07-11",
       "tags": [
         "ローソン"
-      ]
-    },
-    {
-      "id": "ryutsuu-0e78eb23",
-      "title": "ベルジョイス／「スーパーアークス一関店」7月11日オープン、ビッグハウスを改装",
-      "url": "https://www.ryutsuu.biz/store/s071072.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-11",
-      "tags": [
-        "スーパー",
-        "オープン",
-        "改装"
       ]
     },
     {
@@ -83,6 +147,68 @@
       "category": "流通",
       "date": "2026-07-11",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-0e78eb23",
+      "title": "ベルジョイス／「スーパーアークス一関店」7月11日オープン、ビッグハウスを改装",
+      "url": "https://www.ryutsuu.biz/store/s071072.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-11",
+      "tags": [
+        "スーパー",
+        "オープン",
+        "改装"
+      ]
+    },
+    {
+      "id": "ryutsuu-07c3fcfb",
+      "title": "【連載】商業施設のデジタル活用 第3回三菱地所・サイモン／プレミアム・アウトレットの顧客体験DXで向上",
+      "url": "https://www.ryutsuu.biz/strategy/s071071.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-07-10",
+      "tags": [
+        "注目",
+        "アウトレット",
+        "デジタル",
+        "DX"
+      ]
+    },
+    {
+      "id": "ryutsuu-9142cb4f",
+      "title": "トライアル西友／千葉県初出店「浦安店」オープン、肉・魚の新惣菜ブランド初導入",
+      "url": "https://www.ryutsuu.biz/report/s071041.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-07-10",
+      "tags": [
+        "注目",
+        "トライアル",
+        "オープン",
+        "西友",
+        "惣菜",
+        "出店"
+      ]
+    },
+    {
+      "id": "ryutsuu-fff1f3f8",
+      "title": "マルエツ／生鮮・デリカ強化し「三郷中央店」リニューアルオープン、目標年商22.6億円",
+      "url": "https://www.ryutsuu.biz/report/s071011.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-07-10",
+      "tags": [
+        "詳報",
+        "リニューアル",
+        "マルエツ",
+        "オープン",
+        "生鮮"
+      ]
     },
     {
       "id": "ryutsuu-462a01cc",
@@ -274,18 +400,6 @@
       ]
     },
     {
-      "id": "ryutsuu-15b49626",
-      "title": "オニツカタイガー／世界最大のグローバル旗艦店「Onitsuka Tiger 新宿」オープン",
-      "url": "https://www.ryutsuu.biz/store/s071076.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-10",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
       "id": "diamond-94cc2a92",
       "title": "【売場レポート】「トライアル西友」の4号店が千葉・浦安に　魚総菜・肉総菜の新ブランド投入！",
       "url": "https://diamond-rm.net/store/551314/",
@@ -299,22 +413,22 @@
       ]
     },
     {
-      "id": "diamond-aa7b480d",
-      "title": "第144回 新リース会計基準が迫る「リーシング戦略」の抜本的見直し",
-      "url": "https://diamond-rm.net/management/549175/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-10",
-      "tags": []
-    },
-    {
       "id": "diamond-d8b003e6",
       "title": "第１３１回　天駆けりゆく個の生命",
       "url": "https://diamond-rm.net/life-career/542201/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "life-career",
+      "date": "2026-07-10",
+      "tags": []
+    },
+    {
+      "id": "diamond-aa7b480d",
+      "title": "第144回 新リース会計基準が迫る「リーシング戦略」の抜本的見直し",
+      "url": "https://diamond-rm.net/management/549175/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-07-10",
       "tags": []
     },
@@ -488,6 +602,18 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-15b49626",
+      "title": "オニツカタイガー／世界最大のグローバル旗艦店「Onitsuka Tiger 新宿」オープン",
+      "url": "https://www.ryutsuu.biz/store/s071076.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-10",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
       "id": "ryutsuu-22a5e079",
       "title": "ファミマ／麻布台に初の旗艦店「FAMIMA PARK AZABUDAI」7月10日オープン",
       "url": "https://www.ryutsuu.biz/report/s070944.html",
@@ -536,18 +662,6 @@
       ]
     },
     {
-      "id": "diamond-7d6aa13f",
-      "title": "ホームセンター業界　大再編時代の勢力図　1兆円企業時代へ",
-      "url": "https://diamond-rm.net/management/businessplan/550391/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-09",
-      "tags": [
-        "ホームセンター"
-      ]
-    },
-    {
       "id": "diamond-54736c67",
       "title": "マミーマート、「鮮魚プロセスセンター」が本格稼働【週刊スーパーマーケットニュース】",
       "url": "https://diamond-rm.net/management/businessplan/551264/",
@@ -585,15 +699,15 @@
       ]
     },
     {
-      "id": "diamond-bb1ff478",
-      "title": "ミニストップ、TBS系「ジョブチューン」で9品が合格！【週刊コンビニエンスストアニュース】",
-      "url": "https://diamond-rm.net/management/550880/",
+      "id": "diamond-7d6aa13f",
+      "title": "ホームセンター業界　大再編時代の勢力図　1兆円企業時代へ",
+      "url": "https://diamond-rm.net/management/businessplan/550391/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
       "date": "2026-07-09",
       "tags": [
-        "コンビニ"
+        "ホームセンター"
       ]
     },
     {
@@ -608,16 +722,6 @@
         "オープン",
         "青山"
       ]
-    },
-    {
-      "id": "diamond-e4ec12b5",
-      "title": "「フードスタイル」6号店は500坪超の大型店に　総菜でU.S.M.H各社のアイテムを導入！",
-      "url": "https://diamond-rm.net/store/551173/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-09",
-      "tags": []
     },
     {
       "id": "ssnp-4c7b4d9e",
@@ -818,6 +922,28 @@
       "tags": []
     },
     {
+      "id": "diamond-bb1ff478",
+      "title": "ミニストップ、TBS系「ジョブチューン」で9品が合格！【週刊コンビニエンスストアニュース】",
+      "url": "https://diamond-rm.net/management/550880/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-09",
+      "tags": [
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-e4ec12b5",
+      "title": "「フードスタイル」6号店は500坪超の大型店に　総菜でU.S.M.H各社のアイテムを導入！",
+      "url": "https://diamond-rm.net/store/551173/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-09",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-ff6bd2e9",
       "title": "イオンビッグ／生鮮・デリカ・PB強化した「ザ・ビッグ港南台店」オープン",
       "url": "https://www.ryutsuu.biz/report/s070911.html",
@@ -999,18 +1125,6 @@
       "tags": []
     },
     {
-      "id": "diamond-1de395cd",
-      "title": "生鮮総菜の取り組みで急成長！　三重ローカル・一号舘の巧みな商品開発の術",
-      "url": "https://diamond-rm.net/management/businessplan/550675/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-08",
-      "tags": [
-        "生鮮"
-      ]
-    },
-    {
       "id": "diamond-fc5a5b55",
       "title": "専門家が提言！ローカルスーパーは「稼ぐ」ことが何より先決",
       "url": "https://diamond-rm.net/management/businessplan/550678/",
@@ -1041,6 +1155,18 @@
       "category": "経営戦略",
       "date": "2026-07-08",
       "tags": []
+    },
+    {
+      "id": "diamond-1de395cd",
+      "title": "生鮮総菜の取り組みで急成長！　三重ローカル・一号舘の巧みな商品開発の術",
+      "url": "https://diamond-rm.net/management/businessplan/550675/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-08",
+      "tags": [
+        "生鮮"
+      ]
     },
     {
       "id": "diamond-e95dfd57",
@@ -3416,118 +3542,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
-      "date": "2026-07-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-112a658f",
-      "title": "【木曽路】開業60周年記念「キソジナイト」開催、水･日曜夜限定で肉が1.5倍に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/691618/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-01",
-      "tags": [
-        "開業"
-      ]
-    },
-    {
-      "id": "ssnp-cb8c0e0e",
-      "title": "「三ツ矢サイダー」「カルピスウォーター」など151品目値上げ アサヒ飲料、11月1日出荷分から\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/691626/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-07-01",
-      "tags": [
-        "値上げ",
-        "飲料"
-      ]
-    },
-    {
-      "id": "ssnp-89fbaa92",
-      "title": "「資さんうどん」東海エリア初出店へ、愛知県に1号店　SNSで反響\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/691617/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-01",
-      "tags": [
-        "SNS",
-        "出店"
-      ]
-    },
-    {
-      "id": "ssnp-025b4678",
-      "title": "夏の新作ケーキは北海道産クリームチーズ&クリームを使用した「ご褒美レアチーズ」など全3種【コメダ珈琲店】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/691609/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-8e6ce501",
-      "title": "【3日間限定】ゆず庵「小学生無料キャンペーン」展開　注文した大人1人につき “1人無料”に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/691596/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e0f4fbf9",
-      "title": "4日間限定で七夕ケーキ2種登場、「白桃のショート」「2種メロンのショート」が七夕仕様に!【銀座コージーコーナー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/691590/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-07-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-079eaea5",
-      "title": "「ロコモコバーガー」など5種の新商品を発売/「アメリカンジャーニー」第5弾【ウェンディーズ・ファーストキッチン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/691574/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-237e1c46",
-      "title": "アサヒ飲料「モンスター バッドアップル」発売、果汁シリーズ初のアップルフレーバー\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/691570/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-07-01",
-      "tags": [
-        "飲料"
-      ]
-    },
-    {
-      "id": "ssnp-7b38477f",
-      "title": "【モスバーガー×たまごっち】夏の福袋 予約受付開始　販売価格相当の食事補助券、コラボグッズ4点をセット\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/691549/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-01",
-      "tags": [
-        "モスバーガー"
-      ]
-    },
-    {
-      "id": "ssnp-e506d7dd",
-      "title": "明治「ザバス BIOPRO ヨーグルト味」発売 / 「ザバス」ブランド初、乳酸菌発酵の『発酵プロテイン』を採用\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/691544/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
       "date": "2026-07-01",
       "tags": []
     }
