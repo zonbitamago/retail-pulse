@@ -1,6 +1,128 @@
 {
-  "lastUpdated": "2026-07-13T19:16:58.881Z",
+  "lastUpdated": "2026-07-14T01:53:44.804Z",
   "items": [
+    {
+      "id": "ryutsuu-e239ca89",
+      "title": "サイゼリヤ／山口県「おのだサンパーク」に新店舗9月下旬オープン",
+      "url": "https://www.ryutsuu.biz/store/s071472.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-14",
+      "tags": [
+        "サイゼリヤ",
+        "オープン",
+        "新店"
+      ]
+    },
+    {
+      "id": "ryutsuu-fc09cc41",
+      "title": "バロー／6月の既存店売上高0.9％減、客数2.5％減",
+      "url": "https://www.ryutsuu.biz/sales/s071471.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-07-14",
+      "tags": [
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-e4b56321",
+      "title": "加工食品 売上ランキング／6月はUmios「あおり炒めの焼豚炒飯」が1位",
+      "url": "https://www.ryutsuu.biz/pos/s071441.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-07-14",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-cab5a095",
+      "title": "初の旗艦店「FAMIMA PARK AZABUDAI」が提供する新しい“コンビニ体験”とは",
+      "url": "https://diamond-rm.net/management/businessplan/551521/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-14",
+      "tags": [
+        "コンビニ",
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-f781b1c7",
+      "title": "ユニクロ世界2位のその先へ、王者ZARAを追い詰める「GU1兆円シフト」の全貌",
+      "url": "https://diamond-rm.net/management/businessplan/551509/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-14",
+      "tags": [
+        "ユニクロ"
+      ]
+    },
+    {
+      "id": "diamond-75aededa",
+      "title": "【特別レポート】イオントップバリュが導入。商品情報を一本化した企業が強い理由",
+      "url": "https://diamond-rm.net/promotion/pr/549700/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "promotion",
+      "date": "2026-07-14",
+      "tags": [
+        "イオン"
+      ]
+    },
+    {
+      "id": "ryutsuu-d029016b",
+      "title": "トライアル西友／首都圏の競争激化、出口社長「非食品の強化が集客力向上の鍵」",
+      "url": "https://www.ryutsuu.biz/strategy/s071341.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-07-13",
+      "tags": [
+        "注目",
+        "トライアル",
+        "西友",
+        "食品",
+        "社長"
+      ]
+    },
+    {
+      "id": "ryutsuu-6cc96fd8",
+      "title": "イオンビッグ／三浦社長「地域で一番頼られるディスカウントストアを目指す」",
+      "url": "https://www.ryutsuu.biz/strategy/s071312.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-07-13",
+      "tags": [
+        "注目",
+        "ディスカウント",
+        "イオン",
+        "社長"
+      ]
+    },
+    {
+      "id": "ryutsuu-3c03dc57",
+      "title": "コスモス薬品 決算／5月期増収増益「食品」売上11.7％増・構成比62.9％",
+      "url": "https://www.ryutsuu.biz/accounts/s071342.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-07-13",
+      "tags": [
+        "コスモス薬品",
+        "食品",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
     {
       "id": "ryutsuu-cf8209ef",
       "title": "クリエイトSDHD 決算／5月期増収増益、EDLPで既存店好調",
@@ -63,34 +185,6 @@
       ]
     },
     {
-      "id": "ryutsuu-ef25797f",
-      "title": "ドトール・日レスHD 決算／3～5月増収増益、既存店売上高・客数ともに堅調",
-      "url": "https://www.ryutsuu.biz/accounts/s071314.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-07-13",
-      "tags": [
-        "売上高",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-9d013c0e",
-      "title": "DCM／6月の既存店売上高10.7％減、客数9.8％減",
-      "url": "https://www.ryutsuu.biz/sales/s071378.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-07-13",
-      "tags": [
-        "DCM",
-        "売上高"
-      ]
-    },
-    {
       "id": "diamond-387798b7",
       "title": "イオンのDS「ザ・ビッグ」が横浜進出！ロピアやオーケーとの価格競争激化",
       "url": "https://diamond-rm.net/store/551475/",
@@ -118,6 +212,16 @@
       ]
     },
     {
+      "id": "diamond-aed36bb5",
+      "title": "第１３２回　新聞とテレビ、エネルギーと流通",
+      "url": "https://diamond-rm.net/life-career/542202/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
       "id": "diamond-f5e0f18f",
       "title": "キリンビールOBが長崎・五島で手掛けるクラフトジン、急成長の理由",
       "url": "https://diamond-rm.net/management/548814/",
@@ -128,16 +232,6 @@
       "tags": [
         "ビール"
       ]
-    },
-    {
-      "id": "diamond-aed36bb5",
-      "title": "第１３２回　新聞とテレビ、エネルギーと流通",
-      "url": "https://diamond-rm.net/life-career/542202/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-13",
-      "tags": []
     },
     {
       "id": "ssnp-af34e3fd",
@@ -258,6 +352,34 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-ef25797f",
+      "title": "ドトール・日レスHD 決算／3～5月増収増益、既存店売上高・客数ともに堅調",
+      "url": "https://www.ryutsuu.biz/accounts/s071314.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-07-13",
+      "tags": [
+        "売上高",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "ryutsuu-9d013c0e",
+      "title": "DCM／6月の既存店売上高10.7％減、客数9.8％減",
+      "url": "https://www.ryutsuu.biz/sales/s071378.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-07-13",
+      "tags": [
+        "DCM",
+        "売上高"
+      ]
+    },
+    {
       "id": "diamond-13c8bf86",
       "title": "薬王堂が出店ラッシュ！ 宮城県多賀城市ではフレスコと共同出店へ【今週の大店立地法速報】",
       "url": "https://diamond-rm.net/store/551454/",
@@ -350,69 +472,6 @@
         "アウトレット",
         "デジタル",
         "DX"
-      ]
-    },
-    {
-      "id": "ryutsuu-9142cb4f",
-      "title": "トライアル西友／千葉県初出店「浦安店」オープン、肉・魚の新惣菜ブランド初導入",
-      "url": "https://www.ryutsuu.biz/report/s071041.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-07-10",
-      "tags": [
-        "注目",
-        "トライアル",
-        "オープン",
-        "西友",
-        "惣菜",
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-fff1f3f8",
-      "title": "マルエツ／生鮮・デリカ強化し「三郷中央店」リニューアルオープン、目標年商22.6億円",
-      "url": "https://www.ryutsuu.biz/report/s071011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-07-10",
-      "tags": [
-        "詳報",
-        "リニューアル",
-        "マルエツ",
-        "オープン",
-        "生鮮"
-      ]
-    },
-    {
-      "id": "ryutsuu-462a01cc",
-      "title": "ヨドバシカメラ／名鉄百貨店本店跡地「名鉄ビル」に26年夏新店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s071015.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-10",
-      "tags": [
-        "ヨドバシカメラ",
-        "オープン",
-        "百貨店",
-        "新店"
-      ]
-    },
-    {
-      "id": "ryutsuu-9e82de4d",
-      "title": "イオン 決算／2～5月営業利益33.6％増、ドラッグ・商業施設・アセアンがけん引",
-      "url": "https://www.ryutsuu.biz/accounts/s071014.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-07-10",
-      "tags": [
-        "ドラッグ",
-        "営業利益",
-        "イオン",
-        "決算"
       ]
     },
     {
@@ -616,6 +675,69 @@
       "category": "飲料",
       "date": "2026-07-10",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-9142cb4f",
+      "title": "トライアル西友／千葉県初出店「浦安店」オープン、肉・魚の新惣菜ブランド初導入",
+      "url": "https://www.ryutsuu.biz/report/s071041.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-07-10",
+      "tags": [
+        "注目",
+        "トライアル",
+        "オープン",
+        "西友",
+        "惣菜",
+        "出店"
+      ]
+    },
+    {
+      "id": "ryutsuu-fff1f3f8",
+      "title": "マルエツ／生鮮・デリカ強化し「三郷中央店」リニューアルオープン、目標年商22.6億円",
+      "url": "https://www.ryutsuu.biz/report/s071011.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-07-10",
+      "tags": [
+        "詳報",
+        "リニューアル",
+        "マルエツ",
+        "オープン",
+        "生鮮"
+      ]
+    },
+    {
+      "id": "ryutsuu-462a01cc",
+      "title": "ヨドバシカメラ／名鉄百貨店本店跡地「名鉄ビル」に26年夏新店舗オープン",
+      "url": "https://www.ryutsuu.biz/store/s071015.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-10",
+      "tags": [
+        "ヨドバシカメラ",
+        "オープン",
+        "百貨店",
+        "新店"
+      ]
+    },
+    {
+      "id": "ryutsuu-9e82de4d",
+      "title": "イオン 決算／2～5月営業利益33.6％増、ドラッグ・商業施設・アセアンがけん引",
+      "url": "https://www.ryutsuu.biz/accounts/s071014.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-07-10",
+      "tags": [
+        "ドラッグ",
+        "営業利益",
+        "イオン",
+        "決算"
+      ]
     },
     {
       "id": "ryutsuu-1dab4d79",
@@ -850,16 +972,6 @@
       ]
     },
     {
-      "id": "diamond-7b143fbb",
-      "title": "第１３０回　入学前の冷たい悲しみ",
-      "url": "https://diamond-rm.net/life-career/542200/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-09",
-      "tags": []
-    },
-    {
       "id": "diamond-228a53e8",
       "title": "2026年のショッピングセンター開業計画を分析　ますます主流になるNSC",
       "url": "https://diamond-rm.net/management/businessplan/540604/",
@@ -871,31 +983,6 @@
         "ショッピングセンター",
         "SC",
         "開業"
-      ]
-    },
-    {
-      "id": "diamond-7d6aa13f",
-      "title": "ホームセンター業界　大再編時代の勢力図　1兆円企業時代へ",
-      "url": "https://diamond-rm.net/management/businessplan/550391/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-09",
-      "tags": [
-        "ホームセンター"
-      ]
-    },
-    {
-      "id": "diamond-693a66c2",
-      "title": "オンワード樫山「２３区」初の旗艦店を青山にオープン　自活集客とブランドコミュニティ創出へ",
-      "url": "https://diamond-rm.net/store/545369/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-09",
-      "tags": [
-        "オープン",
-        "青山"
       ]
     },
     {
@@ -1095,6 +1182,41 @@
       "category": "菓子",
       "date": "2026-07-09",
       "tags": []
+    },
+    {
+      "id": "diamond-7b143fbb",
+      "title": "第１３０回　入学前の冷たい悲しみ",
+      "url": "https://diamond-rm.net/life-career/542200/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-07-09",
+      "tags": []
+    },
+    {
+      "id": "diamond-7d6aa13f",
+      "title": "ホームセンター業界　大再編時代の勢力図　1兆円企業時代へ",
+      "url": "https://diamond-rm.net/management/businessplan/550391/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-09",
+      "tags": [
+        "ホームセンター"
+      ]
+    },
+    {
+      "id": "diamond-693a66c2",
+      "title": "オンワード樫山「２３区」初の旗艦店を青山にオープン　自活集客とブランドコミュニティ創出へ",
+      "url": "https://diamond-rm.net/store/545369/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-09",
+      "tags": [
+        "オープン",
+        "青山"
+      ]
     },
     {
       "id": "diamond-bb1ff478",
@@ -1924,21 +2046,6 @@
       ]
     },
     {
-      "id": "ryutsuu-a6e9a3a1",
-      "title": "イオンフードスタイル／平田炎社長「フードスタイルへの改装で売上1.3～1.7倍、水産好調」",
-      "url": "https://www.ryutsuu.biz/strategy/s070711.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-07-07",
-      "tags": [
-        "注目",
-        "イオン",
-        "改装",
-        "社長"
-      ]
-    },
-    {
       "id": "ryutsuu-5f96d200",
       "title": "JILS／物流コスト管理の基本を学ぶオンライン講義をアーカイブ配信",
       "url": "https://www.ryutsuu.biz/seminar/s070777.html",
@@ -2185,6 +2292,21 @@
       "tags": [
         "食品",
         "飲料"
+      ]
+    },
+    {
+      "id": "ryutsuu-a6e9a3a1",
+      "title": "イオンフードスタイル／平田炎社長「フードスタイルへの改装で売上1.3～1.7倍、水産好調」",
+      "url": "https://www.ryutsuu.biz/strategy/s070711.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-07-07",
+      "tags": [
+        "注目",
+        "イオン",
+        "改装",
+        "社長"
       ]
     },
     {
@@ -3437,115 +3559,6 @@
       "tags": [
         "生鮮"
       ]
-    },
-    {
-      "id": "diamond-c508000c",
-      "title": "第１２５回　ブルー・オーシャン戦略",
-      "url": "https://diamond-rm.net/life-career/542195/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-02",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-3fed9d4f",
-      "title": "ひとまいる／「焼肉トラジ」運営会社の物流業務を受託",
-      "url": "https://www.ryutsuu.biz/strategy/s070212.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-07-02",
-      "tags": [
-        "物流"
-      ]
-    },
-    {
-      "id": "ryutsuu-0d2cd525",
-      "title": "クスリのアオキ 決算／5月期は売上高13％増、生鮮食品含めたフードカテゴリーを拡充",
-      "url": "https://www.ryutsuu.biz/accounts/s070249.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-07-02",
-      "tags": [
-        "クスリのアオキ",
-        "売上高",
-        "食品",
-        "生鮮",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-6c3fc089",
-      "title": "心斎橋パルコ／7～8月、ゴールドウイン・ディズニーストアなど8店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s070219.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-02",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-615a461c",
-      "title": "大手百貨店／6月売上高Jフロント0.8％減、H2O10.5％増",
-      "url": "https://www.ryutsuu.biz/sales/s070214.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-07-02",
-      "tags": [
-        "H2O",
-        "百貨店",
-        "売上高"
-      ]
-    },
-    {
-      "id": "diamond-52d76313",
-      "title": "名古屋名物と思いきや──実は三重発祥の味噌カツをいただく",
-      "url": "https://diamond-rm.net/life-career/life/545208/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-02",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-603a1486",
-      "title": "ユニクロ／6月既存店売上14.1％減、天候不順で夏物需要が低調",
-      "url": "https://www.ryutsuu.biz/sales/s070221.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-07-02",
-      "tags": [
-        "ユニクロ"
-      ]
-    },
-    {
-      "id": "ryutsuu-7b13a5b6",
-      "title": "ゴディバ／福岡・天神に「ゴディパン 大丸福岡天神店」8月下旬オープン、九州初出店",
-      "url": "https://www.ryutsuu.biz/store/s070242.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-02",
-      "tags": [
-        "オープン",
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-52b9d7ba",
-      "title": "鎌倉シャツ／店舗・施設向け集客一元化プラットフォーム「口コミコム」導入",
-      "url": "https://www.ryutsuu.biz/it/s070215.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-07-02",
-      "tags": []
     }
   ]
 }
