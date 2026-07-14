@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-07-14T07:52:21.944Z",
+  "lastUpdated": "2026-07-14T13:18:55.850Z",
   "items": [
+    {
+      "id": "ryutsuu-cef63213",
+      "title": "メルカリ／プロが品質を保証する新リユースサービス「エムデパートメント」提供開始",
+      "url": "https://www.ryutsuu.biz/ec/s071479.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "ec",
+      "date": "2026-07-14",
+      "tags": [
+        "メルカリ"
+      ]
+    },
     {
       "id": "ryutsuu-5c7e0e0a",
       "title": "F＆LC／海外事業300店舗を達成、今秋には米国にスシロー初出店",
@@ -77,6 +89,21 @@
       "date": "2026-07-14",
       "tags": [
         "クスリのアオキ"
+      ]
+    },
+    {
+      "id": "ryutsuu-d1cff310",
+      "title": "クリエイト・レストランツHD 決算／3～5月増収増益、既存店売上高2.8％増",
+      "url": "https://www.ryutsuu.biz/accounts/s071413.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-07-14",
+      "tags": [
+        "売上高",
+        "決算",
+        "増収",
+        "増益"
       ]
     },
     {
@@ -177,6 +204,19 @@
       ]
     },
     {
+      "id": "ssnp-b6a4780e",
+      "title": "本格レッドカレーと国産桃のパフェが登場!ジョナサン夏の2大フェア開催\n\t\t\t\t\t\t\t\t\t\t\t\tすかいらーくレストランツが運営するジョナサンは、2026年7月16日から、「スパイス香る、カレーなる夏」フェアと、桃が主役の「momo wow!」フェアを開催する。 【ジョナサン 新メニューの画像はこちら】 〈ジョナサン...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/693338/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-07-14",
+      "tags": [
+        "すかいらーく",
+        "OMO"
+      ]
+    },
+    {
       "id": "ssnp-323c602b",
       "title": "夏向けのアイス「チョコミント氷」「ワッフルコーン 北海道メロン」を数量限定で発売【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブン･ジャパンは、「セブンプレミアム チョコミント氷」と「セブンプレミアム ワッフルコーン 北海道メロン」の2品を、7月14日から全国のセブン‐イレブン店舗で順次発売する。 【「チョコミント氷」「ワッフルコー...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/693332/",
@@ -188,7 +228,7 @@
     },
     {
       "id": "ssnp-8736fd69",
-      "title": "ムーミンとコラボした3種のバッグを発売、北欧らしいカラーリングと遊び心のあるアートをデザイン【紀ノ国屋】\n\t\t\t\t\t\t\t\t\t\t\t\t紀ノ国屋は、「ムーミン」とコラボしたデザインのコンパクトバッグ･クリアバッグ･OBENTOバッグを数量限定で販売する。公式オンラインストアでは7月15日20時から、店舗では7月16日から販売開始する。 【ムーミンとコラボ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ムーミンとコラボした3種のバッグを発売、北欧らしいカラーリングと遊び心のあるアートをデザイン【紀ノ国屋】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/693318/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -1119,16 +1159,6 @@
       ]
     },
     {
-      "id": "ryutsuu-54653027",
-      "title": "2026年上半期「飲食業」倒産／過去最多の509件、東京商工リサーチ調べ",
-      "url": "https://www.ryutsuu.biz/strategy/s070941.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-07-09",
-      "tags": []
-    },
-    {
       "id": "diamond-228a53e8",
       "title": "2026年のショッピングセンター開業計画を分析　ますます主流になるNSC",
       "url": "https://diamond-rm.net/management/businessplan/540604/",
@@ -1337,6 +1367,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
+      "date": "2026-07-09",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-54653027",
+      "title": "2026年上半期「飲食業」倒産／過去最多の509件、東京商工リサーチ調べ",
+      "url": "https://www.ryutsuu.biz/strategy/s070941.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
       "date": "2026-07-09",
       "tags": []
     },
@@ -3522,36 +3562,6 @@
       "id": "ssnp-2bba8fcd",
       "title": "【なか卯】夏の風物詩「すだちおろしうどん」を発売　徳島県産すだちを丸ごと1個のせた爽やかな味わい\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/691838/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-02",
-      "tags": []
-    },
-    {
-      "id": "ssnp-bc1763c8",
-      "title": "【紀ノ国屋】2種の全粒粉を配合したグラハムロール発売、博多明太子ポテト･和風ツナサラダ･ジャーマンポテトの全3種を展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/691828/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-07-02",
-      "tags": []
-    },
-    {
-      "id": "ssnp-458e3ed8",
-      "title": "バーガーキング、特製ガーリックマヨソース使った新作大型バーガー2品発売　「ダブルビーフ＆ハッシュ」「ビーフ＆チキン」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/691808/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-02",
-      "tags": []
-    },
-    {
-      "id": "ssnp-a84fb33e",
-      "title": "【和食麺処サガミ】厚切り牛たんやはらこ飯、笹かまぼこなど、仙台ゆかりの食材や名物料理が新登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/691795/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
