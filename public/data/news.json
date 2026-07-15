@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-15T07:55:59.890Z",
+  "lastUpdated": "2026-07-15T13:22:43.706Z",
   "items": [
+    {
+      "id": "ryutsuu-dbb2a338",
+      "title": "いなげや／弁当のセントラルキッチン供給を開始、子会社の製造ラインを新設",
+      "url": "https://www.ryutsuu.biz/commodity/s071577.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-07-15",
+      "tags": [
+        "いなげや",
+        "弁当"
+      ]
+    },
     {
       "id": "ryutsuu-ea98ebbd",
       "title": "アークランズ／植物を提案する新業態「武蔵乃葉品店」スーパービバホーム三郷店内にオープン",
@@ -66,6 +79,19 @@
       ]
     },
     {
+      "id": "ryutsuu-851dde03",
+      "title": "コスモス薬品／埼玉県・群馬県に「ドラッグコスモス」計2店舗、27年1～2月新設",
+      "url": "https://www.ryutsuu.biz/store/s0715013.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-15",
+      "tags": [
+        "コスモス薬品",
+        "ドラッグ"
+      ]
+    },
+    {
       "id": "ryutsuu-692536ae",
       "title": "松屋フーズ／JR西日本の公式ECモールに出店、人気商品セットなどのセール実施",
       "url": "https://www.ryutsuu.biz/ec/s071574.html",
@@ -90,19 +116,6 @@
       "date": "2026-07-15",
       "tags": [
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-851dde03",
-      "title": "コスモス薬品／埼玉県・群馬県に「ドラッグコスモス」計2店舗、27年1～2月新設",
-      "url": "https://www.ryutsuu.biz/store/s0715013.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-15",
-      "tags": [
-        "コスモス薬品",
-        "ドラッグ"
       ]
     },
     {
@@ -145,19 +158,6 @@
         "マルエツ",
         "オープン",
         "改装"
-      ]
-    },
-    {
-      "id": "diamond-f4811bfa",
-      "title": "明治屋・磯野社長インタビュー 「都心部への積極出店で客層拡大ねらう」",
-      "url": "https://diamond-rm.net/management/topinterview/550668/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-15",
-      "tags": [
-        "出店",
-        "社長"
       ]
     },
     {
@@ -239,14 +239,29 @@
       ]
     },
     {
+      "id": "diamond-f4811bfa",
+      "title": "明治屋・磯野社長インタビュー 「都心部への積極出店で客層拡大ねらう」",
+      "url": "https://diamond-rm.net/management/topinterview/550668/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-15",
+      "tags": [
+        "出店",
+        "社長"
+      ]
+    },
+    {
       "id": "diamond-ed4e0756",
-      "title": "新潟の注目ローカル・ウオロクのトップが示す「魚屋回帰」の成長戦略",
+      "title": "新潟の注目ローカル・ウオロク葛見社長が示す「魚屋回帰」の成長戦略",
       "url": "https://diamond-rm.net/management/topinterview/550667/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
       "date": "2026-07-15",
-      "tags": []
+      "tags": [
+        "社長"
+      ]
     },
     {
       "id": "diamond-327f6c38",
@@ -329,8 +344,21 @@
       ]
     },
     {
+      "id": "ssnp-4d6bafc7",
+      "title": "「健康ミネラルむぎ茶」「タリーズコーヒー」など飲料製品27品値上げ、11月1日から/伊藤園\n\t\t\t\t\t\t\t\t\t\t\t\t伊藤園は、11月1日から一部飲料製品のメーカー希望小売価格を改定する。対象は麦茶飲料・コーヒー飲料のペットボトル製品、缶製品の計27品。改定率は3.7～12.5%となる。7月15日に発表した。 対象は、「タリーズ」ブラン...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/693499/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-07-15",
+      "tags": [
+        "値上げ",
+        "飲料"
+      ]
+    },
+    {
       "id": "ssnp-7a28c642",
-      "title": "ココイチ×「映画ちいかわ」コラボ　島カレーやドリンク発売、オリジナルグッズの配布も【7月16日開始】\n\t\t\t\t\t\t\t\t\t\t\t\t「カレーハウスCoCo壱番屋」は7月16日午前11時から、「映画ちいかわ 人魚の島のひみつ」(7月24日公開)とのコラボキャンペーンを、一部店舗を除く全国で開始する。 「ココイチ×映画ちいかわ カレー大作戦」として、島を...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ココイチ×「映画ちいかわ」コラボ　島カレーや限定ドリンク発売、オリジナルグッズの配布も【7月16日開始】\n\t\t\t\t\t\t\t\t\t\t\t\t「カレーハウスCoCo壱番屋」は7月16日午前11時から、「映画ちいかわ 人魚の島のひみつ」(7月24日公開)とのコラボキャンペーンを、一部店舗を除く全国で開始する。 「ココイチ×映画ちいかわ カレー大作戦」として、島を...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/693460/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -340,7 +368,7 @@
     },
     {
       "id": "ssnp-4d971799",
-      "title": "うなぎの蒲焼や国産米100%のごはんパティなどを挟んだ「うな丼バーガー」【ゼッテリア】\n\t\t\t\t\t\t\t\t\t\t\t\tハンバーガーショップ「ゼッテリア」は、7月22日から8月上旬ごろまでの期間限定で、「うな丼バーガー」を販売する。一部店舗を除く268店舗で販売予定。 ゼッテリアでは昨年から、1,000円以下で楽しめる土用の丑の日の新提案...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "うなぎの蒲焼や国産米100%のごはんパティなどを挟んだ「うな丼バーガー」【ゼッテリア】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/693471/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -512,18 +540,6 @@
       ]
     },
     {
-      "id": "ryutsuu-5c7e0e0a",
-      "title": "F＆LC／海外事業300店舗を達成、今秋には米国にスシロー初出店",
-      "url": "https://www.ryutsuu.biz/abroad/s071481.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "abroad",
-      "date": "2026-07-14",
-      "tags": [
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-7ff96a04",
       "title": "ローソン、初のオフィス向けデリバリーの実証実験開始【週刊コンビニエンスストアニュース】",
       "url": "https://diamond-rm.net/management/551607/",
@@ -665,6 +681,18 @@
       "date": "2026-07-14",
       "tags": [
         "モスバーガー"
+      ]
+    },
+    {
+      "id": "ryutsuu-5c7e0e0a",
+      "title": "F＆LC／海外事業300店舗を達成、今秋には米国にスシロー初出店",
+      "url": "https://www.ryutsuu.biz/abroad/s071481.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "abroad",
+      "date": "2026-07-14",
+      "tags": [
+        "出店"
       ]
     },
     {
@@ -2119,6 +2147,18 @@
       ]
     },
     {
+      "id": "diamond-b9d8ea47",
+      "title": "大再編時代、ローカルスーパーが迎えた“攻め”の局面！注目チェーンの戦術に迫る",
+      "url": "https://diamond-rm.net/management/550670/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-08",
+      "tags": [
+        "スーパー"
+      ]
+    },
+    {
       "id": "diamond-7784edf4",
       "title": "ローカルVS.ローカルの時代!?　岩手・盛岡周辺部に見た、意外な対立構図の競争の行方",
       "url": "https://diamond-rm.net/store/storevisit/550679/",
@@ -2670,18 +2710,6 @@
       "date": "2026-07-08",
       "tags": [
         "オープン"
-      ]
-    },
-    {
-      "id": "diamond-b9d8ea47",
-      "title": "大再編時代、ローカルスーパーが迎えた“攻め”の局面！注目チェーンの戦術に迫る",
-      "url": "https://diamond-rm.net/management/550670/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-08",
-      "tags": [
-        "スーパー"
       ]
     },
     {
@@ -3536,36 +3564,6 @@
         "スーパー",
         "オープン",
         "生鮮"
-      ]
-    },
-    {
-      "id": "ryutsuu-51723ffc",
-      "title": "焼肉坂井HD／「あげてんや 愛媛イオンモール今治新都市店」オープン、四国に初出店",
-      "url": "https://www.ryutsuu.biz/store/s070645.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-06",
-      "tags": [
-        "オープン",
-        "イオン",
-        "モール",
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-0bb5b0b3",
-      "title": "薬王堂HD 決算／3～5月増収減益、関東エリアへのドミナント出店を推進",
-      "url": "https://www.ryutsuu.biz/accounts/s070649.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-07-06",
-      "tags": [
-        "出店",
-        "決算",
-        "増収",
-        "減益"
       ]
     }
   ]
