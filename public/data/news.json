@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T08:01:52.819Z",
+  "lastUpdated": "2026-07-16T13:28:39.264Z",
   "items": [
     {
       "id": "ryutsuu-3c464e5b",
@@ -68,18 +68,6 @@
       ]
     },
     {
-      "id": "ryutsuu-ae9136a7",
-      "title": "ZOZO／「ボンジュールサガン」にフルフィルメント支援サービスを提供開始",
-      "url": "https://www.ryutsuu.biz/it/s071642.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-07-16",
-      "tags": [
-        "ZOZO"
-      ]
-    },
-    {
       "id": "ryutsuu-959bdd4e",
       "title": "ミスタードーナツ／鹿児島市にテイクアウト専門店オープン、TTGの決済システム導入2店舗目",
       "url": "https://www.ryutsuu.biz/store/s071676.html",
@@ -90,6 +78,18 @@
       "tags": [
         "オープン",
         "専門店"
+      ]
+    },
+    {
+      "id": "ryutsuu-ae9136a7",
+      "title": "ZOZO／「ボンジュールサガン」にフルフィルメント支援サービスを提供開始",
+      "url": "https://www.ryutsuu.biz/it/s071642.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-07-16",
+      "tags": [
+        "ZOZO"
       ]
     },
     {
@@ -144,6 +144,21 @@
       ]
     },
     {
+      "id": "diamond-8e275640",
+      "title": "ロピアが山口県に進出！百貨店「山口井筒屋」に出店【週刊スーパーマーケットニュース】",
+      "url": "https://diamond-rm.net/management/businessplan/552051/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-16",
+      "tags": [
+        "スーパー",
+        "ロピア",
+        "百貨店",
+        "出店"
+      ]
+    },
+    {
       "id": "diamond-4f8210c7",
       "title": "高質フォーマットに改装！ 「阪急オアシスマルシェ豊中駅前店」の売場を徹底解説",
       "url": "https://diamond-rm.net/store/newstorereport/551547/",
@@ -167,16 +182,6 @@
         "オープン",
         "出店"
       ]
-    },
-    {
-      "id": "diamond-1ac000e2",
-      "title": "「タイパ」の時代に、売り手が意識すべきこととは",
-      "url": "https://diamond-rm.net/sales-promotion/550316/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-16",
-      "tags": []
     },
     {
       "id": "diamond-3be9ccb9",
@@ -260,6 +265,16 @@
       "tags": [
         "社長"
       ]
+    },
+    {
+      "id": "diamond-1ac000e2",
+      "title": "「タイパ」の時代に、売り手が意識すべきこととは",
+      "url": "https://diamond-rm.net/sales-promotion/550316/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-16",
+      "tags": []
     },
     {
       "id": "ssnp-0193ce4a",
@@ -431,16 +446,6 @@
       "tags": []
     },
     {
-      "id": "diamond-8909c1f8",
-      "title": "25年秋冬に伸びた各カテゴリーのトップ商品、節約志向と“プチ贅沢”が両立",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/550681/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-15",
-      "tags": []
-    },
-    {
       "id": "diamond-6e400dfc",
       "title": "【DCS最新号】7月15日号は「仕掛ける！ローカルスーパー」",
       "url": "https://diamond-rm.net/management/businessplan/551229/",
@@ -451,16 +456,6 @@
       "tags": [
         "スーパー"
       ]
-    },
-    {
-      "id": "diamond-b5d94a1b",
-      "title": "伊藤園が香水事業に参入!? 新会社設立までの舞台裏",
-      "url": "https://diamond-rm.net/management/547918/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-15",
-      "tags": []
     },
     {
       "id": "diamond-63af00da",
@@ -507,6 +502,16 @@
         "スーパー",
         "デジタル"
       ]
+    },
+    {
+      "id": "diamond-8909c1f8",
+      "title": "25年秋冬に伸びた各カテゴリーのトップ商品、節約志向と“プチ贅沢”が両立",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/550681/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-15",
+      "tags": []
     },
     {
       "id": "diamond-cc2ca6df",
@@ -677,6 +682,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-07-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-b5d94a1b",
+      "title": "伊藤園が香水事業に参入!? 新会社設立までの舞台裏",
+      "url": "https://diamond-rm.net/management/547918/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-07-15",
       "tags": []
     },
@@ -3577,18 +3592,6 @@
       "category": "売上",
       "date": "2026-07-07",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-d43e68d2",
-      "title": "アークランズ／6月の既存店売上高は5.5％減、全店売上高3.9％減",
-      "url": "https://www.ryutsuu.biz/sales/s070744.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-07-07",
-      "tags": [
-        "売上高"
-      ]
     }
   ]
 }
