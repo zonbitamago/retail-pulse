@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-07-16T13:28:39.264Z",
+  "lastUpdated": "2026-07-16T19:00:56.083Z",
   "items": [
+    {
+      "id": "ryutsuu-e8e05d5e",
+      "title": "カインズ／山梨県「笛吹店」7月17日オープン、ドッグランやカフェブリッコ導入",
+      "url": "https://www.ryutsuu.biz/store/s071675.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-17",
+      "tags": [
+        "カインズ",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-8e0d3bf7",
+      "title": "ホットランド／大分県初出店「銀だこハイボール酒場 大分中央町店」7月17日オープン",
+      "url": "https://www.ryutsuu.biz/store/s071680.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-17",
+      "tags": [
+        "オープン",
+        "出店"
+      ]
+    },
     {
       "id": "ryutsuu-3c464e5b",
       "title": "ローソン 決算／3～5月、全店売上高・営業収益・事業利益・当期利益が過去最高に",
@@ -3570,28 +3596,6 @@
         "売上高",
         "松屋"
       ]
-    },
-    {
-      "id": "ryutsuu-19cb7fbf",
-      "title": "Joshin／6月のグループ売上高11.9％減、エアコンは25.3％減",
-      "url": "https://www.ryutsuu.biz/sales/s070745.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-07-07",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-8628b498",
-      "title": "ヤマダHD／6月のデンキセグメント5.8％減、エアコンは前年を大きく下回る",
-      "url": "https://www.ryutsuu.biz/sales/s070743.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-07-07",
-      "tags": []
     }
   ]
 }
