@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T07:58:48.468Z",
+  "lastUpdated": "2026-07-17T13:14:14.164Z",
   "items": [
     {
       "id": "ryutsuu-eb5ed5ab",
@@ -150,16 +150,6 @@
       ]
     },
     {
-      "id": "ryutsuu-794a6401",
-      "title": "UVケア 売上ランキング／4月～6月1位「ビオレUV アクアリッチ ウォータリーエッセンス」",
-      "url": "https://www.ryutsuu.biz/pos/s071771.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-07-17",
-      "tags": []
-    },
-    {
       "id": "diamond-7177fcc8",
       "title": "「イオンスタイル三ツ境」がオープン　オーケー、ライフと競合する激戦地で若年層取り込みへ",
       "url": "https://diamond-rm.net/store/551998/",
@@ -230,29 +220,54 @@
       "tags": []
     },
     {
+      "id": "ssnp-7a47924f",
+      "title": "森永製菓がキッザニア東京の「お菓子工場」を刷新、ハイチュウの歴史や魅力が学べるパビリオンに進化\n\t\t\t\t\t\t\t\t\t\t\t\t森永製菓は、子どもの職業･社会体験施設「キッザニア東京」に出展する「お菓子工場」パビリオンを7月14日にリニューアルオープンした。2006年の同施設開業以来、約20年ぶりの刷新となる。 今回、従来のオリジナル「ハイチュウ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/693796/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-07-17",
+      "tags": [
+        "リニューアル",
+        "オープン",
+        "菓子",
+        "開業"
+      ]
+    },
+    {
+      "id": "ssnp-736294bd",
+      "title": "湖池屋「ポリンキーメッシュポーチ」受注販売　「推しキャラ総選挙」初代王者がモチーフ、ファン参加型で商品化\n\t\t\t\t\t\t\t\t\t\t\t\t湖池屋は7月9日、コーンスナック菓子「ポリンキー」のキャラクター「スリーポリンキーズ」をデザインした「ポリンキーメッシュポーチ」の受注販売を「湖池屋オンラインショップ」で開始した。 公式ファンサイト「湖池屋GOGO!ラン...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/693778/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-07-17",
+      "tags": [
+        "スナック",
+        "菓子"
+      ]
+    },
+    {
       "id": "ssnp-e885737b",
-      "title": "セブンイレブン、映画ちいかわとコラボ/作中のメニューをイメージ\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブン･ジャパンは、7月24日に公開の『映画ちいかわ 人魚の島のひみつ』とのコラボレーションフェアを7月21日から順次開催する。映画の舞台となる「島」をテーマに、作中に出てくる食べ物をイメージした惣菜やスイーツ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "セブンイレブン、映画ちいかわとコラボ/作中のメニューをイメージ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/693762/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
       "date": "2026-07-17",
       "tags": [
-        "セブンイレブン",
-        "惣菜"
+        "セブンイレブン"
       ]
     },
     {
       "id": "ssnp-ac26af96",
-      "title": "カンロ、渋谷で「あめとグミしかない⁉夏祭り」初開催　限定メニュー3品の販売や体験コンテンツを展開\n\t\t\t\t\t\t\t\t\t\t\t\tカンロは7月25日、キャンディの新たな魅力を体験できるイベントとして、「あめとグミしかない⁉夏祭り」を、東京･渋谷の「OPENBASE SHIBUYA」で初開催する。 同社商品を使ったオリジナルメニューを販売するキッチン...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "カンロ、渋谷で「あめとグミしかない⁉夏祭り」初開催　限定メニュー3品の販売や体験コンテンツを展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/693750/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
       "date": "2026-07-17",
-      "tags": [
-        "NB"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-13cd533e",
@@ -372,6 +387,16 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-794a6401",
+      "title": "UVケア 売上ランキング／4月～6月1位「ビオレUV アクアリッチ ウォータリーエッセンス」",
+      "url": "https://www.ryutsuu.biz/pos/s071771.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-07-17",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-e8e05d5e",
       "title": "カインズ／山梨県「笛吹店」7月17日オープン、ドッグランやカフェブリッコ導入",
       "url": "https://www.ryutsuu.biz/store/s071675.html",
@@ -409,6 +434,18 @@
         "注目",
         "マルエツ",
         "社長"
+      ]
+    },
+    {
+      "id": "ryutsuu-b099929a",
+      "title": "アイスクリーム 売上ランキング／6月は森永乳業「PARM チョコレート」4カ月連続1位",
+      "url": "https://www.ryutsuu.biz/pos/s071643.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-07-16",
+      "tags": [
+        "チョコレート"
       ]
     },
     {
@@ -762,18 +799,6 @@
       "tags": [
         "いなげや",
         "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-b099929a",
-      "title": "アイスクリーム 売上ランキング／6月は森永乳業「PARM チョコレート」4カ月連続1位",
-      "url": "https://www.ryutsuu.biz/pos/s071643.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-07-16",
-      "tags": [
-        "チョコレート"
       ]
     },
     {
@@ -3550,35 +3575,6 @@
       "tags": [
         "オープン",
         "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-8e0d2ee3",
-      "title": "ベイシア 新商品／リカバリーウェア発売、半袖インナー税別990円",
-      "url": "https://www.ryutsuu.biz/commodity/s070811.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-07-08",
-      "tags": [
-        "ベイシア"
-      ]
-    },
-    {
-      "id": "ryutsuu-2d89bc99",
-      "title": "ABCマート 決算／3～5月増収増益、地方SCに出店拡大・インバウンド消費も増加",
-      "url": "https://www.ryutsuu.biz/accounts/s070881.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-07-08",
-      "tags": [
-        "インバウンド",
-        "SC",
-        "出店",
-        "決算",
-        "増収",
-        "増益"
       ]
     }
   ]
