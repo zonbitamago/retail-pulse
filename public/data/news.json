@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T18:58:55.117Z",
+  "lastUpdated": "2026-07-18T01:53:47.858Z",
   "items": [
     {
       "id": "ryutsuu-e56253fa",
@@ -13,6 +13,36 @@
         "リニューアル",
         "雑貨"
       ]
+    },
+    {
+      "id": "diamond-982ee7ac",
+      "title": "農心ジャパン、「辛ラーメン」の次はもちもち太麺「ノグリ」を若年層に訴求",
+      "url": "https://diamond-rm.net/promotion/pr/550685/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "promotion",
+      "date": "2026-07-18",
+      "tags": []
+    },
+    {
+      "id": "diamond-a8bd6771",
+      "title": "流通秀書　第38回『商魂の系譜』",
+      "url": "https://diamond-rm.net/life-career/547305/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-07-18",
+      "tags": []
+    },
+    {
+      "id": "ssnp-8f2192ac",
+      "title": "夏の風物詩『～いろいろな食べ方で愉しむ～うなぎまぶし定食』新発売、〆は新しくなった“だし”で味わえる【やよい軒】\n\t\t\t\t\t\t\t\t\t\t\t\t定食レストラン「やよい軒」は、『～いろいろな食べ方で愉しむ～うなぎまぶし定食』などを7月22日から発売する。また、家庭でも楽しめるテイクアウト商品も用意した。 【『うなぎまぶし定食』の画像はこちら】 「やよい軒」のうなぎ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/693487/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-07-18",
+      "tags": []
     },
     {
       "id": "ryutsuu-eb5ed5ab",
@@ -249,16 +279,13 @@
     },
     {
       "id": "ssnp-736294bd",
-      "title": "湖池屋「ポリンキーメッシュポーチ」受注販売　「推しキャラ総選挙」初代王者がモチーフ、ファン参加型で商品化\n\t\t\t\t\t\t\t\t\t\t\t\t湖池屋は7月9日、コーンスナック菓子「ポリンキー」のキャラクター「スリーポリンキーズ」をデザインした「ポリンキーメッシュポーチ」の受注販売を「湖池屋オンラインショップ」で開始した。 公式ファンサイト「湖池屋GOGO!ラン...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "湖池屋「ポリンキーメッシュポーチ」受注販売　「推しキャラ総選挙」初代王者がモチーフ、ファン参加型で商品化\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/693778/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
       "date": "2026-07-17",
-      "tags": [
-        "スナック",
-        "菓子"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-e885737b",
@@ -535,31 +562,6 @@
       ]
     },
     {
-      "id": "diamond-37a95cf8",
-      "title": "即食・簡便から本格調理、デザートまで！多様化する利用シーンに応える韓国食品売場を活性化",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/550684/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-16",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-b979d25e",
-      "title": "ドラッグストアの「リピート率」ランキング、消費の二極化で24カテゴリーが上昇",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/550443/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-16",
-      "tags": [
-        "ドラッグストア",
-        "ドラッグ"
-      ]
-    },
-    {
       "id": "diamond-0f0d422c",
       "title": "ダイマツ　松井社長が語るインダストリアル事業の成長戦略",
       "url": "https://diamond-rm.net/management/topinterview/551393/",
@@ -582,6 +584,31 @@
       "tags": [
         "オープン",
         "出店"
+      ]
+    },
+    {
+      "id": "diamond-37a95cf8",
+      "title": "即食・簡便から本格調理、デザートまで！多様化する利用シーンに応える韓国食品売場を活性化",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/550684/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-16",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-b979d25e",
+      "title": "ドラッグストアの「リピート率」ランキング、消費の二極化で24カテゴリーが上昇",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/550443/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-16",
+      "tags": [
+        "ドラッグストア",
+        "ドラッグ"
       ]
     },
     {
@@ -925,16 +952,6 @@
       "tags": []
     },
     {
-      "id": "diamond-cc2ca6df",
-      "title": "バイヤーアンケートから見る「選ばれる介護売場」の条件とは？",
-      "url": "https://diamond-rm.net/sales-promotion/buyer/549840/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-15",
-      "tags": []
-    },
-    {
       "id": "diamond-cabbc4ed",
       "title": "福島県産もも「あかつき」を味わって 青果売場の販売促進を県が強力に支援",
       "url": "https://diamond-rm.net/promotion/pr/550826/",
@@ -1093,6 +1110,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-07-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-cc2ca6df",
+      "title": "バイヤーアンケートから見る「選ばれる介護売場」の条件とは？",
+      "url": "https://diamond-rm.net/sales-promotion/buyer/549840/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
       "date": "2026-07-15",
       "tags": []
     },
@@ -3539,42 +3566,6 @@
       "tags": [
         "ユニクロ",
         "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-e61c67d3",
-      "title": "LOWYA／静岡県2店舗目「ららぽーと沼津店」10月オープン",
-      "url": "https://www.ryutsuu.biz/store/s070872.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-08",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "diamond-3a2d981a",
-      "title": "「スーパーと道の駅の融合」で年商30億円超の店も！　ホクレン商事の成長フォーマットの全貌",
-      "url": "https://diamond-rm.net/management/businessplan/550672/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-08",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
-      "id": "diamond-f258bad3",
-      "title": "2025年衣料品供給統計から読み解く深刻な需給ギャップ",
-      "url": "https://diamond-rm.net/management/businessplan/550301/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-08",
-      "tags": [
-        "衣料品"
       ]
     }
   ]
