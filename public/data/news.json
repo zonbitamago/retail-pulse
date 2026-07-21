@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2026-07-21T08:14:30.242Z",
+  "lastUpdated": "2026-07-21T13:24:03.661Z",
   "items": [
+    {
+      "id": "ryutsuu-07ac13ca",
+      "title": "大阪府堺市／堺東駅直結「ヒビエ堺東」12月先行オープン、ライフが出店",
+      "url": "https://www.ryutsuu.biz/store/s072178.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-21",
+      "tags": [
+        "オープン",
+        "ライフ",
+        "出店"
+      ]
+    },
     {
       "id": "ryutsuu-93c8b18c",
       "title": "野村不動産／サービス特化型施設「ミーフル 渋谷道玄坂」27年1月オープン",
@@ -25,18 +39,6 @@
         "EC",
         "物流",
         "食品"
-      ]
-    },
-    {
-      "id": "ryutsuu-cfed6df2",
-      "title": "東急不動産グループ／再エネ100％植物工場産レタスをローソンに供給",
-      "url": "https://www.ryutsuu.biz/strategy/s072115.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-07-21",
-      "tags": [
-        "ローソン"
       ]
     },
     {
@@ -89,6 +91,28 @@
       ]
     },
     {
+      "id": "ryutsuu-cfed6df2",
+      "title": "東急不動産グループ／再エネ100％植物工場産レタスをローソンに供給",
+      "url": "https://www.ryutsuu.biz/strategy/s072115.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-07-21",
+      "tags": [
+        "ローソン"
+      ]
+    },
+    {
+      "id": "ryutsuu-ebcb43ed",
+      "title": "日本生協連／6月の総供給高0.2％増",
+      "url": "https://www.ryutsuu.biz/sales/s072117.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-07-21",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-01397e69",
       "title": "カスミ／6月の総売上高233億円、既存店売上2.3％減",
       "url": "https://www.ryutsuu.biz/sales/s072111.html",
@@ -112,16 +136,6 @@
       "tags": [
         "売上高"
       ]
-    },
-    {
-      "id": "ryutsuu-83c7612a",
-      "title": "水 売上ランキング／4～6月はサントリー「天然水 南アルプス」が1・2位に",
-      "url": "https://www.ryutsuu.biz/pos/s071848.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-07-21",
-      "tags": []
     },
     {
       "id": "ryutsuu-236fab8b",
@@ -216,6 +230,20 @@
       "tags": []
     },
     {
+      "id": "ssnp-67aded3f",
+      "title": "【十割そば 二代目長助 江南店 グランドオープン】厳選メニューを特別価格で販売\n\t\t\t\t\t\t\t\t\t\t\t\tサガミレストランツは、2026年7月22日、「十割そば 二代目長助江南店」を出店する。グランドオープンに伴い、「OPEN記念企画」を開催し、厳選メニューを特別価格で販売する。 本店舗は店内に設置したAI搭載カメラやセンサ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/693900/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-07-21",
+      "tags": [
+        "オープン",
+        "AI",
+        "出店"
+      ]
+    },
+    {
       "id": "ssnp-53ccd00e",
       "title": "【すき家】夏にぴったりの「鉄火丼」、ねばとろを組み合わせた「ばくだん鉄火丼」発売\n\t\t\t\t\t\t\t\t\t\t\t\t牛丼チェーンの「すき家」は、7月28日午前9時より「鉄火丼」を販売する。価格は並盛880円から。販売終了時期は未定。 「鉄火丼」は、まぐろの切り身をごはんに盛り付けた商品。色鮮やかなまぐろの赤身の旨みと、ごはんとの相性を...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/693888/",
@@ -227,7 +255,7 @@
     },
     {
       "id": "ssnp-91aaf3f5",
-      "title": "名古屋の台湾ラーメンが全国のセブン‐イレブンに登場!しっかりとしたコクに唐辛子の刺激を合わせた\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブン･ジャパンは、新商品「セブンプレミアム 名古屋台湾ラーメン」を、全国のセブン‐イレブン店舗で7月28日から順次発売する。 【セブンプレミアム 名古屋台湾ラーメンの画像はこちら】 ◆セブンプレミアム 名古屋...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "名古屋の台湾ラーメンが全国のセブン‐イレブンに登場!しっかりとしたコクに唐辛子の刺激を合わせた\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/693853/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -262,6 +290,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "冷凍食品",
+      "date": "2026-07-21",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-83c7612a",
+      "title": "水 売上ランキング／4～6月はサントリー「天然水 南アルプス」が1・2位に",
+      "url": "https://www.ryutsuu.biz/pos/s071848.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
       "date": "2026-07-21",
       "tags": []
     },
@@ -386,19 +424,6 @@
       ]
     },
     {
-      "id": "ryutsuu-d2b0c3ce",
-      "title": "伊勢丹新宿店／本館「化粧品フロア」を8月以降リニューアル、スキンケア・フレグランスを強化",
-      "url": "https://www.ryutsuu.biz/store/s071779.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-17",
-      "tags": [
-        "リニューアル",
-        "化粧品"
-      ]
-    },
-    {
       "id": "ryutsuu-7b73b34c",
       "title": "セブン＆アイ／ポーランドのコンビニ最大手へ出資検討",
       "url": "https://www.ryutsuu.biz/strategy/s071742.html",
@@ -420,6 +445,18 @@
       "category": "経営",
       "date": "2026-07-17",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-2d5798c9",
+      "title": "お菓子 売上ランキング／6月はドンレミー「プリンアラモード」が1位",
+      "url": "https://www.ryutsuu.biz/pos/s071741.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-07-17",
+      "tags": [
+        "菓子"
+      ]
     },
     {
       "id": "ryutsuu-794a6401",
@@ -663,6 +700,19 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-d2b0c3ce",
+      "title": "伊勢丹新宿店／本館「化粧品フロア」を8月以降リニューアル、スキンケア・フレグランスを強化",
+      "url": "https://www.ryutsuu.biz/store/s071779.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-17",
+      "tags": [
+        "リニューアル",
+        "化粧品"
+      ]
+    },
+    {
       "id": "ryutsuu-eb5ed5ab",
       "title": "角上魚類／埼玉県「越谷店」10月リニューアルオープン、生鮮3品がワンフロアに集結",
       "url": "https://www.ryutsuu.biz/store/s071745.html",
@@ -773,18 +823,6 @@
       "tags": [
         "PPIH",
         "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-2d5798c9",
-      "title": "お菓子 売上ランキング／6月はドンレミー「プリンアラモード」が1位",
-      "url": "https://www.ryutsuu.biz/pos/s071741.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-07-17",
-      "tags": [
-        "菓子"
       ]
     },
     {
@@ -916,18 +954,6 @@
       ]
     },
     {
-      "id": "diamond-37a95cf8",
-      "title": "即食・簡便から本格調理、デザートまで！多様化する利用シーンに応える韓国食品売場を活性化",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/550684/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-16",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-b979d25e",
       "title": "ドラッグストアの「リピート率」ランキング、消費の二極化で24カテゴリーが上昇",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/550443/",
@@ -938,6 +964,18 @@
       "tags": [
         "ドラッグストア",
         "ドラッグ"
+      ]
+    },
+    {
+      "id": "diamond-37a95cf8",
+      "title": "即食・簡便から本格調理、デザートまで！多様化する利用シーンに応える韓国食品売場を活性化",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/550684/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-16",
+      "tags": [
+        "食品"
       ]
     },
     {
@@ -1206,18 +1244,6 @@
       ]
     },
     {
-      "id": "ryutsuu-f93ba17d",
-      "title": "アルコール飲料 売上ランキング／6月1位はサントリー「プレミアムハイボール 白州 森の豊潤な香りと余韻」",
-      "url": "https://www.ryutsuu.biz/pos/s071571.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-07-15",
-      "tags": [
-        "飲料"
-      ]
-    },
-    {
       "id": "ryutsuu-957d15c3",
       "title": "カンリー／店舗のAI検索対策「MEO対策とサイテーションを徹底解説」セミナー7月28～30日開催",
       "url": "https://www.ryutsuu.biz/seminar/s071581.html",
@@ -1442,6 +1468,18 @@
       "category": "飲料",
       "date": "2026-07-15",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-f93ba17d",
+      "title": "アルコール飲料 売上ランキング／6月1位はサントリー「プレミアムハイボール 白州 森の豊潤な香りと余韻」",
+      "url": "https://www.ryutsuu.biz/pos/s071571.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-07-15",
+      "tags": [
+        "飲料"
+      ]
     },
     {
       "id": "diamond-8cb2b277",
@@ -3515,40 +3553,6 @@
       "id": "ssnp-2663d2af",
       "title": "対象の餃子が何度でも無料、「夏休み餃子パス」を数量限定販売　30周年記念で【紅虎餃子房】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/692514/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-08",
-      "tags": []
-    },
-    {
-      "id": "ssnp-1e732e4a",
-      "title": "「“北欧サーモンいくら”包み」110円、「うに軍艦」190円　「かっぱの贅沢うにいくら祭り」開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/692487/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-08",
-      "tags": []
-    },
-    {
-      "id": "ssnp-d9e3211a",
-      "title": "Umios市販用冷凍食品、米飯好調も弁当類が苦戦し25年度は前年割れ　「新中華街」に並ぶ一大ブランドの育成に注力\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/frozen/692492/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "冷凍食品",
-      "date": "2026-07-08",
-      "tags": [
-        "冷凍食品",
-        "食品",
-        "弁当"
-      ]
-    },
-    {
-      "id": "ssnp-f3d2fe31",
-      "title": "くら寿司「北海道」フェア開催、一貫110円の「北海道サーモン」のほか、「北海道ほたて」や「北海道天然ぶり」などが登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/692463/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
