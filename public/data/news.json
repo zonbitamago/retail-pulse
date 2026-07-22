@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-07-22T13:28:35.469Z",
+  "lastUpdated": "2026-07-22T19:03:28.351Z",
   "items": [
+    {
+      "id": "ryutsuu-e38aadeb",
+      "title": "セブンイレブン／国産木材100％使用した「四国中央中曽根町店」7月23日オープン",
+      "url": "https://www.ryutsuu.biz/store/s072248.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-23",
+      "tags": [
+        "セブンイレブン",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-33a78439",
+      "title": "ローソンストア100／小栗知義社長インタビュー",
+      "url": "https://www.ryutsuu.biz/column/r20250723001.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "column",
+      "date": "2026-07-23",
+      "tags": [
+        "ローソン",
+        "社長"
+      ]
+    },
     {
       "id": "ryutsuu-9f5d43bf",
       "title": "ロピア／滋賀県初「彦根ナフコ店」今秋オープン、彦根市の商業施設に出店",
@@ -1330,6 +1356,18 @@
       ]
     },
     {
+      "id": "diamond-37a95cf8",
+      "title": "即食・簡便から本格調理、デザートまで！多様化する利用シーンに応える韓国食品売場を活性化",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/550684/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-16",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
       "id": "diamond-b979d25e",
       "title": "ドラッグストアの「リピート率」ランキング、消費の二極化で24カテゴリーが上昇",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/550443/",
@@ -1340,18 +1378,6 @@
       "tags": [
         "ドラッグストア",
         "ドラッグ"
-      ]
-    },
-    {
-      "id": "diamond-37a95cf8",
-      "title": "即食・簡便から本格調理、デザートまで！多様化する利用シーンに応える韓国食品売場を活性化",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/550684/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-16",
-      "tags": [
-        "食品"
       ]
     },
     {
@@ -3528,26 +3554,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
-      "date": "2026-07-09",
-      "tags": []
-    },
-    {
-      "id": "ssnp-550f21de",
-      "title": "永谷園フーズ、高萩工場をドライ製品の中核拠点に　生産能力２割増を見込む\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/seasoning/692710/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "調味料",
-      "date": "2026-07-09",
-      "tags": []
-    },
-    {
-      "id": "ssnp-07276ccc",
-      "title": "夏ドーナツに『メロン クリーム』が新登場、赤肉メロンの芳醇な甘さが楽しめる\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/692696/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
       "date": "2026-07-09",
       "tags": []
     }
