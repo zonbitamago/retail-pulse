@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T08:19:14.349Z",
+  "lastUpdated": "2026-07-23T13:41:39.511Z",
   "items": [
     {
       "id": "ryutsuu-005cba7a",
@@ -75,18 +75,6 @@
       ]
     },
     {
-      "id": "ryutsuu-d9f7e08b",
-      "title": "ほっかほっか亭／大阪府泉南郡に「熊取店」新規オープン、オープンキッチン導入",
-      "url": "https://www.ryutsuu.biz/store/s072374.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-23",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
       "id": "ryutsuu-9eb0b802",
       "title": "コスモス薬品／徳島県に「ドラッグコスモス」計2店舗、27年1～2月新設",
       "url": "https://www.ryutsuu.biz/store/s0723013.html",
@@ -97,6 +85,18 @@
       "tags": [
         "コスモス薬品",
         "ドラッグ"
+      ]
+    },
+    {
+      "id": "ryutsuu-d9f7e08b",
+      "title": "ほっかほっか亭／大阪府泉南郡に「熊取店」新規オープン、オープンキッチン導入",
+      "url": "https://www.ryutsuu.biz/store/s072374.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-23",
+      "tags": [
+        "オープン"
       ]
     },
     {
@@ -146,6 +146,19 @@
       "tags": [
         "ローソン",
         "社長"
+      ]
+    },
+    {
+      "id": "diamond-97997bbb",
+      "title": "アンダー300坪で年商目標22億円超！サミット新店「月島3丁目店」の売場を速報",
+      "url": "https://diamond-rm.net/store/552586/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-23",
+      "tags": [
+        "サミット",
+        "新店"
       ]
     },
     {
@@ -214,8 +227,32 @@
       "tags": []
     },
     {
+      "id": "ssnp-47ad918f",
+      "title": "「カロリーメイト」「SOYJOY」計31アイテム値上げ、11月2日納品分から/大塚製薬\n\t\t\t\t\t\t\t\t\t\t\t\t大塚製薬は、2026年11月2日納品分からニュートラシューティカルズ関連事業製品のメーカー希望小売価格を改定する。7月23日に発表した。 対象製品は、「カロリーメイト」17品と「SOYJOY（ソイジョイ）」14品の計31...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/694280/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-07-23",
+      "tags": [
+        "値上げ"
+      ]
+    },
+    {
+      "id": "ssnp-1cdc99e2",
+      "title": "松屋がローストビーフ発売　特製ソースとレフォールソースで味わう「松屋オリジナルソースローストビーフ」\n\t\t\t\t\t\t\t\t\t\t\t\t松屋は7月28日10時、「松屋オリジナルソースローストビーフ」を発売する。しっとりやわらかなローストビーフに青ネギを添え、生卵と、特製オリジナルソース、レフォールソースを合わせた期間限定メニュー。全国の松屋(一部店舗を除...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/694271/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-07-23",
+      "tags": [
+        "松屋"
+      ]
+    },
+    {
       "id": "ssnp-0a4b40e7",
-      "title": "十割そば専門「二代目長助」江南店がオープン/AI×重量センサーの新オーダー方式で利便性向上へ\n\t\t\t\t\t\t\t\t\t\t\t\tサガミグループのセルフサービス形態の本格そば専門店「二代目長助」は7月22日、愛知県江南市に新店舗をオープンした。扶桑･岩倉など既存店の商圏近接地への出店で、ブランドの認知拡大を図る。 【この記事のすべての画像はこちら】...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "十割そば専門「二代目長助」江南店がオープン/AI×重量センサーの新オーダー方式で利便性向上へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/694250/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -223,15 +260,12 @@
       "date": "2026-07-23",
       "tags": [
         "オープン",
-        "専門店",
-        "AI",
-        "出店",
-        "新店"
+        "AI"
       ]
     },
     {
       "id": "ssnp-daac98b7",
-      "title": "【はなまるうどん】「鬼おろしぶっかけ」6品を期間限定発売、柚子・柴漬・わさびの3種薬味で楽しむ夏うどん\n\t\t\t\t\t\t\t\t\t\t\t\tうどんチェーンの「はなまるうどん」は、7月23日(木)から全国の店舗(一部店舗除く)で、「柚子豚鬼おろしぶっかけ」「柴漬豚鬼おろしぶっかけ」「わさび豚鬼おろしぶっかけ」と、「柚子鬼おろしぶっかけ」「柴漬鬼おろしぶっかけ」...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【はなまるうどん】「鬼おろしぶっかけ」6品を期間限定発売、柚子・柴漬・わさびの3種薬味で楽しむ夏うどん\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/694255/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -2082,19 +2116,6 @@
       ]
     },
     {
-      "id": "diamond-f4811bfa",
-      "title": "明治屋・磯野社長インタビュー 「都心部への積極出店で客層拡大ねらう」",
-      "url": "https://diamond-rm.net/management/topinterview/550668/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-15",
-      "tags": [
-        "出店",
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-67536793",
       "title": "デジタル空間の方が「楽しさ」は演出できる！　ネットスーパーの売場づくりの考え方",
       "url": "https://diamond-rm.net/ec-epayment/net-super/550669/",
@@ -2257,6 +2278,19 @@
       "category": "飲料",
       "date": "2026-07-15",
       "tags": []
+    },
+    {
+      "id": "diamond-f4811bfa",
+      "title": "明治屋・磯野社長インタビュー 「都心部への積極出店で客層拡大ねらう」",
+      "url": "https://diamond-rm.net/management/topinterview/550668/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-15",
+      "tags": [
+        "出店",
+        "社長"
+      ]
     },
     {
       "id": "diamond-8909c1f8",
@@ -3474,52 +3508,6 @@
       "category": "経営戦略",
       "date": "2026-07-10",
       "tags": []
-    },
-    {
-      "id": "diamond-94cc2a92",
-      "title": "【売場レポート】「トライアル西友」の4号店が千葉・浦安に　魚総菜・肉総菜の新ブランド投入！",
-      "url": "https://diamond-rm.net/store/551314/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-10",
-      "tags": [
-        "トライアル",
-        "西友"
-      ]
-    },
-    {
-      "id": "ryutsuu-9142cb4f",
-      "title": "トライアル西友／千葉県初出店「浦安店」オープン、肉・魚の新惣菜ブランド初導入",
-      "url": "https://www.ryutsuu.biz/report/s071041.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-07-10",
-      "tags": [
-        "注目",
-        "トライアル",
-        "オープン",
-        "西友",
-        "惣菜",
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-fff1f3f8",
-      "title": "マルエツ／生鮮・デリカ強化し「三郷中央店」リニューアルオープン、目標年商22.6億円",
-      "url": "https://www.ryutsuu.biz/report/s071011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-07-10",
-      "tags": [
-        "詳報",
-        "リニューアル",
-        "マルエツ",
-        "オープン",
-        "生鮮"
-      ]
     }
   ]
 }
