@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-07-26T19:01:45.297Z",
+  "lastUpdated": "2026-07-27T02:22:18.845Z",
   "items": [
+    {
+      "id": "ryutsuu-5ba6d17e",
+      "title": "オオゼキ／青果専門店「大関屋青果店 向ヶ丘遊園店」神奈川県川崎市にオープン",
+      "url": "https://www.ryutsuu.biz/store/s072743.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-27",
+      "tags": [
+        "オープン",
+        "専門店",
+        "青果"
+      ]
+    },
+    {
+      "id": "ryutsuu-dcb7b655",
+      "title": "綿半／長野県「綿半スーパーセンター上田店」内に「ワールドマーケット」オープン",
+      "url": "https://www.ryutsuu.biz/store/s072742.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-27",
+      "tags": [
+        "スーパー",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-5a607c4c",
+      "title": "ベルジョイス／カインズ商品を取り扱い開始",
+      "url": "https://www.ryutsuu.biz/commodity/s072711.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-07-27",
+      "tags": [
+        "カインズ"
+      ]
+    },
     {
       "id": "ryutsuu-5e02fff5",
       "title": "ブックオフ／大阪「BOOKOFF イオン吹田店」7月27日オープン、トレカスペース完備",
@@ -15,8 +54,217 @@
       ]
     },
     {
+      "id": "diamond-9ceaaf58",
+      "title": "食品小売で過熱するスイーツ開発競争　参入の落とし穴と成功のカギとは",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552472/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-baa6163f",
+      "title": "マネできない、マネさせない！　トライアルの「スイーツ強化」の最前線に迫る",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552473/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": [
+        "トライアル"
+      ]
+    },
+    {
+      "id": "diamond-d24c38f0",
+      "title": "ダイエー老舗店舗を”若年層に刺さる店”に転換！「イオンスタイル新松戸」の食品売場をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/552546/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-27",
+      "tags": [
+        "イオン",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-f2dd559d",
+      "title": "「イオンコーデ」が嘲られるウエアリング変化のシリアスな背景",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/552210/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": [
+        "イオン"
+      ]
+    },
+    {
+      "id": "diamond-ca1e8d26",
+      "title": "「大手食品スーパーのブランドイメージ」調査でイオンが全項目1位となった理由",
+      "url": "https://diamond-rm.net/market/552446/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-07-27",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "イオン",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-15b70612",
+      "title": "世界的パティシエ・辻口シェフが食品小売の「スイーツブーム」に思うこととは",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552483/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-8148073c",
+      "title": "青果部門のプロが警鐘！　安易な「青果スイーツ化」の落とし穴",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552482/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": [
+        "青果"
+      ]
+    },
+    {
+      "id": "diamond-f8571d7f",
+      "title": "スイーツ専門家が全力解説！食品小売が「スイーツ」で勝つためのロジック",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552481/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-090b14a0",
+      "title": "毎年100アイテム超を新規投入!?　スイーツ専門企業モンテールの開発手法に迫る",
+      "url": "https://diamond-rm.net/sales-promotion/552480/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "id": "diamond-bf1308ee",
+      "title": "チルドスイーツの老舗・ドンレミーでプリンアラモードが「3秒に1個売れる」理由",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552479/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "id": "diamond-648bd829",
+      "title": "バロー・ヤオコー・ロピア　成長チェーンのスイーツ戦略を専門家が現地調査！",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552478/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": [
+        "ヤオコー",
+        "ロピア"
+      ]
+    },
+    {
+      "id": "diamond-d7bdfb80",
+      "title": "めざすは「3年で売上倍増」セブン-イレブンがスイーツ強化に本腰のねらい",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552477/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": [
+        "セブン-イレブン"
+      ]
+    },
+    {
+      "id": "diamond-f2f30d0b",
+      "title": "ローカライズ×ストーリー性で独自化を徹底！ 宮城・ウジエスーパーのスイーツ開発の”思想”",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552476/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": [
+        "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-de200eb9",
+      "title": "「真面目シュークリーム」が大ヒット！千葉ローカル・ランドロームの尖ったスイーツ戦略",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552475/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "id": "diamond-3491172e",
+      "title": "スピードはどこにも負けない!?　平和堂の高速＆緻密なスイーツ開発力の全容",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552474/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "id": "ssnp-e394fd3b",
+      "title": "はま寿司、110円「国産 生さば」発売　本鮪ほほ肉・富山県産漬けほたるいかも『旨ねた夏祭り 第2弾』\n\t\t\t\t\t\t\t\t\t\t\t\t寿司チェーン「はま寿司」は7月28日から、全国678店舗で「はま寿司の旨ねた夏祭り 第2弾」を開催する。 フェアでは、「国産 生さば」（1貫110円、税込、以下同）、「富山県産 漬けほたるいか」（2貫176円）、「地中海...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/694572/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "id": "ssnp-14b6c8d3",
+      "title": "【不二製油】本格的なカカオ感と使いやすさを両立した「ソワイユショコラ」発売\n\t\t\t\t\t\t\t\t\t\t\t\t不二製油は22日、本格的なカカオ感と、冷蔵庫から取り出してすぐに加工できる扱いやすさを両立した柔らかいチョコレート「ソワイユショコラ」を業務用で26年内に発売すると発表した。溶解･テンパリング工程を必要とせず、製造現場の...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/soy/694568/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "大豆",
+      "date": "2026-07-27",
+      "tags": [
+        "チョコレート"
+      ]
+    },
+    {
+      "id": "ssnp-8f30b719",
+      "title": "〈シグナル〉気候変動と細やかな対応",
+      "url": "https://www.ssnp.co.jp/signal/694529/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "signal",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
       "id": "ssnp-d571ee51",
-      "title": "ローソン『夏のいちごスイーツ』2週連続発売、「もち食感ロール」「ぷるジュレいちごクレープ」など全4品\n\t\t\t\t\t\t\t\t\t\t\t\tローソンは7月28日と8月4日の2週連続で、全国の店舗において「夏のいちごスイーツ」各2品を発売する。 ラインアップは、ローソンのスイーツブランド「Uchi Café」シリーズから、「わらび餅で巻いたもち食感ロール（いち...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ローソン『夏のいちごスイーツ』2週連続発売、「もち食感ロール」「ぷるジュレいちごクレープ」など全4品\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/694499/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -25,6 +273,16 @@
       "tags": [
         "ローソン"
       ]
+    },
+    {
+      "id": "ssnp-618e4c9c",
+      "title": "『ぽこ あ ポケモン』とコラボ!メタモンをイメージしたケーキなど【銀座コージーコーナー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/694511/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-07-25",
+      "tags": []
     },
     {
       "id": "diamond-b36ece3e",
@@ -39,15 +297,30 @@
       ]
     },
     {
-      "id": "ssnp-618e4c9c",
-      "title": "『ぽこ あ ポケモン』とコラボ!メタモンをイメージしたケーキなど【銀座コージーコーナー】\n\t\t\t\t\t\t\t\t\t\t\t\t銀座コージーコーナーは、2026年7月31日から全国の店舗でプチケーキアソート「『ぽこ あ ポケモン』コレクション(9個入)」「『ぽこ あ ポケモン』メタモンケーキ」※1と、焼菓子ギフト「ポケモン イーブイフレンズBOX...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/694511/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-07-25",
+      "id": "ryutsuu-63916122",
+      "title": "カスミ／生鮮・デリカを強化「ブランデ塩浜店」オープン、目標年商30億円",
+      "url": "https://www.ryutsuu.biz/report/s072413.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-07-24",
       "tags": [
-        "菓子"
+        "注目",
+        "オープン",
+        "カスミ",
+        "生鮮"
+      ]
+    },
+    {
+      "id": "ryutsuu-d70adfb1",
+      "title": "セブン＆アイ／北米事業「7-Eleven, Inc.」新CEOにマウリシオ・レイバ氏を選任",
+      "url": "https://www.ryutsuu.biz/strategy/s072441.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-07-24",
+      "tags": [
+        "セブン＆アイ"
       ]
     },
     {
@@ -154,45 +427,6 @@
       ]
     },
     {
-      "id": "ryutsuu-9d50b94d",
-      "title": "日本百貨店協会／6月の売上高2.3％増、インバウンド29.8％増・国内顧客0.2％減",
-      "url": "https://www.ryutsuu.biz/sales/s072447.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-07-24",
-      "tags": [
-        "インバウンド",
-        "百貨店",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-916714df",
-      "title": "日本百貨店協会／6月の外国人売上29.8％増、客数0.5％減・客単価30.4％増",
-      "url": "https://www.ryutsuu.biz/sales/s072448.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-07-24",
-      "tags": [
-        "百貨店"
-      ]
-    },
-    {
-      "id": "ryutsuu-6b41b31a",
-      "title": "コスモス薬品／宮崎県・福岡県に「ドラッグコスモス」計2店舗、27年2月新設",
-      "url": "https://www.ryutsuu.biz/store/s0724013.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-24",
-      "tags": [
-        "コスモス薬品",
-        "ドラッグ"
-      ]
-    },
-    {
       "id": "ryutsuu-57e33058",
       "title": "松屋フーズ／アリババの越境EC「AliExpress」に出店、新たな客層にアプローチ",
       "url": "https://www.ryutsuu.biz/ec/s072449.html",
@@ -220,51 +454,6 @@
         "オープン",
         "ロピア"
       ]
-    },
-    {
-      "id": "diamond-89b293ed",
-      "title": "バーガーキング復活の立役者が語る、経営改革の道筋とこれからの展望",
-      "url": "https://diamond-rm.net/management/549426/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-24",
-      "tags": []
-    },
-    {
-      "id": "diamond-c6aa6666",
-      "title": "イオン北海道が新中期経営計画を発表　「3つの改革」で2030年度売上高4400億円へ",
-      "url": "https://diamond-rm.net/management/businessplan/552635/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-24",
-      "tags": [
-        "イオン",
-        "売上高"
-      ]
-    },
-    {
-      "id": "diamond-dd252364",
-      "title": "第145回 「新リース会計基準」がテナントの出店判断と会計処理にもたらす変化とは",
-      "url": "https://diamond-rm.net/management/549404/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-24",
-      "tags": [
-        "出店"
-      ]
-    },
-    {
-      "id": "diamond-6ff99623",
-      "title": "第１４１回　渡邉恒雄回顧録（７）",
-      "url": "https://diamond-rm.net/life-career/542211/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-24",
-      "tags": []
     },
     {
       "id": "diamond-f6f2fb2b",
@@ -507,6 +696,90 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-9d50b94d",
+      "title": "日本百貨店協会／6月の売上高2.3％増、インバウンド29.8％増・国内顧客0.2％減",
+      "url": "https://www.ryutsuu.biz/sales/s072447.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-07-24",
+      "tags": [
+        "インバウンド",
+        "百貨店",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-916714df",
+      "title": "日本百貨店協会／6月の外国人売上29.8％増、客数0.5％減・客単価30.4％増",
+      "url": "https://www.ryutsuu.biz/sales/s072448.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-07-24",
+      "tags": [
+        "百貨店"
+      ]
+    },
+    {
+      "id": "ryutsuu-6b41b31a",
+      "title": "コスモス薬品／宮崎県・福岡県に「ドラッグコスモス」計2店舗、27年2月新設",
+      "url": "https://www.ryutsuu.biz/store/s0724013.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-24",
+      "tags": [
+        "コスモス薬品",
+        "ドラッグ"
+      ]
+    },
+    {
+      "id": "diamond-89b293ed",
+      "title": "バーガーキング復活の立役者が語る、経営改革の道筋とこれからの展望",
+      "url": "https://diamond-rm.net/management/549426/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-24",
+      "tags": []
+    },
+    {
+      "id": "diamond-c6aa6666",
+      "title": "イオン北海道が新中期経営計画を発表　「3つの改革」で2030年度売上高4400億円へ",
+      "url": "https://diamond-rm.net/management/businessplan/552635/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-24",
+      "tags": [
+        "イオン",
+        "売上高"
+      ]
+    },
+    {
+      "id": "diamond-dd252364",
+      "title": "第145回 「新リース会計基準」がテナントの出店判断と会計処理にもたらす変化とは",
+      "url": "https://diamond-rm.net/management/549404/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-24",
+      "tags": [
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-6ff99623",
+      "title": "第１４１回　渡邉恒雄回顧録（７）",
+      "url": "https://diamond-rm.net/life-career/542211/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-07-24",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-534ce4c9",
       "title": "ベイシア／茨城「Beisia Foods Park 日立店」7月24日オープン、青果・総菜など強化",
       "url": "https://www.ryutsuu.biz/store/s072376.html",
@@ -518,6 +791,19 @@
         "ベイシア",
         "オープン",
         "青果"
+      ]
+    },
+    {
+      "id": "ryutsuu-33a78439",
+      "title": "ローソンストア100／小栗知義社長インタビュー",
+      "url": "https://www.ryutsuu.biz/column/r20250723001.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "column",
+      "date": "2026-07-23",
+      "tags": [
+        "ローソン",
+        "社長"
       ]
     },
     {
@@ -533,19 +819,6 @@
         "営業利益",
         "イオン",
         "売上高",
-        "社長"
-      ]
-    },
-    {
-      "id": "ryutsuu-33a78439",
-      "title": "ローソンストア100／小栗知義社長インタビュー",
-      "url": "https://www.ryutsuu.biz/column/r20250723001.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "column",
-      "date": "2026-07-23",
-      "tags": [
-        "ローソン",
         "社長"
       ]
     },
@@ -610,6 +883,18 @@
       ]
     },
     {
+      "id": "diamond-8666a7f0",
+      "title": "小売業の人手不足待ったなし_辞めない・強い組織の作り方【PART1】",
+      "url": "https://diamond-rm.net/management/topinterview/549916/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-23",
+      "tags": [
+        "人手不足"
+      ]
+    },
+    {
       "id": "diamond-97997bbb",
       "title": "アンダー300坪で年商目標22億円超！サミット新店「月島3丁目店」の売場を速報",
       "url": "https://diamond-rm.net/store/552586/",
@@ -623,41 +908,19 @@
       ]
     },
     {
-      "id": "diamond-9cc78ff1",
-      "title": "3000店を超えたUber Eats「ピック・パック・ペイ」の魅力",
-      "url": "https://diamond-rm.net/promotion/pr/549990/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-07-23",
-      "tags": []
-    },
-    {
-      "id": "diamond-8666a7f0",
-      "title": "小売業の人手不足待ったなし_辞めない・強い組織の作り方【PART1】",
-      "url": "https://diamond-rm.net/management/topinterview/549916/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-23",
-      "tags": [
-        "人手不足"
-      ]
-    },
-    {
-      "id": "diamond-5fa173c6",
-      "title": "第１４０回　渡邉恒雄回顧録（６）",
-      "url": "https://diamond-rm.net/life-career/542210/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-23",
-      "tags": []
-    },
-    {
       "id": "diamond-c10cd3fb",
       "title": "作業服のだいまつ　「次はそうきたか」 予想の斜め上を超えるチャレンジ",
       "url": "https://diamond-rm.net/store/storevisit/551913/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-23",
+      "tags": []
+    },
+    {
+      "id": "diamond-3ce42854",
+      "title": "1000店目前！「セカンドストリート」が始めた都市部への多店舗化戦略とは",
+      "url": "https://diamond-rm.net/store/550837/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "店舗",
@@ -678,12 +941,12 @@
       ]
     },
     {
-      "id": "diamond-3ce42854",
-      "title": "1000店目前！「セカンドストリート」が始めた都市部への多店舗化戦略とは",
-      "url": "https://diamond-rm.net/store/550837/",
+      "id": "diamond-9cc78ff1",
+      "title": "3000店を超えたUber Eats「ピック・パック・ペイ」の魅力",
+      "url": "https://diamond-rm.net/promotion/pr/549990/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "店舗",
+      "category": "promotion",
       "date": "2026-07-23",
       "tags": []
     },
@@ -843,6 +1106,16 @@
       ]
     },
     {
+      "id": "diamond-5fa173c6",
+      "title": "第１４０回　渡邉恒雄回顧録（６）",
+      "url": "https://diamond-rm.net/life-career/542210/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-07-23",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-912814ae",
       "title": "GINZA SIX／今秋、ビューティーフロアを中心にリニューアル",
       "url": "https://www.ryutsuu.biz/store/s072312.html",
@@ -971,20 +1244,6 @@
       "category": "店舗",
       "date": "2026-07-22",
       "tags": []
-    },
-    {
-      "id": "diamond-03f30634",
-      "title": "オークワ、大阪・阪南のGMSを23年ぶりに大改装　全面刷新した食品売場をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/552129/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-22",
-      "tags": [
-        "GMS",
-        "食品",
-        "改装"
-      ]
     },
     {
       "id": "diamond-c565f2d5",
@@ -1202,6 +1461,20 @@
       "tags": []
     },
     {
+      "id": "diamond-03f30634",
+      "title": "オークワ、大阪・阪南のGMSを23年ぶりに大改装　全面刷新した食品売場をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/552129/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-22",
+      "tags": [
+        "GMS",
+        "食品",
+        "改装"
+      ]
+    },
+    {
       "id": "ryutsuu-650520e7",
       "title": "ケンタッキー／システム障害から復旧、7月22日から全店舗で通常営業を再開",
       "url": "https://www.ryutsuu.biz/it/s072343.html",
@@ -1367,20 +1640,6 @@
       ]
     },
     {
-      "id": "ryutsuu-db7c3664",
-      "title": "三菱食品／草加FSDCにIHI物流産業システムとExotec Nihonの物流システム導入",
-      "url": "https://www.ryutsuu.biz/strategy/s072114.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-07-21",
-      "tags": [
-        "EC",
-        "物流",
-        "食品"
-      ]
-    },
-    {
       "id": "ryutsuu-83c7612a",
       "title": "水 売上ランキング／4～6月はサントリー「天然水 南アルプス」が1・2位に",
       "url": "https://www.ryutsuu.biz/pos/s071848.html",
@@ -1496,6 +1755,20 @@
       "category": "冷凍食品",
       "date": "2026-07-21",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-db7c3664",
+      "title": "三菱食品／草加FSDCにIHI物流産業システムとExotec Nihonの物流システム導入",
+      "url": "https://www.ryutsuu.biz/strategy/s072114.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-07-21",
+      "tags": [
+        "EC",
+        "物流",
+        "食品"
+      ]
     },
     {
       "id": "ryutsuu-39498e57",
@@ -2256,53 +2529,6 @@
       ]
     },
     {
-      "id": "diamond-b979d25e",
-      "title": "ドラッグストアの「リピート率」ランキング、消費の二極化で24カテゴリーが上昇",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/550443/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-16",
-      "tags": [
-        "ドラッグストア",
-        "ドラッグ"
-      ]
-    },
-    {
-      "id": "diamond-37a95cf8",
-      "title": "即食・簡便から本格調理、デザートまで！多様化する利用シーンに応える韓国食品売場を活性化",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/550684/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-16",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-0f0d422c",
-      "title": "ダイマツ　松井社長が語るインダストリアル事業の成長戦略",
-      "url": "https://diamond-rm.net/management/topinterview/551393/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-16",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-1ac000e2",
-      "title": "「タイパ」の時代に、売り手が意識すべきこととは",
-      "url": "https://diamond-rm.net/sales-promotion/550316/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-16",
-      "tags": []
-    },
-    {
       "id": "ssnp-0193ce4a",
       "title": "丸亀製麺、夏限定「冷たーい旨塩うどん」今年も登場　昆布×ホタテの“旨塩だし”進化、新作2品も発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/693580/",
@@ -2378,6 +2604,53 @@
         "海外展開",
         "食品"
       ]
+    },
+    {
+      "id": "diamond-b979d25e",
+      "title": "ドラッグストアの「リピート率」ランキング、消費の二極化で24カテゴリーが上昇",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/550443/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-16",
+      "tags": [
+        "ドラッグストア",
+        "ドラッグ"
+      ]
+    },
+    {
+      "id": "diamond-37a95cf8",
+      "title": "即食・簡便から本格調理、デザートまで！多様化する利用シーンに応える韓国食品売場を活性化",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/550684/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-16",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-0f0d422c",
+      "title": "ダイマツ　松井社長が語るインダストリアル事業の成長戦略",
+      "url": "https://diamond-rm.net/management/topinterview/551393/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-07-16",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-1ac000e2",
+      "title": "「タイパ」の時代に、売り手が意識すべきこととは",
+      "url": "https://diamond-rm.net/sales-promotion/550316/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-16",
+      "tags": []
     },
     {
       "id": "diamond-21b1e585",
@@ -3235,288 +3508,6 @@
       "category": "foodservice",
       "date": "2026-07-14",
       "tags": []
-    },
-    {
-      "id": "ssnp-48cf2aa3",
-      "title": "【フレッシュネスバーガー】「作りたてスコーンサンド」の新商品「パイン&クリームチーズ」を発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/693254/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-7d0614df",
-      "title": "モスバーガー、新作「アボカド タコスバーガー」発売　昨夏300万食の人気シリーズ強化、ブラックアンガスバーガーも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/693245/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-14",
-      "tags": [
-        "モスバーガー"
-      ]
-    },
-    {
-      "id": "ryutsuu-e4b56321",
-      "title": "加工食品 売上ランキング／6月はUmios「あおり炒めの焼豚炒飯」が1位",
-      "url": "https://www.ryutsuu.biz/pos/s071441.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-07-14",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-75aededa",
-      "title": "【特別レポート】イオントップバリュが導入。商品情報を一本化した企業が強い理由",
-      "url": "https://diamond-rm.net/promotion/pr/549700/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-07-14",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
-      "id": "ryutsuu-1925c06c",
-      "title": "ジーユー／「GU」2026年秋冬新商品、元マルニのリッソ氏就任後初のコレクション",
-      "url": "https://www.ryutsuu.biz/commodity/s071443.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-07-14",
-      "tags": [
-        "注目"
-      ]
-    },
-    {
-      "id": "ryutsuu-549418c3",
-      "title": "ユニクロ／2026秋冬の新コレクション「ラウンジ＆インナーウェア」若年層から支持",
-      "url": "https://www.ryutsuu.biz/commodity/s071442.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-07-14",
-      "tags": [
-        "ユニクロ"
-      ]
-    },
-    {
-      "id": "diamond-7ff96a04",
-      "title": "ローソン、初のオフィス向けデリバリーの実証実験開始【週刊コンビニエンスストアニュース】",
-      "url": "https://diamond-rm.net/management/551607/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-14",
-      "tags": [
-        "ローソン",
-        "コンビニ"
-      ]
-    },
-    {
-      "id": "diamond-cab5a095",
-      "title": "初の旗艦店「FAMIMA PARK AZABUDAI」が提供する新しい“コンビニ体験”とは",
-      "url": "https://diamond-rm.net/management/businessplan/551521/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-14",
-      "tags": [
-        "コンビニ",
-        "AI"
-      ]
-    },
-    {
-      "id": "diamond-f781b1c7",
-      "title": "ユニクロ世界2位のその先へ、王者ZARAを追い詰める「GU1兆円シフト」の全貌",
-      "url": "https://diamond-rm.net/management/businessplan/551509/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-14",
-      "tags": [
-        "ユニクロ"
-      ]
-    },
-    {
-      "id": "ryutsuu-5c7e0e0a",
-      "title": "F＆LC／海外事業300店舗を達成、今秋には米国にスシロー初出店",
-      "url": "https://www.ryutsuu.biz/abroad/s071481.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "abroad",
-      "date": "2026-07-14",
-      "tags": [
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-02a37d4e",
-      "title": "ビックカメラ 決算／9～5月営業利益35.8％増、東南アジア・北米等の訪日外国人客増",
-      "url": "https://www.ryutsuu.biz/accounts/s071480.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-07-14",
-      "tags": [
-        "ビックカメラ",
-        "営業利益",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-0f60af9e",
-      "title": "イズミ 決算／3～5月増収増益、新規SMモデル店が好調",
-      "url": "https://www.ryutsuu.biz/accounts/s071412.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-07-14",
-      "tags": [
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-e239ca89",
-      "title": "サイゼリヤ／山口県「おのだサンパーク」に新店舗9月下旬オープン",
-      "url": "https://www.ryutsuu.biz/store/s071472.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-14",
-      "tags": [
-        "サイゼリヤ",
-        "オープン",
-        "新店"
-      ]
-    },
-    {
-      "id": "ryutsuu-a0e9efb8",
-      "title": "串カツ田中／広島市中区に「広島橋本町店」オープン、県内4店舗目",
-      "url": "https://www.ryutsuu.biz/store/s071478.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-14",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-fe4de967",
-      "title": "クスリのアオキ／新潟県・埼玉県・千葉県に計3店舗、27年1～2月新設",
-      "url": "https://www.ryutsuu.biz/store/s0714013.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-14",
-      "tags": [
-        "クスリのアオキ"
-      ]
-    },
-    {
-      "id": "ryutsuu-d1cff310",
-      "title": "クリエイト・レストランツHD 決算／3～5月増収増益、既存店売上高2.8％増",
-      "url": "https://www.ryutsuu.biz/accounts/s071413.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-07-14",
-      "tags": [
-        "売上高",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-4ce8dc03",
-      "title": "ライフ／6月総売上高は722億円、既存店売上高0.4％減",
-      "url": "https://www.ryutsuu.biz/sales/s071476.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-07-14",
-      "tags": [
-        "ライフ",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-fc09cc41",
-      "title": "バロー／6月の既存店売上高0.9％減、客数2.5％減",
-      "url": "https://www.ryutsuu.biz/sales/s071471.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-07-14",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
-      "id": "diamond-55b8e8e9",
-      "title": "第１３３回　それでも、先輩は先輩",
-      "url": "https://diamond-rm.net/life-career/542203/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-af34e3fd",
-      "title": "「はま寿司の旨ねた夏祭り」開催、「三陸産 大切り銀鮭」「大切りびんちょうまぐろ大とろ」など4品を税込110円で提供\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/693226/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-13",
-      "tags": []
-    },
-    {
-      "id": "ssnp-ed69a81c",
-      "title": "味の素冷食、生活防衛対応からプチ贅沢対応までラインナップを拡充/家庭用では主要カテゴリーで6品の新製品、最注力は名店監修〈黄金炒飯〉\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/frozen/693215/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "冷凍食品",
-      "date": "2026-07-13",
-      "tags": [
-        "冷食"
-      ]
-    },
-    {
-      "id": "ssnp-5af6314e",
-      "title": "ニチレイフーズ26年秋季新商品、業務用冷食は新商品17品･改良品21品/加工度のグラデーション･新価値･市場対応の3つのコンセプトで開発\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/frozen/693204/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "冷凍食品",
-      "date": "2026-07-13",
-      "tags": [
-        "冷食"
-      ]
-    },
-    {
-      "id": "ssnp-2ee892ee",
-      "title": "最高等級モカ豆100%使用「プレミアムモカ」発売　“スペシャルティコーヒー体験”をコンビニで【ファミマ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/693180/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-07-13",
-      "tags": [
-        "コンビニ"
-      ]
     }
   ]
 }
