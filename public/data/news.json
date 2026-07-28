@@ -1,6 +1,43 @@
 {
-  "lastUpdated": "2026-07-28T13:49:31.791Z",
+  "lastUpdated": "2026-07-28T19:14:29.486Z",
   "items": [
+    {
+      "id": "ryutsuu-9285fc74",
+      "title": "ホットランド／「銀だこハイボール酒場 E・ZO店」7月29日オープン、限定メニューも用意",
+      "url": "https://www.ryutsuu.biz/store/s072871.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-29",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-399ec105",
+      "title": "リゾーム／「商業施設＆専門店の今！飲食業種編」セミナー7月29日開催",
+      "url": "https://www.ryutsuu.biz/seminar/s071379.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "seminar",
+      "date": "2026-07-29",
+      "tags": [
+        "PR",
+        "専門店"
+      ]
+    },
+    {
+      "id": "diamond-8f23e37a",
+      "title": "ドラモリ・コスモス・ダイレックス⋯⋯九州勢の新規出店続々【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/553071/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-29",
+      "tags": [
+        "出店"
+      ]
+    },
     {
       "id": "ryutsuu-bfe05d56",
       "title": "ゲンキー 決算／6月期増収増益、生鮮食品の価格訴求が奏功",
@@ -494,19 +531,6 @@
       ]
     },
     {
-      "id": "diamond-648bd829",
-      "title": "バロー・ヤオコー・ロピア　成長チェーンのスイーツ戦略を専門家が現地調査！",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552478/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-27",
-      "tags": [
-        "ヤオコー",
-        "ロピア"
-      ]
-    },
-    {
       "id": "diamond-ce5e0fac",
       "title": "ローソン、食欲をそそる「肉×にんにくフェア」を実施【週刊コンビニエンスストアニュース】",
       "url": "https://diamond-rm.net/management/552885/",
@@ -588,15 +612,16 @@
       ]
     },
     {
-      "id": "diamond-8afdfbd3",
-      "title": "業態別統計データ 2026年 百貨店",
-      "url": "https://diamond-rm.net/retaildata/538321/",
+      "id": "diamond-648bd829",
+      "title": "バロー・ヤオコー・ロピア　成長チェーンのスイーツ戦略を専門家が現地調査！",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552478/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "retaildata",
+      "category": "sales-promotion",
       "date": "2026-07-27",
       "tags": [
-        "百貨店"
+        "ヤオコー",
+        "ロピア"
       ]
     },
     {
@@ -670,6 +695,18 @@
       "category": "sales-promotion",
       "date": "2026-07-27",
       "tags": []
+    },
+    {
+      "id": "diamond-8afdfbd3",
+      "title": "業態別統計データ 2026年 百貨店",
+      "url": "https://diamond-rm.net/retaildata/538321/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-07-27",
+      "tags": [
+        "百貨店"
+      ]
     },
     {
       "id": "diamond-f5de3430",
@@ -1683,16 +1720,6 @@
       ]
     },
     {
-      "id": "diamond-c10cd3fb",
-      "title": "作業服のだいまつ　「次はそうきたか」 予想の斜め上を超えるチャレンジ",
-      "url": "https://diamond-rm.net/store/storevisit/551913/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-23",
-      "tags": []
-    },
-    {
       "id": "diamond-89ed9182",
       "title": "第2回ファッションEC「ザランド」を再成長に導いたBtoBプラットフォーム戦略（前編）",
       "url": "https://diamond-rm.net/technology/ai/551085/",
@@ -1869,6 +1896,16 @@
       "tags": [
         "飲料"
       ]
+    },
+    {
+      "id": "diamond-c10cd3fb",
+      "title": "作業服のだいまつ　「次はそうきたか」 予想の斜め上を超えるチャレンジ",
+      "url": "https://diamond-rm.net/store/storevisit/551913/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-23",
+      "tags": []
     },
     {
       "id": "diamond-3ce42854",
@@ -3440,42 +3477,6 @@
         "ロピア",
         "百貨店",
         "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-b099929a",
-      "title": "アイスクリーム 売上ランキング／6月は森永乳業「PARM チョコレート」4カ月連続1位",
-      "url": "https://www.ryutsuu.biz/pos/s071643.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-07-16",
-      "tags": [
-        "チョコレート"
-      ]
-    },
-    {
-      "id": "diamond-1a009886",
-      "title": "【動画】7月2週目の注目ニュースまとめ、新店や新規事業など",
-      "url": "https://diamond-rm.net/management/businessplan/551650/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-07-16",
-      "tags": [
-        "新店"
-      ]
-    },
-    {
-      "id": "diamond-4f8210c7",
-      "title": "高質フォーマットに改装！ 「阪急オアシスマルシェ豊中駅前店」の売場を徹底解説",
-      "url": "https://diamond-rm.net/store/newstorereport/551547/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-16",
-      "tags": [
-        "改装"
       ]
     }
   ]
