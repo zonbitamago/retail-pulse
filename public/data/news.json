@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T08:28:49.036Z",
+  "lastUpdated": "2026-07-29T13:54:27.311Z",
   "items": [
     {
       "id": "ryutsuu-cd2521a7",
@@ -11,19 +11,6 @@
       "date": "2026-07-29",
       "tags": [
         "イオン"
-      ]
-    },
-    {
-      "id": "ryutsuu-b70e5447",
-      "title": "ルクア、ルクア イーレ／2年かけて段階的にリニューアル、今秋には新規19店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s072976.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-29",
-      "tags": [
-        "リニューアル",
-        "オープン"
       ]
     },
     {
@@ -137,6 +124,19 @@
       ]
     },
     {
+      "id": "ryutsuu-b70e5447",
+      "title": "ルクア、ルクア イーレ／2年かけて段階的にリニューアル、今秋には新規19店舗オープン",
+      "url": "https://www.ryutsuu.biz/store/s072976.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-29",
+      "tags": [
+        "リニューアル",
+        "オープン"
+      ]
+    },
+    {
       "id": "ryutsuu-d41c41cd",
       "title": "ダイレックス／鳥取県・愛媛県に計2店舗、27年2～3月新設",
       "url": "https://www.ryutsuu.biz/store/s0729011.html",
@@ -173,7 +173,7 @@
     },
     {
       "id": "diamond-5112f99e",
-      "title": "【令和8年熊本地震】食品小売各社の被害・営業状況まとめ（29日14時更新）",
+      "title": "【令和8年熊本地震】食品小売各社の被害・営業状況まとめ（29日18時更新）",
       "url": "https://diamond-rm.net/management/supply-chain/553139/",
       "source": "diamond-chain",
       "sourceName": "DCS",
@@ -231,8 +231,79 @@
       "tags": []
     },
     {
+      "id": "ssnp-5e1059e5",
+      "title": "【令和8年熊本地震】被災21市町村で食品表示を弾力運用、食料の円滑供給へ/農水省など3省庁\n\t\t\t\t\t\t\t\t\t\t\t\t農林水産省は7月29日、消費者庁、厚生労働省と連名で、「令和8年熊本地震」の被災地における食品表示基準の弾力的な運用を関係機関に通知した。災害救助法が適用された熊本県内の21市町村への食料供給を円滑にするため、一定の条件...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/etc/695359/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "etc",
+      "date": "2026-07-29",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "ssnp-048cb2aa",
+      "title": "【冷凍麺特集】日清製粉ウェルナ、家庭用冷凍パスタは堅調に推移　今春は「青の洞窟」シリーズで新商品投入\n\t\t\t\t\t\t\t\t\t\t\t\t日清製粉ウェルナは今春、ロングセラーブランド「青の洞窟」の全面リブランディングを実施。冷凍食品では「青の洞窟 Piccolino」シリーズ2品を新発売しており、販売･配荷ともに順調に推移しているという。成長事業開発部ディ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/frozen/695353/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "冷凍食品",
+      "date": "2026-07-29",
+      "tags": [
+        "冷凍食品",
+        "食品"
+      ]
+    },
+    {
+      "id": "ssnp-cef5b321",
+      "title": "業界初「ガチャガチャ付き自販機」導入 親子との新たな接点創出へ、「ムテキッズ」認知拡大狙う/キリンビバレッジ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/695341/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-07-29",
+      "tags": []
+    },
+    {
+      "id": "ssnp-e10566f1",
+      "title": "【令和8年熊本地震】外食チェーン営業状況　すき家、マクドナルド、吉野家など一部店舗が休止\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/695345/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-07-29",
+      "tags": [
+        "マクドナルド",
+        "吉野家",
+        "外食"
+      ]
+    },
+    {
+      "id": "ssnp-d36c1fd3",
+      "title": "【令和8年熊本地震】製粉や小麦粉流通･加工品、米穀業界の状況\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/rice/695335/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "米",
+      "date": "2026-07-29",
+      "tags": []
+    },
+    {
+      "id": "ssnp-1dec30d8",
+      "title": "カバヤ食品、「令和8年熊本地震」で支援物資　「塩分チャージタブレッツ」2万4000袋を提供へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/695330/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-07-29",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
       "id": "ssnp-fceb3223",
-      "title": "サッポロビール九州日田工場が製造再開　熊本酒造組合「大きな被害なし」、瑞鷹は製品や資材が一部損傷\n\t\t\t\t\t\t\t\t\t\t\t\t28日に発生した令和8年熊本地震で、サントリー九州熊本工場(熊本県上益城郡嘉島町)は、操業を停止している。被害状況は建屋等に一部損傷が見られるが、詳細については確認中。工場見学は、場内の安全確認が必要なため休業としている...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "サッポロビール九州日田工場が製造再開　熊本酒造組合「大きな被害なし」、瑞鷹は製品や資材が一部損傷\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/liquor/695323/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -244,15 +315,13 @@
     },
     {
       "id": "ssnp-35b623c2",
-      "title": "ミンティア初「とろみ食感」のフルーツタブレット発売　『まるでとろっとマンゴー』『まるでとろっとラ・フランス』登場\n\t\t\t\t\t\t\t\t\t\t\t\tアサヒグループ食品は9月7日、「ミンティア」レギュラーシリーズから、ブランド初となる果実のとろみ食感を再現したフルーツタブレット「ミンティア まるでとろっとマンゴー」「ミンティア まるでとろっとラ・フランス」を全国で発売...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ミンティア初「とろみ食感」のフルーツタブレット発売　『まるでとろっとマンゴー』『まるでとろっとラ・フランス』登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/695303/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
       "date": "2026-07-29",
-      "tags": [
-        "食品"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-3e071213",
@@ -939,6 +1008,26 @@
       ]
     },
     {
+      "id": "diamond-3491172e",
+      "title": "スピードはどこにも負けない!?　平和堂の高速＆緻密なスイーツ開発力の全容",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552474/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "id": "diamond-de200eb9",
+      "title": "「真面目シュークリーム」が大ヒット！千葉ローカル・ランドロームの尖ったスイーツ戦略",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552475/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
       "id": "diamond-f2f30d0b",
       "title": "ローカライズ×ストーリー性で独自化を徹底！ 宮城・ウジエスーパーのスイーツ開発の”思想”",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/552476/",
@@ -948,30 +1037,6 @@
       "date": "2026-07-27",
       "tags": [
         "スーパー"
-      ]
-    },
-    {
-      "id": "diamond-d7bdfb80",
-      "title": "めざすは「3年で売上倍増」セブン-イレブンがスイーツ強化に本腰のねらい",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552477/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-27",
-      "tags": [
-        "セブン-イレブン"
-      ]
-    },
-    {
-      "id": "diamond-15b70612",
-      "title": "世界的パティシエ・辻口シェフが食品小売の「スイーツブーム」に思うこととは",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552483/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-27",
-      "tags": [
-        "食品"
       ]
     },
     {
@@ -1047,6 +1112,18 @@
         "食品スーパー",
         "スーパー",
         "イオン",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-15b70612",
+      "title": "世界的パティシエ・辻口シェフが食品小売の「スイーツブーム」に思うこととは",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552483/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": [
         "食品"
       ]
     },
@@ -1364,6 +1441,18 @@
       "tags": []
     },
     {
+      "id": "diamond-d7bdfb80",
+      "title": "めざすは「3年で売上倍増」セブン-イレブンがスイーツ強化に本腰のねらい",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552477/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": [
+        "セブン-イレブン"
+      ]
+    },
+    {
       "id": "ryutsuu-445dbfd9",
       "title": "名古屋パルコ／西館地下1階を今秋刷新、プラザやパパブブレなどのショップが集結",
       "url": "https://www.ryutsuu.biz/store/s072745.html",
@@ -1447,16 +1536,6 @@
       ]
     },
     {
-      "id": "diamond-de200eb9",
-      "title": "「真面目シュークリーム」が大ヒット！千葉ローカル・ランドロームの尖ったスイーツ戦略",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552475/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-27",
-      "tags": []
-    },
-    {
       "id": "ryutsuu-dcb7b655",
       "title": "綿半／長野県「綿半スーパーセンター上田店」内に「ワールドマーケット」オープン",
       "url": "https://www.ryutsuu.biz/store/s072742.html",
@@ -1492,16 +1571,6 @@
       "tags": [
         "トライアル"
       ]
-    },
-    {
-      "id": "diamond-3491172e",
-      "title": "スピードはどこにも負けない!?　平和堂の高速＆緻密なスイーツ開発力の全容",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552474/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-27",
-      "tags": []
     },
     {
       "id": "diamond-f2dd559d",
@@ -3398,75 +3467,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
-      "date": "2026-07-17",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e885737b",
-      "title": "セブンイレブン、映画ちいかわとコラボ/作中のメニューをイメージ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/693762/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-07-17",
-      "tags": [
-        "セブンイレブン"
-      ]
-    },
-    {
-      "id": "ssnp-ac26af96",
-      "title": "カンロ、渋谷で「あめとグミしかない⁉夏祭り」初開催　限定メニュー3品の販売や体験コンテンツを展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/693750/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-07-17",
-      "tags": []
-    },
-    {
-      "id": "ssnp-13cd533e",
-      "title": "ファミリーマート、初の旗艦店を都内に/“わざわざ行きたくなるコンビニ”を提案\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/693743/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-07-17",
-      "tags": [
-        "ファミリーマート",
-        "コンビニ"
-      ]
-    },
-    {
-      "id": "ssnp-37808693",
-      "title": "「イオン超!ナツ夏祭り」を開催、大幅値引きや増量など実施\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/693738/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-07-17",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
-      "id": "ssnp-05a28a73",
-      "title": "【UHA味覚糖】初のコラボ福袋「スナック福袋」発売　「マーピー」など “かぶりなし”の全31種を詰め合わせ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/693712/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-07-17",
-      "tags": [
-        "スナック"
-      ]
-    },
-    {
-      "id": "ssnp-e695f3a1",
-      "title": "Xの投稿をきっかけに「液体塩こうじ どうやって使うねん協会」を発足【ハナマルキ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/693724/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
       "date": "2026-07-17",
       "tags": []
     }
