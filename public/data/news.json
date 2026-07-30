@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-30T13:44:21.132Z",
+  "lastUpdated": "2026-07-30T19:15:44.146Z",
   "items": [
+    {
+      "id": "ryutsuu-36a36f30",
+      "title": "タリーズコーヒー／東大阪市に初出店「近鉄布施駅店」7月31日オープン",
+      "url": "https://www.ryutsuu.biz/store/s073044.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-31",
+      "tags": [
+        "オープン",
+        "出店"
+      ]
+    },
     {
       "id": "ryutsuu-c06f3749",
       "title": "イズミ／熊本県内19店舗で営業再開、16店舗は営業休止",
@@ -3458,16 +3471,6 @@
         "サミット",
         "売上高"
       ]
-    },
-    {
-      "id": "ryutsuu-83c7612a",
-      "title": "水 売上ランキング／4～6月はサントリー「天然水 南アルプス」が1・2位に",
-      "url": "https://www.ryutsuu.biz/pos/s071848.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-07-21",
-      "tags": []
     }
   ]
 }
