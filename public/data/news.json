@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-07-29T19:04:04.031Z",
+  "lastUpdated": "2026-07-30T01:51:02.810Z",
   "items": [
+    {
+      "id": "ryutsuu-c5142279",
+      "title": "ラーメン・カレー・定食／6月既存店丸亀製麺7.0％減、王将フード6.3％減",
+      "url": "https://www.ryutsuu.biz/sales/s073071.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-07-30",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-d0a25d20",
+      "title": "ローソン／熊本に救援物資送付、本部社員の応援隊派遣も",
+      "url": "https://www.ryutsuu.biz/strategy/s073011.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-07-30",
+      "tags": [
+        "ローソン"
+      ]
+    },
     {
       "id": "ryutsuu-43c30110",
       "title": "レデイ薬局／愛媛県宇和島市に「くすりのレデイ 宇和島南店」7月30日オープン",
@@ -24,6 +46,81 @@
       "tags": [
         "オープン"
       ]
+    },
+    {
+      "id": "diamond-26de4832",
+      "title": "3km圏内に競合店50店舗!?　ヤオコーがさいたま市の超激戦区に”勝負”の新店オープン",
+      "url": "https://diamond-rm.net/store/553258/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-30",
+      "tags": [
+        "ヤオコー",
+        "オープン",
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-7808dc29",
+      "title": "第2回 ファッション業界のAWSへ ザランドの進化を支える野心的なAI戦略（後編）",
+      "url": "https://diamond-rm.net/technology/551094/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-07-30",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-b8a9a360",
+      "title": "【小売・食品・消費財メーカー向け】LINEヤフーの検索データ分析セミナー 〜DS.INSIGHTを実際に操作して市場・顧客を理解〜",
+      "url": "https://diamond-rm.net/seminar/552869/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "seminar",
+      "date": "2026-07-30",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-f358a5ba",
+      "title": "日本アクセス／冷凍食品・朝食・ポスト抹茶など新市場開拓、商品開発をサポート",
+      "url": "https://www.ryutsuu.biz/strategy/s072911.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-07-29",
+      "tags": [
+        "注目",
+        "冷凍食品",
+        "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-d7014f89",
+      "title": "イオンモール熊本／3人の安否が依然不明、爆発事故受けイオンが声明",
+      "url": "https://www.ryutsuu.biz/store/s072950.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-29",
+      "tags": [
+        "イオン",
+        "モール"
+      ]
+    },
+    {
+      "id": "ryutsuu-a426a846",
+      "title": "JR熊本シティ／アミュプラザくまもと・肥後よかモン市などを臨時休業",
+      "url": "https://www.ryutsuu.biz/store/s072951.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-07-29",
+      "tags": []
     },
     {
       "id": "ryutsuu-cd2521a7",
@@ -171,31 +268,6 @@
       "tags": []
     },
     {
-      "id": "ryutsuu-714296d4",
-      "title": "コープデリ／ニチレイのシステム障害が復旧、欠品が解消",
-      "url": "https://www.ryutsuu.biz/it/s072941.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-07-29",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-2a1a1197",
-      "title": "ドラッグストア／6月既存店売上ツルハ1.1％減、コスモス薬品0.6％減",
-      "url": "https://www.ryutsuu.biz/sales/s072971.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-07-29",
-      "tags": [
-        "ドラッグストア",
-        "コスモス薬品",
-        "ドラッグ",
-        "ツルハ"
-      ]
-    },
-    {
       "id": "diamond-5112f99e",
       "title": "【令和8年熊本地震】食品小売各社の被害・営業状況まとめ（29日18時更新）",
       "url": "https://diamond-rm.net/management/supply-chain/553139/",
@@ -223,18 +295,6 @@
       ]
     },
     {
-      "id": "diamond-8f23e37a",
-      "title": "ドラモリ・コスモス・ダイレックス⋯⋯九州勢の新規出店続々【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/553071/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-29",
-      "tags": [
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-750a4228",
       "title": "第１４４回　渡邉恒雄回顧録（１０）",
       "url": "https://diamond-rm.net/life-career/542214/",
@@ -253,6 +313,18 @@
       "category": "life-career",
       "date": "2026-07-29",
       "tags": []
+    },
+    {
+      "id": "diamond-8f23e37a",
+      "title": "ドラモリ・コスモス・ダイレックス⋯⋯九州勢の新規出店続々【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/553071/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-29",
+      "tags": [
+        "出店"
+      ]
     },
     {
       "id": "ssnp-5e1059e5",
@@ -534,6 +606,31 @@
       ]
     },
     {
+      "id": "ryutsuu-714296d4",
+      "title": "コープデリ／ニチレイのシステム障害が復旧、欠品が解消",
+      "url": "https://www.ryutsuu.biz/it/s072941.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-07-29",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-2a1a1197",
+      "title": "ドラッグストア／6月既存店売上ツルハ1.1％減、コスモス薬品0.6％減",
+      "url": "https://www.ryutsuu.biz/sales/s072971.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-07-29",
+      "tags": [
+        "ドラッグストア",
+        "コスモス薬品",
+        "ドラッグ",
+        "ツルハ"
+      ]
+    },
+    {
       "id": "ryutsuu-9285fc74",
       "title": "ホットランド／「銀だこハイボール酒場 E・ZO店」7月29日オープン、限定メニューも用意",
       "url": "https://www.ryutsuu.biz/store/s072871.html",
@@ -556,33 +653,6 @@
       "tags": [
         "PR",
         "専門店"
-      ]
-    },
-    {
-      "id": "ryutsuu-d010d04f",
-      "title": "ヤオコー／さいたま市「ロッテスクエア武蔵浦和店」オープン、初年度売上23億円目標",
-      "url": "https://www.ryutsuu.biz/report/s072873.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-07-28",
-      "tags": [
-        "注目",
-        "ヤオコー",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-dc8d2251",
-      "title": "アース製薬 新商品／飲みやすさ切り口に「みんなのシリカ」スーパーマーケットなど販路拡大",
-      "url": "https://www.ryutsuu.biz/commodity/s072811.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-07-28",
-      "tags": [
-        "注目",
-        "スーパー"
       ]
     },
     {
@@ -844,6 +914,33 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-d010d04f",
+      "title": "ヤオコー／さいたま市「ロッテスクエア武蔵浦和店」オープン、初年度売上23億円目標",
+      "url": "https://www.ryutsuu.biz/report/s072873.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-07-28",
+      "tags": [
+        "注目",
+        "ヤオコー",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-dc8d2251",
+      "title": "アース製薬 新商品／飲みやすさ切り口に「みんなのシリカ」スーパーマーケットなど販路拡大",
+      "url": "https://www.ryutsuu.biz/commodity/s072811.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-07-28",
+      "tags": [
+        "注目",
+        "スーパー"
+      ]
+    },
+    {
       "id": "ryutsuu-bfe05d56",
       "title": "ゲンキー 決算／6月期増収増益、生鮮食品の価格訴求が奏功",
       "url": "https://www.ryutsuu.biz/accounts/s072815.html",
@@ -1052,18 +1149,6 @@
       "tags": []
     },
     {
-      "id": "diamond-f2f30d0b",
-      "title": "ローカライズ×ストーリー性で独自化を徹底！ 宮城・ウジエスーパーのスイーツ開発の”思想”",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552476/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-27",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
       "id": "diamond-ce5e0fac",
       "title": "ローソン、食欲をそそる「肉×にんにくフェア」を実施【週刊コンビニエンスストアニュース】",
       "url": "https://diamond-rm.net/management/552885/",
@@ -1089,16 +1174,6 @@
       ]
     },
     {
-      "id": "diamond-c4ae0e15",
-      "title": "第１４２回　渡邉恒雄回顧録（８）",
-      "url": "https://diamond-rm.net/life-career/542212/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-27",
-      "tags": []
-    },
-    {
       "id": "diamond-648bd829",
       "title": "バロー・ヤオコー・ロピア　成長チェーンのスイーツ戦略を専門家が現地調査！",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/552478/",
@@ -1109,19 +1184,6 @@
       "tags": [
         "ヤオコー",
         "ロピア"
-      ]
-    },
-    {
-      "id": "diamond-d24c38f0",
-      "title": "ダイエー老舗店舗を“若年層に刺さる店”に転換！「イオンスタイル新松戸」の食品売場をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/552546/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-27",
-      "tags": [
-        "イオン",
-        "食品"
       ]
     },
     {
@@ -1463,6 +1525,41 @@
       "category": "signal",
       "date": "2026-07-27",
       "tags": []
+    },
+    {
+      "id": "diamond-f2f30d0b",
+      "title": "ローカライズ×ストーリー性で独自化を徹底！ 宮城・ウジエスーパーのスイーツ開発の”思想”",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552476/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": [
+        "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-c4ae0e15",
+      "title": "第１４２回　渡邉恒雄回顧録（８）",
+      "url": "https://diamond-rm.net/life-career/542212/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "id": "diamond-d24c38f0",
+      "title": "ダイエー老舗店舗を“若年層に刺さる店”に転換！「イオンスタイル新松戸」の食品売場をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/552546/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-07-27",
+      "tags": [
+        "イオン",
+        "食品"
+      ]
     },
     {
       "id": "diamond-d7bdfb80",
@@ -3381,96 +3478,6 @@
       "category": "life-career",
       "date": "2026-07-20",
       "tags": []
-    },
-    {
-      "id": "ssnp-4d9d5bc8",
-      "title": "サントリーＢ＆Ｆトップは理系出身 木村社長が語る成長戦略「数量から逃げない」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/693803/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-07-19",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
-      "id": "ssnp-61771a8f",
-      "title": "ゼッテリア「白桃フェア」開催!白桃のジューシーさと果肉感が味わえる\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/693585/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-19",
-      "tags": []
-    },
-    {
-      "id": "diamond-982ee7ac",
-      "title": "農心ジャパン、「辛ラーメン」の次はもちもち太麺「ノグリ」を若年層に訴求",
-      "url": "https://diamond-rm.net/promotion/pr/550685/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-07-18",
-      "tags": []
-    },
-    {
-      "id": "ssnp-8f2192ac",
-      "title": "夏の風物詩『～いろいろな食べ方で愉しむ～うなぎまぶし定食』新発売、〆は新しくなった“だし”で味わえる【やよい軒】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/693487/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-18",
-      "tags": []
-    },
-    {
-      "id": "diamond-a8bd6771",
-      "title": "流通秀書　第38回『商魂の系譜』",
-      "url": "https://diamond-rm.net/life-career/547305/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-18",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-e56253fa",
-      "title": "ハンズ／「ららぽーと豊洲店」7月18日リニューアル、コスメ・キャラクター雑貨など拡充",
-      "url": "https://www.ryutsuu.biz/store/s071780.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-18",
-      "tags": [
-        "リニューアル",
-        "雑貨"
-      ]
-    },
-    {
-      "id": "diamond-93f19aa8",
-      "title": "楽天＆Roktが「NRF APAC」を総括！　AI活用は「概念」から「実装」のフェーズへ",
-      "url": "https://diamond-rm.net/technology/551109/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-07-17",
-      "tags": [
-        "楽天",
-        "AI"
-      ]
-    },
-    {
-      "id": "diamond-8478614b",
-      "title": "アサヒ「ドデカミン」がリピート率で首位、12成分のエナジー炭酸飲料が浸透",
-      "url": "https://diamond-rm.net/promotion/pr/550447/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-07-17",
-      "tags": [
-        "飲料"
-      ]
     }
   ]
 }
