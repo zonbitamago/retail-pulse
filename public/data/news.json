@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T19:15:09.667Z",
+  "lastUpdated": "2026-08-01T02:10:53.920Z",
   "items": [
     {
       "id": "ryutsuu-520335ed",
@@ -8,6 +8,48 @@
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "店舗",
+      "date": "2026-08-01",
+      "tags": []
+    },
+    {
+      "id": "diamond-2e5cfc23",
+      "title": "流通秀書　第40回『ヒグチ商法の秘密』",
+      "url": "https://diamond-rm.net/life-career/550072/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-08-01",
+      "tags": []
+    },
+    {
+      "id": "ssnp-33d244a5",
+      "title": "明太子をたっぷり使った“冷製パスタ”やウニ×カルボナーラの温製パスタなど【ジョリーパスタ「冷製パスタフェア第3弾」】\n\t\t\t\t\t\t\t\t\t\t\t\tパスタ専門店「ジョリーパスタ」は、8月6日から「冷製パスタフェア第3弾」を開催する。 ジョリーパスタでは、夏の定番“冷製カッペリーニ”を5月より販売している。今回は、海の幸を使ったパスタの中でも好評だった「“冷製カッペリ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/695468/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-08-01",
+      "tags": [
+        "専門店"
+      ]
+    },
+    {
+      "id": "ssnp-c4e6ffd7",
+      "title": "「サントリー天然水」、4水源の魅力を写真と音声で発信 J-WAVE「GURU GURU!」出演者が各地の山を訪問\n\t\t\t\t\t\t\t\t\t\t\t\t〈8月1日の「水の日」に合わせ企画 麻布台ヒルズで8月2日まで開催〉 サントリービバレッジ&フードは、J-WAVEのラジオ番組「GURU GURU!」とコラボレーションしたイベント「水の日の写真展 それぞれの人生...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/695761/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-08-01",
+      "tags": []
+    },
+    {
+      "id": "ssnp-9d31e915",
+      "title": "【モンテール】ブラックモンブランとコラボしたエクレアを8月1日より新発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/694821/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
       "date": "2026-08-01",
       "tags": []
     },
@@ -262,7 +304,7 @@
     },
     {
       "id": "ssnp-570487d5",
-      "title": "鳥貴族、初の「お子様プレート」導入　唐揚・焼鳥ムネたれを390円で提供、大人の注文も可能\n\t\t\t\t\t\t\t\t\t\t\t\t焼鳥居酒屋チェーン「鳥貴族」は8月1日から、創業以来初となる「お子様プレート」2種類と、人気デザート「チュロ」をグランドメニューとして提供する。 また同日から、エリア限定メニューとして、東エリア（北海道・東北・北陸・甲信...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "鳥貴族、初の「お子様プレート」導入　唐揚・焼鳥ムネたれを390円で提供、大人の注文も可能\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/695723/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -272,7 +314,7 @@
     },
     {
       "id": "ssnp-00d4e7a0",
-      "title": "夏限定フェア「スパイス香る 辛旨ごはん」、“シビ辛”と“ザク辛”の2つの定食を数量限定で販売【大戸屋】\n\t\t\t\t\t\t\t\t\t\t\t\t大戸屋は、2026年7月31日から9月16日までの間、夏季限定フェア『スパイス香る辛旨ごはん』を数量限定で販売する。ザクッと食感と甘辛だれがクセになる「麻辣だれのスパイス唐揚げ」と、七椒の豊かな香りと痺れる辛さが楽しめる...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "夏限定フェア「スパイス香る 辛旨ごはん」、“シビ辛”と“ザク辛”の2つの定食を数量限定で販売【大戸屋】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/695743/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -2269,6 +2311,16 @@
       ]
     },
     {
+      "id": "ssnp-8f30b719",
+      "title": "〈シグナル〉気候変動と細やかな対応",
+      "url": "https://www.ssnp.co.jp/signal/694529/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "signal",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
       "id": "ssnp-9690badb",
       "title": "阪急うめだ「スヌーピーフェスティバル」開催　限定グッズ約80ブランド、コラボスイーツも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/694672/",
@@ -2299,16 +2351,6 @@
       "tags": [
         "吉野家"
       ]
-    },
-    {
-      "id": "ssnp-8f30b719",
-      "title": "〈シグナル〉気候変動と細やかな対応",
-      "url": "https://www.ssnp.co.jp/signal/694529/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "signal",
-      "date": "2026-07-27",
-      "tags": []
     },
     {
       "id": "ssnp-9eb04d39",
@@ -3435,54 +3477,6 @@
         "売上高",
         "社長"
       ]
-    },
-    {
-      "id": "ryutsuu-364e60ba",
-      "title": "ベイシア／鮮魚専門企業「魚耕」を完全子会社化、鮮魚売場を順次強化",
-      "url": "https://www.ryutsuu.biz/strategy/s072373.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-07-23",
-      "tags": [
-        "ベイシア",
-        "鮮魚"
-      ]
-    },
-    {
-      "id": "ryutsuu-005cba7a",
-      "title": "東武ストア／伊藤園など飲料メーカー7社と気温先読みで売場づくり検証",
-      "url": "https://www.ryutsuu.biz/strategy/s072313.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-07-23",
-      "tags": [
-        "飲料"
-      ]
-    },
-    {
-      "id": "diamond-97997bbb",
-      "title": "アンダー300坪で年商目標22億円超！サミット新店「月島3丁目店」の売場を速報",
-      "url": "https://diamond-rm.net/store/552586/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-23",
-      "tags": [
-        "サミット",
-        "新店"
-      ]
-    },
-    {
-      "id": "diamond-c10cd3fb",
-      "title": "作業服のだいまつ　「次はそうきたか」 予想の斜め上を超えるチャレンジ",
-      "url": "https://diamond-rm.net/store/storevisit/551913/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-23",
-      "tags": []
     }
   ]
 }
