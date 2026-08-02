@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T02:07:45.244Z",
+  "lastUpdated": "2026-08-02T08:11:35.974Z",
   "items": [
     {
       "id": "ssnp-b4b8007d",
@@ -673,6 +673,16 @@
       ]
     },
     {
+      "id": "diamond-9cdb8bb4",
+      "title": "第１４５回　渡邉恒雄回顧録（１１）",
+      "url": "https://diamond-rm.net/life-career/542215/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-07-30",
+      "tags": []
+    },
+    {
       "id": "diamond-7808dc29",
       "title": "第2回 ファッション業界のAWSへ ザランドの進化を支える野心的なAI戦略（後編）",
       "url": "https://diamond-rm.net/technology/551094/",
@@ -683,16 +693,6 @@
       "tags": [
         "AI"
       ]
-    },
-    {
-      "id": "diamond-9cdb8bb4",
-      "title": "第１４５回　渡邉恒雄回顧録（１１）",
-      "url": "https://diamond-rm.net/life-career/542215/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-30",
-      "tags": []
     },
     {
       "id": "diamond-b8a9a360",
@@ -2076,6 +2076,18 @@
       ]
     },
     {
+      "id": "diamond-8148073c",
+      "title": "青果部門のプロが警鐘！　安易な「青果スイーツ化」の落とし穴",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552482/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-07-27",
+      "tags": [
+        "青果"
+      ]
+    },
+    {
       "id": "diamond-21b1e585",
       "title": "小売業の人手不足待ったなし_辞めない・強い組織の作り方【PART2】",
       "url": "https://diamond-rm.net/management/topinterview/551628/",
@@ -2122,18 +2134,6 @@
       "date": "2026-07-27",
       "tags": [
         "食品"
-      ]
-    },
-    {
-      "id": "diamond-8148073c",
-      "title": "青果部門のプロが警鐘！　安易な「青果スイーツ化」の落とし穴",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552482/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-27",
-      "tags": [
-        "青果"
       ]
     },
     {
