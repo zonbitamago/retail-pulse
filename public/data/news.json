@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T08:26:59.112Z",
+  "lastUpdated": "2026-08-04T13:55:24.655Z",
   "items": [
     {
       "id": "ryutsuu-b8016154",
@@ -15,7 +15,7 @@
     },
     {
       "id": "ryutsuu-7ede502b",
-      "title": "大手百貨店／7月売上高三越伊勢丹7.0％増、J.フロントリ0.6％増",
+      "title": "大手百貨店／7月売上高三越伊勢丹7.0％増、J.フロント0.6％増",
       "url": "https://www.ryutsuu.biz/sales/s080411.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
@@ -46,6 +46,19 @@
       "id": "ryutsuu-028d6f7e",
       "title": "アクシアルリテイリング 決算／4～6月営業利益7.6％減、米価格高騰の反動で",
       "url": "https://www.ryutsuu.biz/accounts/s080419-2.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-08-04",
+      "tags": [
+        "営業利益",
+        "決算"
+      ]
+    },
+    {
+      "id": "ryutsuu-e293c3c5",
+      "title": "丸井グループ 決算／4～6月営業利益10.5％増、小売・フィンテック好調で過去最高更新",
+      "url": "https://www.ryutsuu.biz/accounts/s080483.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "accounts",
@@ -185,19 +198,6 @@
       ]
     },
     {
-      "id": "ryutsuu-157dcc63",
-      "title": "コメリ／7月の既存店売上高0.4％増、梅雨明けの西日本で夏物堅調",
-      "url": "https://www.ryutsuu.biz/sales/s080471.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-08-04",
-      "tags": [
-        "コメリ",
-        "売上高"
-      ]
-    },
-    {
       "id": "ryutsuu-e4cba9f5",
       "title": "元ユニクロ大学 有本均氏が登壇「店長が育つ会社・育たない会社、その差は何か？」セミナー7月29・30・8月4日開催",
       "url": "https://www.ryutsuu.biz/seminar/s072176.html",
@@ -230,6 +230,19 @@
       "date": "2026-08-04",
       "tags": [
         "物流"
+      ]
+    },
+    {
+      "id": "diamond-9326b0f3",
+      "title": "ナチュラルローソン、初の店内厨房商品8品を発売【週刊コンビニエンスストアニュース】",
+      "url": "https://diamond-rm.net/management/553699/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-04",
+      "tags": [
+        "ローソン",
+        "コンビニ"
       ]
     },
     {
@@ -291,8 +304,38 @@
       ]
     },
     {
+      "id": "ssnp-ef060caf",
+      "title": "セブンプレミアムから人気の「ティラミス氷」が今年も登場、新作「プリン氷」も発売\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブン・ジャパンは8月4日、「セブンプレミアム ティラミス氷」と「セブンプレミアム プリン氷」を全国のセブン‐イレブンで発売した。価格は各257.04円（税込、軽減税率適用）。 暑い時期でもさっぱりと食べられる...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/696363/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-08-04",
+      "tags": []
+    },
+    {
+      "id": "ssnp-b573035d",
+      "title": "【小僧寿し】1988年発売のロングセラー押し寿司「幽霊寿し」が復活 / 「大切り厳選まぐろと夏の感謝祭」も開催、『感謝桶盛40貫』 2,786円、『感謝盛18貫』1,296円\n\t\t\t\t\t\t\t\t\t\t\t\t持ち帰りすし店「小僧寿し」は、1988年発売のロングセラー商品「幽霊寿し」を期間限定で復活販売する。「幽霊寿し」は二段重ねの具材が詰まった昔懐かしい押し寿司で、真っ白な見た目と、食べ進めると具材が現れる驚きと楽しさが詰ま...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/696338/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-08-04",
+      "tags": []
+    },
+    {
+      "id": "ssnp-34b50ce7",
+      "title": "築地銀だこ、各店先着88人「ぜったいうまい!!たこ焼」1舟88円　8月8日『銀だこの日』、5日から100円引きも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/696320/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-08-04",
+      "tags": []
+    },
+    {
       "id": "ssnp-70a24388",
-      "title": "まぐろ･サーモン･えびなどの「たっぷり握り」10貫896円、「たっぷり丼」950円の平日限定フェア【小僧寿し】\n\t\t\t\t\t\t\t\t\t\t\t\t持ち帰りすし店「小僧寿し」は、8月3日(月)～8月31日(月)の平日限定(※8月10日(月)～8月14日(金)のお盆期間を除く)で、「たっぷりフェア」を開催する。 まぐろ、サーモン、えび、いか、穴子、えんがわなど人気ネタ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "まぐろ･サーモン･えびなどの「たっぷり握り」10貫896円、「たっぷり丼」950円の平日限定フェア【小僧寿し】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/696296/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -302,7 +345,7 @@
     },
     {
       "id": "ssnp-7c4c4253",
-      "title": "【井村屋】『SHALILI チョコレートアイス』発売、チョコレートのコクとすっきりとした後味、多彩な食感が楽しめる\n\t\t\t\t\t\t\t\t\t\t\t\t井村屋は、アイスの新商品『SHALILI チョコレートアイス』を、2026年8月17日から一部CVSで、2026年8月31日から一般で、順次発売する。 「SHALILI」は、独自の多層構造製法により「シャリッ」「カリッ」...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【井村屋】『SHALILI チョコレートアイス』発売、チョコレートのコクとすっきりとした後味、多彩な食感が楽しめる\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/milk/696275/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -431,6 +474,19 @@
       ]
     },
     {
+      "id": "ryutsuu-157dcc63",
+      "title": "コメリ／7月の既存店売上高0.4％増、梅雨明けの西日本で夏物堅調",
+      "url": "https://www.ryutsuu.biz/sales/s080471.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-08-04",
+      "tags": [
+        "コメリ",
+        "売上高"
+      ]
+    },
+    {
       "id": "ryutsuu-6130f037",
       "title": "ファミマ／価格据え置き45％増量キャンペーン第2弾8月4日から、売上10％増目指す",
       "url": "https://www.ryutsuu.biz/commodity/s080341.html",
@@ -465,6 +521,16 @@
       ]
     },
     {
+      "id": "diamond-f5873fc5",
+      "title": "トレードマーケティングにおける「戦略」とは何か？",
+      "url": "https://diamond-rm.net/management/marketing/552457/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-03",
+      "tags": []
+    },
+    {
       "id": "diamond-e1dcb4dc",
       "title": "ダイエー店舗を転換しイオンビッグが横浜初進出！「ザ・ビッグ港南台店」の売場を徹底レポート",
       "url": "https://diamond-rm.net/store/newstorereport/552466/",
@@ -485,20 +551,6 @@
       "category": "店舗",
       "date": "2026-08-03",
       "tags": []
-    },
-    {
-      "id": "diamond-5ef489f9",
-      "title": "イオンフードスタイル平田社長独占インタビュー　「めざすのは、『良質』なスーパー」",
-      "url": "https://diamond-rm.net/management/topinterview/552464/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-03",
-      "tags": [
-        "スーパー",
-        "イオン",
-        "社長"
-      ]
     },
     {
       "id": "diamond-193c8c06",
@@ -539,26 +591,6 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "sales-promotion",
-      "date": "2026-08-03",
-      "tags": []
-    },
-    {
-      "id": "diamond-2c319637",
-      "title": "伸び悩む家庭での防災備蓄需要　売場からローリングストック習慣の発信を！",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/552485/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-08-03",
-      "tags": []
-    },
-    {
-      "id": "diamond-2b87c369",
-      "title": "19年ぶりの東京開催で次世代リテール戦略を描く！第22回アジア太平洋小売業者大会",
-      "url": "https://diamond-rm.net/management/553502/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
       "date": "2026-08-03",
       "tags": []
     },
@@ -644,6 +676,16 @@
       "tags": [
         "SNS"
       ]
+    },
+    {
+      "id": "diamond-2c319637",
+      "title": "伸び悩む家庭での防災備蓄需要　売場からローリングストック習慣の発信を！",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/552485/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-08-03",
+      "tags": []
     },
     {
       "id": "diamond-110bb653",
@@ -913,6 +955,30 @@
       ]
     },
     {
+      "id": "diamond-5ef489f9",
+      "title": "イオンフードスタイル平田社長独占インタビュー　「めざすのは、『良質』なスーパー」",
+      "url": "https://diamond-rm.net/management/topinterview/552464/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-03",
+      "tags": [
+        "スーパー",
+        "イオン",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-2b87c369",
+      "title": "19年ぶりの東京開催で次世代リテール戦略を描く！第22回アジア太平洋小売業者大会",
+      "url": "https://diamond-rm.net/management/553502/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-03",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-c4c91bb8",
       "title": "イオンモール熊本／爆発事故の被害は死者7人、負傷者26人判明",
       "url": "https://www.ryutsuu.biz/store/s080311.html",
@@ -1105,16 +1171,6 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "店舗",
-      "date": "2026-08-03",
-      "tags": []
-    },
-    {
-      "id": "diamond-f5873fc5",
-      "title": "トレードマーケティングにおける「戦略」とは何か？",
-      "url": "https://diamond-rm.net/management/marketing/552457/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
       "date": "2026-08-03",
       "tags": []
     },
@@ -3383,60 +3439,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
-      "date": "2026-07-27",
-      "tags": []
-    },
-    {
-      "id": "ssnp-84229d95",
-      "title": "【ロッテ】初の“かわいい”ビックリマンチョコ、西日本で先行発売　キラキラシールは全41種\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/694780/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-07-27",
-      "tags": []
-    },
-    {
-      "id": "diamond-8148073c",
-      "title": "青果部門のプロが警鐘！　安易な「青果スイーツ化」の落とし穴",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552482/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-27",
-      "tags": [
-        "青果"
-      ]
-    },
-    {
-      "id": "diamond-f8571d7f",
-      "title": "スイーツ専門家が全力解説！食品小売が「スイーツ」で勝つためのロジック",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552481/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-27",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-090b14a0",
-      "title": "毎年100アイテム超を新規投入!?　スイーツ専門企業モンテールの開発手法に迫る",
-      "url": "https://diamond-rm.net/sales-promotion/552480/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-07-27",
-      "tags": []
-    },
-    {
-      "id": "diamond-bf1308ee",
-      "title": "チルドスイーツの老舗・ドンレミーでプリンアラモードが「3秒に1個売れる」理由",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552479/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
       "date": "2026-07-27",
       "tags": []
     }
