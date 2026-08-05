@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-08-05T08:25:35.488Z",
+  "lastUpdated": "2026-08-05T13:52:19.305Z",
   "items": [
+    {
+      "id": "ryutsuu-0b22eb19",
+      "title": "セブンイレブン／メーカーなど広告主1000人集めリテールメディア事業の説明会を開催",
+      "url": "https://www.ryutsuu.biz/strategy/s080545.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-08-05",
+      "tags": [
+        "リテールメディア",
+        "セブンイレブン"
+      ]
+    },
+    {
+      "id": "ryutsuu-203217d3",
+      "title": "イオン／イオンモール熊本の爆発事故を受け「事故調査委員会」設置",
+      "url": "https://www.ryutsuu.biz/strategy/s080573.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-08-05",
+      "tags": [
+        "イオン",
+        "モール"
+      ]
+    },
     {
       "id": "ryutsuu-ec6b6864",
       "title": "オンワードHD／災害時の従業員安全対策を強化、貴重品の常時携行を義務化",
@@ -139,28 +165,78 @@
       "tags": []
     },
     {
+      "id": "ssnp-59630a75",
+      "title": "昭和産業、シェアNo.1ホットケーキミックスを刷新　「ふんわり感」追求、『パンどろぼう』グッズ当たるコラボキャンペーンも\n\t\t\t\t\t\t\t\t\t\t\t\t昭和産業は9月1日、新商品「SHOWAふんわりホットケーキミックス（600g）」を全国のスーパーなどで発売する。希望小売価格は税込450円。 ホットケーキミックス購買メーカーシェアNo.1（※）を支える主力商品「SHOW...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/rice/696648/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "米",
+      "date": "2026-08-05",
+      "tags": [
+        "スーパー"
+      ]
+    },
+    {
+      "id": "ssnp-b6b33024",
+      "title": "【ジョイフル×「鬼滅の刃」】新コラボメニュー7品登場、第3弾・第4弾キャンペーンを開催 / 缶バッジ、巾着、ぷっくりシール、カプセルトイなども展開\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーレストランのジョイフルは、開催中のアニメ「鬼滅の刃」コラボキャンペーンにおいて、第3弾・第4弾キャンペーンを実施する。 8月18日（火）15時より第3弾、9月8日（火）15時より第4弾を開始し、新たなコラボメニ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/696613/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-08-05",
+      "tags": []
+    },
+    {
+      "id": "ssnp-834a2dc1",
+      "title": "世界初のコーヒー農園ゲーム、UCCが公開　子どもが栽培から焙煎まで体験\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/696568/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-08-05",
+      "tags": []
+    },
+    {
+      "id": "ssnp-12325f9e",
+      "title": "全国の有名人気餃子店が集まる「夏だ!グルメだ!餃子祭り」を開催【E1A 新東名 NEOPASA清水(集約)】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/696566/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-08-05",
+      "tags": []
+    },
+    {
+      "id": "ssnp-4517ff8a",
+      "title": "ヤッホーブルーイング、ビールだけ飲むと倒れる「ふらつくビアグラス」販売　適正飲酒を啓発、ビアレストランにも展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/liquor/696569/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "liquor",
+      "date": "2026-08-05",
+      "tags": [
+        "ビール"
+      ]
+    },
+    {
       "id": "ssnp-a80f5c31",
-      "title": "宇奈とと「スタミナフェア」開催　とろろ・オクラ・納豆・温泉卵をのせた『スタミナ丼』、うなぎ1尾の悪魔盛りも\n\t\t\t\t\t\t\t\t\t\t\t\t鰻のファストフードブランド「名代 宇奈とと」は、8月7日から9月3日まで、期間限定企画「栄養鰻点！体力全回復！スタミナフェア」を開催する。 フェアでは、炭火で香ばしく焼き上げたうなぎの蒲焼に、とろろ・オクラ・納豆の3種類...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "宇奈とと「スタミナフェア」開催　とろろ・オクラ・納豆・温泉卵をのせた『スタミナ丼』、うなぎ1尾の悪魔盛りも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/696559/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-08-05",
-      "tags": [
-        "ファストフード"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-f7c36030",
-      "title": "ファミマ「45％増量作戦」第2弾開催　ファミチキ・パスタ・菓子など13商品を週替わりで増量\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーマートは8月4日から、全国の約1万6,400店舗で「お値段そのまま おかわり45％増量作戦」キャンペーンを展開している。 定番商品の「ファミチキ」やパスタ、菓子、飲料に加え、今回初登場となる「大盛たこ焼き」「千...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ファミマ「45％増量作戦」第2弾開催　ファミチキ・パスタ・菓子など13商品を週替わりで増量\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/696503/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
       "date": "2026-08-05",
       "tags": [
-        "ファミリーマート",
-        "飲料",
         "菓子"
       ]
     },
@@ -384,19 +460,6 @@
       "id": "ryutsuu-028d6f7e",
       "title": "アクシアルリテイリング 決算／4～6月営業利益7.6％減、米価格高騰の反動で",
       "url": "https://www.ryutsuu.biz/accounts/s080419-2.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-08-04",
-      "tags": [
-        "営業利益",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-e293c3c5",
-      "title": "丸井グループ 決算／4～6月営業利益10.5％増、小売・フィンテック好調で過去最高更新",
-      "url": "https://www.ryutsuu.biz/accounts/s080483.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "accounts",
@@ -715,6 +778,19 @@
       "date": "2026-08-04",
       "tags": [
         "社長"
+      ]
+    },
+    {
+      "id": "ryutsuu-e293c3c5",
+      "title": "丸井グループ 決算／4～6月営業利益10.5％増、小売・フィンテック好調で過去最高更新",
+      "url": "https://www.ryutsuu.biz/accounts/s080483.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-08-04",
+      "tags": [
+        "営業利益",
+        "決算"
       ]
     },
     {
@@ -1598,16 +1674,6 @@
       ]
     },
     {
-      "id": "ryutsuu-d64a8683",
-      "title": "エディオン／熊本地震で故障した家電を特別料金で修理",
-      "url": "https://www.ryutsuu.biz/strategy/s073113.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-07-31",
-      "tags": []
-    },
-    {
       "id": "ssnp-570487d5",
       "title": "鳥貴族、初の「お子様プレート」導入　唐揚・焼鳥ムネたれを390円で提供、大人の注文も可能\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/695723/",
@@ -1852,6 +1918,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "noodles",
+      "date": "2026-07-31",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-d64a8683",
+      "title": "エディオン／熊本地震で故障した家電を特別料金で修理",
+      "url": "https://www.ryutsuu.biz/strategy/s073113.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
       "date": "2026-07-31",
       "tags": []
     },
@@ -3335,79 +3411,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-c16bbdd1",
-      "title": "【新社長就任インタビュー】太子食品工業･工藤裕平社長　初年度は関東シェア拡大と新ブランド定着に注力、次世代プロテイン源で世界救う\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/694890/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-07-28",
-      "tags": [
-        "食品",
-        "社長"
-      ]
-    },
-    {
-      "id": "ssnp-409748f3",
-      "title": "ほっともっと、新作「プレミアム牛肉黒カレー」発売　ロースカツ・3種チーズなどトッピング4種も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/694871/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-6537962e",
-      "title": "300℃の直火で焼き上げたアメリカ産のヒレステーキが登場【ビッグボーイ/ヴィクトリアステーション】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/694857/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-3acaf0af",
-      "title": "不二家「裏不二家の日」2026開催　非売品「ペコちゃんキッチンタイマー」プレゼント、“真っ黒”限定スイーツ発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/694845/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-13bb65cf",
-      "title": "セブン‐イレブン、「よくばりサンド ハムカツ&たまごマカロニ」発売 ハムカツ2枚でたまごマカロニを挟んだ食べ応えある新商品\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/694840/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-5282bd01",
-      "title": "婦人・子供服のOEM「カフカ」／破産手続き開始、負債60億円",
-      "url": "https://www.ryutsuu.biz/strategy/s072844.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "id": "diamond-8e220e59",
-      "title": "第１４３回　渡邉恒雄回顧録（９）",
-      "url": "https://diamond-rm.net/life-career/542213/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
       "date": "2026-07-28",
       "tags": []
     }
