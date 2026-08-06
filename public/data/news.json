@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-08-06T13:49:37.748Z",
+  "lastUpdated": "2026-08-06T23:53:08.222Z",
   "items": [
+    {
+      "id": "ryutsuu-8d02d9f9",
+      "title": "オニツカタイガー／名古屋駅前に新旗艦店「Onitsuka Tiger 名古屋」8月7日オープン",
+      "url": "https://www.ryutsuu.biz/store/s080671.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-08-07",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-0e71b411",
+      "title": "ひとまいる社長インタビュー／「カクヤス」を再編、物流を軸にプラットフォーム構築へ",
+      "url": "https://www.ryutsuu.biz/column/r20250807001.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "column",
+      "date": "2026-08-07",
+      "tags": [
+        "物流",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-19aa3fe7",
+      "title": "平和堂が大阪・吹田に3600㎡超の複合店を出店へ【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/large-scaleretailstorelaw/553892/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-08-07",
+      "tags": [
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-983e0992",
+      "title": "アパレルチェーンの給与水準を決める4つの構図",
+      "url": "https://diamond-rm.net/management/businessplan/553737/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-07",
+      "tags": [
+        "アパレル"
+      ]
+    },
+    {
+      "id": "diamond-cc0bc958",
+      "title": "大阪・住吉区の激戦エリアに出店　ライフの最新店「遠里小野店」をレポート",
+      "url": "https://diamond-rm.net/store/storevisit/553814/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-08-07",
+      "tags": [
+        "ライフ",
+        "出店",
+        "新店"
+      ]
+    },
     {
       "id": "ryutsuu-c6e6f41d",
       "title": "東急／東横線菊名駅に「エトモ菊名」12月開業、東急ストアをリニューアルオープン",
@@ -170,20 +233,6 @@
       ]
     },
     {
-      "id": "diamond-cfccb4ce",
-      "title": "スーパー3団体統計発表レポート　京阪ザ・ストア達川社長が好調の「スイーツ専門店」を語る",
-      "url": "https://diamond-rm.net/market/552840/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-08-06",
-      "tags": [
-        "スーパー",
-        "専門店",
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-21794e3b",
       "title": "第１５０回　渥美君も相当な男ですなあ",
       "url": "https://diamond-rm.net/life-career/542220/",
@@ -213,6 +262,20 @@
       "date": "2026-08-06",
       "tags": [
         "出店"
+      ]
+    },
+    {
+      "id": "diamond-cfccb4ce",
+      "title": "スーパー3団体統計発表レポート　京阪ザ・ストア達川社長が好調の「スイーツ専門店」を語る",
+      "url": "https://diamond-rm.net/market/552840/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-08-06",
+      "tags": [
+        "スーパー",
+        "専門店",
+        "社長"
       ]
     },
     {
@@ -536,29 +599,6 @@
       "tags": []
     },
     {
-      "id": "diamond-db49e008",
-      "title": "【写真20枚超】福井県内10年ぶり出店＆初の生鮮強化型店舗「バロー大和田店」をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/553105/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-08-05",
-      "tags": [
-        "生鮮",
-        "出店"
-      ]
-    },
-    {
-      "id": "diamond-dde70fd9",
-      "title": "カルビーが実践するファンとの“共創”  顧客の声から「ブランド資産」を積み上げる仕組みとは",
-      "url": "https://diamond-rm.net/management/550459/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-05",
-      "tags": []
-    },
-    {
       "id": "diamond-3e8dd1a9",
       "title": "第１４９回　渥美俊一のスタンス",
       "url": "https://diamond-rm.net/life-career/542219/",
@@ -585,6 +625,29 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "life-career",
+      "date": "2026-08-05",
+      "tags": []
+    },
+    {
+      "id": "diamond-db49e008",
+      "title": "【写真20枚超】福井県内10年ぶり出店＆初の生鮮強化型店舗「バロー大和田店」をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/553105/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-08-05",
+      "tags": [
+        "生鮮",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-dde70fd9",
+      "title": "カルビーが実践するファンとの“共創”  顧客の声から「ブランド資産」を積み上げる仕組みとは",
+      "url": "https://diamond-rm.net/management/550459/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-08-05",
       "tags": []
     },
@@ -889,19 +952,6 @@
       ]
     },
     {
-      "id": "diamond-9326b0f3",
-      "title": "ナチュラルローソン、初の店内厨房商品8品を発売【週刊コンビニエンスストアニュース】",
-      "url": "https://diamond-rm.net/management/553699/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-04",
-      "tags": [
-        "ローソン",
-        "コンビニ"
-      ]
-    },
-    {
       "id": "diamond-c488d5fb",
       "title": "【動画】7月5週目の注目ニュースまとめ、新店や新たな取り組みなど",
       "url": "https://diamond-rm.net/management/businessplan/553654/",
@@ -925,6 +975,19 @@
         "リテールメディア",
         "イオン",
         "アプリ"
+      ]
+    },
+    {
+      "id": "diamond-9326b0f3",
+      "title": "ナチュラルローソン、初の店内厨房商品8品を発売【週刊コンビニエンスストアニュース】",
+      "url": "https://diamond-rm.net/management/553699/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-04",
+      "tags": [
+        "ローソン",
+        "コンビニ"
       ]
     },
     {
@@ -1423,31 +1486,6 @@
       ]
     },
     {
-      "id": "diamond-96cf0e9e",
-      "title": "阪急線駅直結の繁盛店を大改装し生鮮再強化！「フレスコ三国店」の売場を詳報",
-      "url": "https://diamond-rm.net/store/newstorereport/552471/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-08-03",
-      "tags": [
-        "生鮮",
-        "改装"
-      ]
-    },
-    {
-      "id": "diamond-05a677ae",
-      "title": "福島駅近の好立地に「MEGAドンキ」が誕生！食品＆非食品の売場を徹底解説",
-      "url": "https://diamond-rm.net/store/newstorereport/552470/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-08-03",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-cef3d19b",
       "title": "中国で爆速成長する調理ロボットの市場　2030年には2600億円規模に？",
       "url": "https://diamond-rm.net/overseas/chinaeastasianews/552463/",
@@ -1776,6 +1814,31 @@
       "date": "2026-08-03",
       "tags": [
         "ファミリーマート"
+      ]
+    },
+    {
+      "id": "diamond-96cf0e9e",
+      "title": "阪急線駅直結の繁盛店を大改装し生鮮再強化！「フレスコ三国店」の売場を詳報",
+      "url": "https://diamond-rm.net/store/newstorereport/552471/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-08-03",
+      "tags": [
+        "生鮮",
+        "改装"
+      ]
+    },
+    {
+      "id": "diamond-05a677ae",
+      "title": "福島駅近の好立地に「MEGAドンキ」が誕生！食品＆非食品の売場を徹底解説",
+      "url": "https://diamond-rm.net/store/newstorereport/552470/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-08-03",
+      "tags": [
+        "食品"
       ]
     },
     {
@@ -3376,56 +3439,6 @@
       "tags": [
         "ロボット"
       ]
-    },
-    {
-      "id": "ssnp-05247933",
-      "title": "【ミニストップでひんやり!!】8月6日「ハロハロの日」に100円引きクーポン配信など実施\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/695124/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-07-29",
-      "tags": []
-    },
-    {
-      "id": "ssnp-59ab73e1",
-      "title": "セブン‐イレブン、1人向け「お店で焼いたハンディピザ」新登場　マルゲリータ・照り焼きチキン発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/695081/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-07-29",
-      "tags": []
-    },
-    {
-      "id": "ssnp-17170495",
-      "title": "ゆで太郎、全店舗で熊本地震の被災地支援　通常の来店1回で1円寄付\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/695082/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-29",
-      "tags": []
-    },
-    {
-      "id": "ssnp-b04798ae",
-      "title": "「ふんわりどら焼・沖縄バニラ」を8月1日から期間限定で新発売、沖縄・読谷村の国産バニラを使用\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/695059/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-07-29",
-      "tags": []
-    },
-    {
-      "id": "ssnp-344d069c",
-      "title": "日本農林規格調査会を開催、アーモンド含有率は2.0%以上と規定【農水省】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/695072/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-07-29",
-      "tags": []
     }
   ]
 }
