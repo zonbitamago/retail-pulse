@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T19:20:46.637Z",
+  "lastUpdated": "2026-08-06T01:58:22.760Z",
   "items": [
     {
       "id": "ryutsuu-90e6ed51",
@@ -13,6 +13,69 @@
         "リニューアル",
         "オープン",
         "EC"
+      ]
+    },
+    {
+      "id": "diamond-2393d90f",
+      "title": "売れたのに、受け取られない……ECの”意外な盲点”に挑むRecustomerの革新性",
+      "url": "https://diamond-rm.net/ec-epayment/550855/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "ec-epayment",
+      "date": "2026-08-06",
+      "tags": [
+        "EC"
+      ]
+    },
+    {
+      "id": "diamond-cfccb4ce",
+      "title": "スーパー3団体統計発表レポート　京阪ザ・ストア達川社長が好調の「スイーツ専門店」を語る",
+      "url": "https://diamond-rm.net/market/552840/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-08-06",
+      "tags": [
+        "スーパー",
+        "専門店",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-91504877",
+      "title": "オリジナル商品を全国に広めたい、秀久待望の2号店を愛知県に出店",
+      "url": "https://diamond-rm.net/management/businessplan/553533/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-06",
+      "tags": [
+        "出店"
+      ]
+    },
+    {
+      "id": "ssnp-1f34423e",
+      "title": "【はなまるうどんの日】大海老天3本「はなまる感謝うどん」870円で発売、約300円お得 サンリオ「はなまるおばけ」初コラボも\n\t\t\t\t\t\t\t\t\t\t\t\t讃岐うどんチェーン「はなまるうどん」は、8月7日から8月31日まで、「はなまるうどんの日」を記念し、大海老天を3本のせた期間限定メニュー「はなまる感謝うどん(小)」を税込870円で販売する。通常価格で計算すると、おおよそ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/696671/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-08-06",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-01f991ed",
+      "title": "ローソン／ハッピーローソンタウンが関東に初出店、竹増社長「いよいよ始まった」",
+      "url": "https://www.ryutsuu.biz/strategy/s080541.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-08-05",
+      "tags": [
+        "注目",
+        "ローソン",
+        "出店",
+        "社長"
       ]
     },
     {
@@ -149,16 +212,6 @@
       "tags": []
     },
     {
-      "id": "diamond-3b5fda27",
-      "title": "戦後すぐ創業、福岡・博多の大衆食堂「おきよ食堂」へ",
-      "url": "https://diamond-rm.net/life-career/life/545197/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-08-05",
-      "tags": []
-    },
-    {
       "id": "diamond-3e8dd1a9",
       "title": "第１４９回　渥美俊一のスタンス",
       "url": "https://diamond-rm.net/life-career/542219/",
@@ -179,6 +232,16 @@
       "tags": []
     },
     {
+      "id": "diamond-3b5fda27",
+      "title": "戦後すぐ創業、福岡・博多の大衆食堂「おきよ食堂」へ",
+      "url": "https://diamond-rm.net/life-career/life/545197/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-08-05",
+      "tags": []
+    },
+    {
       "id": "ssnp-59630a75",
       "title": "昭和産業、シェアNo.1ホットケーキミックスを刷新　「ふんわり感」追求、『パンどろぼう』グッズ当たるコラボキャンペーンも\n\t\t\t\t\t\t\t\t\t\t\t\t昭和産業は9月1日、新商品「SHOWAふんわりホットケーキミックス（600g）」を全国のスーパーなどで発売する。希望小売価格は税込450円。 ホットケーキミックス購買メーカーシェアNo.1（※）を支える主力商品「SHOW...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/rice/696648/",
@@ -192,7 +255,7 @@
     },
     {
       "id": "ssnp-b6b33024",
-      "title": "【ジョイフル×「鬼滅の刃」】新コラボメニュー7品登場、第3弾・第4弾キャンペーンを開催 / 缶バッジ、巾着、ぷっくりシール、カプセルトイなども展開\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーレストランのジョイフルは、開催中のアニメ「鬼滅の刃」コラボキャンペーンにおいて、第3弾・第4弾キャンペーンを実施する。 8月18日（火）15時より第3弾、9月8日（火）15時より第4弾を開始し、新たなコラボメニ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【ジョイフル×「鬼滅の刃」】新コラボメニュー7品登場、第3弾・第4弾キャンペーンを開催 / 缶バッジ、巾着、ぷっくりシール、カプセルトイなども展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/696613/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -456,34 +519,6 @@
       ]
     },
     {
-      "id": "ryutsuu-776c3b2a",
-      "title": "H2O 決算／4～6月営業利益32.2％増、阪急本店・阪神梅田本店の改装効果で好調",
-      "url": "https://www.ryutsuu.biz/accounts/s080480.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-08-04",
-      "tags": [
-        "営業利益",
-        "H2O",
-        "決算",
-        "改装"
-      ]
-    },
-    {
-      "id": "ryutsuu-028d6f7e",
-      "title": "アクシアルリテイリング 決算／4～6月営業利益7.6％減、米価格高騰の反動で",
-      "url": "https://www.ryutsuu.biz/accounts/s080419-2.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-08-04",
-      "tags": [
-        "営業利益",
-        "決算"
-      ]
-    },
-    {
       "id": "ryutsuu-f3a3319c",
       "title": "セブンイレブン／熊本県氷川町におにぎり、冷凍ペットボトル飲料を支援",
       "url": "https://www.ryutsuu.biz/strategy/s080413.html",
@@ -581,28 +616,6 @@
       ]
     },
     {
-      "id": "diamond-86299829",
-      "title": "家庭用手袋市場、物価高騰による買い控えで市場縮小、高付加価値商品は底堅く推移",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/552488/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-08-04",
-      "tags": []
-    },
-    {
-      "id": "diamond-26fb2387",
-      "title": "カレー市場、節約志向追い風にルウカレーは堅調、レトルトは価格改定で停滞感",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/552487/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-08-04",
-      "tags": [
-        "価格改定"
-      ]
-    },
-    {
       "id": "diamond-adb5116a",
       "title": "熊本地震の教訓——猛暑の被災地で、小売業は何をすべきか",
       "url": "https://diamond-rm.net/management/businessplan/553643/",
@@ -622,6 +635,28 @@
       "date": "2026-08-04",
       "tags": [
         "物流"
+      ]
+    },
+    {
+      "id": "diamond-86299829",
+      "title": "家庭用手袋市場、物価高騰による買い控えで市場縮小、高付加価値商品は底堅く推移",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/552488/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-08-04",
+      "tags": []
+    },
+    {
+      "id": "diamond-26fb2387",
+      "title": "カレー市場、節約志向追い風にルウカレーは堅調、レトルトは価格改定で停滞感",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/552487/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-08-04",
+      "tags": [
+        "価格改定"
       ]
     },
     {
@@ -795,6 +830,34 @@
       ]
     },
     {
+      "id": "ryutsuu-776c3b2a",
+      "title": "H2O 決算／4～6月営業利益32.2％増、阪急本店・阪神梅田本店の改装効果で好調",
+      "url": "https://www.ryutsuu.biz/accounts/s080480.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-08-04",
+      "tags": [
+        "営業利益",
+        "H2O",
+        "決算",
+        "改装"
+      ]
+    },
+    {
+      "id": "ryutsuu-028d6f7e",
+      "title": "アクシアルリテイリング 決算／4～6月営業利益7.6％減、米価格高騰の反動で",
+      "url": "https://www.ryutsuu.biz/accounts/s080419-2.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-08-04",
+      "tags": [
+        "営業利益",
+        "決算"
+      ]
+    },
+    {
       "id": "ryutsuu-e293c3c5",
       "title": "丸井グループ 決算／4～6月営業利益10.5％増、小売・フィンテック好調で過去最高更新",
       "url": "https://www.ryutsuu.biz/accounts/s080483.html",
@@ -949,6 +1012,16 @@
       ]
     },
     {
+      "id": "diamond-24034aac",
+      "title": "リンコス BASEGATE横浜関内店・永谷店長の等身大のマネジメント術",
+      "url": "https://diamond-rm.net/management/humanresorcedevelop/552484/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-03",
+      "tags": []
+    },
+    {
       "id": "diamond-61f16d7b",
       "title": "アメリカで注目浴びる「オーディオ販促」の可能性",
       "url": "https://diamond-rm.net/overseas/american_economy/552462/",
@@ -957,28 +1030,6 @@
       "category": "overseas",
       "date": "2026-08-03",
       "tags": []
-    },
-    {
-      "id": "diamond-f5873fc5",
-      "title": "トレードマーケティングにおける「戦略」とは何か？",
-      "url": "https://diamond-rm.net/management/marketing/552457/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-03",
-      "tags": []
-    },
-    {
-      "id": "diamond-93b8146d",
-      "title": "私用SNSでの連絡に疲弊する従業員……「バイト先とつながらない権利」を重視せよ",
-      "url": "https://diamond-rm.net/technology/550849/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-08-03",
-      "tags": [
-        "SNS"
-      ]
     },
     {
       "id": "diamond-193c8c06",
@@ -1018,18 +1069,6 @@
       ]
     },
     {
-      "id": "diamond-abb0162c",
-      "title": "コストと期間を圧縮！原信の新たな改装手法のかたちとは？",
-      "url": "https://diamond-rm.net/store/newstorereport/552469/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-08-03",
-      "tags": [
-        "改装"
-      ]
-    },
-    {
       "id": "diamond-cef3d19b",
       "title": "中国で爆速成長する調理ロボットの市場　2030年には2600億円規模に？",
       "url": "https://diamond-rm.net/overseas/chinaeastasianews/552463/",
@@ -1062,6 +1101,18 @@
       "category": "テクノロジー",
       "date": "2026-08-03",
       "tags": []
+    },
+    {
+      "id": "diamond-93b8146d",
+      "title": "私用SNSでの連絡に疲弊する従業員……「バイト先とつながらない権利」を重視せよ",
+      "url": "https://diamond-rm.net/technology/550849/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-08-03",
+      "tags": [
+        "SNS"
+      ]
     },
     {
       "id": "diamond-7c487ed1",
@@ -1339,6 +1390,28 @@
       ]
     },
     {
+      "id": "diamond-f5873fc5",
+      "title": "トレードマーケティングにおける「戦略」とは何か？",
+      "url": "https://diamond-rm.net/management/marketing/552457/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-03",
+      "tags": []
+    },
+    {
+      "id": "diamond-abb0162c",
+      "title": "コストと期間を圧縮！原信の新たな改装手法のかたちとは？",
+      "url": "https://diamond-rm.net/store/newstorereport/552469/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-08-03",
+      "tags": [
+        "改装"
+      ]
+    },
+    {
       "id": "diamond-e1dcb4dc",
       "title": "ダイエー店舗を転換しイオンビッグが横浜初進出！「ザ・ビッグ港南台店」の売場を徹底レポート",
       "url": "https://diamond-rm.net/store/newstorereport/552466/",
@@ -1528,16 +1601,6 @@
         "オープン",
         "出店"
       ]
-    },
-    {
-      "id": "diamond-24034aac",
-      "title": "リンコス BASEGATE横浜関内店・永谷店長の等身大のマネジメント術",
-      "url": "https://diamond-rm.net/management/humanresorcedevelop/552484/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-03",
-      "tags": []
     },
     {
       "id": "diamond-23a1553e",
@@ -3361,60 +3424,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-826c09bb",
-      "title": "フジパン、マーガリン2倍「ネオデカくん」新発売　ネオバターロール29年目の記念商品\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/rice/694935/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "米",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-9dd55337",
-      "title": "【ブロンコビリー】「特上アンガスリブロースステーキ」を8月7日から期間限定で提供開始\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/694930/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-42367544",
-      "title": "カスミ「BLΛNDE塩浜店」オープン　豊洲直送鮮魚・常陸牛・店内手作り総菜を強化\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/694920/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-07-28",
-      "tags": [
-        "オープン",
-        "カスミ",
-        "鮮魚"
-      ]
-    },
-    {
-      "id": "ssnp-7a26ab3f",
-      "title": "【春水堂】台湾パイナップル×ジャスミンのドリンク2品を夏季限定で新発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/694878/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-4c89f5c8",
-      "title": "セブン‐イレブン、新コンセプト「冷製スープ」スムージー発売 専門家と共同開発した2商品を都内一部で展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/694906/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
       "date": "2026-07-28",
       "tags": []
     }
