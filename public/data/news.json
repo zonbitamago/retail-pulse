@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T07:04:34.131Z",
+  "lastUpdated": "2026-08-07T12:47:24.061Z",
   "items": [
     {
       "id": "ryutsuu-de1a8bd4",
@@ -52,6 +52,38 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-6c55db9f",
+      "title": "ニトリHD 決算／4～6月減収減益に、国内ニトリの既存店売上高3.3％減",
+      "url": "https://www.ryutsuu.biz/accounts/s080752.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-08-07",
+      "tags": [
+        "ニトリ",
+        "売上高",
+        "決算",
+        "減収",
+        "減益"
+      ]
+    },
+    {
+      "id": "ryutsuu-f6ca8cf5",
+      "title": "ロイヤルHD 決算／1～6月増収増益、売上高・経常利益は過去最高を更新",
+      "url": "https://www.ryutsuu.biz/accounts/s080715.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-08-07",
+      "tags": [
+        "経常利益",
+        "売上高",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
       "id": "ryutsuu-505e8497",
       "title": "牛丼3社／7月既存店売上高、すき家10.9％増・吉野家6.5％増・松屋0.0％",
       "url": "https://www.ryutsuu.biz/sales/s080745.html",
@@ -63,6 +95,19 @@
         "吉野家",
         "売上高",
         "松屋"
+      ]
+    },
+    {
+      "id": "ryutsuu-25fddacc",
+      "title": "有隣堂／神奈川県「大船ルミネウィング」に文具・雑貨の新ブランド、11月オープン",
+      "url": "https://www.ryutsuu.biz/store/s080753.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-08-07",
+      "tags": [
+        "オープン",
+        "雑貨"
       ]
     },
     {
@@ -89,6 +134,19 @@
       "date": "2026-08-07",
       "tags": [
         "ローソン"
+      ]
+    },
+    {
+      "id": "ryutsuu-48ac162d",
+      "title": "日本トイザらス／「トイザらス・ベビーザらス ビバモール寝屋川店」グランドオープン",
+      "url": "https://www.ryutsuu.biz/store/s080774.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-08-07",
+      "tags": [
+        "オープン",
+        "モール"
       ]
     },
     {
@@ -201,8 +259,36 @@
       "tags": []
     },
     {
+      "id": "ssnp-d5e24518",
+      "title": "食べ歩きできる揚げたての練り物を販売する「ねり伝はなれ」&ホットドッグ専門店「GABU DOGS」を大須にオープン【かね貞】\n\t\t\t\t\t\t\t\t\t\t\t\t魚肉ねりものメーカーのかね貞は、創業の地･名古屋市大須商店街へ約95年ぶりに出店する。名古屋にゆかりの深い「まるはちの日」にあたる2026年8月8日に練り物専門店「ねり伝はなれ 大須横丁店」を、さらに隣接する店舗として8...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/697151/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-08-07",
+      "tags": [
+        "オープン",
+        "専門店",
+        "出店"
+      ]
+    },
+    {
+      "id": "ssnp-a76415d6",
+      "title": "キユーピー、埼玉・深谷の複合型施設をリニューアル　五感で体験できる“サラダのシンボリックな拠点”へ\n\t\t\t\t\t\t\t\t\t\t\t\tキユーピーは、埼玉県深谷市の複合型施設「深谷テラス ヤサイな仲間たちファーム」をリニューアルし、「深谷テラス キユーピーとヤサイな仲間たち サラダパレット」として11月14日に開業する。施設の改装工事に伴い、9月14日か...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/seasoning/697118/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "調味料",
+      "date": "2026-08-07",
+      "tags": [
+        "リニューアル",
+        "開業",
+        "改装"
+      ]
+    },
+    {
       "id": "ssnp-7c1d5c08",
-      "title": "9,000店舗以上対象の“ウルトラ半額祭”、最大1,500円分のクーポン配布　「超ゴイゴイヤスー夏祭」開催【出前館】\n\t\t\t\t\t\t\t\t\t\t\t\tデリバリーサービス「出前館」は8月7日から、夏のキャンペーン「超ゴイゴイヤスー夏祭」を開始した。 全国9,000店舗以上の対象メニューを50%引きで販売する「ウルトラ半額祭」と、利用回数に応じて最大合計1,500円分のク...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "9,000店舗以上対象の“ウルトラ半額祭”、最大1,500円分のクーポン配布　「超ゴイゴイヤスー夏祭」開催【出前館】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/697091/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -212,7 +298,7 @@
     },
     {
       "id": "ssnp-61197716",
-      "title": "シャトレーゼ「マッケンチーズブレッド」発売、マカロニ×チーズソースのアメリカの定番家庭料理を惣菜パンに\n\t\t\t\t\t\t\t\t\t\t\t\tシャトレーゼは、アメリカの家庭料理「マッケンチーズ」を味わえる惣菜パン「マッケンチーズブレッド」を、全国のシャトレーゼおよびYATSUDOKI（国内893店舗）で、8月7日から発売する。 【マッケンチーズブレッドの画像は...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "シャトレーゼ「マッケンチーズブレッド」発売、マカロニ×チーズソースのアメリカの定番家庭料理を惣菜パンに\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/697089/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -360,45 +446,6 @@
       "category": "商品",
       "date": "2026-08-06",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-fc10c7b8",
-      "title": "日本ショッピングセンター協会／26年上期は新規18施設オープン、コト消費化が加速",
-      "url": "https://www.ryutsuu.biz/store/s080613.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-08-06",
-      "tags": [
-        "ショッピングセンター",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-c6e6f41d",
-      "title": "東急／東横線菊名駅に「エトモ菊名」12月開業、東急ストアをリニューアルオープン",
-      "url": "https://www.ryutsuu.biz/store/s080672.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-08-06",
-      "tags": [
-        "リニューアル",
-        "オープン",
-        "開業"
-      ]
-    },
-    {
-      "id": "ryutsuu-dae4868c",
-      "title": "JR東日本グループ／東京・国立に個性的な4店舗集まる新施設、9月から順次開業",
-      "url": "https://www.ryutsuu.biz/store/s080649.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-08-06",
-      "tags": [
-        "開業"
-      ]
     },
     {
       "id": "ryutsuu-afbd6272",
@@ -714,6 +761,45 @@
       "date": "2026-08-06",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-fc10c7b8",
+      "title": "日本ショッピングセンター協会／26年上期は新規18施設オープン、コト消費化が加速",
+      "url": "https://www.ryutsuu.biz/store/s080613.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-08-06",
+      "tags": [
+        "ショッピングセンター",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-c6e6f41d",
+      "title": "東急／東横線菊名駅に「エトモ菊名」12月開業、東急ストアをリニューアルオープン",
+      "url": "https://www.ryutsuu.biz/store/s080672.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-08-06",
+      "tags": [
+        "リニューアル",
+        "オープン",
+        "開業"
+      ]
+    },
+    {
+      "id": "ryutsuu-dae4868c",
+      "title": "JR東日本グループ／東京・国立に個性的な4店舗集まる新施設、9月から順次開業",
+      "url": "https://www.ryutsuu.biz/store/s080649.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-08-06",
+      "tags": [
+        "開業"
       ]
     },
     {
@@ -3375,78 +3461,6 @@
         "ベイシア",
         "スーパー",
         "鮮魚"
-      ]
-    },
-    {
-      "id": "diamond-26de4832",
-      "title": "3km圏内に競合店50店舗!?　ヤオコーがさいたま市の超激戦区に”勝負”の新店オープン",
-      "url": "https://diamond-rm.net/store/553258/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-07-30",
-      "tags": [
-        "ヤオコー",
-        "オープン",
-        "新店"
-      ]
-    },
-    {
-      "id": "diamond-9cdb8bb4",
-      "title": "第１４５回　渡邉恒雄回顧録（１１）",
-      "url": "https://diamond-rm.net/life-career/542215/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-07-30",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-2f04c1e2",
-      "title": "イオン／「イオンモール熊本」爆発事故で謝罪、原因はガス爆発の可能性高く",
-      "url": "https://www.ryutsuu.biz/store/s073013.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-30",
-      "tags": [
-        "イオン",
-        "モール"
-      ]
-    },
-    {
-      "id": "ryutsuu-f45637d6",
-      "title": "イオンモール熊本／爆発事故による死者7人に",
-      "url": "https://www.ryutsuu.biz/store/s073048.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-30",
-      "tags": [
-        "イオン",
-        "モール"
-      ]
-    },
-    {
-      "id": "ryutsuu-c06f3749",
-      "title": "イズミ／熊本県内19店舗で営業再開、16店舗は営業休止",
-      "url": "https://www.ryutsuu.biz/store/s073014.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-30",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-bd66c6a4",
-      "title": "コメリ／熊本県内3店舗の営業再開、営業休止中は6店舗",
-      "url": "https://www.ryutsuu.biz/store/s073047.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-30",
-      "tags": [
-        "コメリ"
       ]
     }
   ]
