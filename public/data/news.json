@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-08-06T23:53:08.222Z",
+  "lastUpdated": "2026-08-07T02:21:35.599Z",
   "items": [
+    {
+      "id": "ryutsuu-0eacacaf",
+      "title": "日本アクセス 決算／4～6月減収減益",
+      "url": "https://www.ryutsuu.biz/accounts/s080712.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-08-07",
+      "tags": [
+        "決算",
+        "減収",
+        "減益"
+      ]
+    },
+    {
+      "id": "ryutsuu-20463941",
+      "title": "ビックカメラ／7月の全店売上8.5％増、音響映像と家庭電化商品が2桁増",
+      "url": "https://www.ryutsuu.biz/sales/s080742.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-08-07",
+      "tags": [
+        "ビックカメラ"
+      ]
+    },
+    {
+      "id": "ryutsuu-048eb7a6",
+      "title": "ローソン／熊本県内で断水中の店舗へ給水支援",
+      "url": "https://www.ryutsuu.biz/strategy/s080711.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-08-07",
+      "tags": [
+        "ローソン"
+      ]
+    },
+    {
+      "id": "ryutsuu-69da3e20",
+      "title": "ヤマダHD／7月のデンキセグメント10.9％増、季節商品が大きく伸長",
+      "url": "https://www.ryutsuu.biz/sales/s080741.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-08-07",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-4e7c1db4",
+      "title": "大阪・クボタ旧本社跡地／多目的アリーナを核とする商業などの複合開発32年以降オープン",
+      "url": "https://www.ryutsuu.biz/store/s080771.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-08-07",
+      "tags": [
+        "オープン"
+      ]
+    },
     {
       "id": "ryutsuu-8d02d9f9",
       "title": "オニツカタイガー／名古屋駅前に新旗艦店「Onitsuka Tiger 名古屋」8月7日オープン",
@@ -62,6 +122,62 @@
         "ライフ",
         "出店",
         "新店"
+      ]
+    },
+    {
+      "id": "ssnp-6862056c",
+      "title": "大豆ミート「ソミート」、おにぎりの具材として海外でも引き合い-染野屋\n\t\t\t\t\t\t\t\t\t\t\t\t〈7月20日からパリの「おむすび権米衛」で「Tofu Gang」発売〉 染野屋では、豆腐だけでなく、大豆ミートの「SoMeat」(ソミート)も展開している。国内のみならず海外でも引き合いがあり、20日からパリの「おむすび...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/soy/696938/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "大豆",
+      "date": "2026-08-07",
+      "tags": []
+    },
+    {
+      "id": "ssnp-29c5024a",
+      "title": "「爽やかレモンもこ」「かじるレモンチーズケーキ」爽やかなレモンスイーツ2品を発売【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブンは、季節限定のレモンスイーツ2品「爽やかレモンもこ」「かじるレモンチーズケーキ」を全国のセブン‐イレブン店舗で順次発売する。 【「爽やかレモンもこ」「かじるレモンチーズケーキ」の画像はこちら】 ◆かじるレ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/696930/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-08-07",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-7259449b",
+      "title": "ハンズ／AI接客サービス開始、2万SKUの商品選びを「てて丸」がサポート",
+      "url": "https://www.ryutsuu.biz/it/s080611.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-08-06",
+      "tags": [
+        "注目",
+        "AI"
+      ]
+    },
+    {
+      "id": "ryutsuu-7ae74b3f",
+      "title": "ハンズ／創業50周年祭を開催、東レやウルトラマンとの限定コラボも",
+      "url": "https://www.ryutsuu.biz/commodity/s080612.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-08-06",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-fc10c7b8",
+      "title": "日本ショッピングセンター協会／26年上期は新規18施設オープン、コト消費化が加速",
+      "url": "https://www.ryutsuu.biz/store/s080613.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-08-06",
+      "tags": [
+        "ショッピングセンター",
+        "オープン"
       ]
     },
     {
@@ -170,43 +286,6 @@
       ]
     },
     {
-      "id": "ryutsuu-edb5071a",
-      "title": "ヤオコー／7月の既存店売上高2.7％増、客数は0.1％増",
-      "url": "https://www.ryutsuu.biz/sales/s080673.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-08-06",
-      "tags": [
-        "ヤオコー",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-2ef5670b",
-      "title": "エディオン／7月の全店売上高15.6％増、エアコンは53.6％増に",
-      "url": "https://www.ryutsuu.biz/sales/s080643.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-08-06",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-8cdfa857",
-      "title": "Joshin／7月のグループ売上高14.9％増、エアコンは54.9％増",
-      "url": "https://www.ryutsuu.biz/sales/s080644.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-08-06",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
       "id": "diamond-ccdea1d7",
       "title": "マミーマート、栃木県内4店舗目の「生鮮市場TOP!」出店【週刊スーパーマーケットニュース】",
       "url": "https://diamond-rm.net/management/businessplan/553896/",
@@ -280,19 +359,17 @@
     },
     {
       "id": "ssnp-289cf0e6",
-      "title": "伊藤園、「お～いお茶」に日本茶GIマーク 表示製品で受理第1号、9月から展開\n\t\t\t\t\t\t\t\t\t\t\t\t伊藤園は8月6日、「日本茶」のGI(地理的表示)マークを表示した「お～いお茶」の飲料製品を、9月21日から全国で順次展開すると発表した。日本茶業中央会が受理したGIマーク表示製品の第1号となる。 先行して表示するのは、「...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "伊藤園、「お～いお茶」に日本茶GIマーク 表示製品で受理第1号、9月から展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/696911/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
       "date": "2026-08-06",
-      "tags": [
-        "飲料"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-e1bc292d",
-      "title": "すき家、「Sukiシェイク マスカット」発売 マスカット･オブ･アレキサンドリア果汁使用の夏限定フレーバー\n\t\t\t\t\t\t\t\t\t\t\t\tすき家は8月4日、「Sukiシェイク マスカット」を発売した。 「Sukiシェイク」は、単品でも楽しめるドリンクシリーズ。定番の「Sukiシェイク バニラ」「Sukiシェイク 抹茶」に加え、季節限定フレーバーも展開してい...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "すき家、「Sukiシェイク マスカット」発売 マスカット･オブ･アレキサンドリア果汁使用の夏限定フレーバー\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/696905/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -506,6 +583,43 @@
       "date": "2026-08-06",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-edb5071a",
+      "title": "ヤオコー／7月の既存店売上高2.7％増、客数は0.1％増",
+      "url": "https://www.ryutsuu.biz/sales/s080673.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-08-06",
+      "tags": [
+        "ヤオコー",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-2ef5670b",
+      "title": "エディオン／7月の全店売上高15.6％増、エアコンは53.6％増に",
+      "url": "https://www.ryutsuu.biz/sales/s080643.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-08-06",
+      "tags": [
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-8cdfa857",
+      "title": "Joshin／7月のグループ売上高14.9％増、エアコンは54.9％増",
+      "url": "https://www.ryutsuu.biz/sales/s080644.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-08-06",
+      "tags": [
+        "売上高"
       ]
     },
     {
@@ -926,19 +1040,6 @@
       ]
     },
     {
-      "id": "ryutsuu-f3a3319c",
-      "title": "セブンイレブン／熊本県氷川町におにぎり、冷凍ペットボトル飲料を支援",
-      "url": "https://www.ryutsuu.biz/strategy/s080413.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-08-04",
-      "tags": [
-        "セブンイレブン",
-        "飲料"
-      ]
-    },
-    {
       "id": "ryutsuu-e4cba9f5",
       "title": "元ユニクロ大学 有本均氏が登壇「店長が育つ会社・育たない会社、その差は何か？」セミナー7月29・30・8月4日開催",
       "url": "https://www.ryutsuu.biz/seminar/s072176.html",
@@ -1180,6 +1281,19 @@
       "date": "2026-08-04",
       "tags": [
         "社長"
+      ]
+    },
+    {
+      "id": "ryutsuu-f3a3319c",
+      "title": "セブンイレブン／熊本県氷川町におにぎり、冷凍ペットボトル飲料を支援",
+      "url": "https://www.ryutsuu.biz/strategy/s080413.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-08-04",
+      "tags": [
+        "セブンイレブン",
+        "飲料"
       ]
     },
     {
@@ -3335,110 +3449,6 @@
       "category": "foodservice",
       "date": "2026-07-29",
       "tags": []
-    },
-    {
-      "id": "ssnp-c9d547cb",
-      "title": "日高屋、「ニラレバ炒めキャンペーン」「Wハイボール祭」期間限定開催　対象メニューを20円引き\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/695262/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-29",
-      "tags": []
-    },
-    {
-      "id": "ssnp-c2d9e85f",
-      "title": "【令和8年熊本地震】コカ・コーラBJ、湖池屋が2工場操業停止　物流・製造設備に影響\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/695261/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-07-29",
-      "tags": [
-        "物流"
-      ]
-    },
-    {
-      "id": "ssnp-9a299b11",
-      "title": "丸源ラーメン、期間限定「とろける半熟卵の旨辛肉つけ麺」　7月30日から全国販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/695235/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-29",
-      "tags": []
-    },
-    {
-      "id": "ssnp-297089ab",
-      "title": "【モロゾフ】創立95周年記念商品「エダムチーズケーキ」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/695196/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-07-29",
-      "tags": []
-    },
-    {
-      "id": "ssnp-2a3fa34e",
-      "title": "文明堂「ドラえもん どら焼き」誕生日限定デザインで登場　「ドラえもん お誕生日カステラ」も発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/695206/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-07-29",
-      "tags": []
-    },
-    {
-      "id": "ssnp-fe50df4d",
-      "title": "【なか卯】「金胡麻冷やし牛肉つけうどん」を発売　柚子香る濃厚な金胡麻だれと牛肉を組み合わせた夏向けメニュー\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/695198/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-29",
-      "tags": []
-    },
-    {
-      "id": "ssnp-56057537",
-      "title": "【伊右衛門カフェ】新作和スイーツ「ほうじ茶どら焼き あんバター/京味噌あん」「宇治抹茶ティラミス」を販売開始\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/695178/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-07-29",
-      "tags": []
-    },
-    {
-      "id": "ssnp-0ccc9e19",
-      "title": "セブン‐イレブン、「よくばりサンド チョコミント」登場　チョコミントホイップたっぷりの夏向け新商品\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/695164/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-07-29",
-      "tags": []
-    },
-    {
-      "id": "ssnp-3a65015e",
-      "title": "サントリー九州熊本工場、メルシャン八代工場とも人的被害なし\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/liquor/695163/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "liquor",
-      "date": "2026-07-29",
-      "tags": []
-    },
-    {
-      "id": "ssnp-2199adb5",
-      "title": "人気の「寿司ロボット」カプセルトイ第2弾、最新機種カラー加え全5種発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/rice/695147/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "米",
-      "date": "2026-07-29",
-      "tags": [
-        "ロボット"
-      ]
     }
   ]
 }
