@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T18:44:55.623Z",
+  "lastUpdated": "2026-08-08T01:06:59.761Z",
   "items": [
     {
       "id": "ryutsuu-503b4dba",
@@ -12,6 +12,28 @@
       "tags": [
         "オープン",
         "新店"
+      ]
+    },
+    {
+      "id": "diamond-b95fac5a",
+      "title": "流通秀書　第41回『小泉一兵衛遺訓集』",
+      "url": "https://diamond-rm.net/life-career/550170/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-08-08",
+      "tags": []
+    },
+    {
+      "id": "ssnp-0cc962f3",
+      "title": "【ランディーズドーナツ】ホワイトチョコレート×レモンの期間限定ドーナツ･ドーナツ型に収納できるエコバッグが登場\n\t\t\t\t\t\t\t\t\t\t\t\tドーナツショップ「ランディーズドーナツ(Randy’s Donuts)」は、「Summer Season」第2弾として、新商品『ホワイトチョコレート オールドファッションレモン』『ホワイトスプリンクルズ テキ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/695248/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-08-08",
+      "tags": [
+        "チョコレート"
       ]
     },
     {
@@ -287,16 +309,14 @@
     },
     {
       "id": "ssnp-a76415d6",
-      "title": "キユーピー、埼玉・深谷の複合型施設をリニューアル　五感で体験できる“サラダのシンボリックな拠点”へ\n\t\t\t\t\t\t\t\t\t\t\t\tキユーピーは、埼玉県深谷市の複合型施設「深谷テラス ヤサイな仲間たちファーム」をリニューアルし、「深谷テラス キユーピーとヤサイな仲間たち サラダパレット」として11月14日に開業する。施設の改装工事に伴い、9月14日か...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "キユーピー、埼玉・深谷の複合型施設をリニューアル　五感で体験できる“サラダのシンボリックな拠点”へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/seasoning/697118/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "調味料",
       "date": "2026-08-07",
       "tags": [
-        "リニューアル",
-        "開業",
-        "改装"
+        "リニューアル"
       ]
     },
     {
@@ -1016,16 +1036,6 @@
       "tags": []
     },
     {
-      "id": "diamond-c9a55804",
-      "title": "スパイス＆ハーブ市場、簡便・本格志向を追い風に、市場は拡大が続く",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/552489/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-08-05",
-      "tags": []
-    },
-    {
       "id": "diamond-dde70fd9",
       "title": "カルビーが実践するファンとの“共創”  顧客の声から「ブランド資産」を積み上げる仕組みとは",
       "url": "https://diamond-rm.net/management/550459/",
@@ -1047,6 +1057,16 @@
         "生鮮",
         "出店"
       ]
+    },
+    {
+      "id": "diamond-c9a55804",
+      "title": "スパイス＆ハーブ市場、簡便・本格志向を追い風に、市場は拡大が続く",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/552489/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-08-05",
+      "tags": []
     },
     {
       "id": "ssnp-59630a75",
@@ -3436,30 +3456,6 @@
       "date": "2026-07-30",
       "tags": [
         "セブンイレブン"
-      ]
-    },
-    {
-      "id": "ryutsuu-d0a25d20",
-      "title": "ローソン／熊本に救援物資送付、本部社員の応援隊派遣も",
-      "url": "https://www.ryutsuu.biz/strategy/s073011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-07-30",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "ryutsuu-22c41a56",
-      "title": "ライフ／ウーバーイーツの「ピック・パック・ペイ」を東京・大阪の店舗に導入",
-      "url": "https://www.ryutsuu.biz/strategy/s073043.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-07-30",
-      "tags": [
-        "ライフ"
       ]
     }
   ]
