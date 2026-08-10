@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T18:30:18.637Z",
+  "lastUpdated": "2026-08-10T01:13:51.502Z",
   "items": [
     {
       "id": "ryutsuu-8907c7f6",
@@ -11,6 +11,45 @@
       "date": "2026-08-10",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "diamond-72eea93a",
+      "title": "ライフが自社製冷食「ライフフローズン」を本格展開！ 売上5億円を描く3つの戦略",
+      "url": "https://diamond-rm.net/sales-promotion/pb/553909/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-08-10",
+      "tags": [
+        "ライフ",
+        "冷食"
+      ]
+    },
+    {
+      "id": "diamond-267952de",
+      "title": "「ハッピーローソンタウン」2店舗目が東京・日野にオープン！団地内出店のねらいとは",
+      "url": "https://diamond-rm.net/store/newstorereport/553924/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-08-10",
+      "tags": [
+        "ローソン",
+        "オープン",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-f9777c71",
+      "title": "今期は黒字転換へ！ パルと双日が仕掛けるオフプライスストア「ローカスト」の野望",
+      "url": "https://diamond-rm.net/management/552039/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-10",
+      "tags": [
+        "黒字"
       ]
     },
     {
@@ -292,6 +331,16 @@
       ]
     },
     {
+      "id": "diamond-1feef03a",
+      "title": "第１５１回　流通革命の真実",
+      "url": "https://diamond-rm.net/life-career/542221/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-08-07",
+      "tags": []
+    },
+    {
       "id": "diamond-983e0992",
       "title": "アパレルチェーンの給与水準を決める4つの構図",
       "url": "https://diamond-rm.net/management/businessplan/553737/",
@@ -316,16 +365,6 @@
         "出店",
         "新店"
       ]
-    },
-    {
-      "id": "diamond-1feef03a",
-      "title": "第１５１回　流通革命の真実",
-      "url": "https://diamond-rm.net/life-career/542221/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-08-07",
-      "tags": []
     },
     {
       "id": "ssnp-d5e24518",
@@ -576,18 +615,6 @@
       ]
     },
     {
-      "id": "diamond-2393d90f",
-      "title": "売れたのに、受け取られない……ECの”意外な盲点”に挑むRecustomerの革新性",
-      "url": "https://diamond-rm.net/ec-epayment/550855/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "ec-epayment",
-      "date": "2026-08-06",
-      "tags": [
-        "EC"
-      ]
-    },
-    {
       "id": "diamond-cfccb4ce",
       "title": "スーパー3団体統計発表レポート　京阪ザ・ストア達川社長が好調の「スイーツ専門店」を語る",
       "url": "https://diamond-rm.net/market/552840/",
@@ -599,6 +626,18 @@
         "スーパー",
         "専門店",
         "社長"
+      ]
+    },
+    {
+      "id": "diamond-2393d90f",
+      "title": "売れたのに、受け取られない……ECの”意外な盲点”に挑むRecustomerの革新性",
+      "url": "https://diamond-rm.net/ec-epayment/550855/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "ec-epayment",
+      "date": "2026-08-06",
+      "tags": [
+        "EC"
       ]
     },
     {
@@ -1059,26 +1098,6 @@
       "tags": []
     },
     {
-      "id": "diamond-3e8dd1a9",
-      "title": "第１４９回　渥美俊一のスタンス",
-      "url": "https://diamond-rm.net/life-career/542219/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-08-05",
-      "tags": []
-    },
-    {
-      "id": "diamond-dde70fd9",
-      "title": "カルビーが実践するファンとの“共創”  顧客の声から「ブランド資産」を積み上げる仕組みとは",
-      "url": "https://diamond-rm.net/management/550459/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-05",
-      "tags": []
-    },
-    {
       "id": "diamond-db49e008",
       "title": "【写真20枚超】福井県内10年ぶり出店＆初の生鮮強化型店舗「バロー大和田店」をレポート",
       "url": "https://diamond-rm.net/store/newstorereport/553105/",
@@ -1312,6 +1331,26 @@
       ]
     },
     {
+      "id": "diamond-3e8dd1a9",
+      "title": "第１４９回　渥美俊一のスタンス",
+      "url": "https://diamond-rm.net/life-career/542219/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-08-05",
+      "tags": []
+    },
+    {
+      "id": "diamond-dde70fd9",
+      "title": "カルビーが実践するファンとの“共創”  顧客の声から「ブランド資産」を積み上げる仕組みとは",
+      "url": "https://diamond-rm.net/management/550459/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-05",
+      "tags": []
+    },
+    {
       "id": "diamond-3b5fda27",
       "title": "戦後すぐ創業、福岡・博多の大衆食堂「おきよ食堂」へ",
       "url": "https://diamond-rm.net/life-career/life/545197/",
@@ -1422,19 +1461,6 @@
         "リテールメディア",
         "イオン",
         "アプリ"
-      ]
-    },
-    {
-      "id": "diamond-9326b0f3",
-      "title": "ナチュラルローソン、初の店内厨房商品8品を発売【週刊コンビニエンスストアニュース】",
-      "url": "https://diamond-rm.net/management/553699/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-04",
-      "tags": [
-        "ローソン",
-        "コンビニ"
       ]
     },
     {
@@ -1627,6 +1653,19 @@
       "date": "2026-08-04",
       "tags": [
         "社長"
+      ]
+    },
+    {
+      "id": "diamond-9326b0f3",
+      "title": "ナチュラルローソン、初の店内厨房商品8品を発売【週刊コンビニエンスストアニュース】",
+      "url": "https://diamond-rm.net/management/553699/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-04",
+      "tags": [
+        "ローソン",
+        "コンビニ"
       ]
     },
     {
@@ -1956,18 +1995,6 @@
       ]
     },
     {
-      "id": "diamond-0586290e",
-      "title": "食品小売が非食品でも「デスティネーション化」を図る方法",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552459/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-08-03",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-193c8c06",
       "title": "【動画】大再編時代を勝ち抜くために、仕掛けるローカルスーパー＝7月15日号見どころの紹介",
       "url": "https://diamond-rm.net/management/553397/",
@@ -2054,18 +2081,6 @@
       "category": "sales-promotion",
       "date": "2026-08-03",
       "tags": []
-    },
-    {
-      "id": "diamond-110bb653",
-      "title": "【DCS最新号】8月1日・15日合併号は「スイーツは甘くない。」",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552819/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-08-03",
-      "tags": [
-        "合併"
-      ]
     },
     {
       "id": "diamond-5aa39e8c",
@@ -2308,6 +2323,30 @@
       "date": "2026-08-03",
       "tags": [
         "ファミリーマート"
+      ]
+    },
+    {
+      "id": "diamond-0586290e",
+      "title": "食品小売が非食品でも「デスティネーション化」を図る方法",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552459/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-08-03",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-110bb653",
+      "title": "【DCS最新号】8月1日・15日合併号は「スイーツは甘くない。」",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/552819/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-08-03",
+      "tags": [
+        "合併"
       ]
     },
     {
@@ -3220,18 +3259,6 @@
       ]
     },
     {
-      "id": "diamond-7808dc29",
-      "title": "第2回 ファッション業界のAWSへ ザランドの進化を支える野心的なAI戦略（後編）",
-      "url": "https://diamond-rm.net/technology/551094/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-07-30",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
       "id": "diamond-b8a9a360",
       "title": "【小売・食品・消費財メーカー向け】LINEヤフーの検索データ分析セミナー 〜DS.INSIGHTを実際に操作して市場・顧客を理解〜",
       "url": "https://diamond-rm.net/seminar/552869/",
@@ -3241,6 +3268,18 @@
       "date": "2026-07-30",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-7808dc29",
+      "title": "第2回 ファッション業界のAWSへ ザランドの進化を支える野心的なAI戦略（後編）",
+      "url": "https://diamond-rm.net/technology/551094/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-07-30",
+      "tags": [
+        "AI"
       ]
     },
     {
@@ -3424,40 +3463,6 @@
       "category": "菓子",
       "date": "2026-07-30",
       "tags": []
-    },
-    {
-      "id": "ssnp-7149bec0",
-      "title": "「悪魔のおにぎり」の新味「やみつきごま油」など全6品が新登場【ローソンストア100、8月の新商品】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/695389/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-07-30",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "ssnp-2968481d",
-      "title": "3日間限定のイベント開催、「オリジナル保冷バッグ」「オリジナルうちわ」のプレゼントなど【8月8日「アンドリューのエッグタルトの日」】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/695380/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-07-30",
-      "tags": []
-    },
-    {
-      "id": "ssnp-bbdf4d3c",
-      "title": "【令和8年熊本地震】畜産･食肉業界の状況、情報収集に努める、物流への影響を懸念(7月29日18時時点)\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/meat/695378/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "畜産",
-      "date": "2026-07-30",
-      "tags": [
-        "物流"
-      ]
     }
   ]
 }
