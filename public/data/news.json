@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-08-11T18:53:33.145Z",
+  "lastUpdated": "2026-08-12T01:20:03.855Z",
   "items": [
+    {
+      "id": "diamond-8a0a9533",
+      "title": "第3回 「Temu」の躍進を支えるPDDのAIプラットフォーム戦略",
+      "url": "https://diamond-rm.net/technology/553006/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-08-12",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-a5f5c504",
+      "title": "近商ストア「食の大感謝祭」を開催　顧客1200人とメーカー約75社が直接交流",
+      "url": "https://diamond-rm.net/sales-promotion/event/554018/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-08-12",
+      "tags": []
+    },
+    {
+      "id": "ssnp-afc4aa0e",
+      "title": "豆腐スイーツ「とうふスティック」が“常温保存”に対応!【さとの雪食品】\n\t\t\t\t\t\t\t\t\t\t\t\tさとの雪食品は、豆腐を主原料とした新感覚スイーツ「とうふスティック」を、常温保存可能な仕様へバージョンアップし、2026年9月9日から全国の食品スーパーなどで順次発売する。さらに、秋冬の期間限定フレーバーとして「モンブラ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/soy/696101/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "大豆",
+      "date": "2026-08-12",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
+    },
     {
       "id": "diamond-d49f8c1e",
       "title": "しまむら「売上7000億円」の正体――完全買取という日本では異色・世界では主流の仕組み",
@@ -37,7 +73,7 @@
     },
     {
       "id": "ssnp-3030ab7d",
-      "title": "発売64年の「ゆであずき」が進化、井村屋が6商品をリニューアル発売\n\t\t\t\t\t\t\t\t\t\t\t\t井村屋は8月17日(月)から、「ゆであずきシリーズ」6商品をリニューアル発売する。 １キロの大容量ゆであずき缶も　「ゆであずきシリーズ」ラインアップのすべて画像で見る 発売から64年を迎えるロングセラー商品で、ゆであずき...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "発売64年の「ゆであずき」が進化、井村屋が6商品をリニューアル発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/696817/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -92,19 +128,6 @@
       ]
     },
     {
-      "id": "diamond-72eea93a",
-      "title": "ライフが自社製冷食「ライフフローズン」を本格展開！ 売上5億円を描く3つの戦略",
-      "url": "https://diamond-rm.net/sales-promotion/pb/553909/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-08-10",
-      "tags": [
-        "ライフ",
-        "冷食"
-      ]
-    },
-    {
       "id": "diamond-267952de",
       "title": "「ハッピーローソンタウン」2店舗目が東京・日野にオープン！団地内出店のねらいとは",
       "url": "https://diamond-rm.net/store/newstorereport/553924/",
@@ -119,15 +142,16 @@
       ]
     },
     {
-      "id": "diamond-f9777c71",
-      "title": "今期は黒字転換へ！ パルと双日が仕掛けるオフプライスストア「ローカスト」の野望",
-      "url": "https://diamond-rm.net/management/552039/",
+      "id": "diamond-72eea93a",
+      "title": "ライフが自社製冷食「ライフフローズン」を本格展開！ 売上5億円を描く3つの戦略",
+      "url": "https://diamond-rm.net/sales-promotion/pb/553909/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "経営戦略",
+      "category": "sales-promotion",
       "date": "2026-08-10",
       "tags": [
-        "黒字"
+        "ライフ",
+        "冷食"
       ]
     },
     {
@@ -150,6 +174,18 @@
       "date": "2026-08-10",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "diamond-f9777c71",
+      "title": "今期は黒字転換へ！ パルと双日が仕掛けるオフプライスストア「ローカスト」の野望",
+      "url": "https://diamond-rm.net/management/552039/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-10",
+      "tags": [
+        "黒字"
       ]
     },
     {
@@ -829,20 +865,6 @@
       ]
     },
     {
-      "id": "diamond-ccdea1d7",
-      "title": "マミーマート、栃木県内4店舗目の「生鮮市場TOP!」出店【週刊スーパーマーケットニュース】",
-      "url": "https://diamond-rm.net/management/businessplan/553896/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-06",
-      "tags": [
-        "スーパー",
-        "生鮮",
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-cfccb4ce",
       "title": "スーパー3団体統計発表レポート　京阪ザ・ストア達川社長が好調の「スイーツ専門店」を語る",
       "url": "https://diamond-rm.net/market/552840/",
@@ -1104,6 +1126,20 @@
       "date": "2026-08-06",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-ccdea1d7",
+      "title": "マミーマート、栃木県内4店舗目の「生鮮市場TOP!」出店【週刊スーパーマーケットニュース】",
+      "url": "https://diamond-rm.net/management/businessplan/553896/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-06",
+      "tags": [
+        "スーパー",
+        "生鮮",
+        "出店"
       ]
     },
     {
@@ -2221,14 +2257,16 @@
       ]
     },
     {
-      "id": "diamond-24034aac",
-      "title": "リンコス BASEGATE横浜関内店・永谷店長の等身大のマネジメント術",
-      "url": "https://diamond-rm.net/management/humanresorcedevelop/552484/",
+      "id": "diamond-05a677ae",
+      "title": "福島駅近の好立地に「MEGAドンキ」が誕生！食品＆非食品の売場を徹底解説",
+      "url": "https://diamond-rm.net/store/newstorereport/552470/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "経営戦略",
+      "category": "店舗",
       "date": "2026-08-03",
-      "tags": []
+      "tags": [
+        "食品"
+      ]
     },
     {
       "id": "diamond-193c8c06",
@@ -2287,31 +2325,9 @@
       "tags": []
     },
     {
-      "id": "diamond-93b8146d",
-      "title": "私用SNSでの連絡に疲弊する従業員……「バイト先とつながらない権利」を重視せよ",
-      "url": "https://diamond-rm.net/technology/550849/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-08-03",
-      "tags": [
-        "SNS"
-      ]
-    },
-    {
       "id": "diamond-7c487ed1",
       "title": "無添加調味料市場、健康志向背景に市場拡大、利便性・汎用性訴求で新規需要開拓を",
       "url": "https://diamond-rm.net/sales-promotion/item-trend/552486/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-08-03",
-      "tags": []
-    },
-    {
-      "id": "diamond-2c319637",
-      "title": "伸び悩む家庭での防災備蓄需要　売場からローリングストック習慣の発信を！",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/552485/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "sales-promotion",
@@ -2423,6 +2439,38 @@
       "tags": []
     },
     {
+      "id": "diamond-24034aac",
+      "title": "リンコス BASEGATE横浜関内店・永谷店長の等身大のマネジメント術",
+      "url": "https://diamond-rm.net/management/humanresorcedevelop/552484/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-03",
+      "tags": []
+    },
+    {
+      "id": "diamond-93b8146d",
+      "title": "私用SNSでの連絡に疲弊する従業員……「バイト先とつながらない権利」を重視せよ",
+      "url": "https://diamond-rm.net/technology/550849/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-08-03",
+      "tags": [
+        "SNS"
+      ]
+    },
+    {
+      "id": "diamond-2c319637",
+      "title": "伸び悩む家庭での防災備蓄需要　売場からローリングストック習慣の発信を！",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/552485/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-08-03",
+      "tags": []
+    },
+    {
       "id": "ssnp-7b22c645",
       "title": "スシロー「大とろ」1貫110円～、「ジャンボとろサーモン」も110円～　天然本鮪7貫盛り・北海道産上いくらなど期間限定で発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/695994/",
@@ -2431,18 +2479,6 @@
       "category": "foodservice",
       "date": "2026-08-03",
       "tags": []
-    },
-    {
-      "id": "diamond-05a677ae",
-      "title": "福島駅近の好立地に「MEGAドンキ」が誕生！食品＆非食品の売場を徹底解説",
-      "url": "https://diamond-rm.net/store/newstorereport/552470/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-08-03",
-      "tags": [
-        "食品"
-      ]
     },
     {
       "id": "ssnp-1b3df8e5",
@@ -3419,43 +3455,6 @@
       "tags": [
         "営業利益",
         "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-29df448a",
-      "title": "アシックス／東京・新宿に新旗艦店オープン、会員限定のカスタマイズサービス導入",
-      "url": "https://www.ryutsuu.biz/store/s073178.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-31",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-558a6c41",
-      "title": "アディダス／新宿に新コンセプト店オープン、フットボールとライフスタイルを融合",
-      "url": "https://www.ryutsuu.biz/store/s073177.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-31",
-      "tags": [
-        "オープン",
-        "ライフ"
-      ]
-    },
-    {
-      "id": "ryutsuu-b83648df",
-      "title": "コロワイド／東京都江東区に「大戸屋ごはん処 カメイドクロック店」オープン",
-      "url": "https://www.ryutsuu.biz/store/s073175.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-31",
-      "tags": [
-        "オープン"
       ]
     }
   ]
