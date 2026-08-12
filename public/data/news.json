@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T01:20:03.855Z",
+  "lastUpdated": "2026-08-12T07:14:52.216Z",
   "items": [
     {
       "id": "diamond-8a0a9533",
@@ -24,16 +24,127 @@
       "tags": []
     },
     {
+      "id": "diamond-029ba386",
+      "title": "ファミリーマートが「45％増量作戦」を実施【週刊コンビニエンスストアニュース】",
+      "url": "https://diamond-rm.net/management/554091/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-12",
+      "tags": [
+        "ファミリーマート",
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-3a4dee42",
+      "title": "第１５４回　東大法學部緑會副委員長",
+      "url": "https://diamond-rm.net/life-career/542224/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-08-12",
+      "tags": []
+    },
+    {
+      "id": "ssnp-1c755bc2",
+      "title": "「北海道食品庫」、麻布台ヒルズに期間限定店をオープン\n\t\t\t\t\t\t\t\t\t\t\t\t久原本家グループの久原本家(福岡県糟屋郡久山町)は、麻布台ヒルズ(東京都港区)でポップアップストア「北海道食品庫」を期間限定でオープンしている。トウモロコシを使った商品や、北海道の素材を活かした商品などを販売するほか、イ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/697456/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-08-12",
+      "tags": [
+        "オープン",
+        "食品"
+      ]
+    },
+    {
+      "id": "ssnp-3522d2aa",
+      "title": "松屋銀座、ファンケルと熱中症対策を実施\n\t\t\t\t\t\t\t\t\t\t\t\t百貨店を運営する松屋は、銀座本店の屋上で実施している「美しくなるビアガーデン」に勤務している従業員の熱中症対策に取り組んでいる。その一環として、ファンケルとTOPPANが開発した、体温を可視化できる「示温シール」を使った...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/697452/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-08-12",
+      "tags": [
+        "百貨店",
+        "松屋"
+      ]
+    },
+    {
+      "id": "ssnp-f25954a5",
+      "title": "天然色素由来の4色を楽しむ「ミニボストン」が新登場、約149gの軽さとコンパクトなサイズ感【紀ノ国屋】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/697437/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-08-12",
+      "tags": []
+    },
+    {
+      "id": "ssnp-f9b67456",
+      "title": "【インタビュー】ニチレイフーズ･清川家庭用事業部長、テーマは急激な変化への対応、先を見据えた事業の再構築を加速\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/frozen/697431/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "冷凍食品",
+      "date": "2026-08-12",
+      "tags": []
+    },
+    {
+      "id": "ssnp-8b255f05",
+      "title": "エスプレッソ×チョコ風味のフローズンの「チョコアフォガート シェイクール」発売【タリーズコーヒー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/697422/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-08-12",
+      "tags": []
+    },
+    {
+      "id": "ssnp-fcc3c07e",
+      "title": "【ちいかわ×オリオンビール】シーサーをデザインした「キャップ」と「サファリハット」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/liquor/697385/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "liquor",
+      "date": "2026-08-12",
+      "tags": [
+        "ビール"
+      ]
+    },
+    {
+      "id": "ssnp-14b80af4",
+      "title": "ハウス食品グループが横浜国大で「キーマカレー料理教室」開催、自立後の食生活を支援\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/etc/697394/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "etc",
+      "date": "2026-08-12",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "ssnp-d916caad",
+      "title": "ゴディバ「ダブルグレープ ショコリキサー」、ナガノパープルとシャインマスカットを使った上品で華やかな味わい\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/697238/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-08-12",
+      "tags": []
+    },
+    {
       "id": "ssnp-afc4aa0e",
-      "title": "豆腐スイーツ「とうふスティック」が“常温保存”に対応!【さとの雪食品】\n\t\t\t\t\t\t\t\t\t\t\t\tさとの雪食品は、豆腐を主原料とした新感覚スイーツ「とうふスティック」を、常温保存可能な仕様へバージョンアップし、2026年9月9日から全国の食品スーパーなどで順次発売する。さらに、秋冬の期間限定フレーバーとして「モンブラ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "豆腐スイーツ「とうふスティック」が“常温保存”に対応!【さとの雪食品】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/soy/696101/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "大豆",
       "date": "2026-08-12",
       "tags": [
-        "食品スーパー",
-        "スーパー",
         "食品"
       ]
     },
@@ -63,7 +174,7 @@
     },
     {
       "id": "ssnp-4095a1e9",
-      "title": "松のや自慢の唐揚げを、甘酸っぱく爽やかな「オレンジソース」で夏仕様にアレンジ\n\t\t\t\t\t\t\t\t\t\t\t\tとんかつ業態の「松のや」は、2026年8月12日15時から、「オレンジソース唐揚げ定食」を発売する。 松のやの唐揚げは、生姜とにんにくを使用した特製揉みダレにじっくりと漬け込み、カラッと揚げている。今回は、甘酸っぱく爽や...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "松のや自慢の唐揚げを、甘酸っぱく爽やかな「オレンジソース」で夏仕様にアレンジ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/697117/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -602,28 +713,6 @@
       ]
     },
     {
-      "id": "diamond-1feef03a",
-      "title": "第１５１回　流通革命の真実",
-      "url": "https://diamond-rm.net/life-career/542221/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-08-07",
-      "tags": []
-    },
-    {
-      "id": "diamond-983e0992",
-      "title": "アパレルチェーンの給与水準を決める4つの構図",
-      "url": "https://diamond-rm.net/management/businessplan/553737/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-07",
-      "tags": [
-        "アパレル"
-      ]
-    },
-    {
       "id": "diamond-19aa3fe7",
       "title": "平和堂が大阪・吹田に3600㎡超の複合店を出店へ【今週の大店立地法速報】",
       "url": "https://diamond-rm.net/store/large-scaleretailstorelaw/553892/",
@@ -787,6 +876,28 @@
       "category": "流通",
       "date": "2026-08-07",
       "tags": []
+    },
+    {
+      "id": "diamond-1feef03a",
+      "title": "第１５１回　流通革命の真実",
+      "url": "https://diamond-rm.net/life-career/542221/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-08-07",
+      "tags": []
+    },
+    {
+      "id": "diamond-983e0992",
+      "title": "アパレルチェーンの給与水準を決める4つの構図",
+      "url": "https://diamond-rm.net/management/businessplan/553737/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-08-07",
+      "tags": [
+        "アパレル"
+      ]
     },
     {
       "id": "ryutsuu-4e7c1db4",
@@ -3325,136 +3436,6 @@
         "オープン",
         "ライフ",
         "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-6d30d9ae",
-      "title": "ローソン／熊本県内で営業中の店舗に衛星通信・仮設トイレを支援",
-      "url": "https://www.ryutsuu.biz/strategy/s073120.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-07-31",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "ryutsuu-16de7395",
-      "title": "食品メーカー195社／8月は2311品目値上げ、中東情勢悪化が影響",
-      "url": "https://www.ryutsuu.biz/commodity/s073119.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-07-31",
-      "tags": [
-        "値上げ",
-        "食品"
-      ]
-    },
-    {
-      "id": "ryutsuu-fc6620fe",
-      "title": "オンワードHD／イオンモール熊本で従業員計3人の死亡判明",
-      "url": "https://www.ryutsuu.biz/store/s073111.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-31",
-      "tags": [
-        "イオン",
-        "モール"
-      ]
-    },
-    {
-      "id": "ryutsuu-959a5cf0",
-      "title": "サンドラッグ、ダイレックス／熊本県内8店舗の営業を再開、4店舗は臨時休業中",
-      "url": "https://www.ryutsuu.biz/store/s073141.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-31",
-      "tags": [
-        "サンドラッグ",
-        "ドラッグ"
-      ]
-    },
-    {
-      "id": "ryutsuu-bc01a4a0",
-      "title": "マツキヨココカラ＆カンパニー／熊本地震の影響で、5店舗が営業停止中",
-      "url": "https://www.ryutsuu.biz/store/s073148.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-31",
-      "tags": [
-        "マツキヨ"
-      ]
-    },
-    {
-      "id": "ryutsuu-ae961bd7",
-      "title": "コメリ／熊本県内5店舗の営業再開、営業休止中は4店舗",
-      "url": "https://www.ryutsuu.biz/store/s073149.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-07-31",
-      "tags": [
-        "コメリ"
-      ]
-    },
-    {
-      "id": "ryutsuu-5b68293e",
-      "title": "スーパーマーケット／6月既存店売上ライフ0.4％減、ヤオコー1.8％増",
-      "url": "https://www.ryutsuu.biz/sales/s073176.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-07-31",
-      "tags": [
-        "ヤオコー",
-        "スーパー",
-        "ライフ"
-      ]
-    },
-    {
-      "id": "ryutsuu-a0c005a6",
-      "title": "ZOZO 決算／4～6月増収増益、ZOZOTOWN事業の取扱高は3.6％増1260億円",
-      "url": "https://www.ryutsuu.biz/accounts/s073151.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-07-31",
-      "tags": [
-        "ZOZO",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-9a54c50d",
-      "title": "王将フード 決算／3月期営業利益52.8％減、前年のメディア露出の反動減・コスト増加",
-      "url": "https://www.ryutsuu.biz/accounts/s073179.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-07-31",
-      "tags": [
-        "営業利益",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-61c7d65f",
-      "title": "アルビス 決算／4～6月営業利益16％増、生産性向上やコスト見直しが奏功",
-      "url": "https://www.ryutsuu.biz/accounts/s073150.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-07-31",
-      "tags": [
-        "営業利益",
-        "決算"
       ]
     }
   ]
