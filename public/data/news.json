@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-09-13T02:35:18.449Z",
+  "lastUpdated": "2026-09-13T10:54:59.975Z",
   "items": [
+    {
+      "id": "ssnp-73f7e1d3",
+      "title": "機能性ヨーグルト市場、訴求は「万能型」から「特化型」へ 　「免疫」「脂肪」など特定領域を前面に\n\t\t\t\t\t\t\t\t\t\t\t\t機能性ヨーグルトの市場は、この数年、ほぼ横ばいで推移してきた。一方、商品開発や売場では変化が進んでいる。2026年度は「免疫」「脂肪」など特定の健康領域を訴求する商品が増え、複数の機能を前面に出す「万能型」から、ひとつの...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/milk/702235/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "milk",
+      "date": "2026-09-13",
+      "tags": []
+    },
     {
       "id": "ssnp-c1ab9f5e",
       "title": "全清飲、渋谷区と連携　自販機横リサイクルボックスの適正利用を啓発\n\t\t\t\t\t\t\t\t\t\t\t\t回収容器設置ルールを背景に連携、「MIYASHITA PARK」などで発信 全国清涼飲料連合会(全清飲、井辻秀剛会長)と渋谷区は、自動販売機横リサイクルボックス(RB)の適正利用に向けた啓発活動を共同で開始した。渋谷区が...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
@@ -15,15 +25,13 @@
     },
     {
       "id": "ssnp-f8236aa8",
-      "title": "UCC、熊本地震被災地で支援活動　約2,300人にコーヒーなど提供\n\t\t\t\t\t\t\t\t\t\t\t\tUCC上島珈琲は8月17～27日、令和8年熊本地震の被災地で支援活動を実施した。コーヒー抽出機能を備えた「UCCカフェスマイル号」を熊本県宇城市、八代市の避難所計15カ所に派遣し、避難生活を送る被災者にコーヒー飲料やドー...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "UCC、熊本地震被災地で支援活動　約2,300人にコーヒーなど提供\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/702223/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
       "date": "2026-09-13",
-      "tags": [
-        "飲料"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-e91f6be6",
@@ -255,6 +263,16 @@
       "tags": []
     },
     {
+      "id": "diamond-11b0a60c",
+      "title": "北海道・東北小売売上ランキング2026 人口減少加速する中、成長持続するチェーンは？",
+      "url": "https://diamond-rm.net/market/accounting/556492/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-09-11",
+      "tags": []
+    },
+    {
       "id": "diamond-8a51dc4a",
       "title": "クックマート、ブルーゾーン入り後初の新店！　「上西店」の売場をレポート",
       "url": "https://diamond-rm.net/store/557058/",
@@ -378,16 +396,6 @@
       "tags": [
         "食品"
       ]
-    },
-    {
-      "id": "diamond-11b0a60c",
-      "title": "北海道・東北小売売上ランキング2026 人口減少加速する中、成長持続するチェーンは？",
-      "url": "https://diamond-rm.net/market/accounting/556492/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-11",
-      "tags": []
     },
     {
       "id": "ssnp-f9095854",
@@ -1195,20 +1203,6 @@
       ]
     },
     {
-      "id": "diamond-b1758e52",
-      "title": "ホームセンター売上高ランキング2026　大型M&A続発で勢力図急変の兆し",
-      "url": "https://diamond-rm.net/market/accounting/556487/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-08",
-      "tags": [
-        "ホームセンター",
-        "M&A",
-        "売上高"
-      ]
-    },
-    {
       "id": "diamond-745f822e",
       "title": "【動画】9月1週目の注目ニュースまとめ、トライアル、ヤオコーの新店情報など",
       "url": "https://diamond-rm.net/management/businessplan/556831/",
@@ -1421,6 +1415,20 @@
       "date": "2026-09-08",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-b1758e52",
+      "title": "ホームセンター売上高ランキング2026　大型M&A続発で勢力図急変の兆し",
+      "url": "https://diamond-rm.net/market/accounting/556487/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-09-08",
+      "tags": [
+        "ホームセンター",
+        "M&A",
+        "売上高"
       ]
     },
     {
@@ -1827,9 +1835,9 @@
       ]
     },
     {
-      "id": "diamond-1f1b690f",
-      "title": "鍋スタイルの変化と2026年鍋商戦のポイント",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/554848/",
+      "id": "diamond-05690cf5",
+      "title": "米の価格が下がり始めた今、朝食メニューはどう変わったか",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/554847/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "sales-promotion",
@@ -1837,9 +1845,9 @@
       "tags": []
     },
     {
-      "id": "diamond-05690cf5",
-      "title": "米の価格が下がり始めた今、朝食メニューはどう変わったか",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/554847/",
+      "id": "diamond-1f1b690f",
+      "title": "鍋スタイルの変化と2026年鍋商戦のポイント",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/554848/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "sales-promotion",
@@ -3436,19 +3444,6 @@
         "決算",
         "増収",
         "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-75f2709a",
-      "title": "ゲオHD 決算／4～6月売上高は過去最高、ラグジュアリーなどリユースが好調",
-      "url": "https://www.ryutsuu.biz/accounts/s080650.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-08-06",
-      "tags": [
-        "売上高",
-        "決算"
       ]
     }
   ]
