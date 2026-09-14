@@ -1,6 +1,52 @@
 {
-  "lastUpdated": "2026-09-13T20:07:03.241Z",
+  "lastUpdated": "2026-09-14T02:51:20.134Z",
   "items": [
+    {
+      "id": "ryutsuu-9cc0c2b9",
+      "title": "コスモス薬品／栃木県・大阪府に「ドラッグコスモス」計2店舗、27年4月新設",
+      "url": "https://www.ryutsuu.biz/store/s0914011.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-14",
+      "tags": [
+        "コスモス薬品",
+        "ドラッグ"
+      ]
+    },
+    {
+      "id": "ryutsuu-1d70bc46",
+      "title": "DCM／8月の既存店売上高0.2％減、客数2.2％減",
+      "url": "https://www.ryutsuu.biz/sales/s091471.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-14",
+      "tags": [
+        "DCM",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-88fcbdad",
+      "title": "アイスクリーム 売上ランキング／8月はハーゲンダッツ「和のスイーツアソート」が1位",
+      "url": "https://www.ryutsuu.biz/pos/s091442.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-781628d7",
+      "title": "かゆみ・虫さされ用薬 売上ランキング／6～8月は池田模範堂「ムヒ」がトップ3独占",
+      "url": "https://www.ryutsuu.biz/pos/s091441.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-09-14",
+      "tags": []
+    },
     {
       "id": "diamond-0289c82a",
       "title": "さいたま市の超激戦区でファミリー需要に徹底対応！「ヤオコーロッテスクエア武蔵浦和店」を解剖",
@@ -40,8 +86,57 @@
       ]
     },
     {
+      "id": "ssnp-5b103b4a",
+      "title": "【かっぱ寿司】秋限定セット4種を7日間限定販売、単品注文より最大60円お得\n\t\t\t\t\t\t\t\t\t\t\t\t寿司チェーンの「かっぱ寿司」は、秋限定のセットメニュー4種を9月17日から9月23日まで販売する。販売は全国のかっぱ寿司店舗（一部改装中・休業中店舗を除く）。 〈秋限定セットメニュー4種を7日間限定販売〉 今回登場するの...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702271/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-14",
+      "tags": [
+        "改装"
+      ]
+    },
+    {
+      "id": "ssnp-ae93686c",
+      "title": "「ホイコール弁当～1日に必要な野菜1/2使用～」、創業60周年特別価格で提供【キッチンオリジン】\n\t\t\t\t\t\t\t\t\t\t\t\tイオングループのオリジン東秀は、弁当･惣菜専門店「キッチンオリジン」「オリジン弁当」で、9月14日から、創業60周年を記念した「ホイコール弁当」を販売する。 1966年9月14日に創業したオリジン東秀は、2026年に創業...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702262/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-14",
+      "tags": [
+        "イオン",
+        "専門店",
+        "惣菜",
+        "弁当"
+      ]
+    },
+    {
+      "id": "ssnp-101c3e1f",
+      "title": "素材としての豆乳に拡大余地、グローバルドリンクになることを目指す-日本豆乳協会\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/soy/702259/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "大豆",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "id": "ssnp-64e8499d",
+      "title": "てんや、持ち帰り「上天丼弁当」が600円　7日間限定「てんや Week!!」9月14日から\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702250/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-14",
+      "tags": [
+        "弁当"
+      ]
+    },
+    {
       "id": "ssnp-73f7e1d3",
-      "title": "機能性ヨーグルト市場、訴求は「万能型」から「特化型」へ 　「免疫」「脂肪」など特定領域を前面に\n\t\t\t\t\t\t\t\t\t\t\t\t機能性ヨーグルトの市場は、この数年、ほぼ横ばいで推移してきた。一方、商品開発や売場では変化が進んでいる。2026年度は「免疫」「脂肪」など特定の健康領域を訴求する商品が増え、複数の機能を前面に出す「万能型」から、ひとつの...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "機能性ヨーグルト市場、訴求は「万能型」から「特化型」へ 　「免疫」「脂肪」など特定領域を前面に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/milk/702235/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -51,15 +146,13 @@
     },
     {
       "id": "ssnp-c1ab9f5e",
-      "title": "全清飲、渋谷区と連携　自販機横リサイクルボックスの適正利用を啓発\n\t\t\t\t\t\t\t\t\t\t\t\t回収容器設置ルールを背景に連携、「MIYASHITA PARK」などで発信 全国清涼飲料連合会(全清飲、井辻秀剛会長)と渋谷区は、自動販売機横リサイクルボックス(RB)の適正利用に向けた啓発活動を共同で開始した。渋谷区が...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "全清飲、渋谷区と連携　自販機横リサイクルボックスの適正利用を啓発\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/702229/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
       "date": "2026-09-13",
-      "tags": [
-        "飲料"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-f8236aa8",
@@ -134,6 +227,21 @@
       "category": "菓子",
       "date": "2026-09-12",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-3da4d35a",
+      "title": "コンビニアパレル／ファミマ先行・ローソン猛追・セブン参戦、わざわざ買いに行く服へ",
+      "url": "https://www.ryutsuu.biz/strategy/s091143.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-09-11",
+      "tags": [
+        "注目",
+        "ローソン",
+        "コンビニ",
+        "アパレル"
+      ]
     },
     {
       "id": "ryutsuu-e00fe8d0",
@@ -265,40 +373,6 @@
         "しまむら",
         "売上高"
       ]
-    },
-    {
-      "id": "ryutsuu-e592503f",
-      "title": "JR西日本／大阪駅にメーク直し・仕事・休憩に対応する駅ナカ空間オープン",
-      "url": "https://www.ryutsuu.biz/store/s091118.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-11",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-17ae8ae5",
-      "title": "オンデーズ／三重県4店舗目「OWNDAYS そよら津桜橋店」オープン",
-      "url": "https://www.ryutsuu.biz/store/s091177.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-11",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-471cd967",
-      "title": "トイレ用洗剤 売上ランキング／6月～8月1位は花王「除菌洗浄トイレハイター」",
-      "url": "https://www.ryutsuu.biz/pos/s091171.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-09-11",
-      "tags": []
     },
     {
       "id": "diamond-11b0a60c",
@@ -601,6 +675,40 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-e592503f",
+      "title": "JR西日本／大阪駅にメーク直し・仕事・休憩に対応する駅ナカ空間オープン",
+      "url": "https://www.ryutsuu.biz/store/s091118.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-11",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-17ae8ae5",
+      "title": "オンデーズ／三重県4店舗目「OWNDAYS そよら津桜橋店」オープン",
+      "url": "https://www.ryutsuu.biz/store/s091177.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-11",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-471cd967",
+      "title": "トイレ用洗剤 売上ランキング／6月～8月1位は花王「除菌洗浄トイレハイター」",
+      "url": "https://www.ryutsuu.biz/pos/s091171.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-09-11",
+      "tags": []
+    },
+    {
       "id": "diamond-23229988",
       "title": "イオン北海道・小寺社長が明かした「北海道ローカルとしての”覚悟”」",
       "url": "https://diamond-rm.net/management/topinterview/556475/",
@@ -611,61 +719,6 @@
       "tags": [
         "イオン",
         "社長"
-      ]
-    },
-    {
-      "id": "ryutsuu-6f893930",
-      "title": "平和堂／「アルプラフーズマーケット富山掛尾」オープン、富山県に食品スーパー初出店",
-      "url": "https://www.ryutsuu.biz/store/s091042.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-10",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "オープン",
-        "食品",
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-d19df64b",
-      "title": "二子玉川ライズS.C.／今秋「マリークワント」「プリンセスタルト」など新規オープン",
-      "url": "https://www.ryutsuu.biz/store/s091077.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-10",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-5815973b",
-      "title": "グランベリーパーク／秋リニューアルを実施、ラベンハムなど12店舗がオープン",
-      "url": "https://www.ryutsuu.biz/store/s091045.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-10",
-      "tags": [
-        "リニューアル",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-f73b0836",
-      "title": "イオン／ベトナム・ハイフォン市に「ハイズオンショッピングセンター」オープン",
-      "url": "https://www.ryutsuu.biz/abroad/s091048.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "abroad",
-      "date": "2026-09-10",
-      "tags": [
-        "ショッピングセンター",
-        "オープン",
-        "イオン"
       ]
     },
     {
@@ -897,6 +950,61 @@
       ]
     },
     {
+      "id": "ryutsuu-6f893930",
+      "title": "平和堂／「アルプラフーズマーケット富山掛尾」オープン、富山県に食品スーパー初出店",
+      "url": "https://www.ryutsuu.biz/store/s091042.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-10",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "オープン",
+        "食品",
+        "出店"
+      ]
+    },
+    {
+      "id": "ryutsuu-d19df64b",
+      "title": "二子玉川ライズS.C.／今秋「マリークワント」「プリンセスタルト」など新規オープン",
+      "url": "https://www.ryutsuu.biz/store/s091077.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-10",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-5815973b",
+      "title": "グランベリーパーク／秋リニューアルを実施、ラベンハムなど12店舗がオープン",
+      "url": "https://www.ryutsuu.biz/store/s091045.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-10",
+      "tags": [
+        "リニューアル",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-f73b0836",
+      "title": "イオン／ベトナム・ハイフォン市に「ハイズオンショッピングセンター」オープン",
+      "url": "https://www.ryutsuu.biz/abroad/s091048.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "abroad",
+      "date": "2026-09-10",
+      "tags": [
+        "ショッピングセンター",
+        "オープン",
+        "イオン"
+      ]
+    },
+    {
       "id": "diamond-2cf46b90",
       "title": "週刊スーパーマーケットニュース　ライフ、アルビスを連結子会社化へ",
       "url": "https://diamond-rm.net/management/businessplan/557504/",
@@ -936,6 +1044,16 @@
         "ライフ",
         "買収"
       ]
+    },
+    {
+      "id": "ryutsuu-1617577f",
+      "title": "インスタント袋麺 売上ランキング／6～8月「サッポロ一番 塩らーめん」が1位",
+      "url": "https://www.ryutsuu.biz/pos/s090951.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-09-09",
+      "tags": []
     },
     {
       "id": "ryutsuu-b877fab3",
@@ -1999,16 +2117,6 @@
       ]
     },
     {
-      "id": "ryutsuu-8d8b6fcb",
-      "title": "虫よけ 売上ランキング／5月～7月は1位フマキラー「スキンベープミスト」",
-      "url": "https://www.ryutsuu.biz/pos/s082571.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-08-25",
-      "tags": []
-    },
-    {
       "id": "diamond-3a2932a9",
       "title": "業態別　主要店舗月次実績＝2026年7月度",
       "url": "https://diamond-rm.net/retaildata/555130/",
@@ -2075,6 +2183,16 @@
       "tags": [
         "百貨店"
       ]
+    },
+    {
+      "id": "ryutsuu-8d8b6fcb",
+      "title": "虫よけ 売上ランキング／5月～7月は1位フマキラー「スキンベープミスト」",
+      "url": "https://www.ryutsuu.biz/pos/s082571.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-08-25",
+      "tags": []
     },
     {
       "id": "diamond-a3a1b698",
@@ -3328,121 +3446,6 @@
       "category": "foodservice",
       "date": "2026-08-06",
       "tags": []
-    },
-    {
-      "id": "ssnp-11da38e1",
-      "title": "「セブンプレミアム まるで和梨」発売、和梨のみずみずしさとシャリシャリとした食感･味わいをアイスで表現\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/696713/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e8bc2952",
-      "title": "バーガーキング、特製ガーリックマヨソース使用の新作超大型チーズバーガー発売　総カロリー1656kcal\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/696692/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-08235035",
-      "title": "ローソン、「ハッピーローソンタウン」東日本1号店を都内に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/696707/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-08-06",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "ssnp-09d7668c",
-      "title": "ファミリーマート、今年2度目の増量キャンペーン、「ファミチキ」など13品目対象\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/696701/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-08-06",
-      "tags": [
-        "ファミリーマート"
-      ]
-    },
-    {
-      "id": "ssnp-c409057a",
-      "title": "【USSEC日本副代表インタビュー】SSAP認証マークはSUSSマークとして普及へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/696685/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-08-06",
-      "tags": [
-        "EC"
-      ]
-    },
-    {
-      "id": "ssnp-1f34423e",
-      "title": "【はなまるうどんの日】大海老天3本「はなまる感謝うどん」870円で発売、約300円お得 サンリオ「はなまるおばけ」初コラボも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/696671/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e13fd1c9",
-      "title": "夏季休業･休刊のお知らせ/食品産業新聞社",
-      "url": "https://www.ssnp.co.jp/release/696788/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "release",
-      "date": "2026-08-06",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-ccdea1d7",
-      "title": "マミーマート、栃木県内4店舗目の「生鮮市場TOP!」出店【週刊スーパーマーケットニュース】",
-      "url": "https://diamond-rm.net/management/businessplan/553896/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-06",
-      "tags": [
-        "スーパー",
-        "生鮮",
-        "出店"
-      ]
-    },
-    {
-      "id": "diamond-21794e3b",
-      "title": "第１５０回　渥美君も相当な男ですなあ",
-      "url": "https://diamond-rm.net/life-career/542220/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-fc10c7b8",
-      "title": "日本ショッピングセンター協会／26年上期は新規18施設オープン、コト消費化が加速",
-      "url": "https://www.ryutsuu.biz/store/s080613.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-08-06",
-      "tags": [
-        "ショッピングセンター",
-        "オープン"
-      ]
     }
   ]
 }
