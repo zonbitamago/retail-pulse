@@ -1,6 +1,43 @@
 {
-  "lastUpdated": "2026-09-14T11:27:49.955Z",
+  "lastUpdated": "2026-09-14T17:24:36.021Z",
   "items": [
+    {
+      "id": "ryutsuu-fd962d49",
+      "title": "ホットランド／「銀だこハイボール酒場 渋谷センター街店」9月15日オープン",
+      "url": "https://www.ryutsuu.biz/store/s091413.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-15",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-e234bc02",
+      "title": "ファミマ／「おにぎりorパン＋飲料」で税込250円、朝限定「コンビ割」9月15日開始",
+      "url": "https://www.ryutsuu.biz/commodity/s091447.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-09-15",
+      "tags": [
+        "飲料"
+      ]
+    },
+    {
+      "id": "ryutsuu-8d1f33a4",
+      "title": "ヤオコー／千葉県船橋市に「船橋薬円台店」9月15日オープン",
+      "url": "https://www.ryutsuu.biz/store/s091116.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-15",
+      "tags": [
+        "ヤオコー",
+        "オープン"
+      ]
+    },
     {
       "id": "ryutsuu-879fdf07",
       "title": "中川政七商店／初のM＆A、兵庫県のかばんメーカー「バッグワークス」取得",
@@ -3398,41 +3435,6 @@
       "tags": [
         "オープン"
       ]
-    },
-    {
-      "id": "diamond-2393d90f",
-      "title": "売れたのに、受け取られない……ECの”意外な盲点”に挑むRecustomerの革新性",
-      "url": "https://diamond-rm.net/ec-epayment/550855/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "ec-epayment",
-      "date": "2026-08-06",
-      "tags": [
-        "EC"
-      ]
-    },
-    {
-      "id": "ryutsuu-7259449b",
-      "title": "ハンズ／AI接客サービス開始、2万SKUの商品選びを「てて丸」がサポート",
-      "url": "https://www.ryutsuu.biz/it/s080611.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-08-06",
-      "tags": [
-        "注目",
-        "AI"
-      ]
-    },
-    {
-      "id": "ryutsuu-7ae74b3f",
-      "title": "ハンズ／創業50周年祭を開催、東レやウルトラマンとの限定コラボも",
-      "url": "https://www.ryutsuu.biz/commodity/s080612.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-08-06",
-      "tags": []
     }
   ]
 }
