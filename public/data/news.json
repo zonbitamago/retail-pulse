@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-09-14T02:51:20.134Z",
+  "lastUpdated": "2026-09-14T11:27:49.955Z",
   "items": [
+    {
+      "id": "ryutsuu-879fdf07",
+      "title": "中川政七商店／初のM＆A、兵庫県のかばんメーカー「バッグワークス」取得",
+      "url": "https://www.ryutsuu.biz/strategy/s091414.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-09-14",
+      "tags": []
+    },
     {
       "id": "ryutsuu-9cc0c2b9",
       "title": "コスモス薬品／栃木県・大阪府に「ドラッグコスモス」計2店舗、27年4月新設",
@@ -12,6 +22,34 @@
       "tags": [
         "コスモス薬品",
         "ドラッグ"
+      ]
+    },
+    {
+      "id": "ryutsuu-34f4c0a5",
+      "title": "アインHD 決算／5～7月増収増益、リテール事業は客単価が上昇",
+      "url": "https://www.ryutsuu.biz/accounts/s091416.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-09-14",
+      "tags": [
+        "アインHD",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "ryutsuu-1f7dd71f",
+      "title": "牛カツ京都勝牛／京都市伏見区に「伏見稲荷大社前店」オープン、大鳥居正面に出店",
+      "url": "https://www.ryutsuu.biz/store/s091444.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-14",
+      "tags": [
+        "オープン",
+        "出店"
       ]
     },
     {
@@ -86,29 +124,181 @@
       ]
     },
     {
+      "id": "diamond-c1964d8f",
+      "title": "第１７７回　尾崎咢堂の死",
+      "url": "https://diamond-rm.net/life-career/542247/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "id": "diamond-aa82aee1",
+      "title": "【オンラインセミナー】販売・在庫・会計データをつなぐ。商社・卸のAI活用を支えるERP基盤",
+      "url": "https://diamond-rm.net/seminar/556552/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "seminar",
+      "date": "2026-09-14",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ssnp-fda22435",
+      "title": "ナルミヤキャラクターズのオリジナルぷっくりシールがもらえるキャンペーン開催!【ゼッテリア】\n\t\t\t\t\t\t\t\t\t\t\t\tハンバーガーショップ「ゼッテリア」は、ナルミヤ･インターナショナルが展開するブランドキャラクター「ナルミヤキャラクターズ」とコラボレーションした「ZETTERIA Burger Partyわくわくセット」第2弾を、9月1...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702441/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "id": "ssnp-af70d96d",
+      "title": "ローソン「Tops」監修スイーツ＆ベーカリー2品発売　ショコラオムレット300円、初のコラボクロワッサンも\n\t\t\t\t\t\t\t\t\t\t\t\tローソンは9月15日から順次、1964年創業の老舗レストラン・洋菓子店「Tops（トップス）」が監修したスイーツ・ベーカリー計2品を、関東エリアで発売する。 ラインアップは、スイーツの「Uchi Caféチョコクリーム ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/702446/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-09-14",
+      "tags": [
+        "ローソン",
+        "菓子"
+      ]
+    },
+    {
+      "id": "ssnp-886d2ebd",
+      "title": "ファミマ限定「にゃんともおいしいベイクドチーズタルト」予約開始　ねこ型ケーキにトートバッグ＆限定ボックス付き、3,980円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/702427/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "id": "ssnp-75cc12b7",
+      "title": "「ほっともっと」地域限定でごはん大盛・中盛が並盛と同価格に、9月15日から12月31日まで大盛無料\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702416/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "id": "ssnp-9cf28332",
+      "title": "昨年3カ月で完売の「UCC DRIP POD 鑑定士の誇り ミルクにあうブレンド」秋冬限定で再発売、植物性ミルクアレンジのプロレシピを新提案\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/702353/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-09-14",
+      "tags": [
+        "植物性"
+      ]
+    },
+    {
+      "id": "ssnp-d1b4391a",
+      "title": "マリオンクレープ50周年、「復刻クレープ」5種を店舗限定販売　10月21日は「バナナチョコクリーム」を特別価格で\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/702385/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "id": "ssnp-f738785c",
+      "title": "【スシロー】「びんとろ」「焼とろサーモン」が110円～、さんまや帆立、天然えびなど秋の味覚も登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702375/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "id": "ssnp-f0dfa381",
+      "title": "ロイヤルホスト55周年「秋のグリル料理」開始　ポワヴル・ヴェール、マディラ、シャスールなど伝統ソースを味わう\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702362/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "id": "ssnp-33beedf4",
+      "title": "カフェ･ド･クリエ、秋限定 “洋なし×キャラメル” のロイヤルミルクティーが登場　新作メニューを全4品発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702319/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "id": "ssnp-81dc458e",
+      "title": "ハーゲンダッツから新作、たっぷりの芋蜜ソースを重ねた「濃蜜いも」9月15日発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/milk/702333/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "milk",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "id": "ssnp-53fd252d",
+      "title": "ギンビス「しみチョココーンMASHIMASHI」など秋の新商品発売　シナモン香る新フレーバーやモンブラン味の「たべっ子どうぶつ」も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/702309/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "id": "ssnp-6322e930",
+      "title": "ドミノ・ピザ創業41周年「大創業祭」開催　ピザ2枚目無料、S→Mサイズアップ無料など9月18日から13日間\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702294/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "id": "ssnp-cd443f00",
+      "title": "【ファミマ】累計販売数2,900万食超のパンシリーズ新作、「も～っちり食感キーマカレーパン」登場　期間限定の10円引き企画も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/702278/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
       "id": "ssnp-5b103b4a",
-      "title": "【かっぱ寿司】秋限定セット4種を7日間限定販売、単品注文より最大60円お得\n\t\t\t\t\t\t\t\t\t\t\t\t寿司チェーンの「かっぱ寿司」は、秋限定のセットメニュー4種を9月17日から9月23日まで販売する。販売は全国のかっぱ寿司店舗（一部改装中・休業中店舗を除く）。 〈秋限定セットメニュー4種を7日間限定販売〉 今回登場するの...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【かっぱ寿司】秋限定セット4種を7日間限定販売、単品注文より最大60円お得\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/702271/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-09-14",
-      "tags": [
-        "改装"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-ae93686c",
-      "title": "「ホイコール弁当～1日に必要な野菜1/2使用～」、創業60周年特別価格で提供【キッチンオリジン】\n\t\t\t\t\t\t\t\t\t\t\t\tイオングループのオリジン東秀は、弁当･惣菜専門店「キッチンオリジン」「オリジン弁当」で、9月14日から、創業60周年を記念した「ホイコール弁当」を販売する。 1966年9月14日に創業したオリジン東秀は、2026年に創業...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "「ホイコール弁当～1日に必要な野菜1/2使用～」、創業60周年特別価格で提供【キッチンオリジン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/702262/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-09-14",
       "tags": [
-        "イオン",
-        "専門店",
-        "惣菜",
         "弁当"
       ]
     },
@@ -271,70 +461,6 @@
       ]
     },
     {
-      "id": "ryutsuu-e5e13bb7",
-      "title": "池袋パルコ／大規模リニューアル完了「ウルトラマンストア」など今秋15店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s091176.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-11",
-      "tags": [
-        "リニューアル",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-628da1f4",
-      "title": "仙台パルコ／秋冬リニューアルで新規含む16店舗オープン、PARCO2では飲食強化",
-      "url": "https://www.ryutsuu.biz/store/s091175.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-11",
-      "tags": [
-        "リニューアル",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-9bc66344",
-      "title": "あべのハルカス近鉄本店／10～11月、子ども服フロアの大規模リニューアル開始",
-      "url": "https://www.ryutsuu.biz/store/s091114.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-11",
-      "tags": [
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "ryutsuu-9fafb9b6",
-      "title": "ファミマ／ベトナム・ハノイに初オープン、今年度市内20店舗の出店を目指す",
-      "url": "https://www.ryutsuu.biz/abroad/s091173.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "abroad",
-      "date": "2026-09-11",
-      "tags": [
-        "オープン",
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-70130aff",
-      "title": "コスモス薬品／福岡県・島根県に「ドラッグコスモス」計2店舗、27年4月新設",
-      "url": "https://www.ryutsuu.biz/store/s0911012.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-11",
-      "tags": [
-        "コスモス薬品",
-        "ドラッグ"
-      ]
-    },
-    {
       "id": "ryutsuu-8dc8088c",
       "title": "流通経済研究所／「営業マネージャー育成講座」11月5・11・19日東京で開催",
       "url": "https://www.ryutsuu.biz/seminar/s091174.html",
@@ -347,34 +473,6 @@
       ]
     },
     {
-      "id": "ryutsuu-827e8572",
-      "title": "大手百貨店／8月売上高H2O6.8％増、J.フロント0.6％減",
-      "url": "https://www.ryutsuu.biz/sales/s091111.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-09-11",
-      "tags": [
-        "H2O",
-        "百貨店",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-7504189d",
-      "title": "カジュアル衣料4社／8月の既存店売上高はユニクロ1.3％減、しまむら5.3％増",
-      "url": "https://www.ryutsuu.biz/sales/s091142.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-09-11",
-      "tags": [
-        "ユニクロ",
-        "しまむら",
-        "売上高"
-      ]
-    },
-    {
       "id": "diamond-11b0a60c",
       "title": "北海道・東北小売売上ランキング2026 人口減少加速する中、成長持続するチェーンは？",
       "url": "https://diamond-rm.net/market/accounting/556492/",
@@ -383,18 +481,6 @@
       "category": "市場動向",
       "date": "2026-09-11",
       "tags": []
-    },
-    {
-      "id": "diamond-8a51dc4a",
-      "title": "クックマート、ブルーゾーン入り後初の新店！　「上西店」の売場をレポート",
-      "url": "https://diamond-rm.net/store/557058/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-11",
-      "tags": [
-        "新店"
-      ]
     },
     {
       "id": "diamond-9eb3652d",
@@ -482,6 +568,18 @@
       "date": "2026-09-11",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-8a51dc4a",
+      "title": "クックマート、ブルーゾーン入り後初の新店！　「上西店」の売場をレポート",
+      "url": "https://diamond-rm.net/store/557058/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-11",
+      "tags": [
+        "新店"
       ]
     },
     {
@@ -673,6 +771,98 @@
       "category": "流通",
       "date": "2026-09-11",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-e5e13bb7",
+      "title": "池袋パルコ／大規模リニューアル完了「ウルトラマンストア」など今秋15店舗オープン",
+      "url": "https://www.ryutsuu.biz/store/s091176.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-11",
+      "tags": [
+        "リニューアル",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-628da1f4",
+      "title": "仙台パルコ／秋冬リニューアルで新規含む16店舗オープン、PARCO2では飲食強化",
+      "url": "https://www.ryutsuu.biz/store/s091175.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-11",
+      "tags": [
+        "リニューアル",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-9bc66344",
+      "title": "あべのハルカス近鉄本店／10～11月、子ども服フロアの大規模リニューアル開始",
+      "url": "https://www.ryutsuu.biz/store/s091114.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-11",
+      "tags": [
+        "リニューアル"
+      ]
+    },
+    {
+      "id": "ryutsuu-9fafb9b6",
+      "title": "ファミマ／ベトナム・ハノイに初オープン、今年度市内20店舗の出店を目指す",
+      "url": "https://www.ryutsuu.biz/abroad/s091173.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "abroad",
+      "date": "2026-09-11",
+      "tags": [
+        "オープン",
+        "出店"
+      ]
+    },
+    {
+      "id": "ryutsuu-70130aff",
+      "title": "コスモス薬品／福岡県・島根県に「ドラッグコスモス」計2店舗、27年4月新設",
+      "url": "https://www.ryutsuu.biz/store/s0911012.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-11",
+      "tags": [
+        "コスモス薬品",
+        "ドラッグ"
+      ]
+    },
+    {
+      "id": "ryutsuu-827e8572",
+      "title": "大手百貨店／8月売上高H2O6.8％増、J.フロント0.6％減",
+      "url": "https://www.ryutsuu.biz/sales/s091111.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-11",
+      "tags": [
+        "H2O",
+        "百貨店",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-7504189d",
+      "title": "カジュアル衣料4社／8月の既存店売上高はユニクロ1.3％減、しまむら5.3％増",
+      "url": "https://www.ryutsuu.biz/sales/s091142.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-11",
+      "tags": [
+        "ユニクロ",
+        "しまむら",
+        "売上高"
+      ]
     },
     {
       "id": "ryutsuu-e592503f",
@@ -3241,209 +3431,6 @@
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "商品",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-afbd6272",
-      "title": "小売未来Days2026／イオン、セブン、ファミマ、トライアル、ベイシア、日清食品など登壇9月9～11日開催",
-      "url": "https://www.ryutsuu.biz/seminar/s080674.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-08-06",
-      "tags": [
-        "PR",
-        "トライアル",
-        "ベイシア",
-        "イオン",
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-91504877",
-      "title": "オリジナル商品を全国に広めたい――異色の金物専門店「秀久」、待望の2号店を愛知県に出店",
-      "url": "https://diamond-rm.net/management/businessplan/553533/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-06",
-      "tags": [
-        "専門店",
-        "出店"
-      ]
-    },
-    {
-      "id": "diamond-cfccb4ce",
-      "title": "スーパー3団体統計発表レポート　京阪ザ・ストア達川社長が好調の「スイーツ専門店」を語る",
-      "url": "https://diamond-rm.net/market/552840/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-08-06",
-      "tags": [
-        "スーパー",
-        "専門店",
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-943622b2",
-      "title": "ますます高まるサプライチェーン上のサイバーリスク　”業界横断型”の対応が拡大",
-      "url": "https://diamond-rm.net/management/553732/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-289cf0e6",
-      "title": "伊藤園、「お～いお茶」に日本茶GIマーク 表示製品で受理第1号、9月から展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/696911/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e1bc292d",
-      "title": "すき家、「Sukiシェイク マスカット」発売 マスカット･オブ･アレキサンドリア果汁使用の夏限定フレーバー\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/696905/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-a3eb1f3c",
-      "title": "富士そば、完売していた「冷凍生そば」を再販決定 / 関東風の濃口醤油つゆ付で、東京以外でも富士そばの味が楽しめる\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/696892/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-fa93f4ec",
-      "title": "アサヒ飲料「green cola」、年間販売目標を4倍の200万箱に 累計60万箱突破\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/696807/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-08-06",
-      "tags": [
-        "飲料"
-      ]
-    },
-    {
-      "id": "ssnp-901c2dfd",
-      "title": "ローソン「からあげクン」50億食突破　40周年で達成、2個増量キャンペーンも実施中\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/696863/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-08-06",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "ssnp-21f685c2",
-      "title": "木曽路、肉1.5倍の好評企画「キソジナイト」を追加開催　水・日曜夜限定でしゃぶしゃぶ・すきやきが増量\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/696853/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-0b52ca91",
-      "title": "くら寿司×「ミニオンズ」初コラボ、限定メニュー・先着30万人グッズ配布・「ビッくらポン！」景品を展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/696836/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f9073aef",
-      "title": "東洋食品、宇城市に保存水やアルファ化米などを提供、人的支援も視野に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/feeding/696826/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "feeding",
-      "date": "2026-08-06",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "ssnp-945ecab7",
-      "title": "「ロイヤルミルクティーのサンダー」ウバ&アッサムの茶葉をブレンドした香り高い紅茶の風味【有楽製菓】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/696791/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-7fdc7e0f",
-      "title": "「メルシャン・ワインズ」初の国内製造スティルワイン「ダンデライオン」で新提案\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/liquor/696793/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "liquor",
-      "date": "2026-08-06",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
-      "id": "ssnp-3a841126",
-      "title": "松屋、牛肉を焼き上げた“ド直球”の新作2品 「牛カルビホルモン丼」「牛焼肉丼」を販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/696780/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-08-06",
-      "tags": [
-        "松屋"
-      ]
-    },
-    {
-      "id": "ssnp-1056550f",
-      "title": "タリーズコーヒー初のインストアベーカリー、新宿に「PRIME FIVE」3号店　創業30周年の旗艦店にむけ新たな挑戦\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/696764/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-6358429a",
-      "title": "【3日間限定・30円引き】セブン‐イレブン「からあげ棒」「アメリカンドッグ」セール開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/696742/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-08-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-cd46c9e4",
-      "title": "ドミノ・ピザ「裏ドミノ」を期間限定で販売、看板メニューを魔改造\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/696725/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
       "date": "2026-08-06",
       "tags": []
     }
