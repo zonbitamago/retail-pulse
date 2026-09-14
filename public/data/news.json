@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T17:24:36.021Z",
+  "lastUpdated": "2026-09-14T21:17:17.000Z",
   "items": [
     {
       "id": "ryutsuu-fd962d49",
@@ -36,6 +36,64 @@
       "tags": [
         "ヤオコー",
         "オープン"
+      ]
+    },
+    {
+      "id": "diamond-19ca6eba",
+      "title": "ライフのアルビスTOBで何がどう変わる？両社の深謀を流通アナリストが解説",
+      "url": "https://diamond-rm.net/management/557773/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-15",
+      "tags": [
+        "ライフ",
+        "TOB"
+      ]
+    },
+    {
+      "id": "diamond-f89f25fb",
+      "title": "ユニクロ報道と不買運動、実は「同じ台本」で動いていた",
+      "url": "https://diamond-rm.net/management/businessplan/557512/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-15",
+      "tags": [
+        "ユニクロ"
+      ]
+    },
+    {
+      "id": "diamond-966fbe0e",
+      "title": "マーケティング・マネジメントのモデルを機能させる組織のつくり方",
+      "url": "https://diamond-rm.net/management/marketing/556468/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-0eec22d1",
+      "title": "トレードマーケティングの要諦　「売上レバー×属性」で勝ち方を決める！",
+      "url": "https://diamond-rm.net/management/marketing/556467/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-bdd021ca",
+      "title": "ファミリーマート、ストアスタッフの採用体制を強化【週刊コンビニエンスストアニュース】",
+      "url": "https://diamond-rm.net/management/557813/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-15",
+      "tags": [
+        "ファミリーマート",
+        "コンビニ"
       ]
     },
     {
@@ -148,6 +206,16 @@
       ]
     },
     {
+      "id": "diamond-c1964d8f",
+      "title": "第１７７回　尾崎咢堂の死",
+      "url": "https://diamond-rm.net/life-career/542247/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
       "id": "diamond-b39a675f",
       "title": "リテールメディアの最前線に迫る「リテールメディアサミット2026」11月11・12日に開催",
       "url": "https://diamond-rm.net/technology/557559/",
@@ -159,16 +227,6 @@
         "リテールメディア",
         "サミット"
       ]
-    },
-    {
-      "id": "diamond-c1964d8f",
-      "title": "第１７７回　尾崎咢堂の死",
-      "url": "https://diamond-rm.net/life-career/542247/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-09-14",
-      "tags": []
     },
     {
       "id": "diamond-aa82aee1",
@@ -540,6 +598,30 @@
       "tags": []
     },
     {
+      "id": "diamond-8a51dc4a",
+      "title": "クックマート、ブルーゾーン入り後初の新店！　「上西店」の売場をレポート",
+      "url": "https://diamond-rm.net/store/557058/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-11",
+      "tags": [
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-ca92d85c",
+      "title": "マルトがいわき市のスマートタウンに出店へ！【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/large-scaleretailstorelaw/557391/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-11",
+      "tags": [
+        "出店"
+      ]
+    },
+    {
       "id": "diamond-5ebd66b6",
       "title": "九州・沖縄小売ランキング2026　トライアル、コスモス薬品が大幅増収",
       "url": "https://diamond-rm.net/market/accounting/556497/",
@@ -605,30 +687,6 @@
       "date": "2026-09-11",
       "tags": [
         "食品"
-      ]
-    },
-    {
-      "id": "diamond-8a51dc4a",
-      "title": "クックマート、ブルーゾーン入り後初の新店！　「上西店」の売場をレポート",
-      "url": "https://diamond-rm.net/store/557058/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-11",
-      "tags": [
-        "新店"
-      ]
-    },
-    {
-      "id": "diamond-ca92d85c",
-      "title": "マルトがいわき市のスマートタウンに出店へ！【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/large-scaleretailstorelaw/557391/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-11",
-      "tags": [
-        "出店"
       ]
     },
     {
@@ -1574,18 +1632,6 @@
       "tags": []
     },
     {
-      "id": "diamond-91c27ad2",
-      "title": "なぜ、大流行りの「AI導入」は現場で止まるのか　誰も語らなかった開発現場の実態",
-      "url": "https://diamond-rm.net/technology/ai/555856/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-09-08",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
       "id": "diamond-745f822e",
       "title": "【動画】9月1週目の注目ニュースまとめ、トライアル、ヤオコーの新店情報など",
       "url": "https://diamond-rm.net/management/businessplan/556831/",
@@ -1608,6 +1654,18 @@
       "category": "テクノロジー",
       "date": "2026-09-08",
       "tags": []
+    },
+    {
+      "id": "diamond-91c27ad2",
+      "title": "なぜ、大流行りの「AI導入」は現場で止まるのか　誰も語らなかった開発現場の実態",
+      "url": "https://diamond-rm.net/technology/ai/555856/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-09-08",
+      "tags": [
+        "AI"
+      ]
     },
     {
       "id": "diamond-26b03467",
@@ -3379,62 +3437,6 @@
       "category": "大豆",
       "date": "2026-08-07",
       "tags": []
-    },
-    {
-      "id": "ssnp-29c5024a",
-      "title": "「爽やかレモンもこ」「かじるレモンチーズケーキ」爽やかなレモンスイーツ2品を発売【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/696930/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-08-07",
-      "tags": []
-    },
-    {
-      "id": "diamond-1feef03a",
-      "title": "第１５１回　流通革命の真実",
-      "url": "https://diamond-rm.net/life-career/542221/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-08-07",
-      "tags": []
-    },
-    {
-      "id": "diamond-983e0992",
-      "title": "アパレルチェーンの給与水準を決める4つの構図",
-      "url": "https://diamond-rm.net/management/businessplan/553737/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-07",
-      "tags": [
-        "アパレル"
-      ]
-    },
-    {
-      "id": "ryutsuu-4e7c1db4",
-      "title": "大阪・クボタ旧本社跡地／多目的アリーナを核とする商業などの複合開発32年以降オープン",
-      "url": "https://www.ryutsuu.biz/store/s080771.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-08-07",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-8d02d9f9",
-      "title": "オニツカタイガー／名古屋駅前に新旗艦店「Onitsuka Tiger 名古屋」8月7日オープン",
-      "url": "https://www.ryutsuu.biz/store/s080671.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-08-07",
-      "tags": [
-        "オープン"
-      ]
     }
   ]
 }
