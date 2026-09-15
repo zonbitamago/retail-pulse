@@ -1,6 +1,55 @@
 {
-  "lastUpdated": "2026-09-15T16:02:07.410Z",
+  "lastUpdated": "2026-09-15T20:45:00.714Z",
   "items": [
+    {
+      "id": "diamond-c95fedb9",
+      "title": "PPIHとトライアルHDの通期決算を大解剖！　強力な成長の源泉と背景",
+      "url": "https://diamond-rm.net/market/accounting/556470/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-09-16",
+      "tags": [
+        "トライアル",
+        "PPIH",
+        "決算"
+      ]
+    },
+    {
+      "id": "diamond-7f99e629",
+      "title": "マミーマートがさいたま市見沼区に約1800㎡の新店をオープンへ【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/557902/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-16",
+      "tags": [
+        "オープン",
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-404aae72",
+      "title": "イノベーションとは、「行動を変えさせない」ことなのかもしれない",
+      "url": "https://diamond-rm.net/sales-promotion/557716/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "id": "diamond-717f4608",
+      "title": "青果の「品質安定」を追求するためにバイヤーが今やるべきこと",
+      "url": "https://diamond-rm.net/sales-promotion/buyer/556471/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-09-16",
+      "tags": [
+        "青果"
+      ]
+    },
     {
       "id": "ryutsuu-1909a319",
       "title": "ららぽーと豊洲／9～10月8店舗新規・改装オープン、20周年記念でショップ別特典も",
@@ -145,16 +194,6 @@
       ]
     },
     {
-      "id": "diamond-47be9090",
-      "title": "【DCS最新号】9月15日号は「日本の小売業1000社ランキング2026」",
-      "url": "https://diamond-rm.net/market/accounting/557609/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-15",
-      "tags": []
-    },
-    {
       "id": "diamond-8ababeb0",
       "title": "【動画】9月2週目の注目ニュースまとめ、ライフTOBなど",
       "url": "https://diamond-rm.net/management/businessplan/557796/",
@@ -220,6 +259,16 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "sales-promotion",
+      "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-47be9090",
+      "title": "【DCS最新号】9月15日号は「日本の小売業1000社ランキング2026」",
+      "url": "https://diamond-rm.net/market/accounting/557609/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
       "date": "2026-09-15",
       "tags": []
     },
@@ -505,19 +554,6 @@
       ]
     },
     {
-      "id": "diamond-98c8c6d0",
-      "title": "セブン-イレブン、アンドエスティHDと協業しアパレル参入のねらい",
-      "url": "https://diamond-rm.net/management/businessplan/557626/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-14",
-      "tags": [
-        "セブン-イレブン",
-        "アパレル"
-      ]
-    },
-    {
       "id": "diamond-b39a675f",
       "title": "リテールメディアの最前線に迫る「リテールメディアサミット2026」11月11・12日に開催",
       "url": "https://diamond-rm.net/technology/557559/",
@@ -528,6 +564,19 @@
       "tags": [
         "リテールメディア",
         "サミット"
+      ]
+    },
+    {
+      "id": "diamond-98c8c6d0",
+      "title": "セブン-イレブン、アンドエスティHDと協業しアパレル参入のねらい",
+      "url": "https://diamond-rm.net/management/businessplan/557626/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-14",
+      "tags": [
+        "セブン-イレブン",
+        "アパレル"
       ]
     },
     {
@@ -1012,22 +1061,6 @@
       ]
     },
     {
-      "id": "diamond-fb697220",
-      "title": "中部小売ランキング2026 食品スーパー、ドラッグストアの成長続く",
-      "url": "https://diamond-rm.net/market/accounting/556494/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-11",
-      "tags": [
-        "ドラッグストア",
-        "食品スーパー",
-        "スーパー",
-        "ドラッグ",
-        "食品"
-      ]
-    },
-    {
       "id": "ssnp-f9095854",
       "title": "にんべん、音楽イベント「FEST. INAZUMA 2026」に初出展　“鰹節削り体験”などをブースで展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/seasoning/702028/",
@@ -1204,6 +1237,22 @@
       "category": "流通",
       "date": "2026-09-11",
       "tags": []
+    },
+    {
+      "id": "diamond-fb697220",
+      "title": "中部小売ランキング2026 食品スーパー、ドラッグストアの成長続く",
+      "url": "https://diamond-rm.net/market/accounting/556494/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-09-11",
+      "tags": [
+        "ドラッグストア",
+        "食品スーパー",
+        "スーパー",
+        "ドラッグ",
+        "食品"
+      ]
     },
     {
       "id": "ryutsuu-e00fe8d0",
@@ -1408,18 +1457,6 @@
       ]
     },
     {
-      "id": "diamond-b8795209",
-      "title": "イケアが約5年ぶりに都内に出店　コンパクトな都市型店舗「IKEA豊洲」の全容とは",
-      "url": "https://diamond-rm.net/store/556882/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-10",
-      "tags": [
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-1af17c8b",
       "title": "【オンデマンド配信】月17時間の工数削減と売上向上を両立。カインズが実践する「AI×Slack」活用術",
       "url": "https://diamond-rm.net/seminar/555257/",
@@ -1607,6 +1644,18 @@
       "date": "2026-09-10",
       "tags": [
         "マクドナルド"
+      ]
+    },
+    {
+      "id": "diamond-b8795209",
+      "title": "イケアが約5年ぶりに都内に出店　コンパクトな都市型店舗「IKEA豊洲」の全容とは",
+      "url": "https://diamond-rm.net/store/556882/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-10",
+      "tags": [
+        "出店"
       ]
     },
     {
@@ -3357,50 +3406,6 @@
       "date": "2026-08-10",
       "tags": [
         "冷凍食品",
-        "食品"
-      ]
-    },
-    {
-      "id": "ssnp-9071f3b2",
-      "title": "人気の東京限定チップスに「LOVE ikaty! TOKYO」登場　期間限定販売、カプセルトイ企画も【坂角総本舖】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/697190/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-08-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-48a72f36",
-      "title": "「さっぽろ純連監修 冷し味噌ラーメン」を発売、炒めた味噌を使ったコクのあるおいしさ【ファミマ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/697191/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-08-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-c1132c55",
-      "title": "カマンベールチーズを20～30代へ、シーズニング挟んだ3個入りを開発/「雪印北海道100カマンベール 宵」価格的トライアルしやすさも考慮\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/milk/697185/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "milk",
-      "date": "2026-08-10",
-      "tags": [
-        "トライアル"
-      ]
-    },
-    {
-      "id": "ssnp-b0c617cd",
-      "title": "1987年9月12日 マイケル・ジャクソン来日公演が日本にもたらした“コーラ戦争”のその後【食品産業あの日あの時】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/697177/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-08-09",
-      "tags": [
         "食品"
       ]
     }
