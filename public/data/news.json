@@ -1,6 +1,44 @@
 {
-  "lastUpdated": "2026-09-16T10:39:05.735Z",
+  "lastUpdated": "2026-09-16T15:55:31.960Z",
   "items": [
+    {
+      "id": "ryutsuu-f80bd6c0",
+      "title": "串カツ田中／津田沼駅北口エリアに「津田沼店」9月17日オープン",
+      "url": "https://www.ryutsuu.biz/store/s091673.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-17",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-6a503118",
+      "title": "明治屋／自由が丘ミューズスクエアに新店9月17日オープン、ギフト類・ワインも充実",
+      "url": "https://www.ryutsuu.biz/store/s091571.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-17",
+      "tags": [
+        "オープン",
+        "新店"
+      ]
+    },
+    {
+      "id": "ryutsuu-347c2cf9",
+      "title": "ハンズ／自由が丘に4年ぶりの新店9月17日オープン、ギフト需要に対応",
+      "url": "https://www.ryutsuu.biz/store/s091574.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-17",
+      "tags": [
+        "オープン",
+        "新店"
+      ]
+    },
     {
       "id": "ryutsuu-b3d96efa",
       "title": "ヨドバシカメラ／西武池袋・名鉄百貨店跡地に相次ぎ出店、藤沢社長「偶然が重なった」",
@@ -3363,41 +3401,6 @@
         "アマゾン",
         "物流",
         "配送"
-      ]
-    },
-    {
-      "id": "diamond-8a0a9533",
-      "title": "第3回 「Temu」の躍進を支えるPDDのAIプラットフォーム戦略",
-      "url": "https://diamond-rm.net/technology/553006/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-08-12",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "diamond-a5f5c504",
-      "title": "近商ストア「食の大感謝祭」を開催　顧客1200人とメーカー約75社が直接交流",
-      "url": "https://diamond-rm.net/sales-promotion/event/554018/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-08-12",
-      "tags": []
-    },
-    {
-      "id": "diamond-029ba386",
-      "title": "ファミリーマートが「45％増量作戦」を実施【週刊コンビニエンスストアニュース】",
-      "url": "https://diamond-rm.net/management/554091/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-08-12",
-      "tags": [
-        "ファミリーマート",
-        "コンビニ"
       ]
     }
   ]
