@@ -1,6 +1,109 @@
 {
-  "lastUpdated": "2026-09-17T16:01:38.752Z",
+  "lastUpdated": "2026-09-17T20:50:28.508Z",
   "items": [
+    {
+      "id": "diamond-677f5b2e",
+      "title": "売上高3300億円へ！新生ダイエー、超激戦の関西で上げる“逆襲”の狼煙",
+      "url": "https://diamond-rm.net/management/businessplan/558056/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": [
+        "売上高"
+      ]
+    },
+    {
+      "id": "diamond-a9b229ba",
+      "title": "ダイエー西峠社長が激白！近畿圏の「中核SM企業」としての矜持",
+      "url": "https://diamond-rm.net/management/558071/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-4e18a379",
+      "title": "ダイエー、30年度までに店舗の約8割を「フードスタイル」へ　フォーマット戦略の全貌に迫る",
+      "url": "https://diamond-rm.net/management/businessplan/557126/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": []
+    },
+    {
+      "id": "diamond-aa0ca894",
+      "title": "効率性とレジリエンスを両立　「物流プラットフォーム」という新たな共通基盤",
+      "url": "https://diamond-rm.net/management/supply-chain/555866/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": [
+        "物流"
+      ]
+    },
+    {
+      "id": "diamond-b9d52b2d",
+      "title": "第148回 残るSC、消えるSC……「3つの格差」が突きつける生存競争",
+      "url": "https://diamond-rm.net/management/555108/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": [
+        "SC"
+      ]
+    },
+    {
+      "id": "diamond-f2af8916",
+      "title": "ダイエーが描く新・商品戦略……バックエンド改革と独自商品開発を推進",
+      "url": "https://diamond-rm.net/management/businessplan/557130/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": []
+    },
+    {
+      "id": "diamond-8e6ef9ff",
+      "title": "スーパーで急増する鮮魚の対面販売……成功のための4つのカギ",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/556500/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-09-18",
+      "tags": [
+        "スーパー",
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-6029bcf1",
+      "title": "【店長の流儀】イズミの巨艦店「ゆめタウン廿日市」寺下支配人の信念",
+      "url": "https://diamond-rm.net/management/businessplan/556499/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": []
+    },
+    {
+      "id": "diamond-ccba3227",
+      "title": "デリバリーサービス台頭で　淘汰の危機迎える中国のコンビニ",
+      "url": "https://diamond-rm.net/overseas/chinaeastasianews/556474/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-09-18",
+      "tags": [
+        "コンビニ"
+      ]
+    },
     {
       "id": "ryutsuu-6a3683e2",
       "title": "そごう広島店／コスメ売場をリニューアルし面積1.4倍に、フレグランス強化",
@@ -170,29 +273,6 @@
       ]
     },
     {
-      "id": "diamond-5c02ae96",
-      "title": "ニューヨークに「公営スーパー」が出店の背景と成否",
-      "url": "https://diamond-rm.net/overseas/american_economy/556473/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-09-17",
-      "tags": [
-        "スーパー",
-        "出店"
-      ]
-    },
-    {
-      "id": "diamond-83671f4b",
-      "title": "オフィス環境設計の新たな意味　グリーンの「量」から「科学的エビデンス」の時代へ",
-      "url": "https://diamond-rm.net/management/554302/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
       "id": "diamond-3ae0c125",
       "title": "第１８０回　若き梁山泊「一水会（いっすいかい）」誕生",
       "url": "https://diamond-rm.net/life-career/542250/",
@@ -236,16 +316,6 @@
       "tags": []
     },
     {
-      "id": "diamond-daeb9506",
-      "title": "漬物・キムチ市場、キムチが好調に推移　メニュー提案で若年層にもアピール",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/556505/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
       "id": "diamond-1065f9c9",
       "title": "糸満道具屋　道具屋初のFC出店で沖縄県に進出",
       "url": "https://diamond-rm.net/management/businessplan/557760/",
@@ -271,6 +341,29 @@
         "出店",
         "買収"
       ]
+    },
+    {
+      "id": "diamond-5c02ae96",
+      "title": "ニューヨークに「公営スーパー」が出店の背景と成否",
+      "url": "https://diamond-rm.net/overseas/american_economy/556473/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-09-17",
+      "tags": [
+        "スーパー",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-daeb9506",
+      "title": "漬物・キムチ市場、キムチが好調に推移　メニュー提案で若年層にもアピール",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/556505/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-09-17",
+      "tags": []
     },
     {
       "id": "ssnp-c41d2ec7",
@@ -458,6 +551,16 @@
       "tags": []
     },
     {
+      "id": "diamond-83671f4b",
+      "title": "オフィス環境設計の新たな意味　グリーンの「量」から「科学的エビデンス」の時代へ",
+      "url": "https://diamond-rm.net/management/554302/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-f80bd6c0",
       "title": "串カツ田中／津田沼駅北口エリアに「津田沼店」9月17日オープン",
       "url": "https://www.ryutsuu.biz/store/s091673.html",
@@ -576,6 +679,19 @@
       ]
     },
     {
+      "id": "diamond-7f99e629",
+      "title": "マミーマートがさいたま市見沼区に約1800㎡の新店をオープンへ【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/557902/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-16",
+      "tags": [
+        "オープン",
+        "新店"
+      ]
+    },
+    {
       "id": "diamond-c95fedb9",
       "title": "PPIHとトライアルHDの通期決算を大解剖！　強力な成長の源泉と背景",
       "url": "https://diamond-rm.net/market/accounting/556470/",
@@ -590,29 +706,6 @@
       ]
     },
     {
-      "id": "diamond-7f99e629",
-      "title": "マミーマートがさいたま市見沼区に約1800㎡の新店をオープンへ【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/557902/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-16",
-      "tags": [
-        "オープン",
-        "新店"
-      ]
-    },
-    {
-      "id": "diamond-d062249a",
-      "title": "第１７９回　倉本長治との出会い",
-      "url": "https://diamond-rm.net/life-career/542249/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-09-16",
-      "tags": []
-    },
-    {
       "id": "diamond-75a3e41f",
       "title": "冷凍食品市場、個食・タイパ需要を取り込み　ワンプレート商品が市場のすそ野を拡大",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/556504/",
@@ -624,26 +717,6 @@
         "冷凍食品",
         "食品"
       ]
-    },
-    {
-      "id": "diamond-36403872",
-      "title": "コモディイイダが46カ月連続で売上・客数増、価格競争力と品揃えを強化",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/556503/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-09-16",
-      "tags": []
-    },
-    {
-      "id": "diamond-404aae72",
-      "title": "イノベーションとは、「行動を変えさせない」ことなのかもしれない",
-      "url": "https://diamond-rm.net/sales-promotion/557716/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-09-16",
-      "tags": []
     },
     {
       "id": "diamond-62c42086",
@@ -875,6 +948,36 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
+      "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "id": "diamond-d062249a",
+      "title": "第１７９回　倉本長治との出会い",
+      "url": "https://diamond-rm.net/life-career/542249/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "id": "diamond-36403872",
+      "title": "コモディイイダが46カ月連続で売上・客数増、価格競争力と品揃えを強化",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/556503/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "id": "diamond-404aae72",
+      "title": "イノベーションとは、「行動を変えさせない」ことなのかもしれない",
+      "url": "https://diamond-rm.net/sales-promotion/557716/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
       "date": "2026-09-16",
       "tags": []
     },
@@ -2352,19 +2455,6 @@
       ]
     },
     {
-      "id": "diamond-1c9c437b",
-      "title": "イトーヨーカ堂に学ぶ　リテールメディアの効果を最大化する組織づくり",
-      "url": "https://diamond-rm.net/management/marketing/556551/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-10",
-      "tags": [
-        "リテールメディア",
-        "イトーヨーカ堂"
-      ]
-    },
-    {
       "id": "diamond-1af17c8b",
       "title": "【オンデマンド配信】月17時間の工数削減と売上向上を両立。カインズが実践する「AI×Slack」活用術",
       "url": "https://diamond-rm.net/seminar/555257/",
@@ -2444,6 +2534,19 @@
       "date": "2026-09-10",
       "tags": [
         "開業"
+      ]
+    },
+    {
+      "id": "diamond-1c9c437b",
+      "title": "イトーヨーカ堂に学ぶ　リテールメディアの効果を最大化する組織づくり",
+      "url": "https://diamond-rm.net/management/marketing/556551/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-10",
+      "tags": [
+        "リテールメディア",
+        "イトーヨーカ堂"
       ]
     },
     {
@@ -3324,106 +3427,6 @@
       "date": "2026-09-07",
       "tags": [
         "冷食"
-      ]
-    },
-    {
-      "id": "ssnp-d71bcf9c",
-      "title": "【USSEC主催･米国視察】今年のテーマは「Where Bright Minds Connect」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/700982/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-09-07",
-      "tags": [
-        "EC"
-      ]
-    },
-    {
-      "id": "ssnp-49125c8e",
-      "title": "累計販売数940万食超「生カヌレケーキ」が “スティック×サンド型” に進化して登場　50円引きクーポン企画も【ファミマ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/700971/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-09-07",
-      "tags": []
-    },
-    {
-      "id": "ssnp-c480453e",
-      "title": "はま寿司で「中とろ」が100円、「大漁!旨ねた祭り」9月8日スタート\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/700956/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-07",
-      "tags": []
-    },
-    {
-      "id": "ssnp-4175928d",
-      "title": "「セブンカフェ スムージー」新作登場　“夏の疲れ”を想定、ビタミンC 豊富な「カラマンシー」を使用【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/700937/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-09-07",
-      "tags": []
-    },
-    {
-      "id": "ssnp-cc18925e",
-      "title": "餃子の王将、きのこたっぷりの「秋ラーメン」発売　「大葉香るにんにくゼロ生姜餃子」もリニューアル\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/700929/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-07",
-      "tags": [
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "ssnp-d7281277",
-      "title": "肉2種と選べる麺、黒カレー･ライス･スープはおかわり自由　1,099円～のランチ定食　期間限定販売【じゅうじゅうカルビ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/700912/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-07",
-      "tags": []
-    },
-    {
-      "id": "ssnp-42e71987",
-      "title": "【不二家】冷凍･冷蔵で楽しめるケーキ3種が登場　アニバーサリーケーキの予約特典を同時にリニューアル、9月8日から\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/700889/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-07",
-      "tags": [
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "ssnp-0c5b1b0f",
-      "title": "丸美屋食品、協賛24年目のミュージカル「アニー」夏ツアー　名古屋で大千穐楽\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/etc/700899/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "etc",
-      "date": "2026-09-07",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "ssnp-4dbeb520",
-      "title": "アサヒ飲料、「プレデターエナジー」日本投入　500ml・180円で市場拡大狙う\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/700879/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-09-06",
-      "tags": [
-        "飲料"
       ]
     }
   ]
