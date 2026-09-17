@@ -1,18 +1,91 @@
 {
-  "lastUpdated": "2026-09-17T02:53:22.257Z",
+  "lastUpdated": "2026-09-17T10:47:47.889Z",
   "items": [
     {
-      "id": "ryutsuu-2c0fa7c1",
-      "title": "USENとDearOne／サイネージ・店内放送・アプリ購買データを統合したリテールメディアを共同展開",
-      "url": "https://www.ryutsuu.biz/it/s091715.html",
+      "id": "ryutsuu-6a3683e2",
+      "title": "そごう広島店／コスメ売場をリニューアルし面積1.4倍に、フレグランス強化",
+      "url": "https://www.ryutsuu.biz/store/s091716.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "IT",
+      "category": "店舗",
       "date": "2026-09-17",
       "tags": [
-        "リテールメディア",
-        "アプリ",
-        "統合"
+        "リニューアル"
+      ]
+    },
+    {
+      "id": "ryutsuu-39a6afe3",
+      "title": "心斎橋パルコ／9～10月、セガの関西エリア初の旗艦店など3店舗オープン",
+      "url": "https://www.ryutsuu.biz/store/s091721.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-17",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-cdf40e99",
+      "title": "コジマ×ビックカメラ／「minanoba川口店」オープン、子連れ客向け商品展開",
+      "url": "https://www.ryutsuu.biz/store/s091775.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-17",
+      "tags": [
+        "ビックカメラ",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-d40a583b",
+      "title": "CCC／スタバとの複合店「SHARE LOUNGE 自由が丘ミューズスクエア」オープン",
+      "url": "https://www.ryutsuu.biz/store/s091776.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-17",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-b0c776de",
+      "title": "アクタス／自由が丘にインテリアグリーンとカフェ複合の新業態店舗オープン",
+      "url": "https://www.ryutsuu.biz/store/s091777.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-17",
+      "tags": [
+        "インテリア",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-d72c154a",
+      "title": "ユニクロ／カスタムオーダースーツ、工場から「ダイレクト配送」開始",
+      "url": "https://www.ryutsuu.biz/commodity/s091717.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-09-17",
+      "tags": [
+        "ユニクロ",
+        "配送"
+      ]
+    },
+    {
+      "id": "ryutsuu-9f4d7b90",
+      "title": "コクーンシティ／25年度売上高は3％増の456億円",
+      "url": "https://www.ryutsuu.biz/accounts/s091711.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-09-17",
+      "tags": [
+        "売上高"
       ]
     },
     {
@@ -30,6 +103,46 @@
       ]
     },
     {
+      "id": "ryutsuu-f20a3d58",
+      "title": "日本アクセス／冷凍食品食べ放題「チン！するレストラン」ヨークベニマル西ノ内店で10月開催",
+      "url": "https://www.ryutsuu.biz/strategy/s091720.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-09-17",
+      "tags": [
+        "冷凍食品",
+        "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-2c0fa7c1",
+      "title": "USENとDearOne／サイネージ・店内放送・アプリ購買データを統合したリテールメディアを共同展開",
+      "url": "https://www.ryutsuu.biz/it/s091715.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-09-17",
+      "tags": [
+        "リテールメディア",
+        "アプリ",
+        "統合"
+      ]
+    },
+    {
+      "id": "ryutsuu-d6e50a2b",
+      "title": "ZOZO／診断から試着まで一連の体験を提供、コーデアプリ「WEAR」に新機能",
+      "url": "https://www.ryutsuu.biz/it/s091742.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-09-17",
+      "tags": [
+        "ZOZO",
+        "アプリ"
+      ]
+    },
+    {
       "id": "ryutsuu-9aec3ed2",
       "title": "カスミ／8月の総売上高240億円、既存店売上2.5％減",
       "url": "https://www.ryutsuu.biz/sales/s091712.html",
@@ -39,18 +152,6 @@
       "date": "2026-09-17",
       "tags": [
         "カスミ",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-9f4d7b90",
-      "title": "コクーンシティ／25年度売上高は3％増の456億円",
-      "url": "https://www.ryutsuu.biz/accounts/s091711.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-09-17",
-      "tags": [
         "売上高"
       ]
     },
@@ -90,6 +191,29 @@
       "category": "経営戦略",
       "date": "2026-09-17",
       "tags": []
+    },
+    {
+      "id": "diamond-3ae0c125",
+      "title": "第１８０回　若き梁山泊「一水会（いっすいかい）」誕生",
+      "url": "https://diamond-rm.net/life-career/542250/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "id": "diamond-e762cede",
+      "title": "上位に変動は！？2026年ホームセンター売上高ランキング１位～５位の動向",
+      "url": "https://diamond-rm.net/management/businessplan/557645/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-17",
+      "tags": [
+        "ホームセンター",
+        "売上高"
+      ]
     },
     {
       "id": "diamond-e5ace13d",
@@ -149,8 +273,140 @@
       ]
     },
     {
+      "id": "ssnp-c41d2ec7",
+      "title": "【資さんうどん】名物「ミニぼた餅」が108円に　7日間限定、関東・関西店舗\n\t\t\t\t\t\t\t\t\t\t\t\tうどんチェーンの「資さんうどん」は9月17日（木）から9月23日（水・祝）までの7日間、関東・関西エリアの「資さんうどん」店舗限定で、持ち帰りの「ミニぼた餅」を特別価格の100円（税込108円）で販売する。 通常価格は1...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/703016/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "id": "ssnp-01b8f2b2",
+      "title": "【7日間限定】ミニストップ「Xフライドポテト」を1.5倍に増量【明日から】\n\t\t\t\t\t\t\t\t\t\t\t\tミニストップは9月18日（金）から9月24日（木）までの7日間限定で、人気商品「Xフライドポテト」を1.5倍に増量するセールを実施する。 2026年8月の実施時に好評だったことから、2ヵ月連続で実施するという。期間中は、...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/703008/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "id": "ssnp-0eae5ddd",
+      "title": "ご飯大盛が無料になる「シルバーウィークキャンペーン」を6日間限定で実施【かつや】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702987/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "id": "ssnp-30cf3f61",
+      "title": "ミニストップ「名古屋めしフェア」開催、台湾まぜそばや味噌カツ、海老天むすなど登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/702966/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "id": "ssnp-cdae30f1",
+      "title": "【人気ケーキ20％OFF】FLO「秋の感謝祭」開催　チョコレートムースケーキ、感謝祭限定タルトも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/702930/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-09-17",
+      "tags": [
+        "チョコレート"
+      ]
+    },
+    {
+      "id": "ssnp-722719ac",
+      "title": "ペッパーランチ「フィレステーキ～彩り野菜のアヒージョ仕立て～」期間限定販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702947/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "id": "ssnp-4a82da03",
+      "title": "バーガーキング「マッシュルームワッパー」が今年も登場、4種のきのこを使用した秋の風物詩\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702936/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "id": "ssnp-7c6166a5",
+      "title": "具材1種類の弁当など発売、メリハリ消費に対応【ローソン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/702860/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-09-17",
+      "tags": [
+        "ローソン",
+        "弁当"
+      ]
+    },
+    {
+      "id": "ssnp-d174a57a",
+      "title": "スタバ「蜜芋 ミルク」発売　紅はるかの蜜芋ペースト×ミルク、Tall630円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702913/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "id": "ssnp-6122f264",
+      "title": "【パンチョ】スープパスタ専門店「ごちそうスープパスタ」誕生、代々木で1号店オープン\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702904/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-17",
+      "tags": [
+        "オープン",
+        "専門店"
+      ]
+    },
+    {
+      "id": "ssnp-3509c744",
+      "title": "【松屋】本格インドカレーを松屋流にアレンジ「ほうれん草とカッテージチーズのカレー」登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702892/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-17",
+      "tags": [
+        "松屋"
+      ]
+    },
+    {
+      "id": "ssnp-0599c298",
+      "title": "マクドナルド「青いマックの日」10月18日開催　ハッピーセット1個につき50円を「ドナルド・マクドナルド・ハウス」に寄付\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/702891/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-17",
+      "tags": [
+        "マクドナルド"
+      ]
+    },
+    {
       "id": "ssnp-05348c05",
-      "title": "【20％増量】銀座コージーコーナー「大きなエクレア（モカ）」発売、価格は216円で据え置き\n\t\t\t\t\t\t\t\t\t\t\t\t銀座コージーコーナーは9月18日から23日まで、全国の生ケーキ取扱店で、人気商品「エクレア（モカ）」を20％増量した「大きなエクレア（モカ）」を販売する。 シルバーウィークの特別商品として展開するもので、価格は通常の「エ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【20％増量】銀座コージーコーナー「大きなエクレア（モカ）」発売、価格は216円で据え置き\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/702866/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -160,7 +416,7 @@
     },
     {
       "id": "ssnp-0c1dd5b6",
-      "title": "イオン、酒税法改正前の駆け込み需要に対応、発泡酒･チューハイの在庫を通常時の2倍に\n\t\t\t\t\t\t\t\t\t\t\t\tイオンは、10月1日の酒税法改正を前に増えると見られる発泡酒やチューハイなどの値上げ対象商品の駆け込み需要への対応として、在庫を通常時の約2倍に拡大し、売場展開を強化する。9月に入り、同社では発泡酒やチューハイなどのケー...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "イオン、酒税法改正前の駆け込み需要に対応、発泡酒･チューハイの在庫を通常時の2倍に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/702857/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -168,8 +424,7 @@
       "date": "2026-09-17",
       "tags": [
         "チューハイ",
-        "イオン",
-        "値上げ"
+        "イオン"
       ]
     },
     {
@@ -270,20 +525,6 @@
       ]
     },
     {
-      "id": "ryutsuu-fbaf1bf2",
-      "title": "ヨドバシカメラ／体感できる売場で東海での認知度向上へ「名鉄名古屋店」オープン",
-      "url": "https://www.ryutsuu.biz/report/s091641.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-09-16",
-      "tags": [
-        "詳報",
-        "ヨドバシカメラ",
-        "オープン"
-      ]
-    },
-    {
       "id": "ryutsuu-b3d96efa",
       "title": "ヨドバシカメラ／西武池袋・名鉄百貨店跡地に相次ぎ出店、藤沢社長「偶然が重なった」",
       "url": "https://www.ryutsuu.biz/strategy/s091642.html",
@@ -299,18 +540,6 @@
       ]
     },
     {
-      "id": "ryutsuu-4a0f093b",
-      "title": "しまむら／リカバリーウェア販売開始から5日で5万枚突破「予想以上に売れている」",
-      "url": "https://www.ryutsuu.biz/commodity/s091644.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-09-16",
-      "tags": [
-        "しまむら"
-      ]
-    },
-    {
       "id": "ryutsuu-b8fa157c",
       "title": "日本ドラッグチェーン会／26年秋季の商品約定会、全体約定金額が21％増の576億円に",
       "url": "https://www.ryutsuu.biz/strategy/s091616.html",
@@ -320,32 +549,6 @@
       "date": "2026-09-16",
       "tags": [
         "ドラッグ"
-      ]
-    },
-    {
-      "id": "ryutsuu-b297ac3d",
-      "title": "オーケー／大阪8号店「長吉店」、9号店「下新庄店」27年2月オープン",
-      "url": "https://www.ryutsuu.biz/store/s091618.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-16",
-      "tags": [
-        "オーケー",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-a5e82c86",
-      "title": "ローソン／価格を最大5割抑えた「一点突破すぎ！」弁当など13品発売",
-      "url": "https://www.ryutsuu.biz/commodity/s091619.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-09-16",
-      "tags": [
-        "ローソン",
-        "弁当"
       ]
     },
     {
@@ -676,6 +879,58 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-fbaf1bf2",
+      "title": "ヨドバシカメラ／体感できる売場で東海での認知度向上へ「名鉄名古屋店」オープン",
+      "url": "https://www.ryutsuu.biz/report/s091641.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-09-16",
+      "tags": [
+        "詳報",
+        "ヨドバシカメラ",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-4a0f093b",
+      "title": "しまむら／リカバリーウェア販売開始から5日で5万枚突破「予想以上に売れている」",
+      "url": "https://www.ryutsuu.biz/commodity/s091644.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-09-16",
+      "tags": [
+        "しまむら"
+      ]
+    },
+    {
+      "id": "ryutsuu-b297ac3d",
+      "title": "オーケー／大阪8号店「長吉店」、9号店「下新庄店」27年2月オープン",
+      "url": "https://www.ryutsuu.biz/store/s091618.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-16",
+      "tags": [
+        "オーケー",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-a5e82c86",
+      "title": "ローソン／価格を最大5割抑えた「一点突破すぎ！」弁当など13品発売",
+      "url": "https://www.ryutsuu.biz/commodity/s091619.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-09-16",
+      "tags": [
+        "ローソン",
+        "弁当"
+      ]
+    },
+    {
       "id": "ryutsuu-625c1151",
       "title": "いなげや／8月の既存店売上高1.8％増",
       "url": "https://www.ryutsuu.biz/sales/s091614.html",
@@ -727,30 +982,6 @@
       "tags": []
     },
     {
-      "id": "ryutsuu-6dd184c5",
-      "title": "三陽商会／「サンヨーソーイング 青森ファクトリー」十和田市に28年上期移転",
-      "url": "https://www.ryutsuu.biz/strategy/s091515.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-09-15",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-76965100",
-      "title": "カインズ／資源回収DX、AI判定・遠隔カメラによる無人受付で店舗負荷を削減",
-      "url": "https://www.ryutsuu.biz/strategy/s091514.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-09-15",
-      "tags": [
-        "カインズ",
-        "DX",
-        "AI"
-      ]
-    },
-    {
       "id": "diamond-8ababeb0",
       "title": "【動画】9月2週目の注目ニュースまとめ、ライフTOBなど",
       "url": "https://diamond-rm.net/management/businessplan/557796/",
@@ -764,6 +995,16 @@
       ]
     },
     {
+      "id": "diamond-47be9090",
+      "title": "【DCS最新号】9月15日号は「日本の小売業1000社ランキング2026」",
+      "url": "https://diamond-rm.net/market/accounting/557609/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-09-15",
+      "tags": []
+    },
+    {
       "id": "diamond-58c494e9",
       "title": "＃11 独自進化するアジア小売！NRF APACで見えたAI×SNSと戦略的共創の最前線",
       "url": "https://diamond-rm.net/ec-epayment/ec/557818/",
@@ -775,16 +1016,6 @@
         "SNS",
         "AI"
       ]
-    },
-    {
-      "id": "diamond-47be9090",
-      "title": "【DCS最新号】9月15日号は「日本の小売業1000社ランキング2026」",
-      "url": "https://diamond-rm.net/market/accounting/557609/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-15",
-      "tags": []
     },
     {
       "id": "diamond-f766c010",
@@ -952,6 +1183,30 @@
       "category": "大豆",
       "date": "2026-09-15",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-6dd184c5",
+      "title": "三陽商会／「サンヨーソーイング 青森ファクトリー」十和田市に28年上期移転",
+      "url": "https://www.ryutsuu.biz/strategy/s091515.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-76965100",
+      "title": "カインズ／資源回収DX、AI判定・遠隔カメラによる無人受付で店舗負荷を削減",
+      "url": "https://www.ryutsuu.biz/strategy/s091514.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-09-15",
+      "tags": [
+        "カインズ",
+        "DX",
+        "AI"
+      ]
     },
     {
       "id": "ryutsuu-1909a319",
@@ -1674,20 +1929,6 @@
       ]
     },
     {
-      "id": "diamond-c92aa64c",
-      "title": "中四国小売売上高ランキング 2026 イズミは新 PB 好調、ハローズは積極出店続く",
-      "url": "https://diamond-rm.net/market/accounting/556496/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-11",
-      "tags": [
-        "売上高",
-        "PB",
-        "出店"
-      ]
-    },
-    {
       "id": "ssnp-f9095854",
       "title": "にんべん、音楽イベント「FEST. INAZUMA 2026」に初出展　“鰹節削り体験”などをブースで展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/seasoning/702028/",
@@ -1864,6 +2105,20 @@
       "category": "流通",
       "date": "2026-09-11",
       "tags": []
+    },
+    {
+      "id": "diamond-c92aa64c",
+      "title": "中四国小売売上高ランキング 2026 イズミは新 PB 好調、ハローズは積極出店続く",
+      "url": "https://diamond-rm.net/market/accounting/556496/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-09-11",
+      "tags": [
+        "売上高",
+        "PB",
+        "出店"
+      ]
     },
     {
       "id": "diamond-2e5eca3b",
@@ -3169,246 +3424,6 @@
       "date": "2026-09-06",
       "tags": [
         "飲料"
-      ]
-    },
-    {
-      "id": "ssnp-7f79cc01",
-      "title": "さつまいもを使った「蜜芋オレ」「ミルクレープ」「モンブランムース」の3品を新発売【ドトール】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/700599/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-00794764",
-      "title": "仙台名物･炭焼き厚切り牛タン、6万5,000食限定で販売【ブロンコビリー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/699358/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-ec2c8295",
-      "title": "マクドナルド、デジタル時代こそ「人」に投資 クルー採用の約4割が友人紹介、人材力を成長の強みに\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/700862/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-06",
-      "tags": [
-        "マクドナルド",
-        "デジタル"
-      ]
-    },
-    {
-      "id": "ssnp-2a3ca590",
-      "title": "「苺のダース」&「ダースプレミアム」から「プラリネ アーモンド」「ホワイトバニラ」の2品発売【森永製菓】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/700335/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-05",
-      "tags": []
-    },
-    {
-      "id": "ssnp-2bb43c97",
-      "title": "群馬のソウルフード「焼きまんじゅう」をイメージしたチロルチョコ発売【北関東のセブン‐イレブン限定】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/699618/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-05",
-      "tags": []
-    },
-    {
-      "id": "ssnp-886aba96",
-      "title": "「ヨーグレットBIG」厚さ約1.5倍の大粒商品を新発売!【アトリオン製菓】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/699213/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-05",
-      "tags": []
-    },
-    {
-      "id": "ssnp-44b4f3b9",
-      "title": "セブン‐イレブン、ポムポムプリン30周年フェア開催　プリン・どら焼・今川焼、限定グッズなど\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/700812/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-09-05",
-      "tags": []
-    },
-    {
-      "id": "diamond-6d5f96d5",
-      "title": "三菱食品がAIで挑む「サプライチェーン最適化」の道筋",
-      "url": "https://diamond-rm.net/technology/555749/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-09-04",
-      "tags": [
-        "AI",
-        "食品"
-      ]
-    },
-    {
-      "id": "ssnp-ef74afaa",
-      "title": "モランボン、「チャプチェまん」「チーズタッカルビまん」を新発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/frozen/700856/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "冷凍食品",
-      "date": "2026-09-04",
-      "tags": []
-    },
-    {
-      "id": "ssnp-28e81e6a",
-      "title": "熊本県宇城市立小中学校、新学期1週目は簡易給食を提供、７日から通常給食へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/feeding/700850/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "feeding",
-      "date": "2026-09-04",
-      "tags": []
-    },
-    {
-      "id": "ssnp-abf3f72b",
-      "title": "ファミマ、累計販売9,000万個の「極旨 黒豚まん」販売開始　「極旨 黒豚まんカレー」も登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/700836/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-09-04",
-      "tags": []
-    },
-    {
-      "id": "ssnp-1df47e40",
-      "title": "やよい軒、秋限定の「秋の季節御膳」発売　国産かぼちゃ入りコロッケなど4種のおかずを一度に楽しめる\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/700799/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-04",
-      "tags": []
-    },
-    {
-      "id": "ssnp-4d69e9e3",
-      "title": "「TABASCO」ブランド、約3年ぶりの日本向け新商品　コチュジャンを組み合わせた“旨辛”ソース発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/seasoning/700775/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "調味料",
-      "date": "2026-09-04",
-      "tags": [
-        "SC"
-      ]
-    },
-    {
-      "id": "ssnp-ffd8bf3c",
-      "title": "たっぷりのチーズで味わう包み焼きハンバーグやアップルパイ風ココッシュなどが登場【ココス「2026秋冬グランドメニュー」】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/700750/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-04",
-      "tags": []
-    },
-    {
-      "id": "diamond-5944d37c",
-      "title": "オランダHI市場をけん引する　プラクシスとガマの店舗戦略",
-      "url": "https://diamond-rm.net/store/storevisit/555481/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-03",
-      "tags": []
-    },
-    {
-      "id": "diamond-c8da1d85",
-      "title": "日本のくるみの9割超はカリフォルニア産、スーパーと組んだクロスMDで売場を活性化",
-      "url": "https://diamond-rm.net/promotion/pr/555233/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-09-03",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
-      "id": "ryutsuu-6db81d3d",
-      "title": "アークス／オンラインショップをリニューアル、システム刷新・店舗業務を効率化",
-      "url": "https://www.ryutsuu.biz/ec/s090277.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "ec",
-      "date": "2026-09-02",
-      "tags": [
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "diamond-98150d95",
-      "title": "現地緊急レポート！NY・マンハッタンで食品小売大戦争が勃発!?",
-      "url": "https://diamond-rm.net/overseas/american_economy/554824/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-09-02",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-05690cf5",
-      "title": "米の価格が下がり始めた今、朝食メニューはどう変わったか",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/554847/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-09-02",
-      "tags": []
-    },
-    {
-      "id": "diamond-1f1b690f",
-      "title": "鍋スタイルの変化と2026年鍋商戦のポイント",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/554848/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-09-02",
-      "tags": []
-    },
-    {
-      "id": "diamond-0a4eb134",
-      "title": "読者の購買数が約19倍に!?　イトーヨーカ堂、「はとぼん」アプリ配信の絶大な効果",
-      "url": "https://diamond-rm.net/technology/dx/554873/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-09-02",
-      "tags": [
-        "イトーヨーカ堂",
-        "アプリ"
-      ]
-    },
-    {
-      "id": "diamond-034f8590",
-      "title": "経営トップが認識すべき「ネットスーパーは“空中戦”」であるという事実",
-      "url": "https://diamond-rm.net/ec-epayment/net-super/554821/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "ec-epayment",
-      "date": "2026-09-01",
-      "tags": [
-        "ネットスーパー",
-        "スーパー"
       ]
     }
   ]
