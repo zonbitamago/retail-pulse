@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-18T20:16:20.628Z",
+  "lastUpdated": "2026-09-19T02:39:08.269Z",
   "items": [
+    {
+      "id": "diamond-08ff776c",
+      "title": "流通秀書　第47回『西友ストアーの流通支配戦略』",
+      "url": "https://diamond-rm.net/life-career/551581/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-09-19",
+      "tags": [
+        "西友"
+      ]
+    },
+    {
+      "id": "ssnp-09d24f1a",
+      "title": "【半額】不二家「チョコ生ケーキ」「マロンモンブラン」が268円に　9月21日から3日間限定、新作「球磨栗＆ミルキー」も\n\t\t\t\t\t\t\t\t\t\t\t\t不二家は全国の「不二家洋菓子店」で、9月21日から23日までの3日間限定で、「チョコ生ケーキ」と「マロンモンブラン」の半額キャンペーンを実施する。 通常価格は各税込537円のところ、期間中は各税込268円で販売する。数量...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/702976/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-09-19",
+      "tags": [
+        "菓子"
+      ]
+    },
     {
       "id": "ryutsuu-7203d2d2",
       "title": "有明ガーデン／「ペタリアフラワー」「チチカカ」新規オープン、国内外のニーズに対応",
@@ -267,7 +291,7 @@
     },
     {
       "id": "ssnp-2575e8c4",
-      "title": "湖池屋、内容量2倍の「たっぷりぎっしりＷパック ポテトチップス」発売　通常サイズとほぼ同じパッケージ\n\t\t\t\t\t\t\t\t\t\t\t\t湖池屋は9月23日、「たっぷりぎっしりＷパック ポテトチップス のり塩」「同 じゃがいもと塩」を全国のCGCグループ限定で発売する。 同商品は、株式会社シジシージャパンと共同開発したポテトチップス。レギュラーサイズ（55...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "湖池屋、内容量2倍の「たっぷりぎっしりＷパック ポテトチップス」発売　通常サイズとほぼ同じパッケージ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/703337/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -574,16 +598,6 @@
       ]
     },
     {
-      "id": "diamond-3ae0c125",
-      "title": "第１８０回　若き梁山泊「一水会（いっすいかい）」誕生",
-      "url": "https://diamond-rm.net/life-career/542250/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
       "id": "diamond-e762cede",
       "title": "上位に変動は！？2026年ホームセンター売上高ランキング１位～５位の動向",
       "url": "https://diamond-rm.net/management/businessplan/557645/",
@@ -848,6 +862,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "大豆",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "id": "diamond-3ae0c125",
+      "title": "第１８０回　若き梁山泊「一水会（いっすいかい）」誕生",
+      "url": "https://diamond-rm.net/life-career/542250/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-09-17",
       "tags": []
     },
@@ -3413,29 +3437,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
-      "date": "2026-09-09",
-      "tags": []
-    },
-    {
-      "id": "ssnp-9f392c3e",
-      "title": "カバヤ食品、発売30周年「さくさくぱんだ」ブランドリニューアル　ビスケット原料を米粉に　チョコも再設計\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/701346/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-09",
-      "tags": [
-        "リニューアル",
-        "食品"
-      ]
-    },
-    {
-      "id": "ssnp-e20bf19f",
-      "title": "食生活研究会、第34回「食と健康」講演会“香り”の研究成果を発表\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/rice/701343/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "米",
       "date": "2026-09-09",
       "tags": []
     }
