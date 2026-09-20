@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-09-20T15:14:52.684Z",
+  "lastUpdated": "2026-09-20T20:08:16.312Z",
   "items": [
+    {
+      "id": "diamond-35cfc4de",
+      "title": "全店最大規模の丸魚＆刺身売場を展開　「角上魚類鶴ヶ島店」の売場を徹底解説！",
+      "url": "https://diamond-rm.net/store/newstorereport/556476/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-21",
+      "tags": []
+    },
+    {
+      "id": "diamond-248bb8cc",
+      "title": "イズミグループ渾身の都市型スーパーのモデル店誕生！「ユアーズ広瀬北店」を徹底解剖",
+      "url": "https://diamond-rm.net/store/newstorereport/554834/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-21",
+      "tags": [
+        "スーパー"
+      ]
+    },
     {
       "id": "ssnp-1bf5f2de",
       "title": "「チョコパイ クリームシュー･ビターエクレア」を新発売、お皿不要&常温OKでスイーツを手軽に【ロッテ】\n\t\t\t\t\t\t\t\t\t\t\t\tロッテは、チョコパイブランドから「チョコパイ クリームシュー 個売り」「チョコパイ ビターエクレア 個売り」を2026年9月22日から全国で発売する。 「場所や保管の制限なく、お皿を出さなくても常温でスイーツを手軽に楽し...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
@@ -2486,30 +2508,6 @@
       "tags": []
     },
     {
-      "id": "diamond-8a51dc4a",
-      "title": "クックマート、ブルーゾーン入り後初の新店！　「上西店」の売場をレポート",
-      "url": "https://diamond-rm.net/store/557058/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-11",
-      "tags": [
-        "新店"
-      ]
-    },
-    {
-      "id": "diamond-ca92d85c",
-      "title": "マルトがいわき市のスマートタウンに出店へ！【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/large-scaleretailstorelaw/557391/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-11",
-      "tags": [
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-ad97501c",
       "title": "あの急成長企業もランクイン！日本の小売業1000社ランキング151～1000位を全公開",
       "url": "https://diamond-rm.net/market/accounting/556498/",
@@ -2531,6 +2529,30 @@
         "コスモス薬品",
         "トライアル",
         "増収"
+      ]
+    },
+    {
+      "id": "diamond-8a51dc4a",
+      "title": "クックマート、ブルーゾーン入り後初の新店！　「上西店」の売場をレポート",
+      "url": "https://diamond-rm.net/store/557058/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-11",
+      "tags": [
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-ca92d85c",
+      "title": "マルトがいわき市のスマートタウンに出店へ！【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/large-scaleretailstorelaw/557391/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-11",
+      "tags": [
+        "出店"
       ]
     },
     {
@@ -3417,28 +3439,6 @@
       "tags": [
         "弁当"
       ]
-    },
-    {
-      "id": "ssnp-1b415d81",
-      "title": "ゴディバ100周年、記念ケーキ「チョコレートとラズベリーのムース」発売　ゴディバカフェ限定　1100円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/701501/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-09",
-      "tags": [
-        "チョコレート"
-      ]
-    },
-    {
-      "id": "ssnp-66a01d74",
-      "title": "お月見うさぎをイメージしたシフォンケーキを新発売!【銀座コージーコーナー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/701479/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-09",
-      "tags": []
     }
   ]
 }
