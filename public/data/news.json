@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-09-21T02:48:13.172Z",
+  "lastUpdated": "2026-09-21T11:41:52.891Z",
   "items": [
+    {
+      "id": "diamond-e0960c64",
+      "title": "第１８２回　日本ＮＣＲのキャッシュレジスター",
+      "url": "https://diamond-rm.net/life-career/542252/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-09-21",
+      "tags": []
+    },
     {
       "id": "diamond-ab781192",
       "title": "千葉の実力派ローカルスーパー・ランドローム、2年半ぶり新店の全容",
@@ -307,6 +317,16 @@
       ]
     },
     {
+      "id": "diamond-f2af8916",
+      "title": "ダイエーが描く新・商品戦略……バックエンド改革と独自商品開発を推進",
+      "url": "https://diamond-rm.net/management/businessplan/557130/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": []
+    },
+    {
       "id": "diamond-677f5b2e",
       "title": "売上高3300億円へ！新生ダイエー、超激戦の関西で上げる“逆襲”の狼煙",
       "url": "https://diamond-rm.net/management/businessplan/558056/",
@@ -385,16 +405,6 @@
       "tags": [
         "飲料"
       ]
-    },
-    {
-      "id": "diamond-f2af8916",
-      "title": "ダイエーが描く新・商品戦略……バックエンド改革と独自商品開発を推進",
-      "url": "https://diamond-rm.net/management/businessplan/557130/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-18",
-      "tags": []
     },
     {
       "id": "diamond-8e6ef9ff",
@@ -738,20 +748,6 @@
       ]
     },
     {
-      "id": "diamond-37a79da5",
-      "title": "非常用発電機にフィジカルAI……イオンが岩手に開設した新物流拠点の全貌",
-      "url": "https://diamond-rm.net/management/supply-chain/557976/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-17",
-      "tags": [
-        "イオン",
-        "AI",
-        "物流"
-      ]
-    },
-    {
       "id": "diamond-e762cede",
       "title": "上位に変動は！？2026年ホームセンター売上高ランキング１位～５位の動向",
       "url": "https://diamond-rm.net/management/businessplan/557645/",
@@ -812,6 +808,20 @@
       "tags": [
         "スーパー",
         "出店"
+      ]
+    },
+    {
+      "id": "diamond-37a79da5",
+      "title": "非常用発電機にフィジカルAI……イオンが岩手に開設した新物流拠点の全貌",
+      "url": "https://diamond-rm.net/management/supply-chain/557976/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-17",
+      "tags": [
+        "イオン",
+        "AI",
+        "物流"
       ]
     },
     {
@@ -3433,16 +3443,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
-      "date": "2026-09-09",
-      "tags": []
-    },
-    {
-      "id": "ssnp-1dcb1f11",
-      "title": "ブルーソーダ風味チップが入った「カントリーマアムチョコまみれザ･ワールド(アラスカ編)」発売【不二家】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/701575/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
       "date": "2026-09-09",
       "tags": []
     }
