@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-09-21T17:38:27.631Z",
+  "lastUpdated": "2026-09-21T21:33:12.923Z",
   "items": [
+    {
+      "id": "diamond-332f5bcc",
+      "title": "新生ダイエーは「鮮魚」でも仕掛ける！　2社のシナジー最大化した販売戦略の全貌",
+      "url": "https://diamond-rm.net/management/businessplan/557395/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-22",
+      "tags": [
+        "鮮魚"
+      ]
+    },
     {
       "id": "diamond-e0960c64",
       "title": "第１８２回　日本ＮＣＲのキャッシュレジスター",
@@ -407,19 +419,6 @@
       ]
     },
     {
-      "id": "diamond-8e6ef9ff",
-      "title": "スーパーで急増する鮮魚の対面販売……成功のための4つのカギ",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/556500/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-09-18",
-      "tags": [
-        "スーパー",
-        "鮮魚"
-      ]
-    },
-    {
       "id": "diamond-6029bcf1",
       "title": "【店長の流儀】イズミの巨艦店「ゆめタウン廿日市」寺下支配人の信念",
       "url": "https://diamond-rm.net/management/businessplan/556499/",
@@ -439,6 +438,19 @@
       "date": "2026-09-18",
       "tags": [
         "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-8e6ef9ff",
+      "title": "スーパーで急増する鮮魚の対面販売……成功のための4つのカギ",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/556500/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-09-18",
+      "tags": [
+        "スーパー",
+        "鮮魚"
       ]
     },
     {
@@ -3433,16 +3445,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "milk",
-      "date": "2026-09-09",
-      "tags": []
-    },
-    {
-      "id": "ssnp-cf39a89a",
-      "title": "ブロンコビリー、シルバーウィーク限定「スペシャルサーロインステーキランチ」9月18日から\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/701610/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
       "date": "2026-09-09",
       "tags": []
     }
