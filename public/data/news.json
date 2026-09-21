@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-09-20T20:08:16.312Z",
+  "lastUpdated": "2026-09-21T02:48:13.172Z",
   "items": [
+    {
+      "id": "diamond-ab781192",
+      "title": "千葉の実力派ローカルスーパー・ランドローム、2年半ぶり新店の全容",
+      "url": "https://diamond-rm.net/store/newstorereport/556478/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-21",
+      "tags": [
+        "スーパー",
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-7ed14856",
+      "title": "オーケー、ロピアと直接競合！ハローズ神戸市 2 店舗目「本多聞店」をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/556477/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-21",
+      "tags": [
+        "オーケー",
+        "ロピア"
+      ]
+    },
+    {
+      "id": "diamond-ffae6171",
+      "title": "ダイエーが挑む総菜改革！光洋の「味わい・彩り」とダイエーの「価格対応力」を融合",
+      "url": "https://diamond-rm.net/management/businessplan/557357/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-21",
+      "tags": []
+    },
     {
       "id": "diamond-35cfc4de",
       "title": "全店最大規模の丸魚＆刺身売場を展開　「角上魚類鶴ヶ島店」の売場を徹底解説！",
@@ -24,8 +60,46 @@
       ]
     },
     {
+      "id": "ssnp-b6baf853",
+      "title": "1961年10月7日:コーラ原液の輸入完全自由化　「green cola」大ヒットの源流にあるカラフルなコーラ飲料史【食品産業あの日あの時】\n\t\t\t\t\t\t\t\t\t\t\t\tアサヒ飲料が8月4日に全国発売した「green cola(グリーンコーラ)」が好調だ。全国発売から3日となる8月6日時点で、1都3県での先行販売分を含む累計販売は1440万本(60万ケース)に達した。これを受け、同社は年...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/703419/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-09-21",
+      "tags": [
+        "食品",
+        "飲料"
+      ]
+    },
+    {
+      "id": "ssnp-913614b9",
+      "title": "「燻製あい鴨ロース串」を再販売!燻製材にはフルーティーな香りが特徴のリンゴチップを使用【ファミマ】\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーマートは、「燻製あい鴨ロース串」(税込198円)を2026年9月22日から全国のファミリーマート約1万6,500店で数量限定発売する。 2026年4月の発売時に、SNSで「デカくて安くてとにかく美味い」など多く...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/703145/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-09-21",
+      "tags": [
+        "ファミリーマート",
+        "SNS"
+      ]
+    },
+    {
+      "id": "ssnp-252f6872",
+      "title": "セブン‐イレブン「ジム飯」販売エリア拡大　ボディビル選手監修の冷凍弁当2品、約6500店舗へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/703295/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-09-21",
+      "tags": [
+        "弁当"
+      ]
+    },
+    {
       "id": "ssnp-1bf5f2de",
-      "title": "「チョコパイ クリームシュー･ビターエクレア」を新発売、お皿不要&常温OKでスイーツを手軽に【ロッテ】\n\t\t\t\t\t\t\t\t\t\t\t\tロッテは、チョコパイブランドから「チョコパイ クリームシュー 個売り」「チョコパイ ビターエクレア 個売り」を2026年9月22日から全国で発売する。 「場所や保管の制限なく、お皿を出さなくても常温でスイーツを手軽に楽し...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "「チョコパイ クリームシュー･ビターエクレア」を新発売、お皿不要&常温OKでスイーツを手軽に【ロッテ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/703340/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -35,15 +109,13 @@
     },
     {
       "id": "ssnp-2ccda11d",
-      "title": "資生堂パーラー「オリジナルニットバッグセット」や「花椿ビスケット」限定缶を発売　\n\t\t\t\t\t\t\t\t\t\t\t\t資生堂パーラーは10月1日から、百貨店を中心とする全国の資生堂パーラー店舗で、「オリジナルニットバッグセット」（税込3,780円）を数量限定で順次発売する。 ロゴ入りのオリジナルニットバッグに、資生堂パーラーを代表する洋...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "資生堂パーラー「オリジナルニットバッグセット」や「花椿ビスケット」限定缶を発売　\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/703265/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
       "date": "2026-09-20",
-      "tags": [
-        "百貨店"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-b485f6bb",
@@ -2079,18 +2151,6 @@
       "tags": []
     },
     {
-      "id": "diamond-0289c82a",
-      "title": "さいたま市の超激戦区でファミリー需要に徹底対応！「ヤオコーロッテスクエア武蔵浦和店」を解剖",
-      "url": "https://diamond-rm.net/store/newstorereport/554833/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-14",
-      "tags": [
-        "ヤオコー"
-      ]
-    },
-    {
       "id": "diamond-b39a675f",
       "title": "リテールメディアの最前線に迫る「リテールメディアサミット2026」11月11・12日に開催",
       "url": "https://diamond-rm.net/technology/557559/",
@@ -2280,6 +2340,18 @@
       "category": "大豆",
       "date": "2026-09-14",
       "tags": []
+    },
+    {
+      "id": "diamond-0289c82a",
+      "title": "さいたま市の超激戦区でファミリー需要に徹底対応！「ヤオコーロッテスクエア武蔵浦和店」を解剖",
+      "url": "https://diamond-rm.net/store/newstorereport/554833/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-14",
+      "tags": [
+        "ヤオコー"
+      ]
     },
     {
       "id": "ssnp-64e8499d",
@@ -3373,72 +3445,6 @@
       "category": "菓子",
       "date": "2026-09-09",
       "tags": []
-    },
-    {
-      "id": "ssnp-37f08090",
-      "title": "ハッピーセット「すみっコぐらし」「プラレール」発売　全9種×2シリーズ、週末プレゼントも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/701562/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-09",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f6881e20",
-      "title": "蜜入りりんごのような甘い香りを楽しむ秋限定の新作ティー「蜜りんごジャスミン」【ゴンチャ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/701551/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-09",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-b877fab3",
-      "title": "船井総研／インドネシア・ベトナム「特定技能ドライバー面接体験＆教育機関視察ツアー」11月22～26日開催",
-      "url": "https://www.ryutsuu.biz/seminar/s090972.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-09-09",
-      "tags": [
-        "PR"
-      ]
-    },
-    {
-      "id": "ssnp-1148acfd",
-      "title": "「セブンプレミアム ゴールド」から、冷凍『金のきのこクリーム生パスタ』リニューアル発売　夕食需要を想定、きのこ“約2倍”に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/701535/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-09-09",
-      "tags": [
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "ssnp-bc6fdf34",
-      "title": "ビッグボーイ、国産黒毛和牛サーロインステーキを堪能できる「秋のごちそうフェア」開催　2,079円から\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/701494/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-09",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e58a0971",
-      "title": "ファミマ、定番弁当の値段そのまま “ちょっとおトクに” 第2弾　海苔弁当･ロースかつカレーをラインアップ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/701489/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-09-09",
-      "tags": [
-        "弁当"
-      ]
     }
   ]
 }
