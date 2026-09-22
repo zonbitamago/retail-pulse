@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-22T16:05:01.300Z",
+  "lastUpdated": "2026-09-22T20:44:58.946Z",
   "items": [
+    {
+      "id": "diamond-5fb4b808",
+      "title": "イオンのPB「トップバリュ」、年間売上高2兆円への道筋とは",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/558267/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-09-23",
+      "tags": [
+        "イオン",
+        "売上高",
+        "PB"
+      ]
+    },
+    {
+      "id": "diamond-46664993",
+      "title": "フードスタイル1号店「あびこ駅前店」　開店から4カ月の現状を徹底レポート",
+      "url": "https://diamond-rm.net/store/storevisit/557139/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-23",
+      "tags": []
+    },
     {
       "id": "diamond-c20cb59f",
       "title": "第１８３回　「セルフハトヤ」誕生す",
@@ -444,18 +468,6 @@
       "tags": []
     },
     {
-      "id": "diamond-d0141c62",
-      "title": "ノンアルコール飲料市場、各社新商品を投入し、ラインアップと売場が拡大",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/556507/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-09-18",
-      "tags": [
-        "飲料"
-      ]
-    },
-    {
       "id": "diamond-6029bcf1",
       "title": "【店長の流儀】イズミの巨艦店「ゆめタウン廿日市」寺下支配人の信念",
       "url": "https://diamond-rm.net/management/businessplan/556499/",
@@ -475,6 +487,18 @@
       "date": "2026-09-18",
       "tags": [
         "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-d0141c62",
+      "title": "ノンアルコール飲料市場、各社新商品を投入し、ラインアップと売場が拡大",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/556507/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-09-18",
+      "tags": [
+        "飲料"
       ]
     },
     {
@@ -1317,19 +1341,6 @@
       ]
     },
     {
-      "id": "diamond-7f99e629",
-      "title": "マミーマートがさいたま市見沼区に約1800㎡の新店をオープンへ【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/557902/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-16",
-      "tags": [
-        "オープン",
-        "新店"
-      ]
-    },
-    {
       "id": "diamond-c95fedb9",
       "title": "PPIHとトライアルHDの通期決算を大解剖！　強力な成長の源泉と背景",
       "url": "https://diamond-rm.net/market/accounting/556470/",
@@ -1575,6 +1586,19 @@
       "category": "流通",
       "date": "2026-09-16",
       "tags": []
+    },
+    {
+      "id": "diamond-7f99e629",
+      "title": "マミーマートがさいたま市見沼区に約1800㎡の新店をオープンへ【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/557902/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-16",
+      "tags": [
+        "オープン",
+        "新店"
+      ]
     },
     {
       "id": "ryutsuu-35981a64",
@@ -3416,29 +3440,6 @@
         "オープン",
         "イオン"
       ]
-    },
-    {
-      "id": "diamond-2cf46b90",
-      "title": "週刊スーパーマーケットニュース　ライフ、アルビスを連結子会社化へ",
-      "url": "https://diamond-rm.net/management/businessplan/557504/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-10",
-      "tags": [
-        "スーパー",
-        "ライフ"
-      ]
-    },
-    {
-      "id": "diamond-92008704",
-      "title": "「NRF APAC」で示された、エージェンティックコマース時代の実店舗の定義",
-      "url": "https://diamond-rm.net/technology/dx/554826/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-09-09",
-      "tags": []
     }
   ]
 }
