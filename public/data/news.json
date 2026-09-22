@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-09-22T02:49:03.079Z",
+  "lastUpdated": "2026-09-22T10:45:30.612Z",
   "items": [
+    {
+      "id": "diamond-c20cb59f",
+      "title": "第１８３回　「セルフハトヤ」誕生す",
+      "url": "https://diamond-rm.net/life-career/542253/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-09-22",
+      "tags": []
+    },
     {
       "id": "diamond-332f5bcc",
       "title": "新生ダイエーは「鮮魚」でも仕掛ける！　2社のシナジー最大化した販売戦略の全貌",
@@ -14,6 +24,16 @@
       ]
     },
     {
+      "id": "ssnp-779b5f7c",
+      "title": "経産省「サーキュラーエコノミーアクションWeek」 10社参加、循環型消費を促進\n\t\t\t\t\t\t\t\t\t\t\t\tサントリー、ペットボトルは水平リサイクルの促進、セブンは累計8億本回収 経済産業省は9月17日、サーキュラーエコノミー(循環経済)の認知拡大と実践促進を目的に、10月1～7日に「サーキュラーエコノミーアクションWeek」...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/703431/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-09-22",
+      "tags": []
+    },
+    {
       "id": "ssnp-2e8aa321",
       "title": "レッドブル、TGS2026でゲーム施策 4日間で1万3504人、最終日は台風で配信に\n\t\t\t\t\t\t\t\t\t\t\t\tレッドブル・ジャパンは、9月17～21日に開催された「東京ゲームショウ2026(TGS)」で、ゲームタイトルと連動した企画を展開した。17～20日の4日間に実施した「Red Bull Gaming Sphere On T...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/703424/",
@@ -25,7 +45,7 @@
     },
     {
       "id": "ssnp-02fdb875",
-      "title": "パフェやフルーツサンド、あんみつなどを一皿に盛り合わせた100周年記念メニューを販売【タカノフルーツパーラー】\n\t\t\t\t\t\t\t\t\t\t\t\tタカノフルーツパーラーは10月1日、設立100周年を記念したメニュー「タカノフルーツパーラーアラカルトプレート」を支店7店舗(新宿髙島屋店･池袋東武店･京急上大岡店･JR名古屋髙島屋店･横浜髙島屋店･川越丸広店･アトレ吉...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "パフェやフルーツサンド、あんみつなどを一皿に盛り合わせた100周年記念メニューを販売【タカノフルーツパーラー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/703149/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -3417,29 +3437,6 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "テクノロジー",
-      "date": "2026-09-09",
-      "tags": []
-    },
-    {
-      "id": "diamond-38914709",
-      "title": "知識の定着度を数値で可視化！ AI学習支援アプリ「Monoxer」の法人利用拡大の理由",
-      "url": "https://diamond-rm.net/technology/ai/555534/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-09-09",
-      "tags": [
-        "アプリ",
-        "AI"
-      ]
-    },
-    {
-      "id": "ssnp-d1798aa3",
-      "title": "ゼッテリア、パティとチーズを3枚ずつ重ねた「トリプル月見チーズバーガー」登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/701625/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
       "date": "2026-09-09",
       "tags": []
     }
