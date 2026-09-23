@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-09-23T15:59:31.233Z",
+  "lastUpdated": "2026-09-23T20:57:11.510Z",
   "items": [
+    {
+      "id": "diamond-62534de1",
+      "title": "ベイシアと三心の”共創”1号店  「ベイシアフーズパーク岐南店」の売場をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/558345/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-24",
+      "tags": [
+        "ベイシア"
+      ]
+    },
+    {
+      "id": "diamond-7d47c544",
+      "title": "「自己資本比率が高い会社ほど危ない」――知るだけで、あなたも投資で億り人？",
+      "url": "https://diamond-rm.net/management/businessplan/558468/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-24",
+      "tags": []
+    },
+    {
+      "id": "diamond-20309769",
+      "title": "ダイエー、大型店「フードスタイル神戸学園店」を改装！生鮮・冷凍・菓子を拡充",
+      "url": "https://diamond-rm.net/store/storevisit/557941/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-24",
+      "tags": [
+        "菓子",
+        "生鮮",
+        "改装"
+      ]
+    },
     {
       "id": "diamond-b4d6b695",
       "title": "ローソン、生成AIが発案した商品3品を発売【週刊コンビニエンスストアニュース】",
@@ -188,16 +224,6 @@
       "tags": []
     },
     {
-      "id": "diamond-35cfc4de",
-      "title": "全店最大規模の丸魚＆刺身売場を展開　「角上魚類鶴ヶ島店」の売場を徹底解説！",
-      "url": "https://diamond-rm.net/store/newstorereport/556476/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-21",
-      "tags": []
-    },
-    {
       "id": "diamond-248bb8cc",
       "title": "イズミグループ渾身の都市型スーパーのモデル店誕生！「ユアーズ広瀬北店」を徹底解剖",
       "url": "https://diamond-rm.net/store/newstorereport/554834/",
@@ -243,6 +269,16 @@
       "tags": [
         "弁当"
       ]
+    },
+    {
+      "id": "diamond-35cfc4de",
+      "title": "全店最大規模の丸魚＆刺身売場を展開　「角上魚類鶴ヶ島店」の売場を徹底解説！",
+      "url": "https://diamond-rm.net/store/newstorereport/556476/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-21",
+      "tags": []
     },
     {
       "id": "ssnp-1bf5f2de",
@@ -486,28 +522,6 @@
       "tags": [
         "売上高"
       ]
-    },
-    {
-      "id": "diamond-a9b229ba",
-      "title": "ダイエー西峠社長が激白！近畿圏の「中核SM企業」としての矜持",
-      "url": "https://diamond-rm.net/management/558071/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-18",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-4e18a379",
-      "title": "ダイエー、30年度までに店舗の約8割を「フードスタイル」へ　フォーマット戦略の全貌に迫る",
-      "url": "https://diamond-rm.net/management/businessplan/557126/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-18",
-      "tags": []
     },
     {
       "id": "diamond-ccba3227",
@@ -798,6 +812,28 @@
       ]
     },
     {
+      "id": "diamond-a9b229ba",
+      "title": "ダイエー西峠社長が激白！近畿圏の「中核SM企業」としての矜持",
+      "url": "https://diamond-rm.net/management/558071/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-4e18a379",
+      "title": "ダイエー、30年度までに店舗の約8割を「フードスタイル」へ　フォーマット戦略の全貌に迫る",
+      "url": "https://diamond-rm.net/management/businessplan/557126/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": []
+    },
+    {
       "id": "diamond-aa0ca894",
       "title": "効率性とレジリエンスを両立　「物流プラットフォーム」という新たな共通基盤",
       "url": "https://diamond-rm.net/management/supply-chain/555866/",
@@ -906,19 +942,6 @@
       "category": "overseas",
       "date": "2026-09-17",
       "tags": []
-    },
-    {
-      "id": "diamond-1065f9c9",
-      "title": "糸満道具屋　道具屋初のFC出店で沖縄県に進出",
-      "url": "https://diamond-rm.net/management/businessplan/557760/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-17",
-      "tags": [
-        "FC",
-        "出店"
-      ]
     },
     {
       "id": "diamond-6fe34958",
@@ -1165,6 +1188,19 @@
       "category": "大豆",
       "date": "2026-09-17",
       "tags": []
+    },
+    {
+      "id": "diamond-1065f9c9",
+      "title": "糸満道具屋　道具屋初のFC出店で沖縄県に進出",
+      "url": "https://diamond-rm.net/management/businessplan/557760/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-17",
+      "tags": [
+        "FC",
+        "出店"
+      ]
     },
     {
       "id": "diamond-3ae0c125",
@@ -3389,42 +3425,6 @@
       "category": "飲料",
       "date": "2026-09-10",
       "tags": []
-    },
-    {
-      "id": "ssnp-d7ffd31d",
-      "title": "Suicaのペンギン「最後のフェア」グランスタ東京で開催　限定バターサンドやカステラ、マカロンなど\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/701664/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-73dafee5",
-      "title": "マクドナルド「プリプリエビプリオ」発売　ハート型が今年も登場、290円～\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/701522/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-10",
-      "tags": [
-        "マクドナルド"
-      ]
-    },
-    {
-      "id": "diamond-83131dab",
-      "title": "イオンリテール、スウェーデン発インテリア雑貨ブランド「GRANIT」展開開始のねらい",
-      "url": "https://diamond-rm.net/store/newstorereport/556799/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-10",
-      "tags": [
-        "インテリア",
-        "イオン",
-        "雑貨"
-      ]
     }
   ]
 }
