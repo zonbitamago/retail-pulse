@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-23T02:49:22.705Z",
+  "lastUpdated": "2026-09-23T10:36:01.413Z",
   "items": [
+    {
+      "id": "diamond-b4d6b695",
+      "title": "ローソン、生成AIが発案した商品3品を発売【週刊コンビニエンスストアニュース】",
+      "url": "https://diamond-rm.net/management/558491/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-23",
+      "tags": [
+        "ローソン",
+        "コンビニ",
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-e1942b9e",
+      "title": "第１８４回　「人間協業」の西端行雄",
+      "url": "https://diamond-rm.net/life-career/542254/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-09-23",
+      "tags": []
+    },
     {
       "id": "diamond-5fb4b808",
       "title": "イオンのPB「トップバリュ」、年間売上高2兆円への道筋とは",
@@ -26,8 +50,28 @@
       "tags": []
     },
     {
+      "id": "ssnp-10ea9a3a",
+      "title": "新進「ゆず香るぽん酢おろし」、常温販売で多様な売場に対応　日本アクセス「新商品グランプリ」W受賞\n\t\t\t\t\t\t\t\t\t\t\t\t新進の「手間いらずプラス ゆず香るぽん酢おろし」が、日本アクセス主催の「新商品グランプリ2026年秋冬」で、トレンド賞と和日配部門2位を受賞した。9月から全国発売した商品で、発売に先立ち8月27日に受賞が発表された。 同...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/etc/703458/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "etc",
+      "date": "2026-09-23",
+      "tags": []
+    },
+    {
+      "id": "ssnp-ec4058b4",
+      "title": "タリーズコーヒー「PRIME RED」コーヒー豆2品発売、完熟の甘み訴求　2025年販売数量は前年比約1.4倍\n\t\t\t\t\t\t\t\t\t\t\t\tタリーズコーヒージャパンは9月16日、コスタリカ・ドータ農協と共同で取り組む「マイクロロットプロジェクト」から、「コスタリカ マイクロロット プライムレッド スイートルビー」と「同 ブライトルージュ」を発売した。完熟した...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/703453/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-09-23",
+      "tags": []
+    },
+    {
       "id": "ssnp-ad5940b5",
-      "title": "設立100周年を記念した「マスクメロンのクリームソーダ」を全店で販売【タカノフルーツパーラー】\n\t\t\t\t\t\t\t\t\t\t\t\tタカノフルーツパーラーは設立100周年を記念し、新宿高野を代表するフルーツであるマスクメロンを主役にした「マスクメロンのクリームソーダ」を、10月1日からタカノフルーツパーラー全店で販売する。 【「マスクメロンのクリーム...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "設立100周年を記念した「マスクメロンのクリームソーダ」を全店で販売【タカノフルーツパーラー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/702415/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -37,15 +81,13 @@
     },
     {
       "id": "ssnp-121fd846",
-      "title": "液体コーヒーの選択肢広がる　豆不使用、機能性、ラテ細分化で各社が新提案\n\t\t\t\t\t\t\t\t\t\t\t\t液体コーヒー市場で、商品を選ぶ軸が広がっている。2026年1～8月の市場は数量ベースで前年同期比1%減、金額ベースで5%増(本紙調べ)。価格改定などで金額は伸びる一方、数量は前年を下回る。各社は定番商品の強化に加え、機能...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "液体コーヒーの選択肢広がる　豆不使用、機能性、ラテ細分化で各社が新提案\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/703446/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
       "date": "2026-09-23",
-      "tags": [
-        "価格改定"
-      ]
+      "tags": []
     },
     {
       "id": "diamond-c20cb59f",
@@ -233,18 +275,6 @@
       "tags": []
     },
     {
-      "id": "diamond-08ff776c",
-      "title": "流通秀書　第47回『西友ストアーの流通支配戦略』",
-      "url": "https://diamond-rm.net/life-career/551581/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-09-19",
-      "tags": [
-        "西友"
-      ]
-    },
-    {
       "id": "ssnp-ffdccd1d",
       "title": "ヤクルト本社、乳酸菌 シロタ株含有乳製品を週3日以上摂取した男性高齢者で全死亡リスク低下 　9年間の「中之条研究」を研究担当者が解説\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/milk/703393/",
@@ -283,6 +313,18 @@
       "category": "菓子",
       "date": "2026-09-19",
       "tags": []
+    },
+    {
+      "id": "diamond-08ff776c",
+      "title": "流通秀書　第47回『西友ストアーの流通支配戦略』",
+      "url": "https://diamond-rm.net/life-career/551581/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-09-19",
+      "tags": [
+        "西友"
+      ]
     },
     {
       "id": "ryutsuu-7203d2d2",
@@ -412,6 +454,18 @@
       ]
     },
     {
+      "id": "diamond-b9d52b2d",
+      "title": "第148回 残るSC、消えるSC……「3つの格差」が突きつける生存競争",
+      "url": "https://diamond-rm.net/management/555108/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": [
+        "SC"
+      ]
+    },
+    {
       "id": "diamond-f2af8916",
       "title": "ダイエーが描く新・商品戦略……バックエンド改革と独自商品開発を推進",
       "url": "https://diamond-rm.net/management/businessplan/557130/",
@@ -456,50 +510,6 @@
       "tags": []
     },
     {
-      "id": "diamond-aa0ca894",
-      "title": "効率性とレジリエンスを両立　「物流プラットフォーム」という新たな共通基盤",
-      "url": "https://diamond-rm.net/management/supply-chain/555866/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-18",
-      "tags": [
-        "物流"
-      ]
-    },
-    {
-      "id": "diamond-b9d52b2d",
-      "title": "第148回 残るSC、消えるSC……「3つの格差」が突きつける生存競争",
-      "url": "https://diamond-rm.net/management/555108/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-18",
-      "tags": [
-        "SC"
-      ]
-    },
-    {
-      "id": "diamond-c5987791",
-      "title": "第１８１回　全国に広がりはじめるセルフサービス方式",
-      "url": "https://diamond-rm.net/life-career/542251/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
-      "id": "diamond-6029bcf1",
-      "title": "【店長の流儀】イズミの巨艦店「ゆめタウン廿日市」寺下支配人の信念",
-      "url": "https://diamond-rm.net/management/businessplan/556499/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
       "id": "diamond-ccba3227",
       "title": "デリバリーサービス台頭で　淘汰の危機迎える中国のコンビニ",
       "url": "https://diamond-rm.net/overseas/chinaeastasianews/556474/",
@@ -535,6 +545,16 @@
         "スーパー",
         "鮮魚"
       ]
+    },
+    {
+      "id": "diamond-6029bcf1",
+      "title": "【店長の流儀】イズミの巨艦店「ゆめタウン廿日市」寺下支配人の信念",
+      "url": "https://diamond-rm.net/management/businessplan/556499/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": []
     },
     {
       "id": "ssnp-36c43425",
@@ -776,6 +796,28 @@
         "ローソン",
         "AI"
       ]
+    },
+    {
+      "id": "diamond-aa0ca894",
+      "title": "効率性とレジリエンスを両立　「物流プラットフォーム」という新たな共通基盤",
+      "url": "https://diamond-rm.net/management/supply-chain/555866/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": [
+        "物流"
+      ]
+    },
+    {
+      "id": "diamond-c5987791",
+      "title": "第１８１回　全国に広がりはじめるセルフサービス方式",
+      "url": "https://diamond-rm.net/life-career/542251/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-09-18",
+      "tags": []
     },
     {
       "id": "ryutsuu-009d3916",
@@ -1788,6 +1830,19 @@
       ]
     },
     {
+      "id": "diamond-19ca6eba",
+      "title": "ライフのアルビスTOBで何がどう変わる？両社の深謀を流通アナリストが解説",
+      "url": "https://diamond-rm.net/management/557773/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-15",
+      "tags": [
+        "ライフ",
+        "TOB"
+      ]
+    },
+    {
       "id": "diamond-8ababeb0",
       "title": "【動画】9月2週目の注目ニュースまとめ、ライフTOBなど",
       "url": "https://diamond-rm.net/management/businessplan/557796/",
@@ -2067,19 +2122,6 @@
       "date": "2026-09-15",
       "tags": [
         "食品"
-      ]
-    },
-    {
-      "id": "diamond-19ca6eba",
-      "title": "ライフのアルビスTOBで何がどう変わる？両社の深謀を流通アナリストが解説",
-      "url": "https://diamond-rm.net/management/557773/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-15",
-      "tags": [
-        "ライフ",
-        "TOB"
       ]
     },
     {
@@ -3382,58 +3424,6 @@
         "インテリア",
         "イオン",
         "雑貨"
-      ]
-    },
-    {
-      "id": "ryutsuu-d09e82a3",
-      "title": "ルミネ／「パーソナルスタイリングサービス」10月に開始、AIとスタイリストを融合",
-      "url": "https://www.ryutsuu.biz/strategy/s091043.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-09-10",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "diamond-b8795209",
-      "title": "イケアが約5年ぶりに都内に出店　コンパクトな都市型店舗「IKEA豊洲」の全容とは",
-      "url": "https://diamond-rm.net/store/556882/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-10",
-      "tags": [
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-6f893930",
-      "title": "平和堂／「アルプラフーズマーケット富山掛尾」オープン、富山県に食品スーパー初出店",
-      "url": "https://www.ryutsuu.biz/store/s091042.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-10",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "オープン",
-        "食品",
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-d19df64b",
-      "title": "二子玉川ライズS.C.／今秋「マリークワント」「プリンセスタルト」など新規オープン",
-      "url": "https://www.ryutsuu.biz/store/s091077.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-10",
-      "tags": [
-        "オープン"
       ]
     }
   ]
