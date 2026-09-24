@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T16:17:58.653Z",
+  "lastUpdated": "2026-09-24T21:01:42.663Z",
   "items": [
     {
       "id": "ryutsuu-2fbdab7f",
@@ -25,6 +25,77 @@
       "date": "2026-09-25",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "diamond-72d3c022",
+      "title": "小売業市場占有率2026　1兆円企業続々誕生……再編劇は新局面に",
+      "url": "https://diamond-rm.net/market/market-share/558283/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "id": "diamond-2cc1c9c2",
+      "title": "食品スーパー市場占有率2026　止まらぬ上位集中、新たに台頭する企業は？",
+      "url": "https://diamond-rm.net/market/market-share/558284/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-09-25",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-ae7482f4",
+      "title": "インバウンドの4人に1人がドンキに来店!?　担当者が明かした訪日客の心を掴む施策とは",
+      "url": "https://diamond-rm.net/management/businessplan/558419/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-25",
+      "tags": [
+        "インバウンド"
+      ]
+    },
+    {
+      "id": "diamond-ce2112ca",
+      "title": "ミスターマックスが茨城・つくばに1万4000㎡超の大型施設を開設！【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/558608/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "id": "diamond-ec047886",
+      "title": "総合スーパー市場占有率2026　PPIHの存在感じわり大きく",
+      "url": "https://diamond-rm.net/market/market-share/558285/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-09-25",
+      "tags": [
+        "PPIH",
+        "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-374f8c92",
+      "title": "【インタビュー】文化堂 鈴木俊昭社長　ブルーゾーン入りで「パワースーツ」を得た！",
+      "url": "https://diamond-rm.net/management/topinterview/558274/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-25",
+      "tags": [
+        "社長"
       ]
     },
     {
@@ -349,26 +420,12 @@
       ]
     },
     {
-      "id": "diamond-b4d6b695",
-      "title": "ローソン、生成AIが発案した商品3品を発売【週刊コンビニエンスストアニュース】",
-      "url": "https://diamond-rm.net/management/558491/",
+      "id": "diamond-46664993",
+      "title": "フードスタイル1号店「あびこ駅前店」　開店から4カ月の現状を徹底レポート",
+      "url": "https://diamond-rm.net/store/storevisit/557139/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-23",
-      "tags": [
-        "ローソン",
-        "コンビニ",
-        "AI"
-      ]
-    },
-    {
-      "id": "diamond-e1942b9e",
-      "title": "第１８４回　「人間協業」の西端行雄",
-      "url": "https://diamond-rm.net/life-career/542254/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
+      "category": "店舗",
       "date": "2026-09-23",
       "tags": []
     },
@@ -385,16 +442,6 @@
         "売上高",
         "PB"
       ]
-    },
-    {
-      "id": "diamond-46664993",
-      "title": "フードスタイル1号店「あびこ駅前店」　開店から4カ月の現状を徹底レポート",
-      "url": "https://diamond-rm.net/store/storevisit/557139/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-23",
-      "tags": []
     },
     {
       "id": "ssnp-10ea9a3a",
@@ -437,26 +484,28 @@
       "tags": []
     },
     {
-      "id": "diamond-c20cb59f",
-      "title": "第１８３回　「セルフハトヤ」誕生す",
-      "url": "https://diamond-rm.net/life-career/542253/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-09-22",
-      "tags": []
-    },
-    {
-      "id": "diamond-332f5bcc",
-      "title": "新生ダイエーは「鮮魚」でも仕掛ける！　2社のシナジー最大化した販売戦略の全貌",
-      "url": "https://diamond-rm.net/management/businessplan/557395/",
+      "id": "diamond-b4d6b695",
+      "title": "ローソン、生成AIが発案した商品3品を発売【週刊コンビニエンスストアニュース】",
+      "url": "https://diamond-rm.net/management/558491/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "tags": [
-        "鮮魚"
+        "ローソン",
+        "コンビニ",
+        "AI"
       ]
+    },
+    {
+      "id": "diamond-e1942b9e",
+      "title": "第１８４回　「人間協業」の西端行雄",
+      "url": "https://diamond-rm.net/life-career/542254/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-09-23",
+      "tags": []
     },
     {
       "id": "ssnp-779b5f7c",
@@ -489,14 +538,26 @@
       "tags": []
     },
     {
-      "id": "diamond-ffae6171",
-      "title": "ダイエーが挑む総菜改革！光洋の「味わい・彩り」とダイエーの「価格対応力」を融合",
-      "url": "https://diamond-rm.net/management/businessplan/557357/",
+      "id": "diamond-c20cb59f",
+      "title": "第１８３回　「セルフハトヤ」誕生す",
+      "url": "https://diamond-rm.net/life-career/542253/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-09-22",
+      "tags": []
+    },
+    {
+      "id": "diamond-332f5bcc",
+      "title": "新生ダイエーは「鮮魚」でも仕掛ける！　2社のシナジー最大化した販売戦略の全貌",
+      "url": "https://diamond-rm.net/management/businessplan/557395/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
-      "date": "2026-09-21",
-      "tags": []
+      "date": "2026-09-22",
+      "tags": [
+        "鮮魚"
+      ]
     },
     {
       "id": "diamond-ab781192",
@@ -523,16 +584,6 @@
         "オーケー",
         "ロピア"
       ]
-    },
-    {
-      "id": "diamond-35cfc4de",
-      "title": "全店最大規模の丸魚＆刺身売場を展開　「角上魚類鶴ヶ島店」の売場を徹底解説！",
-      "url": "https://diamond-rm.net/store/newstorereport/556476/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-21",
-      "tags": []
     },
     {
       "id": "ssnp-b6baf853",
@@ -568,6 +619,26 @@
       "tags": [
         "弁当"
       ]
+    },
+    {
+      "id": "diamond-ffae6171",
+      "title": "ダイエーが挑む総菜改革！光洋の「味わい・彩り」とダイエーの「価格対応力」を融合",
+      "url": "https://diamond-rm.net/management/businessplan/557357/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-21",
+      "tags": []
+    },
+    {
+      "id": "diamond-35cfc4de",
+      "title": "全店最大規模の丸魚＆刺身売場を展開　「角上魚類鶴ヶ島店」の売場を徹底解説！",
+      "url": "https://diamond-rm.net/store/newstorereport/556476/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-21",
+      "tags": []
     },
     {
       "id": "diamond-248bb8cc",
@@ -686,40 +757,6 @@
       "date": "2026-09-19",
       "tags": [
         "西友"
-      ]
-    },
-    {
-      "id": "diamond-b9d52b2d",
-      "title": "第148回 残るSC、消えるSC……「3つの格差」が突きつける生存競争",
-      "url": "https://diamond-rm.net/management/555108/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-18",
-      "tags": [
-        "SC"
-      ]
-    },
-    {
-      "id": "diamond-f2af8916",
-      "title": "ダイエーが描く新・商品戦略……バックエンド改革と独自商品開発を推進",
-      "url": "https://diamond-rm.net/management/businessplan/557130/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
-      "id": "diamond-677f5b2e",
-      "title": "売上高3300億円へ！新生ダイエー、超激戦の関西で上げる“逆襲”の狼煙",
-      "url": "https://diamond-rm.net/management/businessplan/558056/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-18",
-      "tags": [
-        "売上高"
       ]
     },
     {
@@ -1008,6 +1045,40 @@
       "tags": [
         "ローソン",
         "AI"
+      ]
+    },
+    {
+      "id": "diamond-b9d52b2d",
+      "title": "第148回 残るSC、消えるSC……「3つの格差」が突きつける生存競争",
+      "url": "https://diamond-rm.net/management/555108/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": [
+        "SC"
+      ]
+    },
+    {
+      "id": "diamond-f2af8916",
+      "title": "ダイエーが描く新・商品戦略……バックエンド改革と独自商品開発を推進",
+      "url": "https://diamond-rm.net/management/businessplan/557130/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": []
+    },
+    {
+      "id": "diamond-677f5b2e",
+      "title": "売上高3300億円へ！新生ダイエー、超激戦の関西で上げる“逆襲”の狼煙",
+      "url": "https://diamond-rm.net/management/businessplan/558056/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-18",
+      "tags": [
+        "売上高"
       ]
     },
     {
@@ -1307,16 +1378,6 @@
       "tags": []
     },
     {
-      "id": "diamond-daeb9506",
-      "title": "漬物・キムチ市場、キムチが好調に推移　メニュー提案で若年層にもアピール",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/556505/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
       "id": "ssnp-c41d2ec7",
       "title": "【資さんうどん】名物「ミニぼた餅」が108円に　7日間限定、関東・関西店舗\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/703016/",
@@ -1498,6 +1559,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "大豆",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "id": "diamond-daeb9506",
+      "title": "漬物・キムチ市場、キムチが好調に推移　メニュー提案で若年層にもアピール",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/556505/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
       "date": "2026-09-17",
       "tags": []
     },
@@ -1768,20 +1839,6 @@
       ]
     },
     {
-      "id": "diamond-c95fedb9",
-      "title": "PPIHとトライアルHDの通期決算を大解剖！　強力な成長の源泉と背景",
-      "url": "https://diamond-rm.net/market/accounting/556470/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-16",
-      "tags": [
-        "トライアル",
-        "PPIH",
-        "決算"
-      ]
-    },
-    {
       "id": "diamond-62c42086",
       "title": "【村上勝利×藤原義昭】ポイント還元に頼らないAI時代の「また買われる」技術",
       "url": "https://diamond-rm.net/seminar/557298/",
@@ -2015,6 +2072,20 @@
       "tags": []
     },
     {
+      "id": "diamond-c95fedb9",
+      "title": "PPIHとトライアルHDの通期決算を大解剖！　強力な成長の源泉と背景",
+      "url": "https://diamond-rm.net/market/accounting/556470/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-09-16",
+      "tags": [
+        "トライアル",
+        "PPIH",
+        "決算"
+      ]
+    },
+    {
       "id": "ryutsuu-56f7227b",
       "title": "セブンイレブン／高圧受電設備を再利用、パナソニック・伊藤忠プランテックと連携",
       "url": "https://www.ryutsuu.biz/strategy/s091612.html",
@@ -2229,29 +2300,6 @@
       ]
     },
     {
-      "id": "diamond-19ca6eba",
-      "title": "ライフのアルビスTOBで何がどう変わる？両社の深謀を流通アナリストが解説",
-      "url": "https://diamond-rm.net/management/557773/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-15",
-      "tags": [
-        "ライフ",
-        "TOB"
-      ]
-    },
-    {
-      "id": "diamond-47be9090",
-      "title": "【DCS最新号】9月15日号は「日本の小売業1000社ランキング2026」",
-      "url": "https://diamond-rm.net/market/accounting/557609/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-15",
-      "tags": []
-    },
-    {
       "id": "diamond-58c494e9",
       "title": "＃11 独自進化するアジア小売！NRF APACで見えたAI×SNSと戦略的共創の最前線",
       "url": "https://diamond-rm.net/ec-epayment/ec/557818/",
@@ -2398,6 +2446,29 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
+      "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-19ca6eba",
+      "title": "ライフのアルビスTOBで何がどう変わる？両社の深謀を流通アナリストが解説",
+      "url": "https://diamond-rm.net/management/557773/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-15",
+      "tags": [
+        "ライフ",
+        "TOB"
+      ]
+    },
+    {
+      "id": "diamond-47be9090",
+      "title": "【DCS最新号】9月15日号は「日本の小売業1000社ランキング2026」",
+      "url": "https://diamond-rm.net/market/accounting/557609/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
       "date": "2026-09-15",
       "tags": []
     },
@@ -3338,87 +3409,6 @@
       "category": "流通",
       "date": "2026-09-11",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-8dc8088c",
-      "title": "流通経済研究所／「営業マネージャー育成講座」11月5・11・19日東京で開催",
-      "url": "https://www.ryutsuu.biz/seminar/s091174.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-09-11",
-      "tags": [
-        "PR"
-      ]
-    },
-    {
-      "id": "diamond-c92aa64c",
-      "title": "中四国小売売上高ランキング 2026 イズミは新 PB 好調、ハローズは積極出店続く",
-      "url": "https://diamond-rm.net/market/accounting/556496/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-11",
-      "tags": [
-        "売上高",
-        "PB",
-        "出店"
-      ]
-    },
-    {
-      "id": "diamond-2e5eca3b",
-      "title": "関西小売ランキング2026 食品小売の競争さらに激化！",
-      "url": "https://diamond-rm.net/market/accounting/556495/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-11",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "ryutsuu-3da4d35a",
-      "title": "コンビニアパレル／ファミマ先行・ローソン猛追・セブン参戦、わざわざ買いに行く服へ",
-      "url": "https://www.ryutsuu.biz/strategy/s091143.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-09-11",
-      "tags": [
-        "注目",
-        "ローソン",
-        "コンビニ",
-        "アパレル"
-      ]
-    },
-    {
-      "id": "ryutsuu-7ece8e24",
-      "title": "イオン／「マックスバリュ辰巳台店」のガス漏れで謝罪",
-      "url": "https://www.ryutsuu.biz/strategy/s091117.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-09-11",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
-      "id": "diamond-fb697220",
-      "title": "中部小売ランキング2026 食品スーパー、ドラッグストアの成長続く",
-      "url": "https://diamond-rm.net/market/accounting/556494/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-11",
-      "tags": [
-        "ドラッグストア",
-        "食品スーパー",
-        "スーパー",
-        "ドラッグ",
-        "食品"
-      ]
     }
   ]
 }
