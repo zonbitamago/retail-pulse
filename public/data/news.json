@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-24T21:01:42.663Z",
+  "lastUpdated": "2026-09-25T02:56:26.701Z",
   "items": [
+    {
+      "id": "ryutsuu-f37aa8b6",
+      "title": "まいばすけっと／手巻きおにぎり7品を税別98円に値下げ",
+      "url": "https://www.ryutsuu.biz/commodity/s092513.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-09-25",
+      "tags": [
+        "値下げ"
+      ]
+    },
+    {
+      "id": "ryutsuu-55e4efa2",
+      "title": "ライフ／8月総売上高は768億円、既存店売上高1.1％増",
+      "url": "https://www.ryutsuu.biz/sales/s092572.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-25",
+      "tags": [
+        "ライフ",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-658cd29b",
+      "title": "サミット／8月の売上高319億円、既存店は1.8％増",
+      "url": "https://www.ryutsuu.biz/sales/s092571.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-25",
+      "tags": [
+        "サミット",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-f0693dc0",
+      "title": "清涼飲料 売上ランキング／8月1位はアサヒ飲料「green cola」",
+      "url": "https://www.ryutsuu.biz/pos/s092573.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-09-25",
+      "tags": [
+        "飲料"
+      ]
+    },
     {
       "id": "ryutsuu-2fbdab7f",
       "title": "ベイシア／埼玉県「本庄早稲田ゲート店」9月25日リニューアルオープン、新商品充実",
@@ -12,18 +62,6 @@
       "tags": [
         "リニューアル",
         "ベイシア",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-ab776e91",
-      "title": "まいばすけっと／東京都内に「平井駅前店」「百草園駅前店」9月25日同時オープン",
-      "url": "https://www.ryutsuu.biz/store/s092478.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-25",
-      "tags": [
         "オープン"
       ]
     },
@@ -74,6 +112,31 @@
       "tags": []
     },
     {
+      "id": "diamond-e2589fee",
+      "title": "コンビニ市場占有率2026 市場規模は拡大も「客数減」にどう立ち向かう？",
+      "url": "https://diamond-rm.net/market/market-share/558286/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-09-25",
+      "tags": [
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-31c0bd72",
+      "title": "ロピア、「トシ・ヨロイヅカ」とスイーツブランドを共同開発【週刊スーパーマーケットニュース】",
+      "url": "https://diamond-rm.net/management/businessplan/558407/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-25",
+      "tags": [
+        "スーパー",
+        "ロピア"
+      ]
+    },
+    {
       "id": "diamond-ec047886",
       "title": "総合スーパー市場占有率2026　PPIHの存在感じわり大きく",
       "url": "https://diamond-rm.net/market/market-share/558285/",
@@ -96,6 +159,96 @@
       "date": "2026-09-25",
       "tags": [
         "社長"
+      ]
+    },
+    {
+      "id": "ssnp-e02d2575",
+      "title": "ココス、“ポルチーニ香る” 包み焼きハンバーグが登場　「季節のグルメ～きのこ～」展開、“秋らしい” タコサラダも\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーレストラン「ココス」は10月1日から、「季節のグルメ～きのこ～」を、504店舗で展開する(2026年9月25日時点)。空港店舗では実施しない。 秋季向けメニューとして、ポルチーニの香りが広がる「ポルチーニ香るた...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/703652/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "id": "ssnp-641f35e1",
+      "title": "スシロー「本鮪大とろ」110円～、天然インド鮪6貫盛り・生サーモン4種盛りなど\n\t\t\t\t\t\t\t\t\t\t\t\t寿司チェーン「スシロー」は9月30日から、「本鮪」の大とろを税込110円～で販売する。 そのほか、天然インド鮪の各部位を食べ比べできる「天然インド鮪6貫盛り」や、一度も冷凍していない生のタスマニアサーモンを4つの味わいで...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/703640/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "id": "ssnp-b72417b0",
+      "title": "すき家「とん汁みそらーめん」再登場　麺を改良、牛肉･辛ねぎを合わせた商品も展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/703623/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "id": "ssnp-c56c4d18",
+      "title": "ハッピーセット「すみっコぐらし」「プラレール」第2弾発売　「ねこ」「E5系新幹線はやぶさ」など全10種\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/703612/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "id": "ssnp-263556f2",
+      "title": "日本マクドナルド、カスハラ「1人で抱え込まず」　基本方針を全社で設定、10月義務化に対応\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/703591/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-25",
+      "tags": [
+        "マクドナルド"
+      ]
+    },
+    {
+      "id": "ryutsuu-ab776e91",
+      "title": "まいばすけっと／東京都内に「平井駅前店」「百草園駅前店」9月25日同時オープン",
+      "url": "https://www.ryutsuu.biz/store/s092478.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-25",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-1022348a",
+      "title": "SM物流研究会／首都圏の共同配送で積載率13～38％向上、2026年度上期の活動報告",
+      "url": "https://www.ryutsuu.biz/strategy/s092442.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-09-24",
+      "tags": [
+        "注目",
+        "物流",
+        "配送"
+      ]
+    },
+    {
+      "id": "ryutsuu-9c7384a3",
+      "title": "スーパーマーケット／8月の既存店売上1.4％増「客数は依然弱さが残っている」",
+      "url": "https://www.ryutsuu.biz/sales/s092414.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-24",
+      "tags": [
+        "スーパー"
       ]
     },
     {
@@ -159,66 +312,6 @@
       "date": "2026-09-24",
       "tags": [
         "PR"
-      ]
-    },
-    {
-      "id": "ryutsuu-9af8067b",
-      "title": "CGC×湖池屋／大容量ポテトチップスを発売、値ごろ感と物流効率化を両立",
-      "url": "https://www.ryutsuu.biz/commodity/s092412.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-09-24",
-      "tags": [
-        "物流"
-      ]
-    },
-    {
-      "id": "ryutsuu-7866bec5",
-      "title": "コンビニエンスストア／8月既存店0.3％増、揚げ物・日用品が好調",
-      "url": "https://www.ryutsuu.biz/sales/s092417.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-09-24",
-      "tags": [
-        "コンビニ",
-        "日用品"
-      ]
-    },
-    {
-      "id": "ryutsuu-cdcdd98e",
-      "title": "日本生協連／8月の総供給高0.2％減、盆休みの休配が影響",
-      "url": "https://www.ryutsuu.biz/sales/s092415.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-56716744",
-      "title": "東急ストア／8月の売上高169億円、既存店1.6％増",
-      "url": "https://www.ryutsuu.biz/sales/s091816.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-09-24",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-4b7af48a",
-      "title": "アルコール飲料 売上ランキング／8月1・2位は「アサヒスーパードライ 生ジョッキ缶」",
-      "url": "https://www.ryutsuu.biz/pos/s092471.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-09-24",
-      "tags": [
-        "スーパー",
-        "飲料"
       ]
     },
     {
@@ -293,7 +386,7 @@
     },
     {
       "id": "ssnp-c13a2005",
-      "title": "ブロンコビリー、10月2日から新ランチメニュー3品が新登場 / トマチービリーハンバーグなど登場\n\t\t\t\t\t\t\t\t\t\t\t\tステーキハウス「ブロンコビリー」を展開するブロンコビリーは、10月2日（金）から新ランチメニューの提供を開始する。 今回の改定では、「ビュッフェランチ」と「セレクトランチ」の2つのスタイルを用意。全店舗で「ビュッフェラン...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ブロンコビリー、10月2日から新ランチメニュー3品が新登場 / トマチービリーハンバーグなど登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/703595/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -303,15 +396,13 @@
     },
     {
       "id": "ssnp-4de6d355",
-      "title": "ビアードパパ、秋限定「渋皮栗のモンブランシュー」とゴディバ監修「ショコラ ラングドシャシュー」が登場\n\t\t\t\t\t\t\t\t\t\t\t\tシュークリーム専門店「ビアードパパ」は、秋限定商品として「渋皮栗のモンブランシュー」と、ゴディバ監修の「ショコラ ラングドシャシュー」を販売する。 「渋皮栗のモンブランシュー」は現在販売中で10月31日までの期間限定。「...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ビアードパパ、秋限定「渋皮栗のモンブランシュー」とゴディバ監修「ショコラ ラングドシャシュー」が登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/703582/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
       "date": "2026-09-24",
-      "tags": [
-        "専門店"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-3ae4d52c",
@@ -417,6 +508,66 @@
       "date": "2026-09-24",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-9af8067b",
+      "title": "CGC×湖池屋／大容量ポテトチップスを発売、値ごろ感と物流効率化を両立",
+      "url": "https://www.ryutsuu.biz/commodity/s092412.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-09-24",
+      "tags": [
+        "物流"
+      ]
+    },
+    {
+      "id": "ryutsuu-7866bec5",
+      "title": "コンビニエンスストア／8月既存店0.3％増、揚げ物・日用品が好調",
+      "url": "https://www.ryutsuu.biz/sales/s092417.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-24",
+      "tags": [
+        "コンビニ",
+        "日用品"
+      ]
+    },
+    {
+      "id": "ryutsuu-cdcdd98e",
+      "title": "日本生協連／8月の総供給高0.2％減、盆休みの休配が影響",
+      "url": "https://www.ryutsuu.biz/sales/s092415.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-24",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-56716744",
+      "title": "東急ストア／8月の売上高169億円、既存店1.6％増",
+      "url": "https://www.ryutsuu.biz/sales/s091816.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-24",
+      "tags": [
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-4b7af48a",
+      "title": "アルコール飲料 売上ランキング／8月1・2位は「アサヒスーパードライ 生ジョッキ缶」",
+      "url": "https://www.ryutsuu.biz/pos/s092471.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-09-24",
+      "tags": [
+        "スーパー",
+        "飲料"
       ]
     },
     {
@@ -757,6 +908,19 @@
       "date": "2026-09-19",
       "tags": [
         "西友"
+      ]
+    },
+    {
+      "id": "ryutsuu-4884d167",
+      "title": "お菓子 売上ランキング／8月はカバヤ食品「塩分チャージタブレッツ」が2カ月連続1位",
+      "url": "https://www.ryutsuu.biz/pos/s091843.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-09-18",
+      "tags": [
+        "食品",
+        "菓子"
       ]
     },
     {
@@ -1218,19 +1382,6 @@
       "date": "2026-09-18",
       "tags": [
         "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-4884d167",
-      "title": "お菓子 売上ランキング／8月はカバヤ食品「塩分チャージタブレッツ」が2カ月連続1位",
-      "url": "https://www.ryutsuu.biz/pos/s091843.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-09-18",
-      "tags": [
-        "食品",
-        "菓子"
       ]
     },
     {
@@ -2746,16 +2897,6 @@
       "tags": []
     },
     {
-      "id": "ryutsuu-781628d7",
-      "title": "かゆみ・虫さされ用薬 売上ランキング／6～8月は池田模範堂「ムヒ」がトップ3独占",
-      "url": "https://www.ryutsuu.biz/pos/s091441.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
       "id": "diamond-b39a675f",
       "title": "リテールメディアの最前線に迫る「リテールメディアサミット2026」11月11・12日に開催",
       "url": "https://diamond-rm.net/technology/557559/",
@@ -2779,6 +2920,16 @@
       "tags": [
         "AI"
       ]
+    },
+    {
+      "id": "ryutsuu-781628d7",
+      "title": "かゆみ・虫さされ用薬 売上ランキング／6～8月は池田模範堂「ムヒ」がトップ3独占",
+      "url": "https://www.ryutsuu.biz/pos/s091441.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-09-14",
+      "tags": []
     },
     {
       "id": "ssnp-fda22435",
@@ -3266,144 +3417,6 @@
       "id": "ssnp-fe0c9644",
       "title": "「天神屋」監修の「たぬきむすび」が大きなおむすびになって登場、中部･東海地方限定【ファミマ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/701987/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-09-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-b2c05144",
-      "title": "「外食10%、飲食料品1%」で税率差9%に　日本フードサービス協会が客離れを懸念、政府に対策要請\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/701979/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-11",
-      "tags": [
-        "外食"
-      ]
-    },
-    {
-      "id": "ssnp-d3839f78",
-      "title": "もち吉「創業祭感謝セール」　あられ･おせんべい袋物を期間限定で2割引き、7種31枚入り･1,620円の詰合せも　創業97周年\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/701965/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-2b6da2e3",
-      "title": "壱角家「ライス食べ放題」または「味玉1個」プレゼント　油そば総本店とのハイブリッド111店舗達成で感謝祭第2弾\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/701902/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-b39b83c8",
-      "title": "湖池屋「プライドポテト100% あか牛にんにく醤油」発売　熊本地震“復旧･復興”応援、1袋につき1円寄付も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/701936/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-75836742",
-      "title": "「Suicaのペンギン七味3缶セット」5,000セット限定発売【長野県内のNewDays限定】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/701940/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-09-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-997e0c11",
-      "title": "新じゃがを使った秋限定のポテトチップチョコレートが今年も登場!【ロイズ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/701926/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-11",
-      "tags": [
-        "チョコレート"
-      ]
-    },
-    {
-      "id": "ssnp-d7ff7233",
-      "title": "松のや、アジフライ・カキフライが今年も登場　「アジフライ(2枚)定食」930円、「海鮮盛合せ定食」1,030円など　9月16日から\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/701903/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-9adc4ff1",
-      "title": "日清シスコ「グラノーラキッチン from ごろグラ」新商品発表会、飯豊まりえさんが“ザクッ”“ほろっ”な食感をレポート\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/rice/701897/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "米",
-      "date": "2026-09-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-72c34179",
-      "title": "ブランチ業態「サムジョ」が関西初進出、朝食の選択肢でファミリー層狙う\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/701889/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-848e9932",
-      "title": "【不二製油】万博共創メニューが実店舗で発売、植物性ダシで各地の名物を植物性に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/701880/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-09-11",
-      "tags": [
-        "植物性"
-      ]
-    },
-    {
-      "id": "ssnp-3d62caf0",
-      "title": "【USSEC主催･米国視察】SUSS マーク採用企業39社が参加、日本の5社が表彰\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/701876/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-09-11",
-      "tags": [
-        "EC"
-      ]
-    },
-    {
-      "id": "ssnp-4e70ea43",
-      "title": "「アヲハタ モーニングスタンド」大阪･東京で期間限定開催　若年層の朝食応援イベント、広島での反響を受け\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/seasoning/701861/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "調味料",
-      "date": "2026-09-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-67da91a7",
-      "title": "セブン‐イレブン、9月11日「たんぱく質の日」に向けて高タンパク質商品を紹介　人気の「ブロッコリーチキンエッグ」は累計1200万個突破\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/701348/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
