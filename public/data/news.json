@@ -1,6 +1,79 @@
 {
-  "lastUpdated": "2026-09-27T20:41:51.170Z",
+  "lastUpdated": "2026-09-28T03:01:41.690Z",
   "items": [
+    {
+      "id": "ryutsuu-c6447551",
+      "title": "セブンイレブン 新商品／低価格PB「セブン・ザ・プライス」27品に拡大",
+      "url": "https://www.ryutsuu.biz/commodity/s092813.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-09-28",
+      "tags": [
+        "セブンイレブン",
+        "PB"
+      ]
+    },
+    {
+      "id": "ryutsuu-29ba309c",
+      "title": "イトーヨーカドー 新商品／低価格PB「セブン・ザ・プライス」初のビールなど25品発売",
+      "url": "https://www.ryutsuu.biz/commodity/s092812.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-09-28",
+      "tags": [
+        "ビール",
+        "PB"
+      ]
+    },
+    {
+      "id": "ryutsuu-d248d765",
+      "title": "ワッツ／福岡市中央区に「ワッツウィズ 今川マックスバリュエクスプレス店」オープン",
+      "url": "https://www.ryutsuu.biz/store/s092841.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-09-28",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-7716b2dd",
+      "title": "日本チェーンストア協会／8月既存店0.2％増",
+      "url": "https://www.ryutsuu.biz/sales/s092811.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-28",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-ec12f058",
+      "title": "PPIH／8月の国内リテール既存店売上高1.4％増、季節品が低調も食品・日用雑貨好調",
+      "url": "https://www.ryutsuu.biz/sales/s092872.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-28",
+      "tags": [
+        "PPIH",
+        "売上高",
+        "食品",
+        "雑貨"
+      ]
+    },
+    {
+      "id": "ryutsuu-289bbf4b",
+      "title": "救急絆創膏 売上ランキング／6月～8月1位ニチバン「ケアリーヴ Mサイズ」",
+      "url": "https://www.ryutsuu.biz/pos/s092871.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-09-28",
+      "tags": []
+    },
     {
       "id": "diamond-17b9913f",
       "title": "ライフ鎌倉梶原店がオープン！地域密着の売場づくりをレポート",
@@ -37,15 +110,46 @@
       ]
     },
     {
+      "id": "diamond-7bd98818",
+      "title": "ホームセンター月次実績＝2026年8月度",
+      "url": "https://diamond-rm.net/retaildata/558792/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-09-28",
+      "tags": [
+        "ホームセンター"
+      ]
+    },
+    {
+      "id": "ssnp-5877dfd9",
+      "title": "すき家、欧風の“コク深いルウ”を使用した「ビーフカレー」発売　全3種を展開　9月29日から\n\t\t\t\t\t\t\t\t\t\t\t\t牛丼チェーン「すき家」は9月29日午前9時から、欧風のカレールウを使用した「ビーフカレー」を発売する。全国1,991店舗で販売予定(2026年9月25日時点)。 欧風のルウは、牛肉の旨みとタマネギの甘み、ニンニク、トマト...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/703877/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-09-28",
+      "tags": []
+    },
+    {
+      "id": "ssnp-d105d9dc",
+      "title": "【セブン‐イレブン】スムージー新作、老舗「北川半兵衛商店」厳選ほうじ茶使用　9月29日から順次発売\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブン･ジャパンは9月29日から、「セブンカフェ スムージー」の新作「深焙煎ほうじ茶スムージー」を全国のセブン‐イレブンで順次発売する。 秋の始まりに合わせた“和のスムージー”で、京都･宇治の老舗茶問屋「北川半...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/703864/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-09-28",
+      "tags": []
+    },
+    {
       "id": "ssnp-f9971a58",
-      "title": "アサヒ飲料、「PLUSカルピス カラダクレンジング」発売　体脂肪・お通じ改善を訴求 「カルピス」らしい味わいに\n\t\t\t\t\t\t\t\t\t\t\t\tアサヒ飲料は9月22日、ヘルスケアシリーズ「PLUSカルピス」から、機能性表示食品「PLUSカルピス カラダクレンジング」を全国発売した。乳酸菌CP1563株由来の10-ヒドロキシオクタデカン酸(10-HOA)とマルトビ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "アサヒ飲料、「PLUSカルピス カラダクレンジング」発売　体脂肪・お通じ改善を訴求 「カルピス」らしい味わいに\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/703858/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
       "date": "2026-09-27",
       "tags": [
-        "食品",
         "飲料"
       ]
     },
@@ -61,7 +165,7 @@
     },
     {
       "id": "ssnp-651b2682",
-      "title": "アサヒ飲料、日中の炭酸需要開拓へ　「リフレッツ」発売、ウェルネス価値を提案\n\t\t\t\t\t\t\t\t\t\t\t\tアサヒ飲料は9月22日、カロリー控えめの微炭酸飲料「リフレッツ」を関東甲信越1都9県限定で発売した。「レモン&レモンバーム」「アップル&ローズマリー」の2品を展開し、ウェルネス価値を付加した“かろやかな炭...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "アサヒ飲料、日中の炭酸需要開拓へ　「リフレッツ」発売、ウェルネス価値を提案\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/703851/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -100,6 +204,45 @@
       "category": "pr",
       "date": "2026-09-26",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-39769ab0",
+      "title": "ドラッグストア／8月既存店売上ツルハ1.5％増、コスモス薬品1.4％増",
+      "url": "https://www.ryutsuu.biz/sales/s092578.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-25",
+      "tags": [
+        "ドラッグストア",
+        "コスモス薬品",
+        "ドラッグ",
+        "ツルハ"
+      ]
+    },
+    {
+      "id": "ryutsuu-f37aa8b6",
+      "title": "まいばすけっと／手巻きおにぎり7品を税別98円に値下げ",
+      "url": "https://www.ryutsuu.biz/commodity/s092513.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-09-25",
+      "tags": [
+        "値下げ"
+      ]
+    },
+    {
+      "id": "ryutsuu-9802de6e",
+      "title": "オークワ／27年2月期の中間・通期業績予想を下方修正、中間営業損益は赤字転落へ",
+      "url": "https://www.ryutsuu.biz/accounts/s092520.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-09-25",
+      "tags": [
+        "赤字"
+      ]
     },
     {
       "id": "ryutsuu-07abbbe4",
@@ -152,95 +295,6 @@
         "フードロス",
         "ベイシア",
         "アプリ"
-      ]
-    },
-    {
-      "id": "ryutsuu-03d06991",
-      "title": "サツドラHD 決算／6～8月営業赤字1億5700万円、人件費・業務プロセス改革費用が増加",
-      "url": "https://www.ryutsuu.biz/accounts/s092519.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-09-25",
-      "tags": [
-        "決算",
-        "赤字"
-      ]
-    },
-    {
-      "id": "ryutsuu-5cf6ff03",
-      "title": "日本百貨店協会／8月の売上高は2.6％増で8カ月連続プラス、客数は4.0％減",
-      "url": "https://www.ryutsuu.biz/sales/s092542.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-09-25",
-      "tags": [
-        "百貨店",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-6e2b5b1f",
-      "title": "日本百貨店協会／8月の外国人売上4.6％増、客数9.5％減・購買単価15.6％増",
-      "url": "https://www.ryutsuu.biz/sales/s092543.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-09-25",
-      "tags": [
-        "百貨店"
-      ]
-    },
-    {
-      "id": "ryutsuu-2149e8de",
-      "title": "ショッピングセンター／8月既存店売上2.8％増、集客イベント奏功・一部値上げも影響",
-      "url": "https://www.ryutsuu.biz/sales/s092580.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-09-25",
-      "tags": [
-        "ショッピングセンター",
-        "値上げ"
-      ]
-    },
-    {
-      "id": "ryutsuu-3edadfb5",
-      "title": "日本フードサービス協会／8月の外食売上4.9％増、天候・節約志向で客足に明暗",
-      "url": "https://www.ryutsuu.biz/sales/s092518.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-09-25",
-      "tags": [
-        "外食"
-      ]
-    },
-    {
-      "id": "ryutsuu-55e4efa2",
-      "title": "ライフ／8月総売上高は768億円、既存店売上高1.1％増",
-      "url": "https://www.ryutsuu.biz/sales/s092572.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-09-25",
-      "tags": [
-        "ライフ",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-658cd29b",
-      "title": "サミット／8月の売上高319億円、既存店は1.8％増",
-      "url": "https://www.ryutsuu.biz/sales/s092571.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-09-25",
-      "tags": [
-        "サミット",
-        "売上高"
       ]
     },
     {
@@ -368,6 +422,16 @@
       ]
     },
     {
+      "id": "diamond-ce2112ca",
+      "title": "ミスターマックスが茨城・つくばに1万4000㎡超の大型施設を開設！【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/558608/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
       "id": "diamond-ae7482f4",
       "title": "インバウンドの4人に1人がドンキに来店!?　担当者が明かした訪日客の心を掴む施策とは",
       "url": "https://diamond-rm.net/management/businessplan/558419/",
@@ -378,16 +442,6 @@
       "tags": [
         "インバウンド"
       ]
-    },
-    {
-      "id": "diamond-ce2112ca",
-      "title": "ミスターマックスが茨城・つくばに1万4000㎡超の大型施設を開設！【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/558608/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-25",
-      "tags": []
     },
     {
       "id": "ssnp-f36b9679",
@@ -576,15 +630,92 @@
       ]
     },
     {
-      "id": "ryutsuu-f37aa8b6",
-      "title": "まいばすけっと／手巻きおにぎり7品を税別98円に値下げ",
-      "url": "https://www.ryutsuu.biz/commodity/s092513.html",
+      "id": "ryutsuu-03d06991",
+      "title": "サツドラHD 決算／6～8月営業赤字1億5700万円、人件費・業務プロセス改革費用が増加",
+      "url": "https://www.ryutsuu.biz/accounts/s092519.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "商品",
+      "category": "accounts",
       "date": "2026-09-25",
       "tags": [
-        "値下げ"
+        "決算",
+        "赤字"
+      ]
+    },
+    {
+      "id": "ryutsuu-5cf6ff03",
+      "title": "日本百貨店協会／8月の売上高は2.6％増で8カ月連続プラス、客数は4.0％減",
+      "url": "https://www.ryutsuu.biz/sales/s092542.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-25",
+      "tags": [
+        "百貨店",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-6e2b5b1f",
+      "title": "日本百貨店協会／8月の外国人売上4.6％増、客数9.5％減・購買単価15.6％増",
+      "url": "https://www.ryutsuu.biz/sales/s092543.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-25",
+      "tags": [
+        "百貨店"
+      ]
+    },
+    {
+      "id": "ryutsuu-2149e8de",
+      "title": "ショッピングセンター／8月既存店売上2.8％増、集客イベント奏功・一部値上げも影響",
+      "url": "https://www.ryutsuu.biz/sales/s092580.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-25",
+      "tags": [
+        "ショッピングセンター",
+        "値上げ"
+      ]
+    },
+    {
+      "id": "ryutsuu-3edadfb5",
+      "title": "日本フードサービス協会／8月の外食売上4.9％増、天候・節約志向で客足に明暗",
+      "url": "https://www.ryutsuu.biz/sales/s092518.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-25",
+      "tags": [
+        "外食"
+      ]
+    },
+    {
+      "id": "ryutsuu-55e4efa2",
+      "title": "ライフ／8月総売上高は768億円、既存店売上高1.1％増",
+      "url": "https://www.ryutsuu.biz/sales/s092572.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-25",
+      "tags": [
+        "ライフ",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-658cd29b",
+      "title": "サミット／8月の売上高319億円、既存店は1.8％増",
+      "url": "https://www.ryutsuu.biz/sales/s092571.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-09-25",
+      "tags": [
+        "サミット",
+        "売上高"
       ]
     },
     {
@@ -3328,120 +3459,6 @@
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "pos",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-fda22435",
-      "title": "ナルミヤキャラクターズのオリジナルぷっくりシールがもらえるキャンペーン開催!【ゼッテリア】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/702441/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-af70d96d",
-      "title": "ローソン「Tops」監修スイーツ＆ベーカリー2品発売　ショコラオムレット300円、初のコラボクロワッサンも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/702446/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-09-14",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "ssnp-886d2ebd",
-      "title": "ファミマ限定「にゃんともおいしいベイクドチーズタルト」予約開始　ねこ型ケーキにトートバッグ＆限定ボックス付き、3,980円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/702427/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-75cc12b7",
-      "title": "「ほっともっと」地域限定でごはん大盛・中盛が並盛と同価格に、9月15日から12月31日まで大盛無料\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/702416/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-9cf28332",
-      "title": "昨年3カ月で完売の「UCC DRIP POD 鑑定士の誇り ミルクにあうブレンド」秋冬限定で再発売、植物性ミルクアレンジのプロレシピを新提案\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/702353/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-09-14",
-      "tags": [
-        "植物性"
-      ]
-    },
-    {
-      "id": "ssnp-d1b4391a",
-      "title": "マリオンクレープ50周年、「復刻クレープ」5種を店舗限定販売　10月21日は「バナナチョコクリーム」を特別価格で\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/702385/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f738785c",
-      "title": "【スシロー】「びんとろ」「焼とろサーモン」が110円～、さんまや帆立、天然えびなど秋の味覚も登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/702375/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f0dfa381",
-      "title": "ロイヤルホスト55周年「秋のグリル料理」開始　ポワヴル・ヴェール、マディラ、シャスールなど伝統ソースを味わう\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/702362/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-33beedf4",
-      "title": "カフェ･ド･クリエ、秋限定 “洋なし×キャラメル” のロイヤルミルクティーが登場　新作メニューを全4品発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/702319/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-81dc458e",
-      "title": "ハーゲンダッツから新作、たっぷりの芋蜜ソースを重ねた「濃蜜いも」9月15日発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/milk/702333/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "milk",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-53fd252d",
-      "title": "ギンビス「しみチョココーンMASHIMASHI」など秋の新商品発売　シナモン香る新フレーバーやモンブラン味の「たべっ子どうぶつ」も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/702309/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
       "date": "2026-09-14",
       "tags": []
     }
