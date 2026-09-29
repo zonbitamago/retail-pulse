@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T17:33:22.143Z",
+  "lastUpdated": "2026-09-29T21:45:10.167Z",
   "items": [
     {
       "id": "ryutsuu-c9deb2ef",
@@ -24,6 +24,57 @@
       "date": "2026-09-30",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "diamond-aaf4768d",
+      "title": "ラ・ムー、トライアル、ザ・ビッグ … 知られざる激戦地・滋賀の“DS ロード”を現地調査",
+      "url": "https://diamond-rm.net/store/storevisit/558268/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-30",
+      "tags": [
+        "トライアル"
+      ]
+    },
+    {
+      "id": "diamond-b2c5528f",
+      "title": "ライフ・ヤオコー・東武ストアの最新商品に見る、「手を伸ばしたくなる付加価値」づくり",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/558486/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-09-30",
+      "tags": [
+        "ヤオコー",
+        "ライフ"
+      ]
+    },
+    {
+      "id": "diamond-8aa691dd",
+      "title": "米アマゾンが仕掛ける「30分配送」と「自律型AI」がもたらす未来",
+      "url": "https://diamond-rm.net/overseas/american_economy/559200/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-09-30",
+      "tags": [
+        "アマゾン",
+        "AI",
+        "配送"
+      ]
+    },
+    {
+      "id": "diamond-6fda396d",
+      "title": "成城石井、物価高時代の「秋の食卓」に関する調査結果発表【週刊スーパーマーケットニュース】",
+      "url": "https://diamond-rm.net/management/businessplan/558877/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-30",
+      "tags": [
+        "スーパー"
       ]
     },
     {
@@ -188,18 +239,6 @@
       "tags": []
     },
     {
-      "id": "diamond-cd26f69c",
-      "title": "人類最強兵器は核からデータとアルゴリズムへ　AIは人類を滅ぼすのか",
-      "url": "https://diamond-rm.net/management/businessplan/558849/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-29",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
       "id": "diamond-a7a23e61",
       "title": "【動画】9月4週目の注目ニュースまとめ、バローやヤオコーの新店",
       "url": "https://diamond-rm.net/management/businessplan/558846/",
@@ -279,6 +318,18 @@
       "date": "2026-09-29",
       "tags": [
         "100円ショップ"
+      ]
+    },
+    {
+      "id": "diamond-cd26f69c",
+      "title": "人類最強兵器は核からデータとアルゴリズムへ　AIは人類を滅ぼすのか",
+      "url": "https://diamond-rm.net/management/businessplan/558849/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-29",
+      "tags": [
+        "AI"
       ]
     },
     {
@@ -560,31 +611,6 @@
       ]
     },
     {
-      "id": "diamond-17b9913f",
-      "title": "ライフ鎌倉梶原店がオープン！地域密着の売場づくりをレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/558742/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-28",
-      "tags": [
-        "オープン",
-        "ライフ"
-      ]
-    },
-    {
-      "id": "diamond-aac63a75",
-      "title": "総菜専門店市場占有率2026 市場規模は12兆円目前に",
-      "url": "https://diamond-rm.net/market/market-share/558291/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-28",
-      "tags": [
-        "専門店"
-      ]
-    },
-    {
       "id": "diamond-6fbdfad1",
       "title": "ローソン、良品計画と共同開発した商品を発売【週刊コンビニエンスストアニュース】",
       "url": "https://diamond-rm.net/management/559185/",
@@ -646,6 +672,18 @@
       "tags": [
         "ヤオコー",
         "出店"
+      ]
+    },
+    {
+      "id": "diamond-aac63a75",
+      "title": "総菜専門店市場占有率2026 市場規模は12兆円目前に",
+      "url": "https://diamond-rm.net/market/market-share/558291/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-09-28",
+      "tags": [
+        "専門店"
       ]
     },
     {
@@ -894,6 +932,19 @@
       "tags": []
     },
     {
+      "id": "diamond-17b9913f",
+      "title": "ライフ鎌倉梶原店がオープン！地域密着の売場づくりをレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/558742/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-28",
+      "tags": [
+        "オープン",
+        "ライフ"
+      ]
+    },
+    {
       "id": "ryutsuu-29ba309c",
       "title": "イトーヨーカドー 新商品／低価格PB「セブン・ザ・プライス」初のビールなど25品発売",
       "url": "https://www.ryutsuu.biz/commodity/s092812.html",
@@ -1122,18 +1173,6 @@
       ]
     },
     {
-      "id": "diamond-374f8c92",
-      "title": "【インタビュー】文化堂 鈴木俊昭社長　「ブルーゾーン入りで”パワースーツ”を着た感覚」",
-      "url": "https://diamond-rm.net/management/topinterview/558274/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-25",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-cff561d1",
       "title": "ライフの自然派PB「ビオラル」、ついに売上高100億円突破の背景とこれから",
       "url": "https://diamond-rm.net/market/547546/",
@@ -1148,14 +1187,16 @@
       ]
     },
     {
-      "id": "diamond-ce2112ca",
-      "title": "ミスターマックスが茨城・つくばに1万4000㎡超の大型施設を開設！【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/558608/",
+      "id": "diamond-374f8c92",
+      "title": "【インタビュー】文化堂 鈴木俊昭社長　「ブルーゾーン入りで”パワースーツ”を着た感覚」",
+      "url": "https://diamond-rm.net/management/topinterview/558274/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "店舗",
+      "category": "経営戦略",
       "date": "2026-09-25",
-      "tags": []
+      "tags": [
+        "社長"
+      ]
     },
     {
       "id": "diamond-9a9b3006",
@@ -1355,6 +1396,16 @@
       "tags": [
         "マクドナルド"
       ]
+    },
+    {
+      "id": "diamond-ce2112ca",
+      "title": "ミスターマックスが茨城・つくばに1万4000㎡超の大型施設を開設！【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/558608/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-25",
+      "tags": []
     },
     {
       "id": "ryutsuu-39769ab0",
@@ -3411,16 +3462,6 @@
       ]
     },
     {
-      "id": "diamond-36403872",
-      "title": "コモディイイダが46カ月連続で売上・客数増、価格競争力と品揃えを強化",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/556503/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-09-16",
-      "tags": []
-    },
-    {
       "id": "diamond-62c42086",
       "title": "【村上勝利×藤原義昭】ポイント還元に頼らないAI時代の「また買われる」技術",
       "url": "https://diamond-rm.net/seminar/557298/",
@@ -3430,38 +3471,6 @@
       "date": "2026-09-16",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "ssnp-cbc3df04",
-      "title": "【ガスト】カキフライや月見メニューなど「おいしい秋色グルメ」フェア開催、シルバーウィーククーポンで最大300円引き\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/702810/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-16",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e8593f92",
-      "title": "森永製菓、発酵バター･ロレーヌ産岩塩を使用 “濃厚な味わい”の「ザ･ガレット」発売　ショコラも展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/702798/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-16",
-      "tags": []
-    },
-    {
-      "id": "ssnp-8f1cfced",
-      "title": "【阪急うめだデパ地下】秋の新作発表会&クリスマスケーキ先行お披露目、人気洋菓子店２店が刷新\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/702791/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-16",
-      "tags": [
-        "菓子"
       ]
     }
   ]
