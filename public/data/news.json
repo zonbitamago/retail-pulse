@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T17:25:00.949Z",
+  "lastUpdated": "2026-09-30T21:45:39.201Z",
   "items": [
     {
       "id": "ryutsuu-e2aa2019",
@@ -11,6 +11,45 @@
       "date": "2026-10-01",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "diamond-ae00c7ea",
+      "title": "【新連載】中村光宏の店長塾　まずは「人時売上高」と「営業利益高」を押さえるべき理由",
+      "url": "https://diamond-rm.net/management/businessplan/558269/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-01",
+      "tags": [
+        "営業利益",
+        "売上高"
+      ]
+    },
+    {
+      "id": "diamond-00a28aa8",
+      "title": "角上魚類は総菜もすごかった！魚好き主婦を唸らせた絶品お弁当・寿司6選",
+      "url": "https://diamond-rm.net/sales-promotion/558248/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-10-01",
+      "tags": [
+        "弁当"
+      ]
+    },
+    {
+      "id": "diamond-f3663567",
+      "title": "オーケーが松戸に新店　エブリイは広島市に出店へ【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/559394/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-01",
+      "tags": [
+        "オーケー",
+        "出店",
+        "新店"
       ]
     },
     {
@@ -497,38 +536,6 @@
       ]
     },
     {
-      "id": "diamond-d197b02b",
-      "title": "激戦地九州で独立独歩を貫くサンリブ　旗艦店＆DSフォーマットの現状を現地調査！",
-      "url": "https://diamond-rm.net/store/storevisit/558819/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-29",
-      "tags": []
-    },
-    {
-      "id": "diamond-51aa1a35",
-      "title": "ファミリーマート「ファミチキ」が誕生から20年 「大人向け」コンセプトの新商品を開発",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/559236/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-09-29",
-      "tags": [
-        "ファミリーマート"
-      ]
-    },
-    {
-      "id": "diamond-13295c0e",
-      "title": "オフィスの会議室が1時間で社食に様変わり!?　注目浴びる「キッチンレス社食」",
-      "url": "https://diamond-rm.net/management/557383/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-29",
-      "tags": []
-    },
-    {
       "id": "diamond-a7a23e61",
       "title": "【動画】9月4週目の注目ニュースまとめ、バローやヤオコーの新店",
       "url": "https://diamond-rm.net/management/businessplan/558846/",
@@ -564,17 +571,36 @@
       ]
     },
     {
-      "id": "diamond-f927f736",
-      "title": "食品卸市場占有率2026 市場規模5年連続拡大、上位企業軒並み増収",
-      "url": "https://diamond-rm.net/market/market-share/558292/",
+      "id": "diamond-cd26f69c",
+      "title": "人類最強兵器は核からデータとアルゴリズムへ　AIは人類を滅ぼすのか",
+      "url": "https://diamond-rm.net/management/businessplan/558849/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "市場動向",
+      "category": "経営戦略",
       "date": "2026-09-29",
       "tags": [
-        "食品",
-        "増収"
+        "AI"
       ]
+    },
+    {
+      "id": "diamond-13295c0e",
+      "title": "オフィスの会議室が1時間で社食に様変わり!?　注目浴びる「キッチンレス社食」",
+      "url": "https://diamond-rm.net/management/557383/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-29",
+      "tags": []
+    },
+    {
+      "id": "diamond-d197b02b",
+      "title": "激戦地九州で独立独歩を貫くサンリブ　旗艦店＆DSフォーマットの現状を現地調査！",
+      "url": "https://diamond-rm.net/store/storevisit/558819/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-29",
+      "tags": []
     },
     {
       "id": "diamond-d1480f82",
@@ -587,15 +613,16 @@
       "tags": []
     },
     {
-      "id": "diamond-cd26f69c",
-      "title": "人類最強兵器は核からデータとアルゴリズムへ　AIは人類を滅ぼすのか",
-      "url": "https://diamond-rm.net/management/businessplan/558849/",
+      "id": "diamond-f927f736",
+      "title": "食品卸市場占有率2026 市場規模5年連続拡大、上位企業軒並み増収",
+      "url": "https://diamond-rm.net/market/market-share/558292/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "経営戦略",
+      "category": "市場動向",
       "date": "2026-09-29",
       "tags": [
-        "AI"
+        "食品",
+        "増収"
       ]
     },
     {
@@ -859,6 +886,18 @@
       "tags": []
     },
     {
+      "id": "diamond-51aa1a35",
+      "title": "ファミリーマート「ファミチキ」が誕生から20年 「大人向け」コンセプトの新商品を開発",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/559236/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-09-29",
+      "tags": [
+        "ファミリーマート"
+      ]
+    },
+    {
       "id": "ryutsuu-47d1c734",
       "title": "スーパーマーケット／8月既存店売上ライフ1.1％増、ヤオコー2.5％増",
       "url": "https://www.ryutsuu.biz/sales/s092979.html",
@@ -1039,19 +1078,6 @@
       "tags": [
         "トライアル",
         "西友"
-      ]
-    },
-    {
-      "id": "diamond-e28313d4",
-      "title": "八王子の店舗空白地に出店　「ヤオコー八王子中野上町店」の売場を詳報",
-      "url": "https://diamond-rm.net/store/newstorereport/558276/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-28",
-      "tags": [
-        "ヤオコー",
-        "出店"
       ]
     },
     {
@@ -1310,6 +1336,19 @@
       "category": "流通",
       "date": "2026-09-28",
       "tags": []
+    },
+    {
+      "id": "diamond-e28313d4",
+      "title": "八王子の店舗空白地に出店　「ヤオコー八王子中野上町店」の売場を詳報",
+      "url": "https://diamond-rm.net/store/newstorereport/558276/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-28",
+      "tags": [
+        "ヤオコー",
+        "出店"
+      ]
     },
     {
       "id": "ryutsuu-ee7c0b60",
@@ -1596,18 +1635,6 @@
       ]
     },
     {
-      "id": "diamond-374f8c92",
-      "title": "【インタビュー】文化堂 鈴木俊昭社長　「ブルーゾーン入りで”パワースーツ”を着た感覚」",
-      "url": "https://diamond-rm.net/management/topinterview/558274/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-25",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-9a9b3006",
       "title": "百貨店市場占有率2026 インバウンド需要減で5年ぶりに市場規模縮小",
       "url": "https://diamond-rm.net/market/market-share/558288/",
@@ -1804,6 +1831,18 @@
       "date": "2026-09-25",
       "tags": [
         "マクドナルド"
+      ]
+    },
+    {
+      "id": "diamond-374f8c92",
+      "title": "【インタビュー】文化堂 鈴木俊昭社長　「ブルーゾーン入りで”パワースーツ”を着た感覚」",
+      "url": "https://diamond-rm.net/management/topinterview/558274/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-25",
+      "tags": [
+        "社長"
       ]
     },
     {
@@ -3427,38 +3466,6 @@
       "category": "流通",
       "date": "2026-09-17",
       "tags": []
-    },
-    {
-      "id": "ssnp-0eae5ddd",
-      "title": "ご飯大盛が無料になる「シルバーウィークキャンペーン」を6日間限定で実施【かつや】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/702987/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
-      "id": "ssnp-30cf3f61",
-      "title": "ミニストップ「名古屋めしフェア」開催、台湾まぜそばや味噌カツ、海老天むすなど登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/702966/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
-      "id": "ssnp-cdae30f1",
-      "title": "【人気ケーキ20％OFF】FLO「秋の感謝祭」開催　チョコレートムースケーキ、感謝祭限定タルトも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/702930/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-17",
-      "tags": [
-        "チョコレート"
-      ]
     }
   ]
 }
