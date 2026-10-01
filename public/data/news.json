@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-10-01T12:13:34.954Z",
+  "lastUpdated": "2026-10-01T22:13:35.025Z",
   "items": [
+    {
+      "id": "diamond-992bfd22",
+      "title": "PPIHがトイザらスの日本事業を取得　ドンキの売場を「遊び場」に！",
+      "url": "https://diamond-rm.net/management/managementintegration/559770/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-02",
+      "tags": [
+        "PPIH"
+      ]
+    },
+    {
+      "id": "diamond-5468fbc3",
+      "title": "平和堂、上期決算は増収営業減益　「3つの重点戦略」と「北陸強化」で巻き返しへ",
+      "url": "https://diamond-rm.net/market/accounting/559760/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-02",
+      "tags": [
+        "決算",
+        "増収",
+        "減益"
+      ]
+    },
+    {
+      "id": "diamond-d20a33a0",
+      "title": "【インタビュー】近商ストア上田泰嗣社長 売上高800億円へ“復活”までの道筋",
+      "url": "https://diamond-rm.net/management/topinterview/558275/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-02",
+      "tags": [
+        "売上高",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-c298b482",
+      "title": "GMS不要論に異議あり！　十分にある再進化の可能性",
+      "url": "https://diamond-rm.net/management/businessplan/558270/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-02",
+      "tags": [
+        "GMS"
+      ]
+    },
+    {
+      "id": "diamond-c1ce0738",
+      "title": "イトーヨーカ堂「セブン・ザ・プライス」25品を新たに投入【週刊スーパーマーケットニュース】",
+      "url": "https://diamond-rm.net/management/businessplan/559664/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-02",
+      "tags": [
+        "イトーヨーカ堂",
+        "スーパー"
+      ]
+    },
     {
       "id": "ryutsuu-d1288ca2",
       "title": "平和堂 決算／2～8月営業利益17.1％減、夏物衣料不振・米の価格競争響く",
@@ -199,19 +263,6 @@
       "tags": []
     },
     {
-      "id": "diamond-ae00c7ea",
-      "title": "【新連載】中村光宏の店長塾　まずは「人時売上高」と「営業利益高」を押さえるべき理由",
-      "url": "https://diamond-rm.net/management/businessplan/558269/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-01",
-      "tags": [
-        "営業利益",
-        "売上高"
-      ]
-    },
-    {
       "id": "diamond-00a28aa8",
       "title": "角上魚類は総菜もすごかった！魚好き主婦を唸らせた絶品お弁当・寿司6選",
       "url": "https://diamond-rm.net/sales-promotion/558248/",
@@ -276,6 +327,19 @@
       "category": "sales-promotion",
       "date": "2026-10-01",
       "tags": []
+    },
+    {
+      "id": "diamond-ae00c7ea",
+      "title": "【新連載】中村光宏の店長塾　まずは「人時売上高」と「営業利益高」を押さえるべき理由",
+      "url": "https://diamond-rm.net/management/businessplan/558269/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-01",
+      "tags": [
+        "営業利益",
+        "売上高"
+      ]
     },
     {
       "id": "ssnp-991600b5",
@@ -538,18 +602,6 @@
       ]
     },
     {
-      "id": "diamond-aaf4768d",
-      "title": "ラ・ムー、トライアル、ザ・ビッグ … 知られざる激戦地・滋賀の“DS ロード”を現地調査",
-      "url": "https://diamond-rm.net/store/storevisit/558268/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-30",
-      "tags": [
-        "トライアル"
-      ]
-    },
-    {
       "id": "diamond-b2c5528f",
       "title": "ライフ・ヤオコー・東武ストアの最新商品に見る、「手を伸ばしたくなる付加価値」づくり",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/558486/",
@@ -563,28 +615,16 @@
       ]
     },
     {
-      "id": "diamond-8aa691dd",
-      "title": "米アマゾンが仕掛ける「30分配送」と「自律型AI」がもたらす未来",
-      "url": "https://diamond-rm.net/overseas/american_economy/559200/",
+      "id": "diamond-aaf4768d",
+      "title": "ラ・ムー、トライアル、ザ・ビッグ … 知られざる激戦地・滋賀の“DS ロード”を現地調査",
+      "url": "https://diamond-rm.net/store/storevisit/558268/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "overseas",
+      "category": "店舗",
       "date": "2026-09-30",
       "tags": [
-        "アマゾン",
-        "AI",
-        "配送"
+        "トライアル"
       ]
-    },
-    {
-      "id": "diamond-a9679693",
-      "title": "第１８９回　毎週１ページの大役、「商店特集」連載開始",
-      "url": "https://diamond-rm.net/life-career/542259/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-09-30",
-      "tags": []
     },
     {
       "id": "diamond-c75eac69",
@@ -598,18 +638,6 @@
         "アプリ",
         "EC",
         "DX"
-      ]
-    },
-    {
-      "id": "diamond-6fda396d",
-      "title": "成城石井、物価高時代の「秋の食卓」に関する調査結果発表【週刊スーパーマーケットニュース】",
-      "url": "https://diamond-rm.net/management/businessplan/558877/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-30",
-      "tags": [
-        "スーパー"
       ]
     },
     {
@@ -785,6 +813,42 @@
       "category": "菓子",
       "date": "2026-09-30",
       "tags": []
+    },
+    {
+      "id": "diamond-8aa691dd",
+      "title": "米アマゾンが仕掛ける「30分配送」と「自律型AI」がもたらす未来",
+      "url": "https://diamond-rm.net/overseas/american_economy/559200/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-09-30",
+      "tags": [
+        "アマゾン",
+        "AI",
+        "配送"
+      ]
+    },
+    {
+      "id": "diamond-a9679693",
+      "title": "第１８９回　毎週１ページの大役、「商店特集」連載開始",
+      "url": "https://diamond-rm.net/life-career/542259/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-09-30",
+      "tags": []
+    },
+    {
+      "id": "diamond-6fda396d",
+      "title": "成城石井、物価高時代の「秋の食卓」に関する調査結果発表【週刊スーパーマーケットニュース】",
+      "url": "https://diamond-rm.net/management/businessplan/558877/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-30",
+      "tags": [
+        "スーパー"
+      ]
     },
     {
       "id": "ryutsuu-6b0351f7",
@@ -1506,18 +1570,6 @@
       ]
     },
     {
-      "id": "diamond-f503f14b",
-      "title": "セブン-イレブンのファッション参入に異議あり",
-      "url": "https://diamond-rm.net/management/558261/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-28",
-      "tags": [
-        "セブン-イレブン"
-      ]
-    },
-    {
       "id": "diamond-d5d44733",
       "title": "生鮮・総菜の強みをストレートに表現！「ヨークベニマル小山羽川店」を詳しくレポート",
       "url": "https://diamond-rm.net/store/newstorereport/558278/",
@@ -1798,6 +1850,18 @@
       "category": "流通",
       "date": "2026-09-28",
       "tags": []
+    },
+    {
+      "id": "diamond-f503f14b",
+      "title": "セブン-イレブンのファッション参入に異議あり",
+      "url": "https://diamond-rm.net/management/558261/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-28",
+      "tags": [
+        "セブン-イレブン"
+      ]
     },
     {
       "id": "diamond-e28313d4",
@@ -2083,17 +2147,15 @@
       ]
     },
     {
-      "id": "diamond-cff561d1",
-      "title": "ライフの自然派PB「ビオラル」、ついに売上高100億円突破の背景とこれから",
-      "url": "https://diamond-rm.net/market/547546/",
+      "id": "diamond-374f8c92",
+      "title": "【インタビュー】文化堂 鈴木俊昭社長　「ブルーゾーン入りで”パワースーツ”を着た感覚」",
+      "url": "https://diamond-rm.net/management/topinterview/558274/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "市場動向",
+      "category": "経営戦略",
       "date": "2026-09-25",
       "tags": [
-        "ライフ",
-        "売上高",
-        "PB"
+        "社長"
       ]
     },
     {
@@ -2283,6 +2345,20 @@
       ]
     },
     {
+      "id": "diamond-cff561d1",
+      "title": "ライフの自然派PB「ビオラル」、ついに売上高100億円突破の背景とこれから",
+      "url": "https://diamond-rm.net/market/547546/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-09-25",
+      "tags": [
+        "ライフ",
+        "売上高",
+        "PB"
+      ]
+    },
+    {
       "id": "diamond-9a9b3006",
       "title": "百貨店市場占有率2026 インバウンド需要減で5年ぶりに市場規模縮小",
       "url": "https://diamond-rm.net/market/market-share/558288/",
@@ -2293,18 +2369,6 @@
       "tags": [
         "インバウンド",
         "百貨店"
-      ]
-    },
-    {
-      "id": "diamond-374f8c92",
-      "title": "【インタビュー】文化堂 鈴木俊昭社長　「ブルーゾーン入りで”パワースーツ”を着た感覚」",
-      "url": "https://diamond-rm.net/management/topinterview/558274/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-25",
-      "tags": [
-        "社長"
       ]
     },
     {
@@ -3404,62 +3468,6 @@
       "category": "菓子",
       "date": "2026-09-18",
       "tags": []
-    },
-    {
-      "id": "ssnp-c6210894",
-      "title": "アイリスグループ、農業参入初年度の収穫作業進む/「雨も多くやきもきしていたが、無事収穫できほっとしている」＝大山社長\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/rice/703246/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "米",
-      "date": "2026-09-18",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
-      "id": "ssnp-0b32c32d",
-      "title": "【ゴディバ】安納芋＆紫芋の秋限定ショコリキサー発売、ハロウィン限定商品も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/703240/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
-      "id": "ssnp-ce30f5fb",
-      "title": "お芋スイーツ14種を新発売!ザクほろシューやクロワッサン、フロランタンなどラインアップ【ファミマ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/703212/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
-      "id": "ssnp-b67bad8a",
-      "title": "ほっかほっか亭、季節メニュー人気No.1「牛すき焼弁当」が10月1日発売 / 「ソニック・ザ・ヘッジホッグ」セガストア限定トイが当たるキャンペーンも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/703205/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-09-18",
-      "tags": [
-        "弁当"
-      ]
-    },
-    {
-      "id": "ssnp-9dcd0d14",
-      "title": "無印良品「産地を味わうコーヒー」全8種発売　シングルオリジンコーヒー、3種はカフェインレスで展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/703183/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-09-18",
-      "tags": [
-        "無印良品"
-      ]
     }
   ]
 }
