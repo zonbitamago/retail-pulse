@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T21:41:48.558Z",
+  "lastUpdated": "2026-10-03T03:18:11.099Z",
   "items": [
     {
       "id": "ryutsuu-479d348b",
@@ -16,6 +16,38 @@
         "モール",
         "専門店"
       ]
+    },
+    {
+      "id": "diamond-44a0a4df",
+      "title": "流通秀書　第49回『声無くして人を呼ぶ』",
+      "url": "https://diamond-rm.net/life-career/553481/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-03",
+      "tags": []
+    },
+    {
+      "id": "ssnp-5cac3c68",
+      "title": "2種のボロネーゼと炙りウナギのアーリオ･オーリオが新登場!【ジョリーパスタ】\n\t\t\t\t\t\t\t\t\t\t\t\tパスタ専門店「ジョリーパスタ」は、「北イタリア縦断フェア “エミリア=ロマーニャ編”」を10月6日から開催する。全322店舗で販売予定(9月29日時点)。 ジョリーパスタでは「今月のおすすめ」と題して、毎月異なるテーマで...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/704438/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-03",
+      "tags": [
+        "専門店"
+      ]
+    },
+    {
+      "id": "ssnp-1f1bcfbb",
+      "title": "2026年「トレンド鍋」は「背徳鍋」に決定!たっぷりの肉やチーズ、ニンニクなどを使った背徳感あふれる味わい【ぐるなび】\n\t\t\t\t\t\t\t\t\t\t\t\tぐるなびは、本格的な鍋シーズンに先立ち、今年で18回目となる2026年「トレンド鍋」を発表した。今年のトレンドには、「背徳鍋」が選出された。 【2026年「トレンド鍋」の「背徳鍋」とは】 「背徳鍋」とは、カロリーや栄養バ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/704915/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-03",
+      "tags": []
     },
     {
       "id": "ryutsuu-ce59418c",
@@ -205,7 +237,7 @@
     },
     {
       "id": "ssnp-d7fd17b8",
-      "title": "上島珈琲店、ファインロブ100%を商品化　2050年問題見据えロブスタに新たな価値\n\t\t\t\t\t\t\t\t\t\t\t\t上島珈琲店は10月1日の「コーヒーの日」から、ベトナム・Tamba(タンバ)農園産の高品質ロブスタ「ファインロブ」を100%使用した「ダブルネルドリップ アイスコーヒー ～ファインロブ～」を期間限定で発売する。気候変動な...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "上島珈琲店、ファインロブ100%を商品化　2050年問題見据えロブスタに新たな価値\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/705227/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -215,7 +247,7 @@
     },
     {
       "id": "ssnp-ea667486",
-      "title": "トゥイーティーやバッグス･バニーのドーナツを新発売!いも･栗･かぼちゃを使った秋らしい味わいに【KKDJ】\n\t\t\t\t\t\t\t\t\t\t\t\tクリスピー･クリーム･ドーナツは、アニメーション「ルーニー･テューンズ」をモチーフに、ワーナーブラザース･ディスカバリー･グローバル･コンシューマー･プロダクツとコラボレーションしたハロウィン限定ドーナツを、2026年1...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "トゥイーティーやバッグス･バニーのドーナツを新発売!いも･栗･かぼちゃを使った秋らしい味わいに【KKDJ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/705161/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -570,16 +602,6 @@
       "tags": []
     },
     {
-      "id": "diamond-942fdf8b",
-      "title": "日本酒市場、節約志向とプチ贅沢の二極化進む 秋冬需要期へ各社が新規ユーザー開拓へ",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/558295/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-10-01",
-      "tags": []
-    },
-    {
       "id": "diamond-ae00c7ea",
       "title": "【新連載】中村光宏の店長塾　まずは「人時売上高」と「営業利益高」を押さえるべき理由",
       "url": "https://diamond-rm.net/management/businessplan/558269/",
@@ -605,6 +627,16 @@
         "出店",
         "新店"
       ]
+    },
+    {
+      "id": "diamond-942fdf8b",
+      "title": "日本酒市場、節約志向とプチ贅沢の二極化進む 秋冬需要期へ各社が新規ユーザー開拓へ",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/558295/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-10-01",
+      "tags": []
     },
     {
       "id": "ssnp-991600b5",
@@ -3437,36 +3469,6 @@
       "tags": [
         "売上高"
       ]
-    },
-    {
-      "id": "ssnp-10ea9a3a",
-      "title": "新進「ゆず香るぽん酢おろし」、常温販売で多様な売場に対応　日本アクセス「新商品グランプリ」W受賞\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/etc/703458/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "etc",
-      "date": "2026-09-23",
-      "tags": []
-    },
-    {
-      "id": "ssnp-ec4058b4",
-      "title": "タリーズコーヒー「PRIME RED」コーヒー豆2品発売、完熟の甘み訴求　2025年販売数量は前年比約1.4倍\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/703453/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-09-23",
-      "tags": []
-    },
-    {
-      "id": "ssnp-ad5940b5",
-      "title": "設立100周年を記念した「マスクメロンのクリームソーダ」を全店で販売【タカノフルーツパーラー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/702415/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-09-23",
-      "tags": []
     }
   ]
 }
