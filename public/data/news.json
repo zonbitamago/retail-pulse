@@ -1,6 +1,79 @@
 {
-  "lastUpdated": "2026-10-05T13:17:26.802Z",
+  "lastUpdated": "2026-10-05T23:34:57.866Z",
   "items": [
+    {
+      "id": "ryutsuu-75e98001",
+      "title": "ファミマ 新商品／税込498円「ザ・海苔弁当」10月6日発売",
+      "url": "https://www.ryutsuu.biz/commodity/s100512.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-10-06",
+      "tags": [
+        "弁当"
+      ]
+    },
+    {
+      "id": "diamond-85b812a0",
+      "title": "自由が丘エリアの一等地に出店！高質スーパー「明治屋自由が丘ストアー」の売場を詳報",
+      "url": "https://diamond-rm.net/store/newstorereport/559983/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-06",
+      "tags": [
+        "スーパー",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-a09fe458",
+      "title": "戦略は引き算、無策は足し算 ――3.7兆円の延命マネーが殺した日本のアパレル",
+      "url": "https://diamond-rm.net/management/businessplan/559959/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-06",
+      "tags": [
+        "アパレル"
+      ]
+    },
+    {
+      "id": "diamond-b2d050a6",
+      "title": "セブン-イレブン、アパレル本格参入の本当の理由",
+      "url": "https://diamond-rm.net/sales-promotion/557787/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-10-06",
+      "tags": [
+        "セブン-イレブン",
+        "アパレル"
+      ]
+    },
+    {
+      "id": "diamond-fa374744",
+      "title": "売場で想起され、選ばれ続けるブランドへ。ファンとつくるロイヤルティプログラム",
+      "url": "https://diamond-rm.net/promotion/556951/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "promotion",
+      "date": "2026-10-06",
+      "tags": []
+    },
+    {
+      "id": "diamond-8d61fede",
+      "title": "【一店入魂】旬鮮魚市場クルベ熊谷銀座店　ベルクの常識を180度転換した挑戦的店舗",
+      "url": "https://diamond-rm.net/store/storevisit/558293/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-06",
+      "tags": [
+        "ベルク",
+        "鮮魚"
+      ]
+    },
     {
       "id": "ryutsuu-7fad62bb",
       "title": "クリエイトSD 決算／6～8月営業利益4.1％減、人件費・家賃が増加",
@@ -163,18 +236,6 @@
       ]
     },
     {
-      "id": "diamond-e796f2ad",
-      "title": "ミスターマックス関東1年ぶりの新店　「フォルテ本庄店」の売場をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/558279/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-05",
-      "tags": [
-        "新店"
-      ]
-    },
-    {
       "id": "diamond-34943c52",
       "title": "約30年ぶりに市内出店!「オーケー春日部店」のMDを解説",
       "url": "https://diamond-rm.net/store/newstorereport/558281/",
@@ -216,6 +277,18 @@
       "category": "経営戦略",
       "date": "2026-10-05",
       "tags": []
+    },
+    {
+      "id": "diamond-e796f2ad",
+      "title": "ミスターマックス関東1年ぶりの新店　「フォルテ本庄店」の売場をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/558279/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-05",
+      "tags": [
+        "新店"
+      ]
     },
     {
       "id": "ssnp-914ca74f",
@@ -472,16 +545,6 @@
       "tags": []
     },
     {
-      "id": "diamond-44a0a4df",
-      "title": "流通秀書　第49回『声無くして人を呼ぶ』",
-      "url": "https://diamond-rm.net/life-career/553481/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-03",
-      "tags": []
-    },
-    {
       "id": "ssnp-7ff5985c",
       "title": "経産省、横浜で循環型消費を身近に PAC-MANで参加促す、サントリーは水平リサイクル訴求\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/705272/",
@@ -508,6 +571,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-10-03",
+      "tags": []
+    },
+    {
+      "id": "diamond-44a0a4df",
+      "title": "流通秀書　第49回『声無くして人を呼ぶ』",
+      "url": "https://diamond-rm.net/life-career/553481/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-10-03",
       "tags": []
     },
@@ -597,52 +670,6 @@
       "tags": []
     },
     {
-      "id": "diamond-992bfd22",
-      "title": "PPIHがトイザらスの日本事業を取得　ドンキの売場を「遊び場」に！",
-      "url": "https://diamond-rm.net/management/managementintegration/559770/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-02",
-      "tags": [
-        "PPIH"
-      ]
-    },
-    {
-      "id": "diamond-5468fbc3",
-      "title": "平和堂、上期決算は増収営業減益　「3つの重点戦略」と「北陸強化」で巻き返しへ",
-      "url": "https://diamond-rm.net/market/accounting/559760/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-02",
-      "tags": [
-        "決算",
-        "増収",
-        "減益"
-      ]
-    },
-    {
-      "id": "diamond-2a110e5e",
-      "title": "第１９１回　終生の師、川崎進一との出会い",
-      "url": "https://diamond-rm.net/life-career/542261/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-02",
-      "tags": []
-    },
-    {
-      "id": "diamond-fd837e4b",
-      "title": "レギュラーコーヒー市場、物価高でも伸びる“家カフェ”需要　産地・ブランド価値が購買を促進",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/558296/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-10-02",
-      "tags": []
-    },
-    {
       "id": "diamond-c791819e",
       "title": "日本の小売業が「コンテンツ」で競争力を獲得するための術とは",
       "url": "https://diamond-rm.net/management/businessplan/558271/",
@@ -676,6 +703,16 @@
         "売上高",
         "社長"
       ]
+    },
+    {
+      "id": "diamond-fd837e4b",
+      "title": "レギュラーコーヒー市場、物価高でも伸びる“家カフェ”需要　産地・ブランド価値が購買を促進",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/558296/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-10-02",
+      "tags": []
     },
     {
       "id": "ssnp-d7fd17b8",
@@ -914,6 +951,42 @@
       "tags": []
     },
     {
+      "id": "diamond-992bfd22",
+      "title": "PPIHがトイザらスの日本事業を取得　ドンキの売場を「遊び場」に！",
+      "url": "https://diamond-rm.net/management/managementintegration/559770/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-02",
+      "tags": [
+        "PPIH"
+      ]
+    },
+    {
+      "id": "diamond-5468fbc3",
+      "title": "平和堂、上期決算は増収営業減益　「3つの重点戦略」と「北陸強化」で巻き返しへ",
+      "url": "https://diamond-rm.net/market/accounting/559760/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-02",
+      "tags": [
+        "決算",
+        "増収",
+        "減益"
+      ]
+    },
+    {
+      "id": "diamond-2a110e5e",
+      "title": "第１９１回　終生の師、川崎進一との出会い",
+      "url": "https://diamond-rm.net/life-career/542261/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-d0ef5176",
       "title": "大阪屋ショップ／愛知県2店舗目「日進店」オープン、鮮魚・魚総菜に注力",
       "url": "https://www.ryutsuu.biz/store/s100271.html",
@@ -1037,20 +1110,6 @@
       "tags": [
         "営業利益",
         "売上高"
-      ]
-    },
-    {
-      "id": "diamond-f3663567",
-      "title": "オーケーが松戸に新店　エブリイは広島市に出店へ【今週の大店立地法速報】",
-      "url": "https://diamond-rm.net/store/559394/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-01",
-      "tags": [
-        "オーケー",
-        "出店",
-        "新店"
       ]
     },
     {
@@ -1288,6 +1347,20 @@
       ]
     },
     {
+      "id": "diamond-f3663567",
+      "title": "オーケーが松戸に新店　エブリイは広島市に出店へ【今週の大店立地法速報】",
+      "url": "https://diamond-rm.net/store/559394/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-01",
+      "tags": [
+        "オーケー",
+        "出店",
+        "新店"
+      ]
+    },
+    {
       "id": "ryutsuu-4a3ea1f4",
       "title": "アンドエスティHD／ベトナムで来夏に新ブランド、現地の気候に合わせた機能を付加",
       "url": "https://www.ryutsuu.biz/abroad/s100141.html",
@@ -1501,18 +1574,6 @@
       ]
     },
     {
-      "id": "diamond-aaf4768d",
-      "title": "ラ・ムー、トライアル、ザ・ビッグ … 知られざる激戦地・滋賀の“DS ロード”を現地調査",
-      "url": "https://diamond-rm.net/store/storevisit/558268/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-30",
-      "tags": [
-        "トライアル"
-      ]
-    },
-    {
       "id": "diamond-b2c5528f",
       "title": "ライフ・ヤオコー・東武ストアの最新商品に見る、「手を伸ばしたくなる付加価値」づくり",
       "url": "https://diamond-rm.net/sales-promotion/product-strategy/558486/",
@@ -1712,6 +1773,18 @@
       "category": "菓子",
       "date": "2026-09-30",
       "tags": []
+    },
+    {
+      "id": "diamond-aaf4768d",
+      "title": "ラ・ムー、トライアル、ザ・ビッグ … 知られざる激戦地・滋賀の“DS ロード”を現地調査",
+      "url": "https://diamond-rm.net/store/storevisit/558268/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-09-30",
+      "tags": [
+        "トライアル"
+      ]
     },
     {
       "id": "ryutsuu-242fd221",
@@ -2021,18 +2094,6 @@
       ]
     },
     {
-      "id": "diamond-cd26f69c",
-      "title": "人類最強兵器は核からデータとアルゴリズムへ　AIは人類を滅ぼすのか",
-      "url": "https://diamond-rm.net/management/businessplan/558849/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-09-29",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
       "id": "diamond-f927f736",
       "title": "食品卸市場占有率2026 市場規模5年連続拡大、上位企業軒並み増収",
       "url": "https://diamond-rm.net/market/market-share/558292/",
@@ -2272,6 +2333,18 @@
       "category": "菓子",
       "date": "2026-09-29",
       "tags": []
+    },
+    {
+      "id": "diamond-cd26f69c",
+      "title": "人類最強兵器は核からデータとアルゴリズムへ　AIは人類を滅ぼすのか",
+      "url": "https://diamond-rm.net/management/businessplan/558849/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-09-29",
+      "tags": [
+        "AI"
+      ]
     },
     {
       "id": "diamond-d197b02b",
@@ -3376,81 +3449,6 @@
       "date": "2026-09-25",
       "tags": [
         "赤字"
-      ]
-    },
-    {
-      "id": "diamond-566290f9",
-      "title": "ドラッグストア市場占有率2026　上位集中さらに進行、1兆円企業は4社に",
-      "url": "https://diamond-rm.net/market/market-share/558287/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-25",
-      "tags": [
-        "ドラッグストア",
-        "ドラッグ"
-      ]
-    },
-    {
-      "id": "diamond-72d3c022",
-      "title": "小売業市場占有率2026　1兆円企業続々誕生……再編劇は新局面に",
-      "url": "https://diamond-rm.net/market/market-share/558283/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-25",
-      "tags": []
-    },
-    {
-      "id": "diamond-2cc1c9c2",
-      "title": "食品スーパー市場占有率2026　止まらぬ上位集中、新たに台頭する企業は？",
-      "url": "https://diamond-rm.net/market/market-share/558284/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-09-25",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
-      ]
-    },
-    {
-      "id": "ryutsuu-07abbbe4",
-      "title": "ロイヤルHD／「MyROYAL」とホテル会員のアカウント連携開始、グループ相互利用を促進",
-      "url": "https://www.ryutsuu.biz/it/s092515.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-09-25",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-9bf52491",
-      "title": "フレスタ／生鮮市場ベジタ店跡地に「ワークマンプラス」など3店舗10月以降オープン",
-      "url": "https://www.ryutsuu.biz/store/s092576.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-09-25",
-      "tags": [
-        "ワークマン",
-        "オープン",
-        "生鮮"
-      ]
-    },
-    {
-      "id": "ryutsuu-c676b9d4",
-      "title": "ベイシア／フードロス削減アプリ「Too Good To Go」東京・埼玉の3店舗に導入",
-      "url": "https://www.ryutsuu.biz/it/s092516.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-09-25",
-      "tags": [
-        "フードロス",
-        "ベイシア",
-        "アプリ"
       ]
     }
   ]
