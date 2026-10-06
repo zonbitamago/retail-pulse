@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-10-06T12:34:54.220Z",
+  "lastUpdated": "2026-10-06T22:08:27.573Z",
   "items": [
+    {
+      "id": "diamond-015e97bc",
+      "title": "都市部客層とMDがミスマッチ？ 好調しまむらの都心店に抱く懸念",
+      "url": "https://diamond-rm.net/management/businessplan/559977/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-07",
+      "tags": [
+        "しまむら"
+      ]
+    },
+    {
+      "id": "diamond-eeb7fc02",
+      "title": "国内最大のアパレルオフプライス店「ラックラック」、出店ペースを一気に加速の背景",
+      "url": "https://diamond-rm.net/store/560032/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-07",
+      "tags": [
+        "アパレル",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-67c84dc4",
+      "title": "ライフ、アルビスを買収へ 2社の統合メリットと競合SMに突きつけた「不都合な真実」",
+      "url": "https://diamond-rm.net/management/ma/559678/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-07",
+      "tags": [
+        "ライフ",
+        "買収",
+        "統合"
+      ]
+    },
     {
       "id": "ryutsuu-7f5bde50",
       "title": "サンエー 決算／3～8月増収増益、季節商材・食品・土産が好調",
@@ -604,30 +643,6 @@
       ]
     },
     {
-      "id": "diamond-105ae7a8",
-      "title": "「角上魚類越谷店」がリニューアル　テナント間の壁をなくしシナジー最大化へ",
-      "url": "https://diamond-rm.net/store/newstorereport/559817/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-05",
-      "tags": [
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "diamond-d7cd3f33",
-      "title": "金物の街・燕三条で「あのホームセンター」の聖地を巡る",
-      "url": "https://diamond-rm.net/life-career/life/559634/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-05",
-      "tags": [
-        "ホームセンター"
-      ]
-    },
-    {
       "id": "diamond-34943c52",
       "title": "約30年ぶりに市内出店!「オーケー春日部店」のMDを解説",
       "url": "https://diamond-rm.net/store/newstorereport/558281/",
@@ -641,12 +656,12 @@
       ]
     },
     {
-      "id": "diamond-7df2a0c2",
-      "title": "第１９２回　ペガサスクラブの知られざる発案者",
-      "url": "https://diamond-rm.net/life-career/542262/",
+      "id": "diamond-488cd45e",
+      "title": "ウォルマート、ターゲットが「EVチャージングステーション」設置拡大のねらい",
+      "url": "https://diamond-rm.net/management/sdgsesg/558273/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "life-career",
+      "category": "経営戦略",
       "date": "2026-10-05",
       "tags": []
     },
@@ -657,16 +672,6 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "店舗",
-      "date": "2026-10-05",
-      "tags": []
-    },
-    {
-      "id": "diamond-488cd45e",
-      "title": "ウォルマート、ターゲットが「EVチャージングステーション」設置拡大のねらい",
-      "url": "https://diamond-rm.net/management/sdgsesg/558273/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
       "date": "2026-10-05",
       "tags": []
     },
@@ -902,6 +907,40 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-10-05",
+      "tags": []
+    },
+    {
+      "id": "diamond-105ae7a8",
+      "title": "「角上魚類越谷店」がリニューアル　テナント間の壁をなくしシナジー最大化へ",
+      "url": "https://diamond-rm.net/store/newstorereport/559817/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-05",
+      "tags": [
+        "リニューアル"
+      ]
+    },
+    {
+      "id": "diamond-d7cd3f33",
+      "title": "金物の街・燕三条で「あのホームセンター」の聖地を巡る",
+      "url": "https://diamond-rm.net/life-career/life/559634/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-05",
+      "tags": [
+        "ホームセンター"
+      ]
+    },
+    {
+      "id": "diamond-7df2a0c2",
+      "title": "第１９２回　ペガサスクラブの知られざる発案者",
+      "url": "https://diamond-rm.net/life-career/542262/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-10-05",
       "tags": []
     },
@@ -1168,31 +1207,6 @@
       "tags": []
     },
     {
-      "id": "diamond-d20a33a0",
-      "title": "【インタビュー】近商ストア上田泰嗣社長 売上高800億円へ“復活”までの道筋",
-      "url": "https://diamond-rm.net/management/topinterview/558275/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-02",
-      "tags": [
-        "売上高",
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-c298b482",
-      "title": "GMS不要論に異議あり！　十分にある再進化の可能性",
-      "url": "https://diamond-rm.net/management/businessplan/558270/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-02",
-      "tags": [
-        "GMS"
-      ]
-    },
-    {
       "id": "diamond-fd837e4b",
       "title": "レギュラーコーヒー市場、物価高でも伸びる“家カフェ”需要　産地・ブランド価値が購買を促進",
       "url": "https://diamond-rm.net/sales-promotion/item-trend/558296/",
@@ -1437,6 +1451,31 @@
       "category": "飲料",
       "date": "2026-10-02",
       "tags": []
+    },
+    {
+      "id": "diamond-d20a33a0",
+      "title": "【インタビュー】近商ストア上田泰嗣社長 売上高800億円へ“復活”までの道筋",
+      "url": "https://diamond-rm.net/management/topinterview/558275/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-02",
+      "tags": [
+        "売上高",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-c298b482",
+      "title": "GMS不要論に異議あり！　十分にある再進化の可能性",
+      "url": "https://diamond-rm.net/management/businessplan/558270/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-02",
+      "tags": [
+        "GMS"
+      ]
     },
     {
       "id": "ryutsuu-1aecfed7",
@@ -3415,48 +3454,6 @@
       "date": "2026-09-28",
       "tags": [
         "セブン-イレブン"
-      ]
-    },
-    {
-      "id": "diamond-e28313d4",
-      "title": "八王子の店舗空白地に出店　「ヤオコー八王子中野上町店」の売場を詳報",
-      "url": "https://diamond-rm.net/store/newstorereport/558276/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-09-28",
-      "tags": [
-        "ヤオコー",
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-ee7c0b60",
-      "title": "しまむら 決算／2～8月は売上高と各利益が過去最高に、PB・キャラクター商品が好調",
-      "url": "https://www.ryutsuu.biz/accounts/s092844.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-09-28",
-      "tags": [
-        "注目",
-        "しまむら",
-        "売上高",
-        "PB",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-c6447551",
-      "title": "セブンイレブン 新商品／低価格PB「セブン・ザ・プライス」27品に拡大",
-      "url": "https://www.ryutsuu.biz/commodity/s092813.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-09-28",
-      "tags": [
-        "セブンイレブン",
-        "PB"
       ]
     }
   ]
