@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-10-09T12:24:59.478Z",
+  "lastUpdated": "2026-10-09T22:07:03.432Z",
   "items": [
+    {
+      "id": "diamond-e6f7adae",
+      "title": "流通秀書　第50回『流通戦略革命』",
+      "url": "https://diamond-rm.net/life-career/553489/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-10",
+      "tags": []
+    },
     {
       "id": "ryutsuu-1b21e39a",
       "title": "オンワードHD 決算／中間期は「カシヤマ」など戦略強化ブランド好調で増収増益を確保",
@@ -619,6 +629,16 @@
       ]
     },
     {
+      "id": "diamond-93511419",
+      "title": "#4 ウォルマートから未来を考える（後編）",
+      "url": "https://diamond-rm.net/market/economic/560227/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-08",
+      "tags": []
+    },
+    {
       "id": "diamond-ca0758fd",
       "title": "コープこうべが挑む「第3次宅配改革」と、店舗事業構造改革の方向性",
       "url": "https://diamond-rm.net/management/businessplan/559698/",
@@ -629,16 +649,6 @@
       "tags": [
         "宅配"
       ]
-    },
-    {
-      "id": "diamond-93511419",
-      "title": "#4 ウォルマートから未来を考える（後編）",
-      "url": "https://diamond-rm.net/market/economic/560227/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-08",
-      "tags": []
     },
     {
       "id": "diamond-0d432a03",
@@ -3452,18 +3462,6 @@
       "category": "life-career",
       "date": "2026-10-01",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-c54bddc7",
-      "title": "アダストリア／AI共創型の新ブランド「エルミラ」開始、ささげ担当者3人→1人を実現",
-      "url": "https://www.ryutsuu.biz/commodity/s100142.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-10-01",
-      "tags": [
-        "AI"
-      ]
     }
   ]
 }
