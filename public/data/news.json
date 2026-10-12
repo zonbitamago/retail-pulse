@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-10-11T21:21:16.966Z",
+  "lastUpdated": "2026-10-12T03:45:26.983Z",
   "items": [
+    {
+      "id": "diamond-1ddc9a3c",
+      "title": "ライフが名古屋進出を視野に！ 23期連続増収の裏で進む次の成長戦略",
+      "url": "https://diamond-rm.net/market/accounting/560672/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-12",
+      "tags": [
+        "ライフ",
+        "増収"
+      ]
+    },
+    {
+      "id": "diamond-a4279064",
+      "title": "ブルーゾーン入り後初の新店！「クックマート上西店」に見たMDの凄みとは",
+      "url": "https://diamond-rm.net/store/newstorereport/559688/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-12",
+      "tags": [
+        "新店"
+      ]
+    },
     {
       "id": "diamond-27412bf3",
       "title": "関西での地域対応いっそう深化？オーケー高槻赤大路店の売場を徹底解剖",
@@ -12,6 +37,16 @@
       "tags": [
         "オーケー"
       ]
+    },
+    {
+      "id": "ssnp-6d50910e",
+      "title": "『クーリッシュ×雪印コーヒー』発売、4年ぶりのコラボレーションが実現【ロッテ】\n\t\t\t\t\t\t\t\t\t\t\t\tロッテは2026年10月26日、「雪印コーヒー」とのコラボ商品『クーリッシュ×雪印コーヒー』を発売する。「クーリッシュ」と「雪印コーヒー」は4年ぶり2回目のコラボとなる。 【『クーリッシュ×雪印コーヒー』の画像はこちら】...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/milk/706622/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "milk",
+      "date": "2026-10-12",
+      "tags": []
     },
     {
       "id": "ssnp-5aa8d827",
@@ -28,7 +63,7 @@
     },
     {
       "id": "ssnp-94d45bc5",
-      "title": "スシロー「おいもフェス2026」開催　クレープブリュレ包みや芋パフェなど3品\n\t\t\t\t\t\t\t\t\t\t\t\t株式会社あきんどスシローは10月14日から、おいもスイーツ3品をそろえた「おいもフェス2026」を全国のスシローで開催する。 ラインアップは、「お芋のクレープブリュレ包み」（税込300円～、以下同）、「安納芋と紅はるかの...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "スシロー「おいもフェス2026」開催　クレープブリュレ包みや芋パフェなど3品\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/706586/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -731,19 +766,6 @@
       "tags": []
     },
     {
-      "id": "diamond-f982a886",
-      "title": "マルトが福島県大熊町に町内唯一のスーパーを出店　復興めざし「公設民営」で運営",
-      "url": "https://diamond-rm.net/store/560100/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-08",
-      "tags": [
-        "スーパー",
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-93511419",
       "title": "#4 ウォルマートから未来を考える（後編）",
       "url": "https://diamond-rm.net/market/economic/560227/",
@@ -763,6 +785,19 @@
       "date": "2026-10-08",
       "tags": [
         "宅配"
+      ]
+    },
+    {
+      "id": "diamond-f982a886",
+      "title": "マルトが福島県大熊町に町内唯一のスーパーを出店　復興めざし「公設民営」で運営",
+      "url": "https://diamond-rm.net/store/560100/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-08",
+      "tags": [
+        "スーパー",
+        "出店"
       ]
     },
     {
@@ -2236,19 +2271,6 @@
       ]
     },
     {
-      "id": "diamond-34943c52",
-      "title": "約30年ぶりに市内出店!「オーケー春日部店」のMDを解説",
-      "url": "https://diamond-rm.net/store/newstorereport/558281/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-05",
-      "tags": [
-        "オーケー",
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-821e9522",
       "title": "「インフラの共同化」が、日本のネットスーパーの未来を広げる",
       "url": "https://diamond-rm.net/ec-epayment/net-super/558272/",
@@ -2459,6 +2481,19 @@
       "date": "2026-10-05",
       "tags": [
         "リニューアル"
+      ]
+    },
+    {
+      "id": "diamond-34943c52",
+      "title": "約30年ぶりに市内出店!「オーケー春日部店」のMDを解説",
+      "url": "https://diamond-rm.net/store/newstorereport/558281/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-05",
+      "tags": [
+        "オーケー",
+        "出店"
       ]
     },
     {
@@ -3421,44 +3456,6 @@
       "category": "foodservice",
       "date": "2026-10-01",
       "tags": []
-    },
-    {
-      "id": "ssnp-2b5f0964",
-      "title": "松屋「ネオカシミールカレー」10月6日発売 マイカリー食堂の人気カレーを松屋流にアレンジ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/704841/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-01",
-      "tags": [
-        "松屋"
-      ]
-    },
-    {
-      "id": "ssnp-7af5c7cc",
-      "title": "税込108円～127円の栗･さつまいものパン&スイーツが登場!「大きな麻婆肉まん」も【ローソンストア100･10月の新商品】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/704831/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-01",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "ssnp-c199de5c",
-      "title": "アサヒビール、有楽町で「アサヒスーパードライ」サンプリングイベント開催　松山社長も来場者に手渡し\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/liquor/704823/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "liquor",
-      "date": "2026-10-01",
-      "tags": [
-        "スーパー",
-        "ビール",
-        "社長"
-      ]
     }
   ]
 }
