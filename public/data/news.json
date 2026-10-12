@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T03:45:26.983Z",
+  "lastUpdated": "2026-10-12T14:07:34.360Z",
   "items": [
     {
       "id": "diamond-1ddc9a3c",
@@ -13,6 +13,16 @@
         "ライフ",
         "増収"
       ]
+    },
+    {
+      "id": "diamond-45130b34",
+      "title": "第１９７回　流通王、中内功（なかうち・いさお）との出会い",
+      "url": "https://diamond-rm.net/life-career/542267/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-12",
+      "tags": []
     },
     {
       "id": "diamond-a4279064",
@@ -402,18 +412,6 @@
       "tags": []
     },
     {
-      "id": "diamond-e798c0bf",
-      "title": "地域間競争に負けない! 複合施設「自由が丘 ミューズスクエア」が開業",
-      "url": "https://diamond-rm.net/store/newstorereport/560265/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-09",
-      "tags": [
-        "開業"
-      ]
-    },
-    {
       "id": "diamond-acffe7f1",
       "title": "おおさかパルコープが5年後、10年後を見据えて繰り出す「次の一手」",
       "url": "https://diamond-rm.net/management/businessplan/559701/",
@@ -630,6 +628,18 @@
       "category": "菓子",
       "date": "2026-10-09",
       "tags": []
+    },
+    {
+      "id": "diamond-e798c0bf",
+      "title": "地域間競争に負けない! 複合施設「自由が丘 ミューズスクエア」が開業",
+      "url": "https://diamond-rm.net/store/newstorereport/560265/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-09",
+      "tags": [
+        "開業"
+      ]
     },
     {
       "id": "ryutsuu-a3d7bf65",
@@ -3441,16 +3451,6 @@
       "id": "ssnp-dfa3fdd9",
       "title": "【バーガーキング】にんにくガツン！2枚肉×ベーコン、ハッシュ2枚の“ギルティ”バーガー2種登場 / 濃厚チーズナゲットも復活\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/704869/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-583a9b05",
-      "title": "【ピザハット】七宝麻辣湯監修の「麻辣湯ピザ」3種を期間限定で販売!本格的な“シビ辛”仕立て\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/704852/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
