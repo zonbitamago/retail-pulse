@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-10-12T14:07:34.360Z",
+  "lastUpdated": "2026-10-13T00:01:49.879Z",
   "items": [
+    {
+      "id": "diamond-f63b138c",
+      "title": "おかやまコープの新モデル店を全解剖！店舗コンセプト「おいしいお店」の中身とは",
+      "url": "https://diamond-rm.net/store/storevisit/559704/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "id": "diamond-62a0eb88",
+      "title": "「広域連帯」で宅配も店舗も魅力を高める！おかやまコープが示す地域生協の成長モデル",
+      "url": "https://diamond-rm.net/management/businessplan/559703/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-13",
+      "tags": [
+        "宅配"
+      ]
+    },
     {
       "id": "diamond-1ddc9a3c",
       "title": "ライフが名古屋進出を視野に！ 23期連続増収の裏で進む次の成長戦略",
@@ -402,16 +424,6 @@
       ]
     },
     {
-      "id": "diamond-fe0158c0",
-      "title": "第１９６回　満を持して「商店のページ」スタートす",
-      "url": "https://diamond-rm.net/life-career/542266/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
       "id": "diamond-acffe7f1",
       "title": "おおさかパルコープが5年後、10年後を見据えて繰り出す「次の一手」",
       "url": "https://diamond-rm.net/management/businessplan/559701/",
@@ -630,6 +642,16 @@
       "tags": []
     },
     {
+      "id": "diamond-fe0158c0",
+      "title": "第１９６回　満を持して「商店のページ」スタートす",
+      "url": "https://diamond-rm.net/life-career/542266/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-09",
+      "tags": []
+    },
+    {
       "id": "diamond-e798c0bf",
       "title": "地域間競争に負けない! 複合施設「自由が丘 ミューズスクエア」が開業",
       "url": "https://diamond-rm.net/store/newstorereport/560265/",
@@ -784,18 +806,6 @@
       "category": "市場動向",
       "date": "2026-10-08",
       "tags": []
-    },
-    {
-      "id": "diamond-ca0758fd",
-      "title": "コープこうべが挑む「第3次宅配改革」と、店舗事業構造改革の方向性",
-      "url": "https://diamond-rm.net/management/businessplan/559698/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-08",
-      "tags": [
-        "宅配"
-      ]
     },
     {
       "id": "diamond-f982a886",
@@ -1001,6 +1011,18 @@
       "category": "流通",
       "date": "2026-10-08",
       "tags": []
+    },
+    {
+      "id": "diamond-ca0758fd",
+      "title": "コープこうべが挑む「第3次宅配改革」と、店舗事業構造改革の方向性",
+      "url": "https://diamond-rm.net/management/businessplan/559698/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-08",
+      "tags": [
+        "宅配"
+      ]
     },
     {
       "id": "diamond-4f1a9ff3",
@@ -1702,19 +1724,6 @@
       ]
     },
     {
-      "id": "diamond-85b812a0",
-      "title": "自由が丘エリアの一等地に出店！高質スーパー「明治屋自由が丘ストアー」の売場を詳報",
-      "url": "https://diamond-rm.net/store/newstorereport/559983/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-06",
-      "tags": [
-        "スーパー",
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-b2d050a6",
       "title": "セブン-イレブン、アパレル本格参入の本当の理由",
       "url": "https://diamond-rm.net/sales-promotion/557787/",
@@ -1967,6 +1976,19 @@
       "category": "foodservice",
       "date": "2026-10-06",
       "tags": []
+    },
+    {
+      "id": "diamond-85b812a0",
+      "title": "自由が丘エリアの一等地に出店！高質スーパー「明治屋自由が丘ストアー」の売場を詳報",
+      "url": "https://diamond-rm.net/store/newstorereport/559983/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-06",
+      "tags": [
+        "スーパー",
+        "出店"
+      ]
     },
     {
       "id": "ryutsuu-e177919a",
@@ -3429,28 +3451,6 @@
       "id": "ssnp-b4e6be09",
       "title": "【ゼッテリア】舞茸×山葵×翡翠ねぎの和バーガー「山葵タルタル舞茸ビーフバーガー」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/704886/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-1c73fcd0",
-      "title": "キル フェ ボンのクリスマスケーキ、予約受付開始!新作「ショートケーキタルト」「イチゴとチョコレートクリームのタルト」を含む全5種を販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/704867/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-01",
-      "tags": [
-        "チョコレート"
-      ]
-    },
-    {
-      "id": "ssnp-dfa3fdd9",
-      "title": "【バーガーキング】にんにくガツン！2枚肉×ベーコン、ハッシュ2枚の“ギルティ”バーガー2種登場 / 濃厚チーズナゲットも復活\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/704869/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
