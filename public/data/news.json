@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T16:19:09.789Z",
+  "lastUpdated": "2026-10-14T21:11:38.274Z",
   "items": [
     {
       "id": "ryutsuu-17c5d795",
@@ -13,6 +13,40 @@
         "オープン",
         "松屋"
       ]
+    },
+    {
+      "id": "diamond-901f7a51",
+      "title": "カインズ、アンドパッドと資本業務提携　AI活用でリフォーム事業を強化",
+      "url": "https://diamond-rm.net/management/businessplan/560608/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-15",
+      "tags": [
+        "カインズ",
+        "業務提携",
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-e4d5d0d0",
+      "title": "魚好きにはたまらない！現役主婦が選ぶ「角上魚類」の絶品総菜レビュー",
+      "url": "https://diamond-rm.net/sales-promotion/559918/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-10-15",
+      "tags": []
+    },
+    {
+      "id": "diamond-669e0cae",
+      "title": "トレードマーケティングの要！「どこで戦うか」を決める3ステップ",
+      "url": "https://diamond-rm.net/management/marketing/559682/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-15",
+      "tags": []
     },
     {
       "id": "ryutsuu-289e9fa3",
@@ -593,16 +627,6 @@
       "tags": []
     },
     {
-      "id": "diamond-ecd85f56",
-      "title": "第１９８回　西川俊男が体験した小売業の原点",
-      "url": "https://diamond-rm.net/life-career/542268/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
       "id": "diamond-62a0eb88",
       "title": "「広域連帯」で宅配も店舗も魅力を高める！おかやまコープが示す地域生協の成長モデル",
       "url": "https://diamond-rm.net/management/businessplan/559703/",
@@ -777,6 +801,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "id": "diamond-ecd85f56",
+      "title": "第１９８回　西川俊男が体験した小売業の原点",
+      "url": "https://diamond-rm.net/life-career/542268/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-10-13",
       "tags": []
     },
@@ -1091,20 +1125,6 @@
       "tags": []
     },
     {
-      "id": "diamond-aa50880c",
-      "title": "ファミリーマートが新たなリテールメディアを開始【週刊コンビニエンスストアニュース】",
-      "url": "https://diamond-rm.net/management/560580/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-10",
-      "tags": [
-        "ファミリーマート",
-        "リテールメディア",
-        "コンビニ"
-      ]
-    },
-    {
       "id": "ssnp-6c4f1e5c",
       "title": "UCC上島珈琲、5mの巨大『珈琲ガチャ』登場　14通りのコーヒーとお菓子の組み合わせを体験\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/706660/",
@@ -1170,6 +1190,20 @@
       "category": "foodservice",
       "date": "2026-10-10",
       "tags": []
+    },
+    {
+      "id": "diamond-aa50880c",
+      "title": "ファミリーマートが新たなリテールメディアを開始【週刊コンビニエンスストアニュース】",
+      "url": "https://diamond-rm.net/management/560580/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-10",
+      "tags": [
+        "ファミリーマート",
+        "リテールメディア",
+        "コンビニ"
+      ]
     },
     {
       "id": "diamond-994cff5b",
@@ -1250,19 +1284,6 @@
       "tags": [
         "セブン-イレブン",
         "減益"
-      ]
-    },
-    {
-      "id": "diamond-52d3c1cc",
-      "title": "「お手頃×オーガニック」をSPAで実現！　個性派生協・コープ自然派の差別化戦略",
-      "url": "https://diamond-rm.net/management/businessplan/559702/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-09",
-      "tags": [
-        "オーガニック",
-        "SPA"
       ]
     },
     {
@@ -1460,6 +1481,19 @@
       "category": "菓子",
       "date": "2026-10-09",
       "tags": []
+    },
+    {
+      "id": "diamond-52d3c1cc",
+      "title": "「お手頃×オーガニック」をSPAで実現！　個性派生協・コープ自然派の差別化戦略",
+      "url": "https://diamond-rm.net/management/businessplan/559702/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-09",
+      "tags": [
+        "オーガニック",
+        "SPA"
+      ]
     },
     {
       "id": "diamond-acffe7f1",
@@ -3479,38 +3513,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "milk",
-      "date": "2026-10-05",
-      "tags": []
-    },
-    {
-      "id": "ssnp-15570378",
-      "title": "サンリオ『クロミ』×麺場 田所商店、初コラボ　限定グッズ付き、スープが変化するらーめん販売　“誕生日”特別企画も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/705363/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-05",
-      "tags": []
-    },
-    {
-      "id": "ssnp-ae76c4f3",
-      "title": "「バターステイツクッキー」がアイスに　セブン-イレブンで「バターステイツサンドアイス」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/milk/705358/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "milk",
-      "date": "2026-10-05",
-      "tags": [
-        "セブン-イレブン"
-      ]
-    },
-    {
-      "id": "ssnp-682915c1",
-      "title": "伊藤園「お～いお茶」×OJICO、ニットトートバッグ全4種　1ケース購入で1つプレゼント\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/705345/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
       "date": "2026-10-05",
       "tags": []
     }
