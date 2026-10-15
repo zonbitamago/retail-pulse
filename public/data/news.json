@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-10-15T16:06:46.212Z",
+  "lastUpdated": "2026-10-15T20:49:36.478Z",
   "items": [
+    {
+      "id": "diamond-93841b4a",
+      "title": "コモディイイダ飯田武男社長インタビュー　「人間性を売り込み、大手に対抗する」",
+      "url": "https://diamond-rm.net/management/topinterview/559687/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-16",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-49d96a8f",
+      "title": "“監視役”に終始してないか？食品スーパーのSV本来の役割を考える",
+      "url": "https://diamond-rm.net/sales-promotion/buyer/559683/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-10-16",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
+    },
     {
       "id": "ryutsuu-1a83e500",
       "title": "ファミマ／「ファミマカフェ」上期売上は15％増、LLサイズ投入で20代の顧客層を獲得",
@@ -648,16 +674,6 @@
       "tags": []
     },
     {
-      "id": "diamond-5a314044",
-      "title": "東北の雄・薬王堂が関東で猛攻！わずか1年半で35店舗、急拡大の理由とは",
-      "url": "https://diamond-rm.net/market/560761/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
       "id": "diamond-89b40110",
       "title": "ローソン、約160gの「大きな」冷凍おにぎりを発売【週刊コンビニエンスストアニュース】",
       "url": "https://diamond-rm.net/management/560737/",
@@ -691,6 +707,16 @@
       "tags": [
         "オープン"
       ]
+    },
+    {
+      "id": "diamond-5a314044",
+      "title": "東北の雄・薬王堂が関東で猛攻！わずか1年半で35店舗、急拡大の理由とは",
+      "url": "https://diamond-rm.net/market/560761/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-14",
+      "tags": []
     },
     {
       "id": "diamond-e2abf549",
@@ -1107,16 +1133,6 @@
       ]
     },
     {
-      "id": "diamond-1a3a4fee",
-      "title": "厳しさ増す生協の経営環境　専門家が指摘する“3兆円の総合力”の可能性",
-      "url": "https://diamond-rm.net/management/559706/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
       "id": "diamond-f63b138c",
       "title": "おかやまコープの新モデル店を全解剖！店舗コンセプト「おいしいお店」の中身とは",
       "url": "https://diamond-rm.net/store/storevisit/559704/",
@@ -1279,6 +1295,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "id": "diamond-1a3a4fee",
+      "title": "厳しさ増す生協の経営環境　専門家が指摘する“3兆円の総合力”の可能性",
+      "url": "https://diamond-rm.net/management/559706/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-10-13",
       "tags": []
     },
@@ -3501,29 +3527,6 @@
       "date": "2026-10-06",
       "tags": [
         "サミット"
-      ]
-    },
-    {
-      "id": "ssnp-7cf34e28",
-      "title": "「肉めし岡もと」グランドメニュー刷新　「肉めし」「もつめし」の2軸化、18種トッピングでカスタマイズ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/705498/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-06",
-      "tags": []
-    },
-    {
-      "id": "diamond-8d61fede",
-      "title": "【一店入魂】旬鮮魚市場クルベ熊谷銀座店　ベルクの常識を180度転換した挑戦的店舗",
-      "url": "https://diamond-rm.net/store/storevisit/558293/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-06",
-      "tags": [
-        "ベルク",
-        "鮮魚"
       ]
     }
   ]
