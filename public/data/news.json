@@ -1,6 +1,74 @@
 {
-  "lastUpdated": "2026-10-15T20:49:36.478Z",
+  "lastUpdated": "2026-10-16T02:40:30.999Z",
   "items": [
+    {
+      "id": "ryutsuu-3be2754c",
+      "title": "ライフ／9月総売上高は723億円、既存店売上高0.1％増",
+      "url": "https://www.ryutsuu.biz/sales/s101671.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-10-16",
+      "tags": [
+        "ライフ",
+        "売上高"
+      ]
+    },
+    {
+      "id": "diamond-87daa190",
+      "title": "イズミ、増収増益の裏で進む大改革！ 九州スーパー3社統合のねらいとは",
+      "url": "https://diamond-rm.net/market/accounting/560861/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-16",
+      "tags": [
+        "スーパー",
+        "統合",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "diamond-c3d2effb",
+      "title": "ロピアが神戸の激戦区に殴り込み！ 万代、オーケーと激突【週刊スーパーマーケットニュース】",
+      "url": "https://diamond-rm.net/management/businessplan/560896/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-16",
+      "tags": [
+        "オーケー",
+        "スーパー",
+        "ロピア"
+      ]
+    },
+    {
+      "id": "diamond-524e74a8",
+      "title": "欧州1.8兆円投資に見るアマゾン物流改革の現在地　AIの進化がもたらす倉庫現場の再構築",
+      "url": "https://diamond-rm.net/overseas/american_economy/559935/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-10-16",
+      "tags": [
+        "アマゾン",
+        "AI",
+        "物流"
+      ]
+    },
+    {
+      "id": "diamond-22ecec3e",
+      "title": "第149回　新リース会計基準は百貨店復権のトリガーとなるか",
+      "url": "https://diamond-rm.net/management/560097/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-16",
+      "tags": [
+        "百貨店"
+      ]
+    },
     {
       "id": "diamond-93841b4a",
       "title": "コモディイイダ飯田武男社長インタビュー　「人間性を売り込み、大手に対抗する」",
@@ -25,6 +93,105 @@
         "食品スーパー",
         "スーパー",
         "食品"
+      ]
+    },
+    {
+      "id": "ssnp-17566cda",
+      "title": "【第67回全国味噌鑑評会】前年から19品増の306品を審査中 / 11月19日表彰式、当日は13時まで出品された全てのみそを展示･入退場自由\n\t\t\t\t\t\t\t\t\t\t\t\t中央味噌研究所は15日、第67回全国味噌鑑評会に関する記者会見を開いた。小川由高理事が今回の開催概要を説明し、審査長を務める柏木豊理事が審査会の報告をした。なお、熊本地震による出品数への影響はみられなかった。 審査会期は...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/soy/707245/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "大豆",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "id": "ssnp-67bc012d",
+      "title": "久世福商店「2027年福袋」全5種　ごはんのお供からワイン・日本酒入りまで\n\t\t\t\t\t\t\t\t\t\t\t\tサンクゼールが展開する「久世福商店」は11月20日、オンラインショップで「2027新春福袋」の販売を開始する。同日から、全国の久世福商店の店舗では予約受付を開始する。 福袋は「梅」「竹」「松」と、オンラインショップ限定の...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/707218/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "id": "ssnp-27b01688",
+      "title": "松のや「倍量フェア」開催　カキフライ4個・唐揚げ6個に増量、価格は据え置き\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/707186/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "id": "ssnp-f925f4d7",
+      "title": "エースコック「麺がうまい」シリーズ第2弾、「味噌らぁ麺」発売　“幅広麺”に帆立だしをきかせたスープ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/noodles/707192/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "noodles",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "id": "ssnp-0692ecb5",
+      "title": "ミニストップ、上期決算は大幅な赤字に、通期は50億円の純損失予想\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/707131/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-10-16",
+      "tags": [
+        "決算",
+        "赤字"
+      ]
+    },
+    {
+      "id": "ryutsuu-ce044b79",
+      "title": "ドラッグストアの食品戦略 第1回ウエルシアHD／ドラッグ＆フードで客数10％増へ",
+      "url": "https://www.ryutsuu.biz/strategy/s101511.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-10-15",
+      "tags": [
+        "連載",
+        "ドラッグストア",
+        "ウエルシア",
+        "ドラッグ",
+        "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-c6e05888",
+      "title": "ローソン 決算／3～8月増収増益、AI発注とファストフーズ好調で平均日販が過去最高の60.8万円に",
+      "url": "https://www.ryutsuu.biz/accounts/s101516.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-10-15",
+      "tags": [
+        "注目",
+        "ローソン",
+        "AI",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "ryutsuu-d1d83044",
+      "title": "セブンイレブン 新商品／選べる3種の青「セレクトブレンド」セブンカフェから発売",
+      "url": "https://www.ryutsuu.biz/commodity/s101542.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-10-15",
+      "tags": [
+        "注目",
+        "セブンイレブン"
       ]
     },
     {
@@ -306,7 +473,7 @@
     },
     {
       "id": "ssnp-2f03c4cb",
-      "title": "サイゼリヤ、10月29日から平均6％値上げ　「ミラノ風ドリア」300円→320円、ワインやランチは据え置き\n\t\t\t\t\t\t\t\t\t\t\t\t株式会社サイゼリヤは10月14日、公式サイトで価格改定を発表した。10月29日から、メニュー全般を対象に平均6％の価格改定を実施する。 ■「ミラノ風ドリア」は300円から320円に 今回の価格改定では、看板メニューの一つ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "サイゼリヤ、10月29日から平均6％値上げ　「ミラノ風ドリア」300円→320円、ワインやランチは据え置き\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/707168/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -314,13 +481,12 @@
       "date": "2026-10-15",
       "tags": [
         "サイゼリヤ",
-        "価格改定",
         "値上げ"
       ]
     },
     {
       "id": "ssnp-9dcc3726",
-      "title": "ドムドムハンバーガー「麻婆なすチーズチキンバーガー」発売、四川麻婆だれの揚げナス使用\n\t\t\t\t\t\t\t\t\t\t\t\tドムドムハンバーガーは10月22日（木）、期間限定の新商品「麻婆なすチーズチキンバーガー」を全国の店舗で発売する。価格は単品690円、セット1,120円（いずれも税込）。 「麻婆なすチーズチキンバーガー」は、中華料理をバ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ドムドムハンバーガー「麻婆なすチーズチキンバーガー」発売、四川麻婆だれの揚げナス使用\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/707164/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -560,21 +726,6 @@
       ]
     },
     {
-      "id": "ryutsuu-dd49dfec",
-      "title": "ファミマ 決算／3～8月増収増益、事業利益は過去最高・加盟店利益は減少",
-      "url": "https://www.ryutsuu.biz/accounts/s101444.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-10-14",
-      "tags": [
-        "注目",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
       "id": "ryutsuu-c93bf889",
       "title": "ファミマ／既存店客数が14カ月連続前年割れ「競合がお得を前面に打ち出している」",
       "url": "https://www.ryutsuu.biz/strategy/s101445.html",
@@ -649,31 +800,6 @@
       ]
     },
     {
-      "id": "diamond-f139d4c8",
-      "title": "フジ、上期営業利益49％減の苦境！トライアル、ドラッグストア猛攻への反撃策とは",
-      "url": "https://diamond-rm.net/market/accounting/560779/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-14",
-      "tags": [
-        "ドラッグストア",
-        "トライアル",
-        "ドラッグ",
-        "営業利益"
-      ]
-    },
-    {
-      "id": "diamond-c1506b28",
-      "title": "第１９９回　愛情ゆえの厳しい現状否定",
-      "url": "https://diamond-rm.net/life-career/542269/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
       "id": "diamond-89b40110",
       "title": "ローソン、約160gの「大きな」冷凍おにぎりを発売【週刊コンビニエンスストアニュース】",
       "url": "https://diamond-rm.net/management/560737/",
@@ -685,16 +811,6 @@
         "ローソン",
         "コンビニ"
       ]
-    },
-    {
-      "id": "diamond-3b84d9f3",
-      "title": "話題の「ロビン・フッド」の知られざる総菜戦略……今冬の関東進出は“3社タッグ”で",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/559679/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-10-14",
-      "tags": []
     },
     {
       "id": "diamond-e4301a88",
@@ -943,6 +1059,56 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-dd49dfec",
+      "title": "ファミマ 決算／3～8月増収増益、事業利益は過去最高・加盟店利益は減少",
+      "url": "https://www.ryutsuu.biz/accounts/s101444.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-10-14",
+      "tags": [
+        "注目",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "diamond-f139d4c8",
+      "title": "フジ、上期営業利益49％減の苦境！トライアル、ドラッグストア猛攻への反撃策とは",
+      "url": "https://diamond-rm.net/market/accounting/560779/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-14",
+      "tags": [
+        "ドラッグストア",
+        "トライアル",
+        "ドラッグ",
+        "営業利益"
+      ]
+    },
+    {
+      "id": "diamond-c1506b28",
+      "title": "第１９９回　愛情ゆえの厳しい現状否定",
+      "url": "https://diamond-rm.net/life-career/542269/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-14",
+      "tags": []
+    },
+    {
+      "id": "diamond-3b84d9f3",
+      "title": "話題の「ロビン・フッド」の知られざる総菜戦略……今冬の関東進出は“3社タッグ”で",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/559679/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-10-14",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-289e9fa3",
       "title": "良品計画 決算／8月期営業利益40.1％増で初の1000億円突破、海外事業好調",
       "url": "https://www.ryutsuu.biz/accounts/s101483.html",
@@ -1107,18 +1273,6 @@
       "category": "pos",
       "date": "2026-10-14",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-987d01cb",
-      "title": "イオン／カットサラダなど供給「ベジテック・トップバリュ関東」新設",
-      "url": "https://www.ryutsuu.biz/strategy/s101314.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-13",
-      "tags": [
-        "イオン"
-      ]
     },
     {
       "id": "diamond-85ba4937",
@@ -1297,6 +1451,18 @@
       "category": "foodservice",
       "date": "2026-10-13",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-987d01cb",
+      "title": "イオン／カットサラダなど供給「ベジテック・トップバリュ関東」新設",
+      "url": "https://www.ryutsuu.biz/strategy/s101314.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-10-13",
+      "tags": [
+        "イオン"
+      ]
     },
     {
       "id": "diamond-1a3a4fee",
@@ -3385,149 +3551,6 @@
       "category": "流通",
       "date": "2026-10-06",
       "tags": []
-    },
-    {
-      "id": "ssnp-b717a80f",
-      "title": "サンマルクカフェ「プレミアムチョコクロ 生バナナ&カスタード」発売、生バナナ×カスタード風味の新作チョコクロ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/705621/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-79e172da",
-      "title": "ローソンストア100、おでん3個購入で30円引きキャンペーン\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/705613/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-06",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "ssnp-30699d11",
-      "title": "【サーティワン】ラブポーションサーティワンのシェイクを新発売 特製ラズベリーソースの組み合わせ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/705606/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-4389a159",
-      "title": "【セブン‐イレブン】濃厚キャラメルアイス2品を発売、とろける生キャラメルソース&食感の変化が楽しめる\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/milk/705596/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "milk",
-      "date": "2026-10-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-deed147c",
-      "title": "ココス「マロンフェア」開催、イタリア栗の濃厚な味わいを楽しむデザート5品\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/705586/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-09a5b6fa",
-      "title": "スタバ、“ネコ耳”の「ブラックベリー ヨーグルト フラペチーノ」をハロウィン限定で販売　\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/705576/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-021d3572",
-      "title": "セブン‐イレブン「中華まん」2個購入でドリンク1本無料【5日間限定】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/705561/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-4a1dc3bb",
-      "title": "松屋銀座 冷凍食品の新商品など発売、日本で唯一「50TOP ITALY」選出店も参加\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/705552/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-06",
-      "tags": [
-        "冷凍食品",
-        "松屋",
-        "食品",
-        "出店"
-      ]
-    },
-    {
-      "id": "ssnp-dc9677ea",
-      "title": "じゅうじゅうカルビ「大感謝祭」　大人200円引き、60歳以上500円引き、子どもはアイスバー無料\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/705544/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-64508543",
-      "title": "ファミリーマート 「ファミチキ」20周年記念商品を発売、「おうちでファミチキセット」の再販も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/705541/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-06",
-      "tags": [
-        "ファミリーマート"
-      ]
-    },
-    {
-      "id": "ssnp-897afc48",
-      "title": "イオン「子育て支援自販機」を実験的に設置、必要なベビー用品を気軽に購入できる提案\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/705538/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-06",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
-      "id": "ssnp-fdc1aa86",
-      "title": "かつや「海老トリプル丼」新登場　海老カツ・海老フライ・海老クリームコロッケを盛り合わせ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/705515/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-06",
-      "tags": []
-    },
-    {
-      "id": "ssnp-73db5cf9",
-      "title": "豆腐屋サミットを岩手で開催、「山本の濃い豆腐 おぼろ」が農林水産大臣賞-全豆連\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/705525/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-10-06",
-      "tags": [
-        "サミット"
-      ]
     }
   ]
 }
