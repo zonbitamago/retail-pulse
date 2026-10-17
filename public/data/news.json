@@ -1,6 +1,43 @@
 {
-  "lastUpdated": "2026-10-16T20:22:56.495Z",
+  "lastUpdated": "2026-10-17T02:32:31.258Z",
   "items": [
+    {
+      "id": "diamond-2146a897",
+      "title": "流通秀書　第51回『ストアマネジャー入門』",
+      "url": "https://diamond-rm.net/life-career/554265/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-17",
+      "tags": []
+    },
+    {
+      "id": "ssnp-d3fffe3e",
+      "title": "ローソン、きまぐれクック監修の12品を発売　蟹味噌あんかけ炒飯や海老マヨおにぎり、カンジャンケジャン味ポテチも\n\t\t\t\t\t\t\t\t\t\t\t\tローソンは10月19日から順次、全国のローソン店舗で、人気YouTuber「きまぐれクック」が監修した商品など計12品を発売する。魚介の旨みや味わいを楽しめる弁当やおにぎり、惣菜、麺類、冷凍食品、菓子などを取りそろえる。...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/707399/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-10-17",
+      "tags": [
+        "ローソン",
+        "冷凍食品",
+        "食品",
+        "惣菜",
+        "弁当",
+        "菓子"
+      ]
+    },
+    {
+      "id": "ssnp-34e75650",
+      "title": "「秋焙煎ほうじ茶 黒糖ミルクティー/ミルクティー」発売、春の収穫から熟成させた一番摘み茶葉を使用【ゴンチャ】\n\t\t\t\t\t\t\t\t\t\t\t\tゴンチャは、昨年も好評だった「秋焙煎ほうじ茶 黒糖ミルクティー」「秋焙煎ほうじ茶 ミルクティー」を、2026年10月22日から期間限定で販売する。 ラインアップは、黒糖シロップとミルクフォームを合わせた「秋焙煎ほうじ茶 ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/707004/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-17",
+      "tags": []
+    },
     {
       "id": "ryutsuu-e3f6f087",
       "title": "野村不動産／東京・門前仲町で住宅・商業複合施設を開発",
@@ -225,7 +262,7 @@
     },
     {
       "id": "ssnp-0e948290",
-      "title": "【しゃぶしゃぶ温野菜】学生限定「食べ飲み放題」、2,500円で40品以上が食べ放題\n\t\t\t\t\t\t\t\t\t\t\t\tしゃぶしゃぶチェーンの「しゃぶしゃぶ温野菜」は、10月19日（月）から11月30日（月）まで、学生グループ限定の「食べ飲み放題」を平日限定・店舗限定で実施する。 肉、野菜、逸品料理、〆ものなど40品以上の食べ放題にソフト...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【しゃぶしゃぶ温野菜】学生限定「食べ飲み放題」、2,500円で40品以上が食べ放題\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/707419/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -235,7 +272,7 @@
     },
     {
       "id": "ssnp-4d830ed0",
-      "title": "【かっぱ寿司】「〆こはだ」「〆こはだ炙り」が各110円、江戸前寿司の定番を食べ比べ\n\t\t\t\t\t\t\t\t\t\t\t\tかっぱ寿司は、10月22日(木)から11月11日(水)まで、「〆こはだ」と「〆こはだ炙り」を全店で販売する。価格はいずれも一貫110円(税込)。 「〆こはだ」は、食酢で締めることでこはだの旨みを引き立てた一品。食べやすい...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【かっぱ寿司】「〆こはだ」「〆こはだ炙り」が各110円、江戸前寿司の定番を食べ比べ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/707391/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -3505,48 +3542,6 @@
       "category": "経営",
       "date": "2026-10-07",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-addfa79e",
-      "title": "高級海苔弁当店「いちのや」／破産手続き開始、負債は調査中",
-      "url": "https://www.ryutsuu.biz/strategy/s100714.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-07",
-      "tags": [
-        "弁当"
-      ]
-    },
-    {
-      "id": "ryutsuu-0f5a8f46",
-      "title": "ツルハHD 決算／3～8月増収増益、上期の統合シナジー85億円",
-      "url": "https://www.ryutsuu.biz/accounts/s200721.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-10-07",
-      "tags": [
-        "注目",
-        "ツルハ",
-        "統合",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-495b4955",
-      "title": "ワークマン／5～30度「寒暖差」対応の新商品、土屋専務「将来の看板商品になる」",
-      "url": "https://www.ryutsuu.biz/commodity/s100741.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-10-07",
-      "tags": [
-        "注目",
-        "ワークマン"
-      ]
     }
   ]
 }
