@@ -1,6 +1,41 @@
 {
-  "lastUpdated": "2026-10-20T16:10:15.703Z",
+  "lastUpdated": "2026-10-20T21:07:10.964Z",
   "items": [
+    {
+      "id": "diamond-db68f260",
+      "title": "名店の味が自宅で食べられる!  三井不動産発の冷凍食品サービスが急成長する理由",
+      "url": "https://diamond-rm.net/ec-epayment/561191/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "ec-epayment",
+      "date": "2026-10-21",
+      "tags": [
+        "冷凍食品",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-14e08755",
+      "title": "“中国版・おかしのまちおか”が大躍進！コンビニも警戒感MAXの理由",
+      "url": "https://diamond-rm.net/overseas/chinaeastasianews/559686/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-10-21",
+      "tags": [
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-fad2bb31",
+      "title": "大阪屋ショップが小商圏型新フォーマットを開発　巧みな運営手法と商品政策に迫る",
+      "url": "https://diamond-rm.net/management/businessplan/559680/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-21",
+      "tags": []
+    },
     {
       "id": "ryutsuu-322ef005",
       "title": "クスリのアオキ／静岡県・愛媛県・愛知県に計3店舗、27年5～6月新設",
@@ -449,19 +484,6 @@
       ]
     },
     {
-      "id": "diamond-0033e4cd",
-      "title": "なぜコスモスは16年連続で顧客満足度1位なのか？ ドラッグストア最新調査で見えた強さの秘密",
-      "url": "https://diamond-rm.net/management/marketing/560888/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-19",
-      "tags": [
-        "ドラッグストア",
-        "ドラッグ"
-      ]
-    },
-    {
       "id": "diamond-7bf4a197",
       "title": "第２０２回　「右腕」桜井多恵子に受け継がれた厳しき方針と伝統",
       "url": "https://diamond-rm.net/life-career/546346/",
@@ -495,16 +517,16 @@
       ]
     },
     {
-      "id": "diamond-3c39438e",
-      "title": "スーパー激戦区で広域集客めざす！「生鮮市場TOP川口柳崎店」を徹底取材",
-      "url": "https://diamond-rm.net/store/newstorereport/559690/",
+      "id": "diamond-0033e4cd",
+      "title": "なぜコスモスは16年連続で顧客満足度1位なのか？ ドラッグストア最新調査で見えた強さの秘密",
+      "url": "https://diamond-rm.net/management/marketing/560888/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "店舗",
+      "category": "経営戦略",
       "date": "2026-10-19",
       "tags": [
-        "スーパー",
-        "生鮮"
+        "ドラッグストア",
+        "ドラッグ"
       ]
     },
     {
@@ -516,6 +538,19 @@
       "category": "経営戦略",
       "date": "2026-10-19",
       "tags": []
+    },
+    {
+      "id": "diamond-3c39438e",
+      "title": "スーパー激戦区で広域集客めざす！「生鮮市場TOP川口柳崎店」を徹底取材",
+      "url": "https://diamond-rm.net/store/newstorereport/559690/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-19",
+      "tags": [
+        "スーパー",
+        "生鮮"
+      ]
     },
     {
       "id": "diamond-42932c19",
@@ -3512,45 +3547,6 @@
       "date": "2026-10-09",
       "tags": [
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-9629fe20",
-      "title": "ヒマラヤ／愛知県「ヒマラヤスポーツ＆ゴルフ アピタ稲沢店」リニューアルオープン",
-      "url": "https://www.ryutsuu.biz/store/s100974.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-09",
-      "tags": [
-        "リニューアル",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-60532985",
-      "title": "DCM／9月の既存店売上高1.4％増、客数2.8％減",
-      "url": "https://www.ryutsuu.biz/sales/s100971.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-10-09",
-      "tags": [
-        "DCM",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-3941e921",
-      "title": "マクドナルド／9月の既存店売上高10.0％増、客数は3.3％増",
-      "url": "https://www.ryutsuu.biz/sales/s100942.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-10-09",
-      "tags": [
-        "マクドナルド",
-        "売上高"
       ]
     }
   ]
