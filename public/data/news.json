@@ -1,17 +1,87 @@
 {
-  "lastUpdated": "2026-10-21T02:52:19.659Z",
+  "lastUpdated": "2026-10-21T10:59:29.264Z",
   "items": [
     {
-      "id": "ryutsuu-07d2df29",
-      "title": "カインズ／書店向けの組み立て式雑貨用什器を発売、トーハンと共同開発",
-      "url": "https://www.ryutsuu.biz/commodity/s102142.html",
+      "id": "ryutsuu-23c42f7b",
+      "title": "ミスターマックス／PB商品をリブランディング、新ブランド100アイテム販売開始",
+      "url": "https://www.ryutsuu.biz/commodity/s102179.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "商品",
       "date": "2026-10-21",
       "tags": [
-        "カインズ",
-        "雑貨"
+        "PB"
+      ]
+    },
+    {
+      "id": "ryutsuu-d0b10476",
+      "title": "ファミレス／9月既存店すかいらーく2.9％増、サイゼリヤ10.6％増",
+      "url": "https://www.ryutsuu.biz/sales/s102174.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-10-21",
+      "tags": [
+        "すかいらーく",
+        "サイゼリヤ"
+      ]
+    },
+    {
+      "id": "ryutsuu-cad971b0",
+      "title": "マクドナルド／新セットメニュー「390ペア」販売開始、最大250円お得に",
+      "url": "https://www.ryutsuu.biz/commodity/s102180.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-10-21",
+      "tags": [
+        "マクドナルド"
+      ]
+    },
+    {
+      "id": "ryutsuu-5a1abfea",
+      "title": "築地食堂 源ちゃん／埼玉・新座にロードサイド2号店「新座RS店」今冬オープン",
+      "url": "https://www.ryutsuu.biz/store/s102177.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-21",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-d292da55",
+      "title": "コメ兵／GMOあおぞらネット銀行と協業、リユース×金融の新サービス検討開始",
+      "url": "https://www.ryutsuu.biz/strategy/s102173.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-62c0e382",
+      "title": "ニトリ／スマートロッカーシステム「Quist」を活用した店舗受け取り実験開始",
+      "url": "https://www.ryutsuu.biz/it/s102111.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-10-21",
+      "tags": [
+        "ニトリ"
+      ]
+    },
+    {
+      "id": "ryutsuu-b3d1f9e6",
+      "title": "河淳／埼玉県新座市に「ケユカ エキア志木店」新規オープン",
+      "url": "https://www.ryutsuu.biz/store/s102175.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-21",
+      "tags": [
+        "オープン"
       ]
     },
     {
@@ -28,26 +98,17 @@
       ]
     },
     {
-      "id": "ryutsuu-dc3bfd24",
-      "title": "東急ストア／9月の売上高162億円、既存店0.5％増",
-      "url": "https://www.ryutsuu.biz/sales/s102114.html",
+      "id": "ryutsuu-07d2df29",
+      "title": "カインズ／書店向けの組み立て式雑貨用什器を発売、トーハンと共同開発",
+      "url": "https://www.ryutsuu.biz/commodity/s102142.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "売上",
+      "category": "商品",
       "date": "2026-10-21",
       "tags": [
-        "売上高"
+        "カインズ",
+        "雑貨"
       ]
-    },
-    {
-      "id": "ryutsuu-d292da55",
-      "title": "コメ兵／GMOあおぞらネット銀行と協業、リユース×金融の新サービス検討開始",
-      "url": "https://www.ryutsuu.biz/strategy/s102173.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-21",
-      "tags": []
     },
     {
       "id": "ryutsuu-1f840bcc",
@@ -60,30 +121,6 @@
       "tags": []
     },
     {
-      "id": "ryutsuu-b3d1f9e6",
-      "title": "河淳／埼玉県新座市に「ケユカ エキア志木店」新規オープン",
-      "url": "https://www.ryutsuu.biz/store/s102175.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-21",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-62c0e382",
-      "title": "ニトリ／スマートロッカーシステム「Quist」を活用した店舗受け取り実験開始",
-      "url": "https://www.ryutsuu.biz/it/s102111.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-10-21",
-      "tags": [
-        "ニトリ"
-      ]
-    },
-    {
       "id": "ryutsuu-bc898cfe",
       "title": "サミット／9月の売上高305億円、既存店は1.3％増",
       "url": "https://www.ryutsuu.biz/sales/s102171.html",
@@ -93,6 +130,18 @@
       "date": "2026-10-21",
       "tags": [
         "サミット",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-dc3bfd24",
+      "title": "東急ストア／9月の売上高162億円、既存店0.5％増",
+      "url": "https://www.ryutsuu.biz/sales/s102114.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-10-21",
+      "tags": [
         "売上高"
       ]
     },
@@ -145,6 +194,16 @@
       ]
     },
     {
+      "id": "diamond-416e04bd",
+      "title": "第２０４回　人生５０年時代に一身で革命を成し遂げるには",
+      "url": "https://diamond-rm.net/life-career/546348/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
       "id": "diamond-1875e3d9",
       "title": "ファミリーマート、アルバイト応募数が約20％増【週刊コンビニエンスストアニュース】",
       "url": "https://diamond-rm.net/management/561208/",
@@ -190,8 +249,145 @@
       "tags": []
     },
     {
+      "id": "ssnp-1d84d6a6",
+      "title": "はなまるうどん、「鴨ねぎうどん」「鴨せいろうどん」発売\n\t\t\t\t\t\t\t\t\t\t\t\t讃岐うどんチェーン「はなまるうどん」は、期間限定商品「鴨ねぎうどん」「鴨せいろうどん」を10月22日から全国の店舗(一部店舗を除く)で販売する。販売期間は12月初旬までを予定している。 「鴨せいろうどん」の画像はこちら ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708078/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "ssnp-bcba9205",
+      "title": "マクドナルド、午後2時から390円の新セット　軽食やスイーツで休憩需要取り込む\n\t\t\t\t\t\t\t\t\t\t\t\t日本マクドナルドは10月21日、サイドメニュー1品とドリンクMサイズ1品を税込390円で組み合わせられる「390（サンキュー）ペア」を全国で発売した。毎日午後2時から閉店まで販売する。最大250円お得になるセットメニュー...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708042/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-21",
+      "tags": [
+        "マクドナルド",
+        "閉店"
+      ]
+    },
+    {
+      "id": "ssnp-91f60e0c",
+      "title": "フレッシュネスバーガー「北海道産新じゃがフェア」開催、新じゃがポテトとじゃがバターを期間限定販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708043/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "ssnp-0a55c69a",
+      "title": "「いももち串」や「ポテトチップス カツ丼味」、「厚切りハムカツ」など、惣菜･サイドメニューに全4品が新登場【かつや】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708028/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-21",
+      "tags": [
+        "惣菜"
+      ]
+    },
+    {
+      "id": "ssnp-025e85ec",
+      "title": "なか卯「担々うどん」に「痺辛麻辣」登場　7種のスパイス使用、“痺れる辛さ”で濃厚な味わい\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/707998/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "ssnp-e50e4a65",
+      "title": "資さんうどん初の「ナポリタンうどん」登場、関西･関東25店舗限定で販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708006/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "ssnp-5d6aee21",
+      "title": "セブン限定「不二家 カントリーマアムアイスサンド」発売、冷凍下でもしっとりとした食感が楽しめる\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/707991/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "ssnp-a79c70c5",
+      "title": "日清シスコ×サクマ製菓、「いちごみるく」の味わいをイメージした「チョコフレーク」登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/707974/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "ssnp-55575769",
+      "title": "ゼッテリア「えびグラタンバーガー」3品発売、濃厚ビスクやデミグラスを合わせた秋冬限定商品\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/707975/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "ssnp-d8b27d22",
+      "title": "ローソン・MACHI café+、秋冬定番「マシュマロカフェモカ」「マシュマロホワイトモカ」登場　全品100円引きの期間限定セールも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/707958/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-10-21",
+      "tags": [
+        "ローソン"
+      ]
+    },
+    {
+      "id": "ssnp-e95a30d7",
+      "title": "【築地銀だこ】冬限定「焦がし醤油 もちチーズ明太」発売、とろ～りもちソースとチーズを組み合わせ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/707951/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "ssnp-9a2ba51a",
+      "title": "「千とせ本店」監修肉うどん･「大久手山本屋」監修味噌煮込みうどん、エリア限定発売　アルミ鍋入り冷凍商品【セブン‐イレブン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/707935/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "ssnp-246cad45",
+      "title": "バーガーキング「キットカット」入り新作サンデー発売、濃厚チョコソースとサクサク食感を楽しむ490円のデザート\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/707927/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
       "id": "ssnp-3b615af4",
-      "title": "「韓国料理 まだん KITTE大阪」開業、商業施設への出店目指す　日本人の味覚に合う韓国料理を\n\t\t\t\t\t\t\t\t\t\t\t\tHASSIN(大阪市浪速区、東直人社長)が運営する「韓国料理 まだん KITTE大阪」がこのほど開業した。ほかの「まだん」では展開していない、同店ならではのメニューで、韓国の食文化の今を伝える。同店の客単価はランチタイム...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "「韓国料理 まだん KITTE大阪」開業、商業施設への出店目指す　日本人の味覚に合う韓国料理を\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/707920/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -199,13 +395,12 @@
       "date": "2026-10-21",
       "tags": [
         "出店",
-        "開業",
-        "社長"
+        "開業"
       ]
     },
     {
       "id": "ssnp-abb519e6",
-      "title": "松屋、持ち帰り惣菜「MATSUYA DELI」13商品を一斉値下げ　10月27日15時から\n\t\t\t\t\t\t\t\t\t\t\t\t松屋フーズは10月27日15時から、一部店舗を除く全国の「松屋」で、持ち帰り惣菜のテイクアウトシリーズ「MATSUYA DELI(マツヤデリ)」の13商品を一斉値下げして販売する。 画像を見る 「毎日の食卓を松屋が応援」...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "松屋、持ち帰り惣菜「MATSUYA DELI」13商品を一斉値下げ　10月27日15時から\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/707908/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -286,31 +481,6 @@
       "tags": [
         "アウトレット",
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-322ef005",
-      "title": "クスリのアオキ／静岡県・愛媛県・愛知県に計3店舗、27年5～6月新設",
-      "url": "https://www.ryutsuu.biz/store/s1020011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-20",
-      "tags": [
-        "クスリのアオキ"
-      ]
-    },
-    {
-      "id": "ryutsuu-812c971f",
-      "title": "コスモス薬品／香川県・愛媛県に「ドラッグコスモス」計2店舗、27年5月新設",
-      "url": "https://www.ryutsuu.biz/store/s1020012.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-20",
-      "tags": [
-        "コスモス薬品",
-        "ドラッグ"
       ]
     },
     {
@@ -570,6 +740,31 @@
       "category": "foodservice",
       "date": "2026-10-20",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-322ef005",
+      "title": "クスリのアオキ／静岡県・愛媛県・愛知県に計3店舗、27年5～6月新設",
+      "url": "https://www.ryutsuu.biz/store/s1020011.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-20",
+      "tags": [
+        "クスリのアオキ"
+      ]
+    },
+    {
+      "id": "ryutsuu-812c971f",
+      "title": "コスモス薬品／香川県・愛媛県に「ドラッグコスモス」計2店舗、27年5月新設",
+      "url": "https://www.ryutsuu.biz/store/s1020012.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-20",
+      "tags": [
+        "コスモス薬品",
+        "ドラッグ"
+      ]
     },
     {
       "id": "ryutsuu-2cf28a13",
@@ -1125,20 +1320,6 @@
       ]
     },
     {
-      "id": "ryutsuu-6e00f958",
-      "title": "イオンモール タインホア／10月18日グランドオープン、6万人超が来店",
-      "url": "https://www.ryutsuu.biz/abroad/s102011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "abroad",
-      "date": "2026-10-18",
-      "tags": [
-        "オープン",
-        "イオン",
-        "モール"
-      ]
-    },
-    {
       "id": "ssnp-bcfbc656",
       "title": "タリーズコーヒー「タリーズフェスティバル2026」開催、フェローの技術とホスピタリティ磨く　コスタリカ研修で生産者への理解深める\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/707445/",
@@ -1167,6 +1348,20 @@
       "category": "菓子",
       "date": "2026-10-18",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-6e00f958",
+      "title": "イオンモール タインホア／10月18日グランドオープン、6万人超が来店",
+      "url": "https://www.ryutsuu.biz/abroad/s102011.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "abroad",
+      "date": "2026-10-18",
+      "tags": [
+        "オープン",
+        "イオン",
+        "モール"
+      ]
     },
     {
       "id": "diamond-5fa2e4ef",
@@ -1211,18 +1406,6 @@
       "category": "life-career",
       "date": "2026-10-17",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-8aca246f",
-      "title": "ローソン／26年下期品ぞろえ・売り切り・デリバリー強化、50％増量も",
-      "url": "https://www.ryutsuu.biz/strategy/s101611.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-16",
-      "tags": [
-        "ローソン"
-      ]
     },
     {
       "id": "ryutsuu-6b2b55e9",
@@ -1439,6 +1622,18 @@
       ]
     },
     {
+      "id": "ryutsuu-8aca246f",
+      "title": "ローソン／26年下期品ぞろえ・売り切り・デリバリー強化、50％増量も",
+      "url": "https://www.ryutsuu.biz/strategy/s101611.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-10-16",
+      "tags": [
+        "ローソン"
+      ]
+    },
+    {
       "id": "diamond-87daa190",
       "title": "イズミ、増収増益の裏で進む大改革！ 九州スーパー3社統合のねらいとは",
       "url": "https://diamond-rm.net/market/accounting/560861/",
@@ -1646,22 +1841,6 @@
         "アマゾン",
         "AI",
         "物流"
-      ]
-    },
-    {
-      "id": "ryutsuu-ce044b79",
-      "title": "ドラッグストアの食品戦略 第1回ウエルシアHD／ドラッグ＆フードで客数10％増へ",
-      "url": "https://www.ryutsuu.biz/strategy/s101511.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-15",
-      "tags": [
-        "連載",
-        "ドラッグストア",
-        "ウエルシア",
-        "ドラッグ",
-        "食品"
       ]
     },
     {
@@ -1925,6 +2104,22 @@
       "category": "飲料",
       "date": "2026-10-15",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-ce044b79",
+      "title": "ドラッグストアの食品戦略 第1回ウエルシアHD／ドラッグ＆フードで客数10％増へ",
+      "url": "https://www.ryutsuu.biz/strategy/s101511.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-10-15",
+      "tags": [
+        "連載",
+        "ドラッグストア",
+        "ウエルシア",
+        "ドラッグ",
+        "食品"
+      ]
     },
     {
       "id": "ryutsuu-aaba511a",
@@ -3345,210 +3540,6 @@
       "tags": [
         "楽天",
         "EC"
-      ]
-    },
-    {
-      "id": "ssnp-c27e315a",
-      "title": "サントリー烏龍茶45周年、渋谷に「異国旅」を再現　若年層を起点に飲用促進\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/706642/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-10-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-a280fe35",
-      "title": "やよい軒、人気6定食が週替わりで50円引き　公式アプリ限定クーポンを配信\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/706608/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-10",
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "id": "ssnp-8eede6e7",
-      "title": "8つのハロウィン限定パフェが登場!店舗ごとに違う個性豊かなデザインに【タカノフルーツパーラー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/706139/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-10",
-      "tags": []
-    },
-    {
-      "id": "ssnp-6ae03403",
-      "title": "松のや「ジンギスカン定食」発売、柔らかく仕上げた羊肉×醤油ベースのタレ　鉄板焼きで提供\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/706461/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-10",
-      "tags": []
-    },
-    {
-      "id": "diamond-aa50880c",
-      "title": "ファミリーマートが新たなリテールメディアを開始【週刊コンビニエンスストアニュース】",
-      "url": "https://diamond-rm.net/management/560580/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-10",
-      "tags": [
-        "ファミリーマート",
-        "リテールメディア",
-        "コンビニ"
-      ]
-    },
-    {
-      "id": "diamond-994cff5b",
-      "title": "エコスがフレスコ関東を完全子会社化 社名をベンガベンガに【週刊スーパーマーケットニュース】",
-      "url": "https://diamond-rm.net/management/businessplan/560558/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-10",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
-      "id": "diamond-e6f7adae",
-      "title": "流通秀書　第50回『流通戦略革命』",
-      "url": "https://diamond-rm.net/life-career/553489/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-10",
-      "tags": []
-    },
-    {
-      "id": "diamond-a17757d5",
-      "title": "ソフトバンクの「KIOSTA」が示す小売業の端末管理の最適解",
-      "url": "https://diamond-rm.net/promotion/559736/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "promotion",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
-      "id": "diamond-1fe3160e",
-      "title": "勘と経験による販促からの脱却。 成果を生み出す小売企業は、何が違うのか？  ～データ×AIで実現する顧客理解の高度化と収益向上～",
-      "url": "https://diamond-rm.net/seminar/559710/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "seminar",
-      "date": "2026-10-09",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ssnp-73740a69",
-      "title": "外食業界「消費税10％据え置き」で客離れ懸念　日本フードサービス協会の調査、58％が客数減を予想\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/706630/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-09",
-      "tags": [
-        "外食"
-      ]
-    },
-    {
-      "id": "ssnp-172873f8",
-      "title": "エスビー食品「下北沢カレーフェスティバル2026」に協賛　カレー店など計135店が参加\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/seasoning/706573/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "調味料",
-      "date": "2026-10-09",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
-      "id": "ssnp-fbe9052e",
-      "title": "ニチレイフーズ「お弁当ミーティング」にファン41人が集まる、グループワークでファンと社員が交流、アイデア共有で真のニーズを探る\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/frozen/706571/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "冷凍食品",
-      "date": "2026-10-09",
-      "tags": [
-        "弁当"
-      ]
-    },
-    {
-      "id": "ssnp-fe859477",
-      "title": "【サーティワン】クリスマス向けアイスクリームケーキの予約開始　ポケモン･サンリオとのコラボ、ゴディバ監修商品など\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/706521/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
-      "id": "ssnp-3b54b034",
-      "title": "ファミマが「昼食事情と冷凍食品ニーズに関する実態調査」/「コスパ･味･タイパ」ニーズの商品拡充、冷食売上2ケタ増\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/frozen/706556/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "冷凍食品",
-      "date": "2026-10-09",
-      "tags": [
-        "冷凍食品",
-        "食品",
-        "冷食"
-      ]
-    },
-    {
-      "id": "ssnp-040a4ff7",
-      "title": "USJコラボの「ハッピーセット」発売　ミニオンやキティ、ジョージなど全10種【マクドナルド】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/706503/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-09",
-      "tags": [
-        "マクドナルド"
-      ]
-    },
-    {
-      "id": "ssnp-f82b80a8",
-      "title": "「無添加みそ工場」竣工、生産能力1.5倍で年間2万8,000tの生産が可能に-マルコメ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/706496/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
-      "id": "ssnp-0e2f7cc4",
-      "title": "「凄麺」発売25周年、全国50店舗以上で試食販売実施＝ヤマダイ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/noodles/706492/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "noodles",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
-      "id": "ssnp-1cc4a575",
-      "title": "【ピカール】クロワッサンなど人気商品を特別価格で販売、グッズプレゼントも　日本1号店オープン10周年記念の第1弾\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/frozen/706473/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "冷凍食品",
-      "date": "2026-10-09",
-      "tags": [
-        "オープン"
       ]
     }
   ]
