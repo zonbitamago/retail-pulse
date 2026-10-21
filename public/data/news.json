@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T16:25:49.966Z",
+  "lastUpdated": "2026-10-21T21:06:29.477Z",
   "items": [
     {
       "id": "ryutsuu-37b9e452",
@@ -13,6 +13,31 @@
         "オープン",
         "新店"
       ]
+    },
+    {
+      "id": "diamond-df788c71",
+      "title": "イオン九州、過去最高売上も大幅減益！積極出店とM&Aの光と影",
+      "url": "https://diamond-rm.net/market/accounting/561184/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-22",
+      "tags": [
+        "イオン",
+        "M&A",
+        "出店",
+        "減益"
+      ]
+    },
+    {
+      "id": "diamond-fb2ade15",
+      "title": "アークランズ、初のグリーン新業態「武蔵乃葉品店三郷店」　植物のある暮らしを提案",
+      "url": "https://diamond-rm.net/store/newstorereport/561004/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-22",
+      "tags": []
     },
     {
       "id": "ryutsuu-23c42f7b",
@@ -570,18 +595,6 @@
       ]
     },
     {
-      "id": "diamond-43001c61",
-      "title": "スーパーの売場で考えた「コスパ」「タイパ」のホント",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/559708/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-10-20",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
       "id": "diamond-fb1f43bb",
       "title": "JCペニーが物流センターに本格導入 「ヒト型ロボット」への投資が急加速",
       "url": "https://diamond-rm.net/overseas/american_economy/559685/",
@@ -592,6 +605,18 @@
       "tags": [
         "ロボット",
         "物流"
+      ]
+    },
+    {
+      "id": "diamond-43001c61",
+      "title": "スーパーの売場で考えた「コスパ」「タイパ」のホント",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/559708/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-10-20",
+      "tags": [
+        "スーパー"
       ]
     },
     {
@@ -912,18 +937,6 @@
       "tags": []
     },
     {
-      "id": "diamond-220bdcf2",
-      "title": "ユニクロ柳井正が語る「世界一になるために必要なこと」",
-      "url": "https://diamond-rm.net/management/560914/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-19",
-      "tags": [
-        "ユニクロ"
-      ]
-    },
-    {
       "id": "diamond-622871e6",
       "title": "グローバル小売に学ぶ「商品部」の正しい機能と役割とは",
       "url": "https://diamond-rm.net/management/marketing/559707/",
@@ -1167,6 +1180,18 @@
       "category": "foodservice",
       "date": "2026-10-19",
       "tags": []
+    },
+    {
+      "id": "diamond-220bdcf2",
+      "title": "ユニクロ柳井正が語る「世界一になるために必要なこと」",
+      "url": "https://diamond-rm.net/management/560914/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-19",
+      "tags": [
+        "ユニクロ"
+      ]
     },
     {
       "id": "ryutsuu-8776fc47",
@@ -3518,28 +3543,6 @@
       "tags": [
         "チョコレート",
         "リニューアル"
-      ]
-    },
-    {
-      "id": "ssnp-94d45bc5",
-      "title": "スシロー「おいもフェス2026」開催　クレープブリュレ包みや芋パフェなど3品\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/706586/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-6c4f1e5c",
-      "title": "UCC上島珈琲、5mの巨大『珈琲ガチャ』登場　14通りのコーヒーとお菓子の組み合わせを体験\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/706660/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-10-10",
-      "tags": [
-        "菓子"
       ]
     }
   ]
