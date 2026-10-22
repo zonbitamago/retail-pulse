@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-21T21:06:29.477Z",
+  "lastUpdated": "2026-10-22T02:51:24.939Z",
   "items": [
+    {
+      "id": "ryutsuu-f9dbb848",
+      "title": "PPIH／9月の国内リテール既存店売上高3.1％増、客数減も雨具好調・家中需要に対応",
+      "url": "https://www.ryutsuu.biz/sales/s102273.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-10-22",
+      "tags": [
+        "PPIH",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-40eb42b1",
+      "title": "ドラッグストアモリ／熊本県・福岡県に計2店舗、27年5月新設",
+      "url": "https://www.ryutsuu.biz/store/s1022011.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-22",
+      "tags": [
+        "ドラッグストア",
+        "ドラッグ"
+      ]
+    },
+    {
+      "id": "ryutsuu-2839e088",
+      "title": "横浜スカイビル／人流分析AI Agent「ミセシル」導入、超高層ビルのフロア回遊を可視化",
+      "url": "https://www.ryutsuu.biz/it/s102213.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-10-22",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ryutsuu-24369063",
+      "title": "イオン／グループのウェブサイトに不正アクセス、安全確認を実施中",
+      "url": "https://www.ryutsuu.biz/strategy/s102241.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-10-22",
+      "tags": [
+        "イオン"
+      ]
+    },
     {
       "id": "ryutsuu-37b9e452",
       "title": "ノジマ／埼玉県「ラ・ヴィーニュ 新座」に新店舗10月22日オープン",
@@ -12,6 +62,19 @@
       "tags": [
         "オープン",
         "新店"
+      ]
+    },
+    {
+      "id": "diamond-521d424b",
+      "title": "アークス、上期売上高が過去最高！改装店の売上を3割増やした戦略とは",
+      "url": "https://diamond-rm.net/market/561219/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-22",
+      "tags": [
+        "売上高",
+        "改装"
       ]
     },
     {
@@ -30,6 +93,16 @@
       ]
     },
     {
+      "id": "diamond-f60a4cdf",
+      "title": "#5 「実験を⽇常に変える⼒」を日本の小売が手に入れる方法とは？【前編】＝無料公開",
+      "url": "https://diamond-rm.net/overseas/american_economy/561329/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
       "id": "diamond-fb2ade15",
       "title": "アークランズ、初のグリーン新業態「武蔵乃葉品店三郷店」　植物のある暮らしを提案",
       "url": "https://diamond-rm.net/store/newstorereport/561004/",
@@ -38,6 +111,92 @@
       "category": "店舗",
       "date": "2026-10-22",
       "tags": []
+    },
+    {
+      "id": "ssnp-f0b4455b",
+      "title": "クア・アイナ「トリュフ コルビージャック チーズバーガー」など3種発売　トリュフ香る新作が登場\n\t\t\t\t\t\t\t\t\t\t\t\t国内に35店舗を展開するハワイアンテイストのグルメバーガー＆サンドウィッチレストラン「クア・アイナ」は10月21日、期間限定商品「トリュフ コルビージャック チーズバーガー」など3種を国内全店で発売した。販売期間は202...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708155/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "id": "ssnp-3c2ce0cc",
+      "title": "【5日間限定】のり弁当などにチキンかつ1枚無料「ほっかほっか亭」10月26日から\n\t\t\t\t\t\t\t\t\t\t\t\t持ち帰り弁当店「ほっかほっか亭」は10月26日から30日までの5日間限定で、「食欲の秋！お客さま還元キャンペーン」を実施する。期間中、対象商品を購入すると、値段そのままで「チキンかつ」1枚が付く。 対象商品は「のり弁当」...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708137/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-22",
+      "tags": [
+        "弁当"
+      ]
+    },
+    {
+      "id": "ssnp-8fd5ea7d",
+      "title": "藤澤涼架(Mrs. GREEN APPLE)×ガスト『Chef RyoChan』、コラボ限定メニューや限定グッズを展開、上京当時の思い出チゲも復刻!\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708110/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "id": "ssnp-69bb576f",
+      "title": "ゆず庵、冬限定「海老しゃぶ」「かにしゃぶ」発売　43万食限定の本ずわいがに握りも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708103/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-fde724f6",
+      "title": "ツルハHD／新PB「からだとくらしに＋1」29年2月期売上高1000億円、1300SKUを目指す",
+      "url": "https://www.ryutsuu.biz/commodity/s102115.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-10-21",
+      "tags": [
+        "注目",
+        "ツルハ",
+        "売上高",
+        "PB"
+      ]
+    },
+    {
+      "id": "ryutsuu-7b6e257e",
+      "title": "ユニクロ／都内の超大型店「世田谷千歳台店」リニューアル、地域密着で多彩な協業",
+      "url": "https://www.ryutsuu.biz/report/s102144.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-10-21",
+      "tags": [
+        "注目",
+        "リニューアル",
+        "ユニクロ"
+      ]
+    },
+    {
+      "id": "ryutsuu-80dd3179",
+      "title": "イオン／医薬品PB「ハピコム」終了、ツルハ新PB「からだとくらしに＋1」に切り替え",
+      "url": "https://www.ryutsuu.biz/commodity/s102116.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-10-21",
+      "tags": [
+        "イオン",
+        "ツルハ",
+        "医薬品",
+        "PB"
+      ]
     },
     {
       "id": "ryutsuu-23c42f7b",
@@ -136,66 +295,6 @@
       ]
     },
     {
-      "id": "ryutsuu-07d2df29",
-      "title": "カインズ／書店向けの組み立て式雑貨用什器を発売、トーハンと共同開発",
-      "url": "https://www.ryutsuu.biz/commodity/s102142.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-10-21",
-      "tags": [
-        "カインズ",
-        "雑貨"
-      ]
-    },
-    {
-      "id": "ryutsuu-1f840bcc",
-      "title": "戸塚モディ／「40周年感謝祭」を11月1～30日開催",
-      "url": "https://www.ryutsuu.biz/store/s102112.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-21",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-bc898cfe",
-      "title": "サミット／9月の売上高305億円、既存店は1.3％増",
-      "url": "https://www.ryutsuu.biz/sales/s102171.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-10-21",
-      "tags": [
-        "サミット",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-dc3bfd24",
-      "title": "東急ストア／9月の売上高162億円、既存店0.5％増",
-      "url": "https://www.ryutsuu.biz/sales/s102114.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-10-21",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-bc49de79",
-      "title": "清涼飲料 売上ランキング／9月1位はサントリーHD「伊右衛門 京都サイダー」",
-      "url": "https://www.ryutsuu.biz/pos/s102172.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-21",
-      "tags": [
-        "飲料"
-      ]
-    },
-    {
       "id": "ryutsuu-c556945d",
       "title": "生理用品 ランキング／7～9月は「ソフィボディフィット 羽つき」が1位",
       "url": "https://www.ryutsuu.biz/pos/s102141.html",
@@ -204,19 +303,6 @@
       "category": "pos",
       "date": "2026-10-21",
       "tags": []
-    },
-    {
-      "id": "diamond-509ea8b2",
-      "title": "過去最高益のしまむらに異変？ 客数減を打開するアプリ戦略",
-      "url": "https://diamond-rm.net/market/accounting/561203/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-21",
-      "tags": [
-        "しまむら",
-        "アプリ"
-      ]
     },
     {
       "id": "diamond-db68f260",
@@ -288,7 +374,7 @@
     },
     {
       "id": "ssnp-1d84d6a6",
-      "title": "はなまるうどん、「鴨ねぎうどん」「鴨せいろうどん」発売\n\t\t\t\t\t\t\t\t\t\t\t\t讃岐うどんチェーン「はなまるうどん」は、期間限定商品「鴨ねぎうどん」「鴨せいろうどん」を10月22日から全国の店舗(一部店舗を除く)で販売する。販売期間は12月初旬までを予定している。 「鴨せいろうどん」の画像はこちら ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "はなまるうどん、「鴨ねぎうどん」「鴨せいろうどん」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/708078/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -298,15 +384,14 @@
     },
     {
       "id": "ssnp-bcba9205",
-      "title": "マクドナルド、午後2時から390円の新セット　軽食やスイーツで休憩需要取り込む\n\t\t\t\t\t\t\t\t\t\t\t\t日本マクドナルドは10月21日、サイドメニュー1品とドリンクMサイズ1品を税込390円で組み合わせられる「390（サンキュー）ペア」を全国で発売した。毎日午後2時から閉店まで販売する。最大250円お得になるセットメニュー...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "マクドナルド、午後2時から390円の新セット　軽食やスイーツで休憩需要取り込む\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/708042/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-10-21",
       "tags": [
-        "マクドナルド",
-        "閉店"
+        "マクドナルド"
       ]
     },
     {
@@ -494,6 +579,79 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-07d2df29",
+      "title": "カインズ／書店向けの組み立て式雑貨用什器を発売、トーハンと共同開発",
+      "url": "https://www.ryutsuu.biz/commodity/s102142.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-10-21",
+      "tags": [
+        "カインズ",
+        "雑貨"
+      ]
+    },
+    {
+      "id": "ryutsuu-1f840bcc",
+      "title": "戸塚モディ／「40周年感謝祭」を11月1～30日開催",
+      "url": "https://www.ryutsuu.biz/store/s102112.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-bc898cfe",
+      "title": "サミット／9月の売上高305億円、既存店は1.3％増",
+      "url": "https://www.ryutsuu.biz/sales/s102171.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-10-21",
+      "tags": [
+        "サミット",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-dc3bfd24",
+      "title": "東急ストア／9月の売上高162億円、既存店0.5％増",
+      "url": "https://www.ryutsuu.biz/sales/s102114.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-10-21",
+      "tags": [
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-bc49de79",
+      "title": "清涼飲料 売上ランキング／9月1位はサントリーHD「伊右衛門 京都サイダー」",
+      "url": "https://www.ryutsuu.biz/pos/s102172.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-10-21",
+      "tags": [
+        "飲料"
+      ]
+    },
+    {
+      "id": "diamond-509ea8b2",
+      "title": "過去最高益のしまむらに異変？ 客数減を打開するアプリ戦略",
+      "url": "https://diamond-rm.net/market/accounting/561203/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-21",
+      "tags": [
+        "しまむら",
+        "アプリ"
+      ]
+    },
+    {
       "id": "ryutsuu-11e21551",
       "title": "アパレル売上高ランキング／ユニクロが1位独走、来年はファッション業界再編の動きも",
       "url": "https://www.ryutsuu.biz/strategy/s102046.html",
@@ -509,16 +667,15 @@
       ]
     },
     {
-      "id": "ryutsuu-b0191540",
-      "title": "御殿場プレミアム・アウトレット／常設・ポップアップ計9ブランドが今秋オープン",
-      "url": "https://www.ryutsuu.biz/store/s102073.html",
+      "id": "ryutsuu-6a5daeba",
+      "title": "加工食品 売上ランキング／9月はニチレイフーズ「本格炒め炒飯」が1位",
+      "url": "https://www.ryutsuu.biz/pos/s102042.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "店舗",
+      "category": "pos",
       "date": "2026-10-20",
       "tags": [
-        "アウトレット",
-        "オープン"
+        "食品"
       ]
     },
     {
@@ -780,6 +937,19 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-b0191540",
+      "title": "御殿場プレミアム・アウトレット／常設・ポップアップ計9ブランドが今秋オープン",
+      "url": "https://www.ryutsuu.biz/store/s102073.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-20",
+      "tags": [
+        "アウトレット",
+        "オープン"
+      ]
+    },
+    {
       "id": "ryutsuu-322ef005",
       "title": "クスリのアオキ／静岡県・愛媛県・愛知県に計3店舗、27年5～6月新設",
       "url": "https://www.ryutsuu.biz/store/s1020011.html",
@@ -866,18 +1036,6 @@
       ]
     },
     {
-      "id": "ryutsuu-6a5daeba",
-      "title": "加工食品 売上ランキング／9月はニチレイフーズ「本格炒め炒飯」が1位",
-      "url": "https://www.ryutsuu.biz/pos/s102042.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-20",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
       "id": "ryutsuu-dcdb208c",
       "title": "セカンドリテイリング／不正アクセス受け、セカストやゲオのアプリ・ウェブを停止",
       "url": "https://www.ryutsuu.biz/strategy/s101941.html",
@@ -900,30 +1058,6 @@
       "tags": [
         "代表取締役",
         "社長"
-      ]
-    },
-    {
-      "id": "ryutsuu-1bc1a997",
-      "title": "クリエイトSD／神奈川県の調剤薬局4店舗を取得",
-      "url": "https://www.ryutsuu.biz/strategy/s101917.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-19",
-      "tags": [
-        "クリエイトSD"
-      ]
-    },
-    {
-      "id": "ryutsuu-a68ab39c",
-      "title": "アルコール飲料 売上ランキング／9月1・3位は「アサヒゴールド」",
-      "url": "https://www.ryutsuu.biz/pos/s101975.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-19",
-      "tags": [
-        "飲料"
       ]
     },
     {
@@ -1180,6 +1314,30 @@
       "category": "foodservice",
       "date": "2026-10-19",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-1bc1a997",
+      "title": "クリエイトSD／神奈川県の調剤薬局4店舗を取得",
+      "url": "https://www.ryutsuu.biz/strategy/s101917.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-10-19",
+      "tags": [
+        "クリエイトSD"
+      ]
+    },
+    {
+      "id": "ryutsuu-a68ab39c",
+      "title": "アルコール飲料 売上ランキング／9月1・3位は「アサヒゴールド」",
+      "url": "https://www.ryutsuu.biz/pos/s101975.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-10-19",
+      "tags": [
+        "飲料"
+      ]
     },
     {
       "id": "diamond-220bdcf2",
@@ -2443,16 +2601,6 @@
       ]
     },
     {
-      "id": "ryutsuu-293dd82e",
-      "title": "リップクリーム 売上ランキング／7～9月「メンソレータム 薬用リップXD」が1位と3位",
-      "url": "https://www.ryutsuu.biz/pos/s101441.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
       "id": "ryutsuu-6b352bf1",
       "title": "流通経済研究所／メーカー・卸向け「ドラッグストア研究会 27年1月開始コース」参加者募集",
       "url": "https://www.ryutsuu.biz/seminar/s101478.html",
@@ -2535,6 +2683,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
+      "date": "2026-10-14",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-293dd82e",
+      "title": "リップクリーム 売上ランキング／7～9月「メンソレータム 薬用リップXD」が1位と3位",
+      "url": "https://www.ryutsuu.biz/pos/s101441.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
       "date": "2026-10-14",
       "tags": []
     },
@@ -3370,179 +3528,6 @@
       "tags": [
         "イオン",
         "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-18095bd5",
-      "title": "マックスバリュ東海 決算／3～8月営業利益16.3％減、既存店売上高0.7％減",
-      "url": "https://www.ryutsuu.biz/accounts/s101316.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-10-13",
-      "tags": [
-        "営業利益",
-        "売上高",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-eb50d068",
-      "title": "J.フロント 決算／3～8月増収減益、百貨店・SC事業ともに好調に推移",
-      "url": "https://www.ryutsuu.biz/accounts/s101343.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-10-13",
-      "tags": [
-        "百貨店",
-        "SC",
-        "決算",
-        "増収",
-        "減益"
-      ]
-    },
-    {
-      "id": "ryutsuu-ddac1f21",
-      "title": "コーナン商事 決算／3～8月増収増益、既存店売上高は4.1％増",
-      "url": "https://www.ryutsuu.biz/accounts/s101342.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-10-13",
-      "tags": [
-        "コーナン",
-        "売上高",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-53925bd0",
-      "title": "アークランズ 決算／3～8月増収増益、資材・日用品の特需などで",
-      "url": "https://www.ryutsuu.biz/accounts/s101382.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-10-13",
-      "tags": [
-        "日用品",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-fafa9006",
-      "title": "コスモス薬品 決算／6～8月増収増益、低価格戦略と13店出店で売上高5.2％増",
-      "url": "https://www.ryutsuu.biz/accounts/s101341.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-10-13",
-      "tags": [
-        "コスモス薬品",
-        "売上高",
-        "出店",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-ee4b35a6",
-      "title": "ドトール・日レスHD 決算／3～8月営業利益38.1％増、客単価の引き上げを推進",
-      "url": "https://www.ryutsuu.biz/accounts/s101344.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-10-13",
-      "tags": [
-        "営業利益",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-7c90c845",
-      "title": "ゼンショー／QRコード・バーコード決済スキーム「Smart Code」導入",
-      "url": "https://www.ryutsuu.biz/it/s101312.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-10-13",
-      "tags": [
-        "ゼンショー"
-      ]
-    },
-    {
-      "id": "diamond-a4279064",
-      "title": "ブルーゾーン入り後初の新店！「クックマート上西店」に見たMDの凄みとは",
-      "url": "https://diamond-rm.net/store/newstorereport/559688/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-12",
-      "tags": [
-        "新店"
-      ]
-    },
-    {
-      "id": "diamond-27412bf3",
-      "title": "関西での地域対応いっそう深化？オーケー高槻赤大路店の売場を徹底解剖",
-      "url": "https://diamond-rm.net/store/newstorereport/558282/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-12",
-      "tags": [
-        "オーケー"
-      ]
-    },
-    {
-      "id": "diamond-1ddc9a3c",
-      "title": "ライフが名古屋進出を視野に！ 23期連続増収の裏で進む次の成長戦略",
-      "url": "https://diamond-rm.net/market/accounting/560672/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-12",
-      "tags": [
-        "ライフ",
-        "増収"
-      ]
-    },
-    {
-      "id": "ssnp-6d50910e",
-      "title": "『クーリッシュ×雪印コーヒー』発売、4年ぶりのコラボレーションが実現【ロッテ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/milk/706622/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "milk",
-      "date": "2026-10-12",
-      "tags": []
-    },
-    {
-      "id": "diamond-45130b34",
-      "title": "第１９７回　流通王、中内功（なかうち・いさお）との出会い",
-      "url": "https://diamond-rm.net/life-career/542267/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-12",
-      "tags": []
-    },
-    {
-      "id": "ssnp-5aa8d827",
-      "title": "冬限定のチョコレートサブレ「サブレオショコラ」をリニューアル発売、とろけるソースの比率を向上【モロゾフ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/706333/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-11",
-      "tags": [
-        "チョコレート",
-        "リニューアル"
       ]
     }
   ]
