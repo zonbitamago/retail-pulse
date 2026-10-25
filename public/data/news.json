@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-10-25T15:23:36.119Z",
+  "lastUpdated": "2026-10-25T20:16:02.597Z",
   "items": [
+    {
+      "id": "diamond-579d4c53",
+      "title": "今年も大公開！今見るべき食品スーパーの注目店＆視察必須のエリアとは？",
+      "url": "https://diamond-rm.net/store/storevisit/561431/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-26",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-dc1e31fb",
+      "title": "ベイシア・三心の強みを融合させたプロトタイプ！「ベイシアフーズパーク岐南店」をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/559691/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-26",
+      "tags": [
+        "ベイシア"
+      ]
+    },
     {
       "id": "ssnp-cd189eb3",
       "title": "全清飲、容器リサイクルの消費者意識調査を実施資源を大切にしたいと回答76.6%、自販機横の異物投入は約3割\n\t\t\t\t\t\t\t\t\t\t\t\t一般社団法人全国清涼飲料連合会(全清飲)は、「清涼飲料水容器のリサイクルに関する消費者意識調査2026」の結果を公表した。資源を大切にしたいと考える人は76.6%に上った一方、自動販売機横のリサイクルボックスに異物を投入...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
@@ -590,26 +616,6 @@
       ]
     },
     {
-      "id": "diamond-e0d898bc",
-      "title": "第２０５回　繁盛店の経営者を説き伏せる",
-      "url": "https://diamond-rm.net/life-career/546349/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-22",
-      "tags": []
-    },
-    {
-      "id": "diamond-d84aadb6",
-      "title": "PHPの脆弱性に関する当社サービスの対応状況について",
-      "url": "https://diamond-rm.net/life-career/561359/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-22",
-      "tags": []
-    },
-    {
       "id": "diamond-f60a4cdf",
       "title": "#5 「実験を⽇常に変える⼒」を日本の小売が手に入れる方法とは？【前編】＝無料公開",
       "url": "https://diamond-rm.net/overseas/american_economy/561329/",
@@ -809,6 +815,26 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "release",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "id": "diamond-e0d898bc",
+      "title": "第２０５回　繁盛店の経営者を説き伏せる",
+      "url": "https://diamond-rm.net/life-career/546349/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "id": "diamond-d84aadb6",
+      "title": "PHPの脆弱性に関する当社サービスの対応状況について",
+      "url": "https://diamond-rm.net/life-career/561359/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-10-22",
       "tags": []
     },
@@ -1844,19 +1870,6 @@
       ]
     },
     {
-      "id": "diamond-42932c19",
-      "title": "地域対応強化型の新店！「ヤオコー船橋薬円台店」のＭＤを徹底解剖",
-      "url": "https://diamond-rm.net/store/newstorereport/559689/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-19",
-      "tags": [
-        "ヤオコー",
-        "新店"
-      ]
-    },
-    {
       "id": "diamond-04d7d9dc",
       "title": "クローガーが処方薬の配送網拡充 アマゾンはドローン配送さらに強化",
       "url": "https://diamond-rm.net/management/businessplan/559684/",
@@ -2064,6 +2077,19 @@
       "category": "foodservice",
       "date": "2026-10-19",
       "tags": []
+    },
+    {
+      "id": "diamond-42932c19",
+      "title": "地域対応強化型の新店！「ヤオコー船橋薬円台店」のＭＤを徹底解剖",
+      "url": "https://diamond-rm.net/store/newstorereport/559689/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-19",
+      "tags": [
+        "ヤオコー",
+        "新店"
+      ]
     },
     {
       "id": "ryutsuu-dcdb208c",
@@ -3410,18 +3436,6 @@
       ]
     },
     {
-      "id": "diamond-e4301a88",
-      "title": "コープみらいが「コープ小川駅前店」をオープン! 即食・簡便ニーズに応える駅前立地の店づくり",
-      "url": "https://diamond-rm.net/store/560378/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-14",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
       "id": "diamond-e2abf549",
       "title": "東急ストアの青果のPB商品「手紙のついた野菜と果物」　販促・商品面で新たな取り組みを推進",
       "url": "https://diamond-rm.net/sales-promotion/560503/",
@@ -3432,6 +3446,18 @@
       "tags": [
         "PB",
         "青果"
+      ]
+    },
+    {
+      "id": "diamond-e4301a88",
+      "title": "コープみらいが「コープ小川駅前店」をオープン! 即食・簡便ニーズに応える駅前立地の店づくり",
+      "url": "https://diamond-rm.net/store/560378/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-14",
+      "tags": [
+        "オープン"
       ]
     },
     {
@@ -3478,26 +3504,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-293dd82e",
-      "title": "リップクリーム 売上ランキング／7～9月「メンソレータム 薬用リップXD」が1位と3位",
-      "url": "https://www.ryutsuu.biz/pos/s101441.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-4dc301c6",
-      "title": "クランキーチキンをぺたんこにして広げたイメージのフライドチキン「ぺたクラ」発売【ミニストップ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/706974/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
       "date": "2026-10-14",
       "tags": []
     }
