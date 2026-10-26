@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-10-26T12:03:54.829Z",
+  "lastUpdated": "2026-10-26T22:10:31.180Z",
   "items": [
+    {
+      "id": "diamond-2cc32807",
+      "title": "「アットコスメ」が京都で仕掛ける新戦略！ AIを活用した最新の売場づくり",
+      "url": "https://diamond-rm.net/store/newstorereport/561745/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-27",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-b1bf9926",
+      "title": "セブン、「7NOW」の全機能をLINEミニアプリに搭載【週刊コンビニニュース】",
+      "url": "https://diamond-rm.net/management/561861/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-27",
+      "tags": [
+        "コンビニ",
+        "アプリ"
+      ]
+    },
+    {
+      "id": "diamond-7e09ab27",
+      "title": "【食品スーパー視察完全ガイド】埼玉・川口　県内屈指の人口増エリア　各社の戦術を徹底比較！",
+      "url": "https://diamond-rm.net/store/storevisit/561433/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-27",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
+    },
     {
       "id": "ryutsuu-042ea9a7",
       "title": "しまむら／今秋タイにポップアップストアを2店舗オープン",
@@ -443,31 +482,6 @@
       ]
     },
     {
-      "id": "diamond-9fa5912f",
-      "title": "流通秀書　第52回『ビッグストア』江波戸哲夫/著",
-      "url": "https://diamond-rm.net/life-career/554276/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-24",
-      "tags": []
-    },
-    {
-      "id": "diamond-030aa955",
-      "title": "ロピアが埼玉・加須市に初進出！バローはEDLP型新店開業【週刊スーパーマーケットニュース】",
-      "url": "https://diamond-rm.net/management/businessplan/561783/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-24",
-      "tags": [
-        "スーパー",
-        "ロピア",
-        "新店",
-        "開業"
-      ]
-    },
-    {
       "id": "diamond-4c622c2f",
       "title": "埼玉県で最も店舗数が多いスーパーは？ ヤオコーでもベルクでもない意外な1位！",
       "url": "https://diamond-rm.net/retaildata/561711/",
@@ -522,6 +536,31 @@
       "category": "流通",
       "date": "2026-10-24",
       "tags": []
+    },
+    {
+      "id": "diamond-9fa5912f",
+      "title": "流通秀書　第52回『ビッグストア』江波戸哲夫/著",
+      "url": "https://diamond-rm.net/life-career/554276/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-24",
+      "tags": []
+    },
+    {
+      "id": "diamond-030aa955",
+      "title": "ロピアが埼玉・加須市に初進出！バローはEDLP型新店開業【週刊スーパーマーケットニュース】",
+      "url": "https://diamond-rm.net/management/businessplan/561783/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-24",
+      "tags": [
+        "スーパー",
+        "ロピア",
+        "新店",
+        "開業"
+      ]
     },
     {
       "id": "ryutsuu-98c66a8f",
@@ -3431,38 +3470,6 @@
       "category": "foodservice",
       "date": "2026-10-15",
       "tags": []
-    },
-    {
-      "id": "ssnp-3ad6562e",
-      "title": "山形「つや姫」新CM発表会、「つや姫」の魅力伝える\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/rice/707064/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "米",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-caae80ff",
-      "title": "「神の海老バーガー」発売2年目、ゆず白味噌･明太クリームチーズの2種をラインアップ【フレッシュネスバーガー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707038/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f64b2c45",
-      "title": "松屋、新作「ごろチキチリソース」発売　豆板醤のピリ辛ソースにふんわり玉子\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707049/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-15",
-      "tags": [
-        "松屋"
-      ]
     }
   ]
 }
