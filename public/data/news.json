@@ -1,6 +1,81 @@
 {
-  "lastUpdated": "2026-10-25T20:16:02.597Z",
+  "lastUpdated": "2026-10-26T02:41:30.513Z",
   "items": [
+    {
+      "id": "ryutsuu-042ea9a7",
+      "title": "しまむら／今秋タイにポップアップストアを2店舗オープン",
+      "url": "https://www.ryutsuu.biz/abroad/s102611.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "abroad",
+      "date": "2026-10-26",
+      "tags": [
+        "しまむら",
+        "オープン"
+      ]
+    },
+    {
+      "id": "diamond-c99d51e8",
+      "title": "平和堂のお膝元で生き残る！たった1店舗のスーパー「パリヤ」が実践する驚きの顧客戦略",
+      "url": "https://diamond-rm.net/management/561680/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-26",
+      "tags": [
+        "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-e6c4171e",
+      "title": "【食品スーパー視察完全ガイド】北海道・札幌　一大マーケットで道内外のチェーンが激突！",
+      "url": "https://diamond-rm.net/store/storevisit/561432/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-26",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-7b5bf129",
+      "title": "会員180万人の人気EC「cotta」がリアル店舗に進出! あえて実店舗を出す理由とは",
+      "url": "https://diamond-rm.net/ec-epayment/ec/561370/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "ec-epayment",
+      "date": "2026-10-26",
+      "tags": [
+        "EC"
+      ]
+    },
+    {
+      "id": "diamond-8eb4ebc4",
+      "title": "同業が手ごわいと震えるマルアイの新フォーマット「MARUAI BIG」が放つ圧倒的破壊力",
+      "url": "https://diamond-rm.net/store/newstorereport/561337/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-26",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-d0c41c0a",
+      "title": "イケアが5年ぶりに都内に出店 売場面積560坪・「IKEA豊洲」の売場をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/559692/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-26",
+      "tags": [
+        "出店"
+      ]
+    },
     {
       "id": "diamond-579d4c53",
       "title": "今年も大公開！今見るべき食品スーパーの注目店＆視察必須のエリアとは？",
@@ -28,20 +103,60 @@
       ]
     },
     {
+      "id": "ssnp-b7cc0c99",
+      "title": "10月度会員集会を開催、直面する課題に新たな部会長のもと取り組み進める-日油協\n\t\t\t\t\t\t\t\t\t\t\t\t日本植物油協会(日油協)は10月22日、大阪市内のホテルで10月度会員集会を開いた。同日に記者会見を行い、久野貴久会長(日清オイリオグループ社長)が、5月に就任してからの半年を振り返りつつ、植物油業界の課題や対応策などに...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/soy/708582/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "大豆",
+      "date": "2026-10-26",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "ssnp-8055bdc0",
+      "title": "【小僧寿し創業62周年】20貫980円、炙り寿司半額などの創業祭を開催\n\t\t\t\t\t\t\t\t\t\t\t\t持ち帰りすし店「小僧寿し」は、創業62周年を記念した「創業祭」を10月26日（月）から11月8日（日）まで開催する。 期間中は、20貫入りの「【超】得にぎり」を980円で販売するほか、「小僧の太鼓判」300円引き、押し寿...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708583/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-26",
+      "tags": []
+    },
+    {
+      "id": "ssnp-96ea8261",
+      "title": "しゃぶしゃぶ温野菜「豆乳ポルチーニ鍋」をテイクアウト・デリバリーで販売、食べるスープシリーズ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708569/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-26",
+      "tags": []
+    },
+    {
+      "id": "ssnp-0f9fc6f4",
+      "title": "【セブン‐イレブン】中華まん全品20円引きセールを5日間開催【10月27～31日】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/708548/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-10-26",
+      "tags": []
+    },
+    {
       "id": "ssnp-cd189eb3",
-      "title": "全清飲、容器リサイクルの消費者意識調査を実施資源を大切にしたいと回答76.6%、自販機横の異物投入は約3割\n\t\t\t\t\t\t\t\t\t\t\t\t一般社団法人全国清涼飲料連合会(全清飲)は、「清涼飲料水容器のリサイクルに関する消費者意識調査2026」の結果を公表した。資源を大切にしたいと考える人は76.6%に上った一方、自動販売機横のリサイクルボックスに異物を投入...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "全清飲、容器リサイクルの消費者意識調査を実施資源を大切にしたいと回答76.6%、自販機横の異物投入は約3割\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/708541/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
       "date": "2026-10-25",
-      "tags": [
-        "飲料"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-f6385719",
-      "title": "UCC「Largo(ラルゴ)」、ミシュランガイドと提携 飲食店のコーヒー体験価値向上へ\n\t\t\t\t\t\t\t\t\t\t\t\t〈「Largo Award 2026」で2店舗表彰、トップバリスタがペアリング提案〉 UCCコーヒープロフェッショナルは10月13日、コーヒーブランド「Largo(ラルゴ)」の体験イベント「Largo Experienc...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "UCC「Largo(ラルゴ)」、ミシュランガイドと提携 飲食店のコーヒー体験価値向上へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/708534/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -153,6 +268,21 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-98c66a8f",
+      "title": "コンビニ3社の2026年度上期業績／セブンは減益、ファミマ・ローソンは過去最高益に",
+      "url": "https://www.ryutsuu.biz/accounts/s102341.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-10-23",
+      "tags": [
+        "注目",
+        "ローソン",
+        "コンビニ",
+        "減益"
+      ]
+    },
+    {
       "id": "ryutsuu-389e447c",
       "title": "トリドールHD／店舗開発にBIM導入、トランスコスモスと店舗の設計・建設を高度化",
       "url": "https://www.ryutsuu.biz/it/s102312.html",
@@ -234,18 +364,6 @@
       "tags": []
     },
     {
-      "id": "ryutsuu-0957e875",
-      "title": "日本ショッピングセンター協会／メルマガ配信サービスに不正アクセス",
-      "url": "https://www.ryutsuu.biz/it/s102315.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-10-23",
-      "tags": [
-        "ショッピングセンター"
-      ]
-    },
-    {
       "id": "diamond-96905868",
       "title": "DCM、M&Aの成果が鮮明に！ エンチョー改革とリフォーム売上500億円への挑戦",
       "url": "https://diamond-rm.net/market/accounting/561381/",
@@ -257,6 +375,16 @@
         "DCM",
         "M&A"
       ]
+    },
+    {
+      "id": "diamond-7aa0e201",
+      "title": "第２０６回　三宮に出現した超高能率商店",
+      "url": "https://diamond-rm.net/life-career/546350/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-23",
+      "tags": []
     },
     {
       "id": "diamond-dcf3d226",
@@ -271,20 +399,6 @@
       ]
     },
     {
-      "id": "diamond-88eb0714",
-      "title": "ヤオコーが「まるひろ入間SC店」をオープン! 狭山・入間エリアのドミナント強化へ",
-      "url": "https://diamond-rm.net/store/newstorereport/561244/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-23",
-      "tags": [
-        "ヤオコー",
-        "オープン",
-        "SC"
-      ]
-    },
-    {
       "id": "diamond-a80ba892",
       "title": "マックスバリュ東海　営業収益は過去最高を更新も既存店は売上高・客数・客単価ともに苦戦",
       "url": "https://diamond-rm.net/market/561227/",
@@ -295,16 +409,6 @@
       "tags": [
         "売上高"
       ]
-    },
-    {
-      "id": "diamond-7aa0e201",
-      "title": "第２０６回　三宮に出現した超高能率商店",
-      "url": "https://diamond-rm.net/life-career/546350/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-23",
-      "tags": []
     },
     {
       "id": "diamond-66683eec",
@@ -520,6 +624,32 @@
       ]
     },
     {
+      "id": "ryutsuu-0957e875",
+      "title": "日本ショッピングセンター協会／メルマガ配信サービスに不正アクセス",
+      "url": "https://www.ryutsuu.biz/it/s102315.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-10-23",
+      "tags": [
+        "ショッピングセンター"
+      ]
+    },
+    {
+      "id": "diamond-88eb0714",
+      "title": "ヤオコーが「まるひろ入間SC店」をオープン! 狭山・入間エリアのドミナント強化へ",
+      "url": "https://diamond-rm.net/store/newstorereport/561244/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-23",
+      "tags": [
+        "ヤオコー",
+        "オープン",
+        "SC"
+      ]
+    },
+    {
       "id": "ryutsuu-d1337e28",
       "title": "ベイシア／長野県千曲市「更埴店」10月23日リニューアル、総菜強化・レイアウト刷新",
       "url": "https://www.ryutsuu.biz/store/s102272.html",
@@ -546,19 +676,6 @@
         "トライアル",
         "ドラッグ",
         "食品"
-      ]
-    },
-    {
-      "id": "ryutsuu-87ae30ec",
-      "title": "三菱地所プロパティマネジメント／丸の内エリア、今秋20店舗が新規・改装オープン",
-      "url": "https://www.ryutsuu.biz/store/s102212.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-22",
-      "tags": [
-        "オープン",
-        "改装"
       ]
     },
     {
@@ -603,6 +720,16 @@
       ]
     },
     {
+      "id": "diamond-f60a4cdf",
+      "title": "#5 「実験を⽇常に変える⼒」を日本の小売が手に入れる方法とは？【前編】＝無料公開",
+      "url": "https://diamond-rm.net/overseas/american_economy/561329/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
       "id": "diamond-521d424b",
       "title": "アークス、上期売上高が過去最高！改装店の売上を3割増やした戦略とは",
       "url": "https://diamond-rm.net/market/561219/",
@@ -614,26 +741,6 @@
         "売上高",
         "改装"
       ]
-    },
-    {
-      "id": "diamond-f60a4cdf",
-      "title": "#5 「実験を⽇常に変える⼒」を日本の小売が手に入れる方法とは？【前編】＝無料公開",
-      "url": "https://diamond-rm.net/overseas/american_economy/561329/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-10-22",
-      "tags": []
-    },
-    {
-      "id": "diamond-fb2ade15",
-      "title": "アークランズ、初のグリーン新業態「武蔵乃葉品店三郷店」　植物のある暮らしを提案",
-      "url": "https://diamond-rm.net/store/newstorereport/561004/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-22",
-      "tags": []
     },
     {
       "id": "diamond-df788c71",
@@ -815,6 +922,29 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "release",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-87ae30ec",
+      "title": "三菱地所プロパティマネジメント／丸の内エリア、今秋20店舗が新規・改装オープン",
+      "url": "https://www.ryutsuu.biz/store/s102212.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-22",
+      "tags": [
+        "オープン",
+        "改装"
+      ]
+    },
+    {
+      "id": "diamond-fb2ade15",
+      "title": "アークランズ、初のグリーン新業態「武蔵乃葉品店三郷店」　植物のある暮らしを提案",
+      "url": "https://diamond-rm.net/store/newstorereport/561004/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
       "date": "2026-10-22",
       "tags": []
     },
@@ -1528,19 +1658,6 @@
       ]
     },
     {
-      "id": "diamond-9fb7505d",
-      "title": "高血圧や糖尿病の薬がドラッグストアで買える時代は来るのか？OTC協会理事長が語る課題",
-      "url": "https://diamond-rm.net/management/topinterview/560986/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-20",
-      "tags": [
-        "ドラッグストア",
-        "ドラッグ"
-      ]
-    },
-    {
       "id": "diamond-622720d8",
       "title": "ローソン、平均日販が3年連続で過去最高更新！好業績を支える施策とは",
       "url": "https://diamond-rm.net/market/accounting/561112/",
@@ -1738,6 +1855,19 @@
       "tags": []
     },
     {
+      "id": "diamond-9fb7505d",
+      "title": "高血圧や糖尿病の薬がドラッグストアで買える時代は来るのか？OTC協会理事長が語る課題",
+      "url": "https://diamond-rm.net/management/topinterview/560986/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-20",
+      "tags": [
+        "ドラッグストア",
+        "ドラッグ"
+      ]
+    },
+    {
       "id": "ryutsuu-339749ce",
       "title": "殺虫剤 売上ランキング／7～9月はアース製薬「アースジェット」が1位",
       "url": "https://www.ryutsuu.biz/pos/s102041.html",
@@ -1854,19 +1984,6 @@
       "date": "2026-10-20",
       "tags": [
         "宅配"
-      ]
-    },
-    {
-      "id": "diamond-3c39438e",
-      "title": "スーパー激戦区で広域集客めざす！「生鮮市場TOP川口柳崎店」を徹底取材",
-      "url": "https://diamond-rm.net/store/newstorereport/559690/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-19",
-      "tags": [
-        "スーパー",
-        "生鮮"
       ]
     },
     {
@@ -2077,6 +2194,19 @@
       "category": "foodservice",
       "date": "2026-10-19",
       "tags": []
+    },
+    {
+      "id": "diamond-3c39438e",
+      "title": "スーパー激戦区で広域集客めざす！「生鮮市場TOP川口柳崎店」を徹底取材",
+      "url": "https://diamond-rm.net/store/newstorereport/559690/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-19",
+      "tags": [
+        "スーパー",
+        "生鮮"
+      ]
     },
     {
       "id": "diamond-42932c19",
@@ -3367,145 +3497,6 @@
         "コスモス薬品",
         "ドラッグ"
       ]
-    },
-    {
-      "id": "ryutsuu-488238a0",
-      "title": "カインズ／ユアエルム青戸にリフォーム専門の小型店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s101514.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-15",
-      "tags": [
-        "カインズ",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-9d7943d1",
-      "title": "アミュプラザくまもと／家具・インテリアブランド「LOWYA」の新店27年春オープン",
-      "url": "https://www.ryutsuu.biz/store/s101571.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-15",
-      "tags": [
-        "インテリア",
-        "オープン",
-        "家具",
-        "新店"
-      ]
-    },
-    {
-      "id": "ryutsuu-22d11047",
-      "title": "京都ヨドバシ／「nana’s green tea」のテイクアウト新業態12月初旬オープン",
-      "url": "https://www.ryutsuu.biz/store/s101574.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-15",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-17c5d795",
-      "title": "松屋フーズ／熊本県八代市に松屋・松のや複合店「八代店」10月15日オープン",
-      "url": "https://www.ryutsuu.biz/store/s101473.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-15",
-      "tags": [
-        "オープン",
-        "松屋"
-      ]
-    },
-    {
-      "id": "ryutsuu-6b352bf1",
-      "title": "流通経済研究所／メーカー・卸向け「ドラッグストア研究会 27年1月開始コース」参加者募集",
-      "url": "https://www.ryutsuu.biz/seminar/s101478.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-10-14",
-      "tags": [
-        "PR",
-        "ドラッグストア",
-        "ドラッグ"
-      ]
-    },
-    {
-      "id": "diamond-e2abf549",
-      "title": "東急ストアの青果のPB商品「手紙のついた野菜と果物」　販促・商品面で新たな取り組みを推進",
-      "url": "https://diamond-rm.net/sales-promotion/560503/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-10-14",
-      "tags": [
-        "PB",
-        "青果"
-      ]
-    },
-    {
-      "id": "diamond-e4301a88",
-      "title": "コープみらいが「コープ小川駅前店」をオープン! 即食・簡便ニーズに応える駅前立地の店づくり",
-      "url": "https://diamond-rm.net/store/560378/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-14",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "diamond-5a314044",
-      "title": "東北の雄・薬王堂が関東で猛攻！わずか1年半で35店舗、急拡大の理由とは",
-      "url": "https://diamond-rm.net/market/560761/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-a90ba5a9",
-      "title": "セブン＆アイ中間期決算、減収増益に / 海外コンビニ事業がけん引、国内は9･8%の減益\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/707009/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-14",
-      "tags": [
-        "セブン＆アイ",
-        "コンビニ",
-        "決算",
-        "減収",
-        "増益",
-        "減益"
-      ]
-    },
-    {
-      "id": "ssnp-976f2caa",
-      "title": "不二家「ガツン、と濃いぶどうグミ」発売、赤城乳業のアイスをイメージしたシャリシャリ食感\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/706994/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "id": "ssnp-2e201dbd",
-      "title": "有楽製菓「ブラックサンダーひとくちサイズ」新シリーズの第1弾　アルコール不使用、レーズンバターサンドの味わいを表現\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/706979/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-14",
-      "tags": []
     }
   ]
 }
