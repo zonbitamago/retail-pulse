@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T17:12:23.874Z",
+  "lastUpdated": "2026-10-27T21:41:33.783Z",
   "items": [
     {
       "id": "ryutsuu-994b05eb",
@@ -53,6 +53,33 @@
         "カインズ",
         "オープン",
         "モール"
+      ]
+    },
+    {
+      "id": "diamond-6eea08cb",
+      "title": "TOPIX改革で小売30社が除外対象に! ワークマン、トライアルなど新規採用組との明暗",
+      "url": "https://diamond-rm.net/market/stockmarket/561854/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-28",
+      "tags": [
+        "ワークマン",
+        "トライアル"
+      ]
+    },
+    {
+      "id": "diamond-3d66896c",
+      "title": "【食品スーパー視察完全ガイド】東京・豊洲＆有明　タワマン密集地で新旧の有力チェーンが激突！",
+      "url": "https://diamond-rm.net/store/storevisit/561435/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-28",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
       ]
     },
     {
@@ -534,18 +561,6 @@
       ]
     },
     {
-      "id": "diamond-8eb4ebc4",
-      "title": "同業が手ごわいと震えるマルアイの新フォーマット「MARUAI BIG」が放つ圧倒的破壊力",
-      "url": "https://diamond-rm.net/store/newstorereport/561337/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-26",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
       "id": "diamond-a3036e15",
       "title": "KSP-POS マーケットトレンドレポート「ヨーグルト」",
       "url": "https://diamond-rm.net/retaildata/561875/",
@@ -575,6 +590,18 @@
       "date": "2026-10-26",
       "tags": [
         "出店"
+      ]
+    },
+    {
+      "id": "diamond-8eb4ebc4",
+      "title": "同業が手ごわいと震えるマルアイの新フォーマット「MARUAI BIG」が放つ圧倒的破壊力",
+      "url": "https://diamond-rm.net/store/newstorereport/561337/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-26",
+      "tags": [
+        "AI"
       ]
     },
     {
@@ -3437,26 +3464,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "菓子",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "id": "ssnp-17566cda",
-      "title": "【第67回全国味噌鑑評会】前年から19品増の306品を審査中 / 11月19日表彰式、当日は13時まで出品された全てのみそを展示･入退場自由\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/707245/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "id": "ssnp-67bc012d",
-      "title": "久世福商店「2027年福袋」全5種　ごはんのお供からワイン・日本酒入りまで\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/707218/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
       "date": "2026-10-16",
       "tags": []
     }
