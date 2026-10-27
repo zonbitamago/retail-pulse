@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-10-27T11:23:54.137Z",
+  "lastUpdated": "2026-10-27T17:12:23.874Z",
   "items": [
+    {
+      "id": "ryutsuu-994b05eb",
+      "title": "ドリームオン／「新綱島ミッカ」にベーカリービストロとベーグル専門店10月28日オープン",
+      "url": "https://www.ryutsuu.biz/store/s102776.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-28",
+      "tags": [
+        "オープン",
+        "専門店"
+      ]
+    },
+    {
+      "id": "ryutsuu-4ae492dc",
+      "title": "新綱島ミッカ／季節で主役が変わる洋菓子店「ラトリエ ドゥ アンティーク」10月28日オープン",
+      "url": "https://www.ryutsuu.biz/store/s102774.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-28",
+      "tags": [
+        "オープン",
+        "菓子"
+      ]
+    },
+    {
+      "id": "ryutsuu-97bd7b99",
+      "title": "新綱島ミッカ／海鮮酒場と鮮魚専門店の複合店舗10月28日オープン",
+      "url": "https://www.ryutsuu.biz/store/s102775.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-28",
+      "tags": [
+        "オープン",
+        "専門店",
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "ryutsuu-3c53f7ef",
+      "title": "カインズ／群馬県前橋市「まえばし赤城モール店」10月28日オープン、道の駅に隣接",
+      "url": "https://www.ryutsuu.biz/store/s102647.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-28",
+      "tags": [
+        "カインズ",
+        "オープン",
+        "モール"
+      ]
+    },
     {
       "id": "ryutsuu-24bf7551",
       "title": "福岡空港／複合施設「タビジア」27年夏開業、日本初上陸の飲食7店舗オープン決定",
@@ -170,6 +224,21 @@
       ]
     },
     {
+      "id": "ssnp-be1bd3b1",
+      "title": "コカ・コーラBJ、物流改革で輸送距離23%短縮 自動化と共同配送で効率向上\n\t\t\t\t\t\t\t\t\t\t\t\tコカ・コーラ ボトラーズジャパンは、2025年の製品の総輸送距離を2022年比で23%短縮した。消費地に近い工場で製造する「地産地消」の推進や全社横断の需給管理などによって効率化を図った。同社はAIやデータと現場の知見を...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/709081/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-10-27",
+      "tags": [
+        "自動化",
+        "AI",
+        "物流",
+        "配送"
+      ]
+    },
+    {
       "id": "ssnp-e1a77d0a",
       "title": "【ミニストップ】茨城県産笠間栗ペーストを使ったモンブランと「カラフルチョコ大福」を発売\n\t\t\t\t\t\t\t\t\t\t\t\tミニストップは、茨城県笠間産の栗を使用した「茨城県産笠間栗のモンブラン」と、「カラフルチョコ大福」を2026年10月27日から国内のミニストップ店舗(2026年9月末時点 1,686店)で発売する。 【商品画像はこちら】...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/709074/",
@@ -181,15 +250,13 @@
     },
     {
       "id": "ssnp-d65ed93b",
-      "title": "【ほっともっと】税込100円のサイドメニュー5商品発売、彩りサラダやポテトサラダも登場\n\t\t\t\t\t\t\t\t\t\t\t\t持ち帰り弁当チェーンの「ほっともっと」は11月1日、税込100円のサイドメニュー「100円(税込)シリーズ」全5商品と、「8種具材の彩りサラダ」（税込280円）「ポテトサラダ」（税込150円）を発売する。 「100円(税...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【ほっともっと】税込100円のサイドメニュー5商品発売、彩りサラダやポテトサラダも登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/709059/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-10-27",
-      "tags": [
-        "弁当"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-5f6c2eec",
@@ -1151,18 +1218,6 @@
       "tags": []
     },
     {
-      "id": "ssnp-f5996d83",
-      "title": "グミ市場、成長の鍵は「サプリ化」 栄養成分配合ですそ野広げる　売り場づくりが課題に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/708068/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-23",
-      "tags": [
-        "サプリ"
-      ]
-    },
-    {
       "id": "ssnp-6dd84783",
       "title": "UHA味覚糖「グミサプリ」、サプリメントグミ市場を独走　海外展開も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/708086/",
@@ -1172,6 +1227,18 @@
       "date": "2026-10-23",
       "tags": [
         "海外展開",
+        "サプリ"
+      ]
+    },
+    {
+      "id": "ssnp-f5996d83",
+      "title": "グミ市場、成長の鍵は「サプリ化」 栄養成分配合ですそ野広げる　売り場づくりが課題に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/708068/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-10-23",
+      "tags": [
         "サプリ"
       ]
     },
@@ -3392,66 +3459,6 @@
       "category": "流通",
       "date": "2026-10-16",
       "tags": []
-    },
-    {
-      "id": "ssnp-27b01688",
-      "title": "松のや「倍量フェア」開催　カキフライ4個・唐揚げ6個に増量、価格は据え置き\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707186/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f925f4d7",
-      "title": "エースコック「麺がうまい」シリーズ第2弾、「味噌らぁ麺」発売　“幅広麺”に帆立だしをきかせたスープ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/noodles/707192/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "noodles",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "id": "ssnp-0692ecb5",
-      "title": "ミニストップ、上期決算は大幅な赤字に、通期は50億円の純損失予想\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/707131/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-16",
-      "tags": [
-        "決算",
-        "赤字"
-      ]
-    },
-    {
-      "id": "ryutsuu-8aca246f",
-      "title": "ローソン／26年下期品ぞろえ・売り切り・デリバリー強化、50％増量も",
-      "url": "https://www.ryutsuu.biz/strategy/s101611.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-16",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "diamond-87daa190",
-      "title": "イズミ、増収増益の裏で進む大改革！ 九州スーパー3社統合のねらいとは",
-      "url": "https://diamond-rm.net/market/accounting/560861/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-16",
-      "tags": [
-        "スーパー",
-        "統合",
-        "増収",
-        "増益"
-      ]
     }
   ]
 }
