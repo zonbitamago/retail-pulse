@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-10-26T22:10:31.180Z",
+  "lastUpdated": "2026-10-27T03:16:22.001Z",
   "items": [
+    {
+      "id": "ryutsuu-8e84f2c0",
+      "title": "日本フードサービス協会／9月の外食売上7.3％増、連休効果や「月見」メニューが貢献",
+      "url": "https://www.ryutsuu.biz/sales/s102711.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-10-27",
+      "tags": [
+        "外食"
+      ]
+    },
+    {
+      "id": "ryutsuu-d7307eab",
+      "title": "ショッピングセンター／9月既存店売上6.0％増、大型連休でレジャー需要に対応",
+      "url": "https://www.ryutsuu.biz/sales/s102772.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-10-27",
+      "tags": [
+        "ショッピングセンター"
+      ]
+    },
     {
       "id": "diamond-2cc32807",
       "title": "「アットコスメ」が京都で仕掛ける新戦略！ AIを活用した最新の売場づくり",
@@ -11,6 +35,34 @@
       "date": "2026-10-27",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "diamond-d463471b",
+      "title": "アパレル改造論　連載終了のおしらせ",
+      "url": "https://diamond-rm.net/management/561273/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-27",
+      "tags": [
+        "アパレル"
+      ]
+    },
+    {
+      "id": "diamond-cc034567",
+      "title": "【食品スーパー視察完全ガイド】千葉・浦安　ヤオコー＆トライアルが攻勢仕掛け環境激変！？",
+      "url": "https://diamond-rm.net/store/storevisit/561434/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-27",
+      "tags": [
+        "食品スーパー",
+        "トライアル",
+        "ヤオコー",
+        "スーパー",
+        "食品"
       ]
     },
     {
@@ -38,6 +90,112 @@
         "食品スーパー",
         "スーパー",
         "食品"
+      ]
+    },
+    {
+      "id": "ssnp-8d2cee9e",
+      "title": "【380円お得】KFC、オリジナルチキン9ピース入りバーレルを発売　ハロウィン限定も\n\t\t\t\t\t\t\t\t\t\t\t\t日本ケンタッキー・フライド・チキンは、全国のケンタッキーフライドチキン（KFC）店舗で、「ハロウィン9ピースバーレル」を10月30日（金）から10月31日（土）までの2日間限定で販売する。また、11月2日（月）から11月...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708935/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-27",
+      "tags": [
+        "FC"
+      ]
+    },
+    {
+      "id": "ssnp-fb8e33b6",
+      "title": "NewDays、「Suicaのペンギン」モチーフの食品・グッズ計20品を期間限定で販売\n\t\t\t\t\t\t\t\t\t\t\t\tJR東日本クロスステーション リテールカンパニーが運営する「NewDays」は、Suica誕生25周年と2026年度末での「Suicaのペンギン」卒業を記念し、10月27日から11月16日までの間、「Suicaのペンギン...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/708906/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-10-27",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "ssnp-b1e6a099",
+      "title": "三田製麺所、創業18周年で「つけ麺700円」キャンペーン　1.8kg超特盛や油そば大盛無料も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708894/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-27",
+      "tags": []
+    },
+    {
+      "id": "ssnp-5e000981",
+      "title": "【ピザハット】肉の日が5日間に拡大、1076円オフ・1256円オフ・3,091円オフなど\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/708884/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-27",
+      "tags": []
+    },
+    {
+      "id": "ssnp-4ce7ece0",
+      "title": "セブンイレブン、ポッキー・プリッツ2個購入でチャーム進呈　全4種、10月29日開始\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/708875/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-10-27",
+      "tags": [
+        "セブンイレブン"
+      ]
+    },
+    {
+      "id": "ssnp-7ead0400",
+      "title": "「きのこの山ワイヤレスイヤホン」復活へ　初代は10分で3500台が完売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/708824/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-10-27",
+      "tags": []
+    },
+    {
+      "id": "ssnp-46f54c62",
+      "title": "鎌倉ウィッチ、屋号刷新1周年でエコバッグプレゼント　4000円以上購入で先着1500人\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/708788/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-10-27",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-369f51ff",
+      "title": "ウエルシア薬局／「ハックドラッグ戸塚店」新旗艦店にリニューアル、ドラッグ＆フードで食品強化",
+      "url": "https://www.ryutsuu.biz/report/s102614.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-10-26",
+      "tags": [
+        "注目",
+        "リニューアル",
+        "ウエルシア",
+        "ドラッグ",
+        "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-04444f1d",
+      "title": "東急ほか／古民家を核とする木造SC「新綱島ミッカ」オープン、綱島の歴史を継承",
+      "url": "https://www.ryutsuu.biz/report/s102672.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-10-26",
+      "tags": [
+        "注目",
+        "オープン",
+        "SC"
       ]
     },
     {
@@ -126,18 +284,6 @@
       ]
     },
     {
-      "id": "ryutsuu-1ab290fa",
-      "title": "日本百貨店協会／9月の外国人売上25.3％増、客数5.9％増・購買単価18.3％増",
-      "url": "https://www.ryutsuu.biz/sales/s102649.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-10-26",
-      "tags": [
-        "百貨店"
-      ]
-    },
-    {
       "id": "diamond-c99d51e8",
       "title": "平和堂のお膝元で生き残る！たった1店舗のスーパー「パリヤ」が実践する驚きの顧客戦略",
       "url": "https://diamond-rm.net/management/561680/",
@@ -220,34 +366,8 @@
       ]
     },
     {
-      "id": "diamond-579d4c53",
-      "title": "今年も大公開！今見るべき食品スーパーの注目店＆視察必須のエリアとは？",
-      "url": "https://diamond-rm.net/store/storevisit/561431/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-26",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-dc1e31fb",
-      "title": "ベイシア・三心の強みを融合させたプロトタイプ！「ベイシアフーズパーク岐南店」をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/559691/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-26",
-      "tags": [
-        "ベイシア"
-      ]
-    },
-    {
       "id": "ssnp-271ac983",
-      "title": "ローソン「得パン」4品発売　119円の醤油マヨチーズトーストや長さ30cmのじゃりぱん\n\t\t\t\t\t\t\t\t\t\t\t\tローソンは10月27日、小腹を満たせる手ごろな価格の「得パン」4品を全国のローソン店舗約1万4,000店で発売する。 物価高が続く中、原材料などを工夫し、食べ応えのある大きなパンを手ごろな価格で提供する。価格は税込119...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ローソン「得パン」4品発売　119円の醤油マヨチーズトーストや長さ30cmのじゃりぱん\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/708860/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -259,15 +379,13 @@
     },
     {
       "id": "ssnp-11626304",
-      "title": "累計880万食を突破した「リュウジの至高のレシピ」、第3弾は「とろたま牛すきまん」など全9品を発売【ファミマ】\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーマートは、料理研究家のリュウジ氏監修による「リュウジの至高のレシピ」の第3弾、全9品を、2026年10月27日から全国の約1万6,500店で発売する。 ファミリーマートでは、2024年から料理研究家リュウジ氏監...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "累計880万食を突破した「リュウジの至高のレシピ」、第3弾は「とろたま牛すきまん」など全9品を発売【ファミマ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/708825/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
       "date": "2026-10-26",
-      "tags": [
-        "ファミリーマート"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-450d7bd4",
@@ -440,6 +558,44 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-1ab290fa",
+      "title": "日本百貨店協会／9月の外国人売上25.3％増、客数5.9％増・購買単価18.3％増",
+      "url": "https://www.ryutsuu.biz/sales/s102649.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-10-26",
+      "tags": [
+        "百貨店"
+      ]
+    },
+    {
+      "id": "diamond-579d4c53",
+      "title": "今年も大公開！今見るべき食品スーパーの注目店＆視察必須のエリアとは？",
+      "url": "https://diamond-rm.net/store/storevisit/561431/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-26",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-dc1e31fb",
+      "title": "ベイシア・三心の強みを融合させたプロトタイプ！「ベイシアフーズパーク岐南店」をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/559691/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-26",
+      "tags": [
+        "ベイシア"
+      ]
+    },
+    {
       "id": "ssnp-cd189eb3",
       "title": "全清飲、容器リサイクルの消費者意識調査を実施資源を大切にしたいと回答76.6%、自販機横の異物投入は約3割\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/beverage/708541/",
@@ -560,21 +716,6 @@
         "ロピア",
         "新店",
         "開業"
-      ]
-    },
-    {
-      "id": "ryutsuu-98c66a8f",
-      "title": "コンビニ3社の2026年度上期業績／セブンは減益、ファミマ・ローソンは過去最高益に",
-      "url": "https://www.ryutsuu.biz/accounts/s102341.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-10-23",
-      "tags": [
-        "注目",
-        "ローソン",
-        "コンビニ",
-        "減益"
       ]
     },
     {
@@ -825,6 +966,21 @@
       "date": "2026-10-23",
       "tags": [
         "サプリ"
+      ]
+    },
+    {
+      "id": "ryutsuu-98c66a8f",
+      "title": "コンビニ3社の2026年度上期業績／セブンは減益、ファミマ・ローソンは過去最高益に",
+      "url": "https://www.ryutsuu.biz/accounts/s102341.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-10-23",
+      "tags": [
+        "注目",
+        "ローソン",
+        "コンビニ",
+        "減益"
       ]
     },
     {
@@ -1456,6 +1612,18 @@
       "tags": []
     },
     {
+      "id": "diamond-14e08755",
+      "title": "“中国版・おかしのまちおか”が大躍進！コンビニも警戒感MAXの理由",
+      "url": "https://diamond-rm.net/overseas/chinaeastasianews/559686/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-10-21",
+      "tags": [
+        "コンビニ"
+      ]
+    },
+    {
       "id": "diamond-db68f260",
       "title": "名店の味が自宅で食べられる!  三井不動産発の冷凍食品サービスが急成長する理由",
       "url": "https://diamond-rm.net/ec-epayment/561191/",
@@ -1466,28 +1634,6 @@
       "tags": [
         "冷凍食品",
         "食品"
-      ]
-    },
-    {
-      "id": "diamond-fad2bb31",
-      "title": "大阪屋ショップが小商圏型新フォーマットを開発　巧みな運営手法と商品政策に迫る",
-      "url": "https://diamond-rm.net/management/businessplan/559680/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-21",
-      "tags": []
-    },
-    {
-      "id": "diamond-14e08755",
-      "title": "“中国版・おかしのまちおか”が大躍進！コンビニも警戒感MAXの理由",
-      "url": "https://diamond-rm.net/overseas/chinaeastasianews/559686/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-10-21",
-      "tags": [
-        "コンビニ"
       ]
     },
     {
@@ -1693,6 +1839,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "diamond-fad2bb31",
+      "title": "大阪屋ショップが小商圏型新フォーマットを開発　巧みな運営手法と商品政策に迫る",
+      "url": "https://diamond-rm.net/management/businessplan/559680/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-10-21",
       "tags": []
     },
@@ -3319,155 +3475,6 @@
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "sales-promotion",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-2f03c4cb",
-      "title": "サイゼリヤ、10月29日から平均6％値上げ　「ミラノ風ドリア」300円→320円、ワインやランチは据え置き\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707168/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-15",
-      "tags": [
-        "サイゼリヤ",
-        "値上げ"
-      ]
-    },
-    {
-      "id": "ssnp-9dcc3726",
-      "title": "ドムドムハンバーガー「麻婆なすチーズチキンバーガー」発売、四川麻婆だれの揚げナス使用\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707164/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-b3b46c5a",
-      "title": "【ドミノ・ピザ】デリバリー40％OFF・持ち帰り半額を実施、10月15日から全ピザ対象にキャンペーン\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707158/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-9261d69e",
-      "title": "ブロンコビリー、平日ディナー全品20％OFF「大感謝祭」開催　最大30％OFFのスタンプカードも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707153/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-edcc67c8",
-      "title": "オリジン「牛ホルモンのピリ辛味噌炒め弁当」発売、野菜1日に必要な量の半分を使用\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707145/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-15",
-      "tags": [
-        "弁当"
-      ]
-    },
-    {
-      "id": "ssnp-83c77726",
-      "title": "学生ハンバーグに期間限定で新ラインアップが登場!香味野菜おろし･ハンバーガー風･マルゲリータ風の全3種【ステーキのあさくま】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707135/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-fd992caa",
-      "title": "【イオン】上期の決算を発表、連結業績は増収増益、食品小売は苦戦\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/707126/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-15",
-      "tags": [
-        "イオン",
-        "食品",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ssnp-ec74ba7e",
-      "title": "UCCグループ、SCAJ2026に5ブース出展　水素焙煎や「食べるコーヒー」で新たな価値提案\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/707063/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-10-15",
-      "tags": [
-        "SC"
-      ]
-    },
-    {
-      "id": "ssnp-5b307010",
-      "title": "「レアチーズ with Biscoff®biscuit」や「ラムレーズンベイクドレアチーズ」など、4種のチーズケーキを販売【銀座コージーコーナー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/707109/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-15",
-      "tags": [
-        "SC"
-      ]
-    },
-    {
-      "id": "ssnp-784dbd38",
-      "title": "Uber Eatsがサービス開始から10周年、都内でイベント開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/707105/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-86c74fd4",
-      "title": "国産すもも『秋姫』を使ったクラフトレモネードが秋限定で登場【フレッシュネスバーガー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707083/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "id": "ssnp-7ed27298",
-      "title": "【ファミリーマート】上期は増収増益に、広告事業や海外事業などの好調\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/707080/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-15",
-      "tags": [
-        "ファミリーマート",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ssnp-3ef54cdb",
-      "title": "バーガーキング、ビーフパティだけの「オン ザ ビーフ」復活　450円から、1週間限定\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707071/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
       "date": "2026-10-15",
       "tags": []
     }
