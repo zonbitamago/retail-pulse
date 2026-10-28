@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T17:51:44.565Z",
+  "lastUpdated": "2026-10-28T22:05:37.149Z",
   "items": [
     {
       "id": "ryutsuu-d4e16c79",
@@ -11,6 +11,57 @@
       "date": "2026-10-29",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "diamond-28b0b479",
+      "title": "全店24時間営業のハローズ、コンビニからも客を奪う独自モデルの強さ",
+      "url": "https://diamond-rm.net/market/562069/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-29",
+      "tags": [
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-265024ad",
+      "title": "コスモスが堺に2店舗を同時オープン、大黒天物産は福岡・直方にラ・ムー出店【大店立地法速報】",
+      "url": "https://diamond-rm.net/store/large-scaleretailstorelaw/562036/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-29",
+      "tags": [
+        "オープン",
+        "出店"
+      ]
+    },
+    {
+      "id": "diamond-74d94892",
+      "title": "ジョイフル本田との統合はどうなる？ アークランズ幹部が語った今後の課題",
+      "url": "https://diamond-rm.net/market/accounting/562004/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-29",
+      "tags": [
+        "統合"
+      ]
+    },
+    {
+      "id": "diamond-40c13000",
+      "title": "【食品スーパー視察完全ガイド】横浜・港南台　バロー旋風にザ・ビッグ参戦で混沌のベッドタウン",
+      "url": "https://diamond-rm.net/store/storevisit/561437/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-29",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
       ]
     },
     {
@@ -167,32 +218,6 @@
       ]
     },
     {
-      "id": "diamond-a44b5c75",
-      "title": "大幅赤字からV字回復！ 幸楽苑はなぜ「安くておいしいラーメン」に原点回帰したのか",
-      "url": "https://diamond-rm.net/management/560946/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-28",
-      "tags": [
-        "赤字"
-      ]
-    },
-    {
-      "id": "diamond-3d66896c",
-      "title": "【食品スーパー視察完全ガイド】東京・豊洲＆有明　タワマン密集地で新旧の有力チェーンが激突！",
-      "url": "https://diamond-rm.net/store/storevisit/561435/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-28",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-89216dfc",
       "title": "第２０９回　箱根に集った１３社",
       "url": "https://diamond-rm.net/life-career/546353/",
@@ -225,6 +250,32 @@
       "date": "2026-10-28",
       "tags": [
         "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-a44b5c75",
+      "title": "大幅赤字からV字回復！ 幸楽苑はなぜ「安くておいしいラーメン」に原点回帰したのか",
+      "url": "https://diamond-rm.net/management/560946/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-28",
+      "tags": [
+        "赤字"
+      ]
+    },
+    {
+      "id": "diamond-3d66896c",
+      "title": "【食品スーパー視察完全ガイド】東京・豊洲＆有明　タワマン密集地で新旧の有力チェーンが激突！",
+      "url": "https://diamond-rm.net/store/storevisit/561435/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-28",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
       ]
     },
     {
@@ -504,16 +555,6 @@
       ]
     },
     {
-      "id": "diamond-63e8c95d",
-      "title": "第２０８回　渥美研究室、始動",
-      "url": "https://diamond-rm.net/life-career/546352/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-27",
-      "tags": []
-    },
-    {
       "id": "diamond-9ddf3e24",
       "title": "＃13 サントリーはCES・NRF海外視察から何を学ぶのか！？",
       "url": "https://diamond-rm.net/overseas/american_economy/561935/",
@@ -536,6 +577,19 @@
       ]
     },
     {
+      "id": "diamond-b1bf9926",
+      "title": "セブン、「7NOW」の全機能をLINEミニアプリに搭載【週刊コンビニニュース】",
+      "url": "https://diamond-rm.net/management/561861/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-27",
+      "tags": [
+        "コンビニ",
+        "アプリ"
+      ]
+    },
+    {
       "id": "diamond-cc034567",
       "title": "【食品スーパー視察完全ガイド】千葉・浦安　ヤオコー＆トライアルが攻勢仕掛け環境激変！？",
       "url": "https://diamond-rm.net/store/storevisit/561434/",
@@ -549,19 +603,6 @@
         "ヤオコー",
         "スーパー",
         "食品"
-      ]
-    },
-    {
-      "id": "diamond-b1bf9926",
-      "title": "セブン、「7NOW」の全機能をLINEミニアプリに搭載【週刊コンビニニュース】",
-      "url": "https://diamond-rm.net/management/561861/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-27",
-      "tags": [
-        "コンビニ",
-        "アプリ"
       ]
     },
     {
@@ -797,6 +838,16 @@
       "tags": []
     },
     {
+      "id": "diamond-63e8c95d",
+      "title": "第２０８回　渥美研究室、始動",
+      "url": "https://diamond-rm.net/life-career/546352/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-27",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-24bf7551",
       "title": "福岡空港／複合施設「タビジア」27年夏開業、日本初上陸の飲食7店舗オープン決定",
       "url": "https://www.ryutsuu.biz/store/s102777.html",
@@ -885,20 +936,6 @@
       "tags": []
     },
     {
-      "id": "diamond-e6c4171e",
-      "title": "【食品スーパー視察完全ガイド】北海道・札幌　一大マーケットで道内外のチェーンが激突！",
-      "url": "https://diamond-rm.net/store/storevisit/561432/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-26",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-c99d51e8",
       "title": "平和堂のお膝元で生き残る！たった1店舗のスーパー「パリヤ」が実践する驚きの顧客戦略",
       "url": "https://diamond-rm.net/management/561680/",
@@ -908,18 +945,6 @@
       "date": "2026-10-26",
       "tags": [
         "スーパー"
-      ]
-    },
-    {
-      "id": "diamond-d0c41c0a",
-      "title": "イケアが5年ぶりに都内に出店 売場面積560坪・「IKEA豊洲」の売場をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/559692/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-26",
-      "tags": [
-        "出店"
       ]
     },
     {
@@ -1123,6 +1148,32 @@
       "category": "流通",
       "date": "2026-10-26",
       "tags": []
+    },
+    {
+      "id": "diamond-e6c4171e",
+      "title": "【食品スーパー視察完全ガイド】北海道・札幌　一大マーケットで道内外のチェーンが激突！",
+      "url": "https://diamond-rm.net/store/storevisit/561432/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-26",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-d0c41c0a",
+      "title": "イケアが5年ぶりに都内に出店 売場面積560坪・「IKEA豊洲」の売場をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/559692/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-26",
+      "tags": [
+        "出店"
+      ]
     },
     {
       "id": "ryutsuu-369f51ff",
@@ -2785,18 +2836,6 @@
       ]
     },
     {
-      "id": "diamond-622720d8",
-      "title": "ローソン、平均日販が3年連続で過去最高更新！好業績を支える施策とは",
-      "url": "https://diamond-rm.net/market/accounting/561112/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-20",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
       "id": "diamond-fb1f43bb",
       "title": "JCペニーが物流センターに本格導入 「ヒト型ロボット」への投資が急加速",
       "url": "https://diamond-rm.net/overseas/american_economy/559685/",
@@ -2819,6 +2858,18 @@
       "date": "2026-10-20",
       "tags": [
         "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-622720d8",
+      "title": "ローソン、平均日販が3年連続で過去最高更新！好業績を支える施策とは",
+      "url": "https://diamond-rm.net/market/accounting/561112/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-20",
+      "tags": [
+        "ローソン"
       ]
     },
     {
@@ -3399,53 +3450,6 @@
       "category": "経営戦略",
       "date": "2026-10-19",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-4a18b2af",
-      "title": "ケンタッキー／名嶋社長COOが代表取締役社長CEOに、遠藤会長CEOは顧問に",
-      "url": "https://www.ryutsuu.biz/strategy/s101946.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-19",
-      "tags": [
-        "代表取締役",
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-c7d79aca",
-      "title": "ファミマ、過去最高益なのになぜ客数減が止まらない？ 経営陣が明かす理由と打開策",
-      "url": "https://diamond-rm.net/market/accounting/560997/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-1bc1a997",
-      "title": "クリエイトSD／神奈川県の調剤薬局4店舗を取得",
-      "url": "https://www.ryutsuu.biz/strategy/s101917.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-19",
-      "tags": [
-        "クリエイトSD"
-      ]
-    },
-    {
-      "id": "ryutsuu-a68ab39c",
-      "title": "アルコール飲料 売上ランキング／9月1・3位は「アサヒゴールド」",
-      "url": "https://www.ryutsuu.biz/pos/s101975.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-19",
-      "tags": [
-        "飲料"
-      ]
     }
   ]
 }
