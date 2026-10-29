@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-28T22:05:37.149Z",
+  "lastUpdated": "2026-10-29T03:53:09.990Z",
   "items": [
     {
-      "id": "ryutsuu-d4e16c79",
-      "title": "アリオ八尾／「鳥〇食堂×タニタカフェ」10月29日オープン",
-      "url": "https://www.ryutsuu.biz/store/s102873.html",
+      "id": "ryutsuu-2ac7bc23",
+      "title": "まいばすけっと／東京・千葉に「南大泉5丁目店」など4店舗を同時オープン",
+      "url": "https://www.ryutsuu.biz/store/s102973.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "店舗",
@@ -12,6 +12,53 @@
       "tags": [
         "オープン"
       ]
+    },
+    {
+      "id": "ryutsuu-ef5c6775",
+      "title": "カワチ薬品 決算／3～9月季節商材低迷で売上高0.8％減、通期予想を下方修正",
+      "url": "https://www.ryutsuu.biz/accounts/s102944.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-10-29",
+      "tags": [
+        "売上高",
+        "決算"
+      ]
+    },
+    {
+      "id": "ryutsuu-a791295c",
+      "title": "セブンイレブン／環境配慮型サーマルラベルを実験、千葉の約300店舗で",
+      "url": "https://www.ryutsuu.biz/strategy/s102911.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-10-29",
+      "tags": [
+        "セブンイレブン"
+      ]
+    },
+    {
+      "id": "ryutsuu-ead6cce7",
+      "title": "ユニクロ／「ソックスまとめ買い」を継続、販売終了予定から一転",
+      "url": "https://www.ryutsuu.biz/strategy/s102942.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-10-29",
+      "tags": [
+        "ユニクロ"
+      ]
+    },
+    {
+      "id": "ryutsuu-6bcd4723",
+      "title": "熱冷却用品 売上ランキング／7月～9月1位小林製薬「熱さまシート 大人用」",
+      "url": "https://www.ryutsuu.biz/pos/s102971.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-10-29",
+      "tags": []
     },
     {
       "id": "diamond-28b0b479",
@@ -51,6 +98,40 @@
       ]
     },
     {
+      "id": "diamond-dea4a4ae",
+      "title": "#6 「実験を⽇常に変える⼒」を日本の小売が手に入れる方法とは？【後編】",
+      "url": "https://diamond-rm.net/market/economic/562074/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-29",
+      "tags": []
+    },
+    {
+      "id": "diamond-a1e1127c",
+      "title": "【特別レポート】売上予測どおりなのに、なぜ在庫は余る？小売・流通業の在庫管理と重要KPI",
+      "url": "https://diamond-rm.net/promotion/pr/560969/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "promotion",
+      "date": "2026-10-29",
+      "tags": []
+    },
+    {
+      "id": "diamond-9acc41b0",
+      "title": "【食品スーパー視察完全ガイド】大阪・豊中＆吹田　関西内外の実力派が大集積！",
+      "url": "https://diamond-rm.net/store/storevisit/561438/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-29",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
+    },
+    {
       "id": "diamond-40c13000",
       "title": "【食品スーパー視察完全ガイド】横浜・港南台　バロー旋風にザ・ビッグ参戦で混沌のベッドタウン",
       "url": "https://diamond-rm.net/store/storevisit/561437/",
@@ -62,6 +143,148 @@
         "食品スーパー",
         "スーパー",
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-8f2fa027",
+      "title": "なぜ、今この戦略が必要なのか？ 顧客の嗜好を極めて伸ばす  ～データ活用で深化する「選ばれ続ける」ための顧客理解とLTV最大化～",
+      "url": "https://diamond-rm.net/seminar/561106/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "seminar",
+      "date": "2026-10-29",
+      "tags": [
+        "データ活用"
+      ]
+    },
+    {
+      "id": "ssnp-6f7dadab",
+      "title": "モンテール×パンどろぼう、定番シュークリームなど5品が限定パッケージで登場\n\t\t\t\t\t\t\t\t\t\t\t\tモンテールは、絵本『パンどろぼう』とコラボレーションした「牛乳と卵のシュークリーム」など計5品の限定パッケージ商品を、2026年11月1日～30日までの間、スーパーマーケットで販売する。 また、コラボ限定描き下ろしデザイ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/709375/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-10-29",
+      "tags": [
+        "スーパー"
+      ]
+    },
+    {
+      "id": "ssnp-ef6c7e7e",
+      "title": "ほっともっと「ハンバーグミックス弁当」2種を発売、ハンバーグ・からあげ・ウインナーの新弁当\n\t\t\t\t\t\t\t\t\t\t\t\t持ち帰り弁当チェーンの「ほっともっと」は、11月1日から「デミハンバーグミックス弁当」、「和風ハンバーグミックス弁当」を発売する。価格は各760円（税込）から。 新商品は、ハンバーグを主役に、ウインナーとからあげを組み合...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/709369/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-29",
+      "tags": [
+        "弁当"
+      ]
+    },
+    {
+      "id": "ssnp-61cc5333",
+      "title": "バーガーキング、ハロウィーンに「ソフトクリーム」無料配布　18歳以下対象、ステッカー配布も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/709353/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-29",
+      "tags": []
+    },
+    {
+      "id": "ssnp-1ce56ff9",
+      "title": "ココイチ「ローストチキンスープカレー」発売、柔らかジューシーなチキンと野菜が入った秋冬定番スープカレー\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/709358/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-29",
+      "tags": []
+    },
+    {
+      "id": "ssnp-fdc6b056",
+      "title": "【ゴンチャ福袋2027】景徳鎮製マグやドリンクチケット6枚入り!11月13日からオンライン限定で予約開始\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/709331/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-29",
+      "tags": []
+    },
+    {
+      "id": "ssnp-387bad94",
+      "title": "スターバックス「福袋2027」発売　9500円、絞れるトートバッグや限定ボトル、店舗で使えるチケット入り\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/709325/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-29",
+      "tags": [
+        "スターバックス"
+      ]
+    },
+    {
+      "id": "ssnp-063ccab4",
+      "title": "かつや「クリスマスボックス」予約開始　フライドチキン4枚・海老フライ4本入り、1501円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/709315/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-10-29",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-d4e16c79",
+      "title": "アリオ八尾／「鳥〇食堂×タニタカフェ」10月29日オープン",
+      "url": "https://www.ryutsuu.biz/store/s102873.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-29",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-fc2bf785",
+      "title": "アンドエスティHD・福田泰生社長インタビュー／変革を続けながら、期待の先を行く",
+      "url": "https://www.ryutsuu.biz/column/s102841.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "column",
+      "date": "2026-10-28",
+      "tags": [
+        "注目",
+        "社長"
+      ]
+    },
+    {
+      "id": "ryutsuu-b3e974ee",
+      "title": "コメリ／上期出店は5店舗のみ、改装は82店舗",
+      "url": "https://www.ryutsuu.biz/store/s102817.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-28",
+      "tags": [
+        "コメリ",
+        "出店",
+        "改装"
+      ]
+    },
+    {
+      "id": "ryutsuu-cf8ccf01",
+      "title": "ベイシア／千葉・幕張「Beisia Foods Park 幕張店」オープン、鮮魚売場に魚耕が出店",
+      "url": "https://www.ryutsuu.biz/store/s102842.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-28",
+      "tags": [
+        "ベイシア",
+        "オープン",
+        "鮮魚",
+        "出店"
       ]
     },
     {
@@ -135,51 +358,6 @@
       "category": "IT",
       "date": "2026-10-28",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-6ca6b307",
-      "title": "がってん寿司／「イオンレイクタウンkaze」に初のフードコート業態オープン",
-      "url": "https://www.ryutsuu.biz/store/s102872.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-28",
-      "tags": [
-        "オープン",
-        "イオン"
-      ]
-    },
-    {
-      "id": "ryutsuu-e8ad4be4",
-      "title": "カフェ・ド・クリエ／15時以降＋100円でパスタ2倍キャンペーン",
-      "url": "https://www.ryutsuu.biz/commodity/s102815.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-86e11d0a",
-      "title": "島村楽器／SAPのクラウドERP採用、納期即答やリアルタイム損益把握を実現",
-      "url": "https://www.ryutsuu.biz/it/s1028001.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-59a74ba9",
-      "title": "お菓子 売上ランキング／9月は山崎製パン「濃みつ 紅はるかのいもパイ」が1位",
-      "url": "https://www.ryutsuu.biz/pos/s102843.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-28",
-      "tags": [
-        "菓子"
-      ]
     },
     {
       "id": "ryutsuu-00622ebf",
@@ -280,7 +458,7 @@
     },
     {
       "id": "ssnp-412778b9",
-      "title": "【大戸屋、冬の福袋】クーポン5,400円分付きで税込5,000円「大戸屋 特盛まんぷく袋」発売\n\t\t\t\t\t\t\t\t\t\t\t\t大戸屋は、冬の福袋「特盛まんぷく袋」を販売する。価格は税込5,000円。 ネット予約は11月4日14時から11月30日23時59分まで。店頭販売は12月28日から2027年1月14日まで実施する。 「特盛まんぷく袋」は、...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【大戸屋、冬の福袋】クーポン5,400円分付きで税込5,000円「大戸屋 特盛まんぷく袋」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/709289/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -290,7 +468,7 @@
     },
     {
       "id": "ssnp-bc17cd40",
-      "title": "ドトール×シナモロール、限定バッグやぬいぐるみ入りの「福袋2027」の店頭予約を開始\n\t\t\t\t\t\t\t\t\t\t\t\tドトールコーヒーは、サンリオの「シナモロール」とコラボレーションした「福袋2027」(全9種)を、ドトールコーヒーショップで12月26日に発売する。発売に先立ち、10月30日から店頭で予約を開始する。 ラインアップは、オ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ドトール×シナモロール、限定バッグやぬいぐるみ入りの「福袋2027」の店頭予約を開始\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/709259/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -449,6 +627,51 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-6ca6b307",
+      "title": "がってん寿司／「イオンレイクタウンkaze」に初のフードコート業態オープン",
+      "url": "https://www.ryutsuu.biz/store/s102872.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-28",
+      "tags": [
+        "オープン",
+        "イオン"
+      ]
+    },
+    {
+      "id": "ryutsuu-e8ad4be4",
+      "title": "カフェ・ド・クリエ／15時以降＋100円でパスタ2倍キャンペーン",
+      "url": "https://www.ryutsuu.biz/commodity/s102815.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-10-28",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-86e11d0a",
+      "title": "島村楽器／SAPのクラウドERP採用、納期即答やリアルタイム損益把握を実現",
+      "url": "https://www.ryutsuu.biz/it/s1028001.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-10-28",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-59a74ba9",
+      "title": "お菓子 売上ランキング／9月は山崎製パン「濃みつ 紅はるかのいもパイ」が1位",
+      "url": "https://www.ryutsuu.biz/pos/s102843.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-10-28",
+      "tags": [
+        "菓子"
+      ]
+    },
+    {
       "id": "ryutsuu-994b05eb",
       "title": "ドリームオン／「新綱島ミッカ」にベーカリービストロとベーグル専門店10月28日オープン",
       "url": "https://www.ryutsuu.biz/store/s102776.html",
@@ -527,19 +750,6 @@
       ]
     },
     {
-      "id": "ryutsuu-42cc9b89",
-      "title": "ハックドラッグ戸塚店／コスメ・キャンドゥ充実、予防・介護相談まで担う「ライフストア」へ",
-      "url": "https://www.ryutsuu.biz/report/s102714.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-10-27",
-      "tags": [
-        "ドラッグ",
-        "ライフ"
-      ]
-    },
-    {
       "id": "diamond-c7ad4a3d",
       "title": "【動画】10月4週目の注目ニュースまとめ、 食品スーパー各社の中間決算のニュースなど",
       "url": "https://diamond-rm.net/management/businessplan/561883/",
@@ -601,20 +811,6 @@
         "食品スーパー",
         "トライアル",
         "ヤオコー",
-        "スーパー",
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-7e09ab27",
-      "title": "【食品スーパー視察完全ガイド】埼玉・川口　県内屈指の人口増エリア　各社の戦術を徹底比較！",
-      "url": "https://diamond-rm.net/store/storevisit/561433/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-27",
-      "tags": [
-        "食品スーパー",
         "スーパー",
         "食品"
       ]
@@ -836,6 +1032,33 @@
       "category": "菓子",
       "date": "2026-10-27",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-42cc9b89",
+      "title": "ハックドラッグ戸塚店／コスメ・キャンドゥ充実、予防・介護相談まで担う「ライフストア」へ",
+      "url": "https://www.ryutsuu.biz/report/s102714.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-10-27",
+      "tags": [
+        "ドラッグ",
+        "ライフ"
+      ]
+    },
+    {
+      "id": "diamond-7e09ab27",
+      "title": "【食品スーパー視察完全ガイド】埼玉・川口　県内屈指の人口増エリア　各社の戦術を徹底比較！",
+      "url": "https://diamond-rm.net/store/storevisit/561433/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-27",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
     },
     {
       "id": "diamond-63e8c95d",
@@ -1899,28 +2122,12 @@
       ]
     },
     {
-      "id": "ryutsuu-60e2ae1d",
-      "title": "イオン／東京・八王子にネットスーパー専用物流施設オープン",
-      "url": "https://www.ryutsuu.biz/strategy/s102217.html",
+      "id": "ryutsuu-bf617b08",
+      "title": "アイスクリーム 売上ランキング／9月はハーゲンダッツ「ミニカップ」が1、2位に",
+      "url": "https://www.ryutsuu.biz/pos/s102244.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-22",
-      "tags": [
-        "ネットスーパー",
-        "スーパー",
-        "オープン",
-        "イオン",
-        "物流"
-      ]
-    },
-    {
-      "id": "diamond-f60a4cdf",
-      "title": "#5 「実験を⽇常に変える⼒」を日本の小売が手に入れる方法とは？【前編】＝無料公開",
-      "url": "https://diamond-rm.net/overseas/american_economy/561329/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
+      "category": "pos",
       "date": "2026-10-22",
       "tags": []
     },
@@ -2079,6 +2286,42 @@
       "tags": []
     },
     {
+      "id": "ssnp-25c3c847",
+      "title": "PHPの脆弱性に関する当社サービスの対応状況について",
+      "url": "https://www.ssnp.co.jp/release/708277/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "release",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-60e2ae1d",
+      "title": "イオン／東京・八王子にネットスーパー専用物流施設オープン",
+      "url": "https://www.ryutsuu.biz/strategy/s102217.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-10-22",
+      "tags": [
+        "ネットスーパー",
+        "スーパー",
+        "オープン",
+        "イオン",
+        "物流"
+      ]
+    },
+    {
+      "id": "diamond-f60a4cdf",
+      "title": "#5 「実験を⽇常に変える⼒」を日本の小売が手に入れる方法とは？【前編】＝無料公開",
+      "url": "https://diamond-rm.net/overseas/american_economy/561329/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
       "id": "ssnp-3c2ce0cc",
       "title": "【5日間限定】のり弁当などにチキンかつ1枚無料「ほっかほっか亭」10月26日から\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/708137/",
@@ -2107,16 +2350,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
-      "date": "2026-10-22",
-      "tags": []
-    },
-    {
-      "id": "ssnp-25c3c847",
-      "title": "PHPの脆弱性に関する当社サービスの対応状況について",
-      "url": "https://www.ssnp.co.jp/release/708277/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "release",
       "date": "2026-10-22",
       "tags": []
     },
@@ -2291,16 +2524,6 @@
       ]
     },
     {
-      "id": "ryutsuu-bf617b08",
-      "title": "アイスクリーム 売上ランキング／9月はハーゲンダッツ「ミニカップ」が1、2位に",
-      "url": "https://www.ryutsuu.biz/pos/s102244.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-22",
-      "tags": []
-    },
-    {
       "id": "ryutsuu-37b9e452",
       "title": "ノジマ／埼玉県「ラ・ヴィーニュ 新座」に新店舗10月22日オープン",
       "url": "https://www.ryutsuu.biz/store/s102176.html",
@@ -2314,16 +2537,6 @@
       ]
     },
     {
-      "id": "ryutsuu-d292da55",
-      "title": "コメ兵／GMOあおぞらネット銀行と協業、リユース×金融の新サービス検討開始",
-      "url": "https://www.ryutsuu.biz/strategy/s102173.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-21",
-      "tags": []
-    },
-    {
       "id": "ryutsuu-bc49de79",
       "title": "清涼飲料 売上ランキング／9月1位はサントリーHD「伊右衛門 京都サイダー」",
       "url": "https://www.ryutsuu.biz/pos/s102172.html",
@@ -2334,16 +2547,6 @@
       "tags": [
         "飲料"
       ]
-    },
-    {
-      "id": "ryutsuu-c556945d",
-      "title": "生理用品 ランキング／7～9月は「ソフィボディフィット 羽つき」が1位",
-      "url": "https://www.ryutsuu.biz/pos/s102141.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-21",
-      "tags": []
     },
     {
       "id": "diamond-1875e3d9",
@@ -2382,6 +2585,26 @@
         "冷凍食品",
         "食品"
       ]
+    },
+    {
+      "id": "ryutsuu-d292da55",
+      "title": "コメ兵／GMOあおぞらネット銀行と協業、リユース×金融の新サービス検討開始",
+      "url": "https://www.ryutsuu.biz/strategy/s102173.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-c556945d",
+      "title": "生理用品 ランキング／7～9月は「ソフィボディフィット 羽つき」が1位",
+      "url": "https://www.ryutsuu.biz/pos/s102141.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-10-21",
+      "tags": []
     },
     {
       "id": "ssnp-1d84d6a6",
@@ -2811,18 +3034,6 @@
       ]
     },
     {
-      "id": "ryutsuu-6a5daeba",
-      "title": "加工食品 売上ランキング／9月はニチレイフーズ「本格炒め炒飯」が1位",
-      "url": "https://www.ryutsuu.biz/pos/s102042.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-20",
-      "tags": [
-        "食品"
-      ]
-    },
-    {
       "id": "ryutsuu-e7b1e77a",
       "title": "流通経済研究所／「食品消費税率2年限定引き下げに対する戦略的対応研究セミナー」オンデマンド配信開始",
       "url": "https://www.ryutsuu.biz/seminar/s102072.html",
@@ -2858,6 +3069,18 @@
       "date": "2026-10-20",
       "tags": [
         "スーパー"
+      ]
+    },
+    {
+      "id": "ryutsuu-6a5daeba",
+      "title": "加工食品 売上ランキング／9月はニチレイフーズ「本格炒め炒飯」が1位",
+      "url": "https://www.ryutsuu.biz/pos/s102042.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-10-20",
+      "tags": [
+        "食品"
       ]
     },
     {
@@ -3244,210 +3467,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "畜産",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "ssnp-71977114",
-      "title": "かっぱ寿司「まぐろ祭り」開催　ミナミマグロの上赤身121円、大とろ・中とろの食べ比べも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707645/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "ssnp-23108240",
-      "title": "和食さと、秋限定「チョコレートデザート」10月22日発売　無花果とショコラのパフェなど全5品\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707632/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-19",
-      "tags": [
-        "チョコレート"
-      ]
-    },
-    {
-      "id": "ssnp-c8d06f87",
-      "title": "むさしの森珈琲に八天堂コラボスイーツとイタリア栗のモンブランスイーツが登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707610/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "ssnp-d24aca9b",
-      "title": "ハーゲンダッツ、夜向け新シリーズ「Classy Night」発売　洋酒香るチョコと燻製キャラメルの2品\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/milk/707582/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "milk",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "ssnp-3315989b",
-      "title": "オイコス 季節限定フレーバー「アサイーボウル」登場　10月19日からコンビニ先行発売【ダノンジャパン】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/milk/707581/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "milk",
-      "date": "2026-10-19",
-      "tags": [
-        "コンビニ"
-      ]
-    },
-    {
-      "id": "ssnp-902c56a9",
-      "title": "ジョナサン×八天堂コラボスイーツ、高さ28cmのみかんパフェやブリュレパンケーキが登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707540/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "ssnp-fcda46c9",
-      "title": "ゴディバ「ブラックフライデー ハッピーバッグ」発売　3780円から、店舗・オンライン限定など全4種\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/707554/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "ssnp-42d1e6c2",
-      "title": "ファミマから「本気のチョコがけパン」3品登場、チョコ高騰下でも税込200円以下\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/707537/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "ssnp-9cd5fa9f",
-      "title": "丸美屋×「ちいかわ」、カップスープ2品を期間限定発売　“草むしり”などをデザイン　10月22日から\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/seasoning/707525/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "調味料",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "ssnp-b5cd9190",
-      "title": "季節で考えるごはんPJ秋企画、石川佳純さんを迎えて試食会＝JA全農\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/rice/707521/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "米",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "ssnp-93ddde3c",
-      "title": "カフェ・ベローチェ、パスタ全品がプラス100円で2倍に　15時以降限定、40周年企画で\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707501/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "ssnp-cd98073b",
-      "title": "ムーミン×カンロ「金のミルク」初コラボ　オリジナルグッズが当たるキャンペーン、限定パッケージも展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/707466/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "ssnp-7ee2e1a6",
-      "title": "「ピノ 香り湧き立つカフェラテ」が復刻!2種のコーヒーエキスで本格的なカフェラテの味わいに【森永乳業】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/milk/707458/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "milk",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "ssnp-05f3a794",
-      "title": "【豆腐屋サミット】技術や知恵、豆腐を未来へつなぎたいという思い共有する機会に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/707475/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-10-19",
-      "tags": [
-        "サミット"
-      ]
-    },
-    {
-      "id": "ssnp-50ae0ac4",
-      "title": "かぼちゃが主役の秋季限定ドリンク『かぼちゃタピオカミルクティー』『かぼちゃミルクティー』発売【春水堂】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707452/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "id": "diamond-3c39438e",
-      "title": "スーパー激戦区で広域集客めざす！「生鮮市場TOP川口柳崎店」を徹底取材",
-      "url": "https://diamond-rm.net/store/newstorereport/559690/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-19",
-      "tags": [
-        "スーパー",
-        "生鮮"
-      ]
-    },
-    {
-      "id": "diamond-42932c19",
-      "title": "地域対応強化型の新店！「ヤオコー船橋薬円台店」のＭＤを徹底解剖",
-      "url": "https://diamond-rm.net/store/newstorereport/559689/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-19",
-      "tags": [
-        "ヤオコー",
-        "新店"
-      ]
-    },
-    {
-      "id": "ryutsuu-dcdb208c",
-      "title": "セカンドリテイリング／不正アクセス受け、セカストやゲオのアプリ・ウェブを停止",
-      "url": "https://www.ryutsuu.biz/strategy/s101941.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-19",
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "id": "diamond-622871e6",
-      "title": "グローバル小売に学ぶ「商品部」の正しい機能と役割とは",
-      "url": "https://diamond-rm.net/management/marketing/559707/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
       "date": "2026-10-19",
       "tags": []
     }
