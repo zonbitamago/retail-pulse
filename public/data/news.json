@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2026-10-29T12:05:46.479Z",
+  "lastUpdated": "2026-10-29T22:18:06.470Z",
   "items": [
+    {
+      "id": "ryutsuu-2d44febd",
+      "title": "ホットランド／福岡市博多区に「銀だこハイボール酒場 中洲店」10月30日オープン",
+      "url": "https://www.ryutsuu.biz/store/s102974.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-10-30",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "diamond-999e723c",
+      "title": "コメリ、PB比率が約5割に! 2桁増益を生む商品戦略",
+      "url": "https://diamond-rm.net/market/accounting/562185/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-30",
+      "tags": [
+        "コメリ",
+        "PB",
+        "増益"
+      ]
+    },
+    {
+      "id": "diamond-08a926cf",
+      "title": "ロピア、鹿児島1号店を2027年夏にオープン【週刊スーパーマーケットニュース】",
+      "url": "https://diamond-rm.net/management/businessplan/561860/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-30",
+      "tags": [
+        "スーパー",
+        "オープン",
+        "ロピア"
+      ]
+    },
+    {
+      "id": "diamond-6711de7d",
+      "title": "第150回 なぜSCは顧客ばかり分析するのか？ AI時代に見直すべきテナント戦略の盲点",
+      "url": "https://diamond-rm.net/management/560585/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-30",
+      "tags": [
+        "SC",
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-a60b5582",
+      "title": "【食品スーパー視察完全ガイド】大阪・大阪市中心部　関西小売の「都市型店舗」に学ぶ！",
+      "url": "https://diamond-rm.net/store/storevisit/561439/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-30",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-98e31952",
+      "title": "ボンドロブームの熱狂に考える、「マネと模倣」のマーケティング",
+      "url": "https://diamond-rm.net/sales-promotion/561988/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-10-30",
+      "tags": []
+    },
     {
       "id": "ryutsuu-57333bdc",
       "title": "ZOZO 決算／4～9月増収増益、主要事業の商品取扱高は過去最高を更新",
@@ -488,39 +565,15 @@
       "tags": []
     },
     {
-      "id": "diamond-6eea08cb",
-      "title": "TOPIX改革で小売30社が除外対象に! ワークマン、トライアルなど新規採用組との明暗",
-      "url": "https://diamond-rm.net/market/stockmarket/561854/",
+      "id": "diamond-a44b5c75",
+      "title": "大幅赤字からV字回復！ 幸楽苑はなぜ「安くておいしいラーメン」に原点回帰したのか",
+      "url": "https://diamond-rm.net/management/560946/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "市場動向",
+      "category": "経営戦略",
       "date": "2026-10-28",
       "tags": [
-        "ワークマン",
-        "トライアル"
-      ]
-    },
-    {
-      "id": "diamond-89216dfc",
-      "title": "第２０９回　箱根に集った１３社",
-      "url": "https://diamond-rm.net/life-career/546353/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "diamond-e0c1e25a",
-      "title": "イオンリテールの化粧品カテゴリーが好調の理由",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/561419/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-10-28",
-      "tags": [
-        "イオン",
-        "化粧品"
+        "赤字"
       ]
     },
     {
@@ -533,18 +586,6 @@
       "date": "2026-10-28",
       "tags": [
         "スーパー"
-      ]
-    },
-    {
-      "id": "diamond-a44b5c75",
-      "title": "大幅赤字からV字回復！ 幸楽苑はなぜ「安くておいしいラーメン」に原点回帰したのか",
-      "url": "https://diamond-rm.net/management/560946/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-28",
-      "tags": [
-        "赤字"
       ]
     },
     {
@@ -572,6 +613,90 @@
       "tags": [
         "コーナン",
         "営業利益"
+      ]
+    },
+    {
+      "id": "diamond-6eea08cb",
+      "title": "TOPIX改革で小売30社が除外対象に! ワークマン、トライアルなど新規採用組との明暗",
+      "url": "https://diamond-rm.net/market/stockmarket/561854/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-28",
+      "tags": [
+        "ワークマン",
+        "トライアル"
+      ]
+    },
+    {
+      "id": "diamond-e0c1e25a",
+      "title": "イオンリテールの化粧品カテゴリーが好調の理由",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/561419/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-10-28",
+      "tags": [
+        "イオン",
+        "化粧品"
+      ]
+    },
+    {
+      "id": "diamond-982ccb68",
+      "title": "業態別統計データ 2026年 ホームセンター",
+      "url": "https://diamond-rm.net/retaildata/538319/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-10-28",
+      "tags": [
+        "ホームセンター"
+      ]
+    },
+    {
+      "id": "diamond-301931ca",
+      "title": "業態別統計データ 2026年 コンビニエンスストア",
+      "url": "https://diamond-rm.net/retaildata/538317/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-10-28",
+      "tags": [
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-330753e2",
+      "title": "業態別統計データ 2026年 チェーンストア",
+      "url": "https://diamond-rm.net/retaildata/538314/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-10-28",
+      "tags": []
+    },
+    {
+      "id": "diamond-56cf5822",
+      "title": "業態別統計データ 2026年 スーパーマーケット",
+      "url": "https://diamond-rm.net/retaildata/538310/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-10-28",
+      "tags": [
+        "スーパー"
+      ]
+    },
+    {
+      "id": "diamond-8afdfbd3",
+      "title": "業態別統計データ 2026年 百貨店",
+      "url": "https://diamond-rm.net/retaildata/538321/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-10-28",
+      "tags": [
+        "百貨店"
       ]
     },
     {
@@ -741,6 +866,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-10-28",
+      "tags": []
+    },
+    {
+      "id": "diamond-89216dfc",
+      "title": "第２０９回　箱根に集った１３社",
+      "url": "https://diamond-rm.net/life-career/546353/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-10-28",
       "tags": []
     },
@@ -1361,16 +1496,6 @@
       ]
     },
     {
-      "id": "diamond-a3036e15",
-      "title": "KSP-POS マーケットトレンドレポート「ヨーグルト」",
-      "url": "https://diamond-rm.net/retaildata/561875/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-10-26",
-      "tags": []
-    },
-    {
       "id": "ssnp-271ac983",
       "title": "ローソン「得パン」4品発売　119円の醤油マヨチーズトーストや長さ30cmのじゃりぱん\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/708860/",
@@ -1559,6 +1684,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
+      "date": "2026-10-26",
+      "tags": []
+    },
+    {
+      "id": "diamond-a3036e15",
+      "title": "KSP-POS マーケットトレンドレポート「ヨーグルト」",
+      "url": "https://diamond-rm.net/retaildata/561875/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
       "date": "2026-10-26",
       "tags": []
     },
@@ -1808,20 +1943,6 @@
       ]
     },
     {
-      "id": "diamond-4c622c2f",
-      "title": "埼玉県で最も店舗数が多いスーパーは？ ヤオコーでもベルクでもない意外な1位！",
-      "url": "https://diamond-rm.net/retaildata/561711/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-10-24",
-      "tags": [
-        "ヤオコー",
-        "スーパー",
-        "ベルク"
-      ]
-    },
-    {
       "id": "ssnp-893a142f",
       "title": "牡蠣のクリームスープパスタ&牡蠣ときのこのアヒージョが登場!【ココス「今月のグルメ～11月～」】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/708318/",
@@ -1862,6 +1983,20 @@
       "category": "流通",
       "date": "2026-10-24",
       "tags": []
+    },
+    {
+      "id": "diamond-4c622c2f",
+      "title": "埼玉県で最も店舗数が多いスーパーは？ ヤオコーでもベルクでもない意外な1位！",
+      "url": "https://diamond-rm.net/retaildata/561711/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-10-24",
+      "tags": [
+        "ヤオコー",
+        "スーパー",
+        "ベルク"
+      ]
     },
     {
       "id": "diamond-9fa5912f",
@@ -2739,19 +2874,6 @@
       ]
     },
     {
-      "id": "diamond-1875e3d9",
-      "title": "ファミリーマート、アルバイト応募数が約20％増【週刊コンビニエンスストアニュース】",
-      "url": "https://diamond-rm.net/management/561208/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-21",
-      "tags": [
-        "ファミリーマート",
-        "コンビニ"
-      ]
-    },
-    {
       "id": "diamond-14e08755",
       "title": "“中国版・おかしのまちおか”が大躍進！コンビニも警戒感MAXの理由",
       "url": "https://diamond-rm.net/overseas/chinaeastasianews/559686/",
@@ -2774,6 +2896,19 @@
       "tags": [
         "冷凍食品",
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-1875e3d9",
+      "title": "ファミリーマート、アルバイト応募数が約20％増【週刊コンビニエンスストアニュース】",
+      "url": "https://diamond-rm.net/management/561208/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-21",
+      "tags": [
+        "ファミリーマート",
+        "コンビニ"
       ]
     },
     {
@@ -3352,126 +3487,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
-      "date": "2026-10-20",
-      "tags": []
-    },
-    {
-      "id": "ssnp-aca8b6f4",
-      "title": "不二家「くまのプーさん」100周年記念のお菓子3品発売　はちみつバター味のカントリーマアムやホームパイ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/707823/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-20",
-      "tags": [
-        "菓子"
-      ]
-    },
-    {
-      "id": "ssnp-a2442e15",
-      "title": "からやま、秋限定「きのこバターあんかけ」登場　出汁とり天と白身魚からあげの定食1089円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707803/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-20",
-      "tags": []
-    },
-    {
-      "id": "ssnp-be759c9e",
-      "title": "発売から6日で300万食を突破した「ファミマの無限クリーム」から、「ダブルクリームエクレア」など3品が新登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/707792/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-20",
-      "tags": []
-    },
-    {
-      "id": "ssnp-0e1b7721",
-      "title": "すき家「牛すき鍋定食」発売　胡麻麻辣湯鍋も登場、並盛950円から\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707794/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-20",
-      "tags": []
-    },
-    {
-      "id": "ssnp-44a5bd3c",
-      "title": "ファミリーマート、「本気のチョコがけパン」3種発売　スイーツとしても楽しめるパン\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/707783/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-20",
-      "tags": [
-        "ファミリーマート"
-      ]
-    },
-    {
-      "id": "ssnp-d572e28e",
-      "title": "総会でマルキチ社長が新会長に、新しい風吹かせ、縦と横のつながり強化【全油販連】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/707776/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-10-20",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
-      "id": "ssnp-0ffcdc73",
-      "title": "タイガー魔法瓶 「土鍋ごはんの名店」開店式、最新炊飯器を導入した7都市25店舗とのコラボレーション企画\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/rice/707765/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "米",
-      "date": "2026-10-20",
-      "tags": []
-    },
-    {
-      "id": "ssnp-05ba23ff",
-      "title": "【吉野家×ハローキティ】「オリジナルハローキティどんぶり」と冷凍牛丼の具のセットを数量限定で販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707749/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-20",
-      "tags": [
-        "吉野家"
-      ]
-    },
-    {
-      "id": "ssnp-b65f2f3a",
-      "title": "官民連携食育プラットフォームが会員交流会、150人超が参加　青山学院大学フェアトレードラボと連携し大人の食育推進\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/frozen/707761/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "冷凍食品",
-      "date": "2026-10-20",
-      "tags": [
-        "青山"
-      ]
-    },
-    {
-      "id": "ssnp-ac785c7b",
-      "title": "丸福珈琲店監修「珈琲シュークリーム」「キャラメルラテパフェ」を新発売【ミニストップ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/707739/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-20",
-      "tags": []
-    },
-    {
-      "id": "ssnp-29e1cfb9",
-      "title": "銚子丸「創業祭」つぶ貝や本まぐろ中とろ半額、生本まぐろ解体も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/707713/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
       "date": "2026-10-20",
       "tags": []
     }
