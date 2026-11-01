@@ -1,6 +1,44 @@
 {
-  "lastUpdated": "2026-11-01T12:29:57.085Z",
+  "lastUpdated": "2026-11-01T21:34:49.293Z",
   "items": [
+    {
+      "id": "diamond-563f7393",
+      "title": "「泥棒市場」から売上2兆円超へ!  “異端児”ドンキが日本の流通再編の主役になった理由",
+      "url": "https://diamond-rm.net/management/ma/561990/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "id": "diamond-e30f1a2d",
+      "title": "ヤマザワは巻き返せるか？秋田撤退、旗艦店苦戦の厳しい現実",
+      "url": "https://diamond-rm.net/market/accounting/562278/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-02",
+      "tags": [
+        "撤退"
+      ]
+    },
+    {
+      "id": "diamond-c6e121bf",
+      "title": "平和堂が食品スーパーを富山で初出店！生鮮強化型の売場づくりをレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/561422/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-02",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品",
+        "生鮮",
+        "出店"
+      ]
+    },
     {
       "id": "ssnp-cbba83ab",
       "title": "「コカ・コーラ」、サンタを描いた「ウィンターボトル」発売　購入者向けキャンペーンも\n\t\t\t\t\t\t\t\t\t\t\t\tコカ・コーラシステムは10月26日、「コカ・コーラ」「コカ・コーラ ゼロ」「コカ・コーラ ゼロカフェイン」のウィンターボトルを全国で発売した。 今年は、クリスマスを象徴するサンタクロースをあしらったデザインが登場。ギフト...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
@@ -318,30 +356,6 @@
       ]
     },
     {
-      "id": "diamond-98e31952",
-      "title": "ボンドロブームの熱狂に考える、「マネと模倣」のマーケティング",
-      "url": "https://diamond-rm.net/sales-promotion/561988/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-10-30",
-      "tags": []
-    },
-    {
-      "id": "diamond-999e723c",
-      "title": "コメリ、PB比率が約5割に! 2桁増益を生む商品戦略",
-      "url": "https://diamond-rm.net/market/accounting/562185/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-30",
-      "tags": [
-        "コメリ",
-        "PB",
-        "増益"
-      ]
-    },
-    {
       "id": "diamond-15a816a0",
       "title": "第２１１回　流通革命の狼煙が上がる",
       "url": "https://diamond-rm.net/life-career/546355/",
@@ -360,6 +374,20 @@
       "category": "retaildata",
       "date": "2026-10-30",
       "tags": []
+    },
+    {
+      "id": "diamond-999e723c",
+      "title": "コメリ、PB比率が約5割に! 2桁増益を生む商品戦略",
+      "url": "https://diamond-rm.net/market/accounting/562185/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-30",
+      "tags": [
+        "コメリ",
+        "PB",
+        "増益"
+      ]
     },
     {
       "id": "diamond-08a926cf",
@@ -401,6 +429,16 @@
         "スーパー",
         "食品"
       ]
+    },
+    {
+      "id": "diamond-98e31952",
+      "title": "ボンドロブームの熱狂に考える、「マネと模倣」のマーケティング",
+      "url": "https://diamond-rm.net/sales-promotion/561988/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-10-30",
+      "tags": []
     },
     {
       "id": "ssnp-8d783f18",
@@ -621,28 +659,6 @@
       ]
     },
     {
-      "id": "diamond-0f474995",
-      "title": "ホームセンター月次実績＝2026年9月度",
-      "url": "https://diamond-rm.net/retaildata/561834/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-10-29",
-      "tags": [
-        "ホームセンター"
-      ]
-    },
-    {
-      "id": "diamond-eeeaf564",
-      "title": "第２１０回　天下の三越に挑む《オーバーＭ》",
-      "url": "https://diamond-rm.net/life-career/546354/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-29",
-      "tags": []
-    },
-    {
       "id": "diamond-dea4a4ae",
       "title": "#6 「実験を⽇常に変える⼒」を日本の小売が手に入れる方法とは？【後編】",
       "url": "https://diamond-rm.net/market/economic/562074/",
@@ -703,6 +719,18 @@
       "date": "2026-10-29",
       "tags": [
         "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-0f474995",
+      "title": "ホームセンター月次実績＝2026年9月度",
+      "url": "https://diamond-rm.net/retaildata/561834/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-10-29",
+      "tags": [
+        "ホームセンター"
       ]
     },
     {
@@ -876,6 +904,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-10-29",
+      "tags": []
+    },
+    {
+      "id": "diamond-eeeaf564",
+      "title": "第２１０回　天下の三越に挑む《オーバーＭ》",
+      "url": "https://diamond-rm.net/life-career/546354/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-10-29",
       "tags": []
     },
@@ -1087,20 +1125,6 @@
       "date": "2026-10-28",
       "tags": [
         "スーパー"
-      ]
-    },
-    {
-      "id": "diamond-3d66896c",
-      "title": "【食品スーパー視察完全ガイド】東京・豊洲＆有明　タワマン密集地で新旧の有力チェーンが激突！",
-      "url": "https://diamond-rm.net/store/storevisit/561435/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-28",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
       ]
     },
     {
@@ -1345,6 +1369,20 @@
       "category": "飲料",
       "date": "2026-10-28",
       "tags": []
+    },
+    {
+      "id": "diamond-3d66896c",
+      "title": "【食品スーパー視察完全ガイド】東京・豊洲＆有明　タワマン密集地で新旧の有力チェーンが激突！",
+      "url": "https://diamond-rm.net/store/storevisit/561435/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-28",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
     },
     {
       "id": "diamond-56cf5822",
@@ -3459,38 +3497,6 @@
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "pos",
-      "date": "2026-10-21",
-      "tags": []
-    },
-    {
-      "id": "ssnp-1d84d6a6",
-      "title": "はなまるうどん、「鴨ねぎうどん」「鴨せいろうどん」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/708078/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-21",
-      "tags": []
-    },
-    {
-      "id": "ssnp-bcba9205",
-      "title": "マクドナルド、午後2時から390円の新セット　軽食やスイーツで休憩需要取り込む\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/708042/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-21",
-      "tags": [
-        "マクドナルド"
-      ]
-    },
-    {
-      "id": "ssnp-91f60e0c",
-      "title": "フレッシュネスバーガー「北海道産新じゃがフェア」開催、新じゃがポテトとじゃがバターを期間限定販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/708043/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
       "date": "2026-10-21",
       "tags": []
     }
