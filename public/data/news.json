@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T00:19:16.644Z",
+  "lastUpdated": "2026-11-03T13:26:32.957Z",
   "items": [
     {
       "id": "ryutsuu-a51dd2f6",
@@ -52,6 +52,26 @@
       "tags": [
         "コンビニ"
       ]
+    },
+    {
+      "id": "diamond-985a994b",
+      "title": "第２１３回　「売り上げがあらゆる問題点を解決した」",
+      "url": "https://diamond-rm.net/life-career/546357/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "id": "diamond-6d687998",
+      "title": "＃14 サントリー、最新CES、NRFの衝撃から切り開くメーカー戦略",
+      "url": "https://diamond-rm.net/technology/562382/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-11-03",
+      "tags": []
     },
     {
       "id": "diamond-162f6dc2",
@@ -342,18 +362,6 @@
       ]
     },
     {
-      "id": "diamond-e30f1a2d",
-      "title": "ヤマザワは巻き返せるか？秋田撤退、旗艦店苦戦の厳しい現実",
-      "url": "https://diamond-rm.net/market/accounting/562278/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-11-02",
-      "tags": [
-        "撤退"
-      ]
-    },
-    {
       "id": "diamond-c6e121bf",
       "title": "平和堂が食品スーパーを富山で初出店！生鮮強化型の売場づくりをレポート",
       "url": "https://diamond-rm.net/store/newstorereport/561422/",
@@ -510,6 +518,18 @@
       "category": "foodservice",
       "date": "2026-11-02",
       "tags": []
+    },
+    {
+      "id": "diamond-e30f1a2d",
+      "title": "ヤマザワは巻き返せるか？秋田撤退、旗艦店苦戦の厳しい現実",
+      "url": "https://diamond-rm.net/market/accounting/562278/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-02",
+      "tags": [
+        "撤退"
+      ]
     },
     {
       "id": "ssnp-cbba83ab",
@@ -2133,16 +2153,6 @@
       ]
     },
     {
-      "id": "diamond-9ddf3e24",
-      "title": "＃13 サントリーはCES・NRF海外視察から何を学ぶのか！？",
-      "url": "https://diamond-rm.net/overseas/american_economy/561935/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-10-27",
-      "tags": []
-    },
-    {
       "id": "diamond-d463471b",
       "title": "アパレル改造論　連載終了のおしらせ",
       "url": "https://diamond-rm.net/management/561273/",
@@ -2166,6 +2176,16 @@
         "コンビニ",
         "アプリ"
       ]
+    },
+    {
+      "id": "diamond-9ddf3e24",
+      "title": "＃13 サントリーはCES・NRF海外視察から何を学ぶのか！？",
+      "url": "https://diamond-rm.net/overseas/american_economy/561935/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-10-27",
+      "tags": []
     },
     {
       "id": "ssnp-be1bd3b1",
@@ -3472,26 +3492,6 @@
         "リニューアル",
         "ベイシア"
       ]
-    },
-    {
-      "id": "ryutsuu-bf617b08",
-      "title": "アイスクリーム 売上ランキング／9月はハーゲンダッツ「ミニカップ」が1、2位に",
-      "url": "https://www.ryutsuu.biz/pos/s102244.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-22",
-      "tags": []
-    },
-    {
-      "id": "ssnp-25c3c847",
-      "title": "PHPの脆弱性に関する当社サービスの対応状況について",
-      "url": "https://www.ssnp.co.jp/release/708277/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "release",
-      "date": "2026-10-22",
-      "tags": []
     }
   ]
 }
