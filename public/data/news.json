@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-03T13:26:32.957Z",
+  "lastUpdated": "2026-11-03T22:46:20.876Z",
   "items": [
+    {
+      "id": "diamond-d594117f",
+      "title": "逆風下でも攻めるベルク！100円おにぎりと鮮魚強化で客数回復ねらう",
+      "url": "https://diamond-rm.net/market/accounting/562349/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-04",
+      "tags": [
+        "ベルク",
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-caf5c288",
+      "title": "イオン「そよら」茨城初進出！激戦区で勝負する食品MDの全貌",
+      "url": "https://diamond-rm.net/store/562324/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-04",
+      "tags": [
+        "イオン",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-b2ba90ad",
+      "title": "リテールパートナーズ、4期連続増収も営業減益　垂直型M&Aでめざす新たな成長",
+      "url": "https://diamond-rm.net/market/562360/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-04",
+      "tags": [
+        "M&A",
+        "増収",
+        "減益"
+      ]
+    },
+    {
+      "id": "diamond-c1a7dc0f",
+      "title": "リドルが活用開始!「運転席自体がない」自動運転トラックのすごさ",
+      "url": "https://diamond-rm.net/management/supply-chain/561421/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-04",
+      "tags": []
+    },
     {
       "id": "ryutsuu-a51dd2f6",
       "title": "猿田彦珈琲／「皇居東御苑店」11月3日オープン、限定ブレンドを提供",
@@ -42,18 +92,6 @@
       ]
     },
     {
-      "id": "diamond-2a21cc2b",
-      "title": "コンビニスイーツに今何を学ぶべきか？専門家が大手3社のコンビニスイーツを徹底比較＆考察",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/561420/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-11-03",
-      "tags": [
-        "コンビニ"
-      ]
-    },
-    {
       "id": "diamond-985a994b",
       "title": "第２１３回　「売り上げがあらゆる問題点を解決した」",
       "url": "https://diamond-rm.net/life-career/546357/",
@@ -82,6 +120,18 @@
       "category": "sales-promotion",
       "date": "2026-11-03",
       "tags": []
+    },
+    {
+      "id": "diamond-2a21cc2b",
+      "title": "コンビニスイーツに今何を学ぶべきか？専門家が大手3社のコンビニスイーツを徹底比較＆考察",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/561420/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-11-03",
+      "tags": [
+        "コンビニ"
+      ]
     },
     {
       "id": "ssnp-51197fe6",
@@ -291,19 +341,6 @@
       "tags": []
     },
     {
-      "id": "diamond-65ad20de",
-      "title": "もう服は自分で探さない？ZOZOが仕掛けるAIエージェント戦略",
-      "url": "https://diamond-rm.net/market/562271/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-11-02",
-      "tags": [
-        "ZOZO",
-        "AI"
-      ]
-    },
-    {
       "id": "diamond-44cdf18a",
       "title": "PPIH の新フォーマット「ロビン・フッド」続々出店！ 最新 2 店舗の全容をレポート",
       "url": "https://diamond-rm.net/store/newstorereport/552458/",
@@ -339,16 +376,6 @@
       ]
     },
     {
-      "id": "diamond-6083287a",
-      "title": "スンドゥブ市場、健康志向と内食需要高まり追い風に「スンドゥブの素」で家庭での喫食機会拡大へ",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/561440/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-11-02",
-      "tags": []
-    },
-    {
       "id": "diamond-79417e3c",
       "title": "生鮮からベーカリーまで地場産品だらけ! ライフ鎌倉梶原店のローカライズ戦略",
       "url": "https://diamond-rm.net/store/newstorereport/561423/",
@@ -376,6 +403,29 @@
         "生鮮",
         "出店"
       ]
+    },
+    {
+      "id": "diamond-65ad20de",
+      "title": "もう服は自分で探さない？ZOZOが仕掛けるAIエージェント戦略",
+      "url": "https://diamond-rm.net/market/562271/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-02",
+      "tags": [
+        "ZOZO",
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-6083287a",
+      "title": "スンドゥブ市場、健康志向と内食需要高まり追い風に「スンドゥブの素」で家庭での喫食機会拡大へ",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/561440/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-11-02",
+      "tags": []
     },
     {
       "id": "ssnp-5572992b",
@@ -1162,20 +1212,6 @@
       "tags": []
     },
     {
-      "id": "diamond-9acc41b0",
-      "title": "【食品スーパー視察完全ガイド】大阪・豊中＆吹田　関西内外の実力派が大集積！",
-      "url": "https://diamond-rm.net/store/storevisit/561438/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-29",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-28b0b479",
       "title": "全店24時間営業のハローズ、コンビニからも客を奪う独自モデルの強さ",
       "url": "https://diamond-rm.net/market/562069/",
@@ -1372,6 +1408,20 @@
       "category": "foodservice",
       "date": "2026-10-29",
       "tags": []
+    },
+    {
+      "id": "diamond-9acc41b0",
+      "title": "【食品スーパー視察完全ガイド】大阪・豊中＆吹田　関西内外の実力派が大集積！",
+      "url": "https://diamond-rm.net/store/storevisit/561438/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-29",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
     },
     {
       "id": "diamond-265024ad",
@@ -3099,18 +3149,6 @@
       ]
     },
     {
-      "id": "diamond-a80ba892",
-      "title": "マックスバリュ東海　営業収益は過去最高を更新も既存店は売上高・客数・客単価ともに苦戦",
-      "url": "https://diamond-rm.net/market/561227/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-23",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
       "id": "diamond-66683eec",
       "title": "食品の消費減税でスーパーの総菜は売れるのか？外食需要を奪うための2つの条件",
       "url": "https://diamond-rm.net/sales-promotion/561240/",
@@ -3122,6 +3160,18 @@
         "スーパー",
         "外食",
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-a80ba892",
+      "title": "マックスバリュ東海　営業収益は過去最高を更新も既存店は売上高・客数・客単価ともに苦戦",
+      "url": "https://diamond-rm.net/market/561227/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-23",
+      "tags": [
+        "売上高"
       ]
     },
     {
@@ -3443,55 +3493,6 @@
       "category": "売上",
       "date": "2026-10-23",
       "tags": []
-    },
-    {
-      "id": "diamond-7aa0e201",
-      "title": "第２０６回　三宮に出現した超高能率商店",
-      "url": "https://diamond-rm.net/life-career/546350/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-23",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-0957e875",
-      "title": "日本ショッピングセンター協会／メルマガ配信サービスに不正アクセス",
-      "url": "https://www.ryutsuu.biz/it/s102315.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-10-23",
-      "tags": [
-        "ショッピングセンター"
-      ]
-    },
-    {
-      "id": "diamond-88eb0714",
-      "title": "ヤオコーが「まるひろ入間SC店」をオープン! 狭山・入間エリアのドミナント強化へ",
-      "url": "https://diamond-rm.net/store/newstorereport/561244/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-23",
-      "tags": [
-        "ヤオコー",
-        "オープン",
-        "SC"
-      ]
-    },
-    {
-      "id": "ryutsuu-d1337e28",
-      "title": "ベイシア／長野県千曲市「更埴店」10月23日リニューアル、総菜強化・レイアウト刷新",
-      "url": "https://www.ryutsuu.biz/store/s102272.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-23",
-      "tags": [
-        "リニューアル",
-        "ベイシア"
-      ]
     }
   ]
 }
