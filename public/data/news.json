@@ -1,6 +1,92 @@
 {
-  "lastUpdated": "2026-11-02T14:29:25.618Z",
+  "lastUpdated": "2026-11-03T00:19:16.644Z",
   "items": [
+    {
+      "id": "ryutsuu-a51dd2f6",
+      "title": "猿田彦珈琲／「皇居東御苑店」11月3日オープン、限定ブレンドを提供",
+      "url": "https://www.ryutsuu.biz/store/s110241.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-03",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "diamond-781a76f7",
+      "title": "ローソン×無印良品、初の共同開発ミスト発売！人気の香りを商品化【週刊コンビニニュース】",
+      "url": "https://diamond-rm.net/management/562313/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-03",
+      "tags": [
+        "ローソン",
+        "無印良品",
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-f06ccc6d",
+      "title": "東京のホームセンター売上高ランキング！カインズを抑えた1位は？",
+      "url": "https://diamond-rm.net/market/562355/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-03",
+      "tags": [
+        "ホームセンター",
+        "カインズ",
+        "売上高"
+      ]
+    },
+    {
+      "id": "diamond-2a21cc2b",
+      "title": "コンビニスイーツに今何を学ぶべきか？専門家が大手3社のコンビニスイーツを徹底比較＆考察",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/561420/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-11-03",
+      "tags": [
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-162f6dc2",
+      "title": "卸オリジナル商品市場、独自性のある付加価値型商品を強化　健康・簡便ニーズに対応",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/561441/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "id": "ssnp-51197fe6",
+      "title": "ローソンストア100「デカ盛りチャレンジ」開催　たまごサンド3組入り、ハムカツ2倍など全12品\n\t\t\t\t\t\t\t\t\t\t\t\tローソンストア100は11月4日から17日までの2週間、「デカ盛りチャレンジ」を開催する。価格はそのままに、具材や内容量を増量した全12品を販売する。 第1弾では、定番の「たまごサンド」を価格据え置きで1組増量した「トリ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/709823/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-11-03",
+      "tags": [
+        "ローソン"
+      ]
+    },
+    {
+      "id": "ssnp-4176db1e",
+      "title": "KFC「ケンタライスBOX」発売　骨なしオリジナルチキンと鶏だしご飯を組み合わせ、690円～\n\t\t\t\t\t\t\t\t\t\t\t\t日本ケンタッキー・フライド・チキンは11月4日から、一部のケンタッキーフライドチキン（KFC）店舗で、新商品「ケンタライスBOX」を数量限定で発売する。価格は税込690円から。 鶏だしを使った炊き込みご飯に「骨なしオリジ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/709810/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-03",
+      "tags": [
+        "FC"
+      ]
+    },
     {
       "id": "ryutsuu-738d38d1",
       "title": "酒々井プレミアム・アウトレット／11～12月、7店舗を新規・リニューアルオープン",
@@ -198,18 +284,6 @@
       ]
     },
     {
-      "id": "diamond-e30f1a2d",
-      "title": "ヤマザワは巻き返せるか？秋田撤退、旗艦店苦戦の厳しい現実",
-      "url": "https://diamond-rm.net/market/accounting/562278/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-11-02",
-      "tags": [
-        "撤退"
-      ]
-    },
-    {
       "id": "diamond-44cdf18a",
       "title": "PPIH の新フォーマット「ロビン・フッド」続々出店！ 最新 2 店舗の全容をレポート",
       "url": "https://diamond-rm.net/store/newstorereport/552458/",
@@ -268,6 +342,18 @@
       ]
     },
     {
+      "id": "diamond-e30f1a2d",
+      "title": "ヤマザワは巻き返せるか？秋田撤退、旗艦店苦戦の厳しい現実",
+      "url": "https://diamond-rm.net/market/accounting/562278/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-02",
+      "tags": [
+        "撤退"
+      ]
+    },
+    {
       "id": "diamond-c6e121bf",
       "title": "平和堂が食品スーパーを富山で初出店！生鮮強化型の売場づくりをレポート",
       "url": "https://diamond-rm.net/store/newstorereport/561422/",
@@ -285,7 +371,7 @@
     },
     {
       "id": "ssnp-5572992b",
-      "title": "JACK IN THE DONUTS、ザッハトルテやブッシュドノエルをイメージしたクリスマスドーナツ5品を発売\n\t\t\t\t\t\t\t\t\t\t\t\t『JACK IN THE DONUTS(ジャックインザドーナツ)』は、11月5日からクリスマスドーナツを販売する。全国の計36店舗で取り扱う。 2026年のクリスマスドーナツは、「クリスマスを楽しもう!」をテーマに、サン...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "JACK IN THE DONUTS、ザッハトルテやブッシュドノエルをイメージしたクリスマスドーナツ5品を発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/709850/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -295,15 +381,13 @@
     },
     {
       "id": "ssnp-f4c4e230",
-      "title": "セブン‐イレブン、朝ドラ「ブラッサム」連動の『大正浪漫フェア』を地域限定で開催、洋食・パン・スイーツ全5品をラインアップ\n\t\t\t\t\t\t\t\t\t\t\t\tセブン‐イレブン･ジャパンは、NHK連続テレビ小説「ブラッサム」と連動したグルメ企画『「旨い」が「幸せ」になる 大正浪漫フェア』を、主人公の出生地･山口県のセブン-イレブン店舗で、11月3日から11月16日までの間、開催...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "セブン‐イレブン、朝ドラ「ブラッサム」連動の『大正浪漫フェア』を地域限定で開催、洋食・パン・スイーツ全5品をラインアップ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/709820/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
       "date": "2026-11-02",
-      "tags": [
-        "セブン-イレブン"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-02b1adef",
@@ -475,16 +559,6 @@
       ]
     },
     {
-      "id": "diamond-e19df355",
-      "title": "流通秀書　第53回『チェーンストア・米国百年史』レブハー/著",
-      "url": "https://diamond-rm.net/life-career/557918/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-31",
-      "tags": []
-    },
-    {
       "id": "ssnp-8a1054b9",
       "title": "世田谷パン祭り2026開幕、全国から260店舗が集結　限定パンや多彩な企画を展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/rice/709638/",
@@ -537,6 +611,16 @@
       ]
     },
     {
+      "id": "diamond-e19df355",
+      "title": "流通秀書　第53回『チェーンストア・米国百年史』レブハー/著",
+      "url": "https://diamond-rm.net/life-career/557918/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-10-31",
+      "tags": []
+    },
+    {
       "id": "ryutsuu-7c390a6e",
       "title": "プロガイド／カインズ、ワークマンなど登壇「ストアソリューションフォーラム」11月18～20日開催",
       "url": "https://www.ryutsuu.biz/seminar/s103077.html",
@@ -563,16 +647,6 @@
         "出店",
         "社長"
       ]
-    },
-    {
-      "id": "diamond-15a816a0",
-      "title": "第２１１回　流通革命の狼煙が上がる",
-      "url": "https://diamond-rm.net/life-career/546355/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-30",
-      "tags": []
     },
     {
       "id": "diamond-6711de7d",
@@ -742,6 +816,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-10-30",
+      "tags": []
+    },
+    {
+      "id": "diamond-15a816a0",
+      "title": "第２１１回　流通革命の狼煙が上がる",
+      "url": "https://diamond-rm.net/life-career/546355/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-10-30",
       "tags": []
     },
@@ -2034,20 +2118,6 @@
       ]
     },
     {
-      "id": "diamond-7e09ab27",
-      "title": "【食品スーパー視察完全ガイド】埼玉・川口　県内屈指の人口増エリア　各社の戦術を徹底比較！",
-      "url": "https://diamond-rm.net/store/storevisit/561433/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-27",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
-      ]
-    },
-    {
       "id": "diamond-c7ad4a3d",
       "title": "【動画】10月4週目の注目ニュースまとめ、 食品スーパー各社の中間決算のニュースなど",
       "url": "https://diamond-rm.net/management/businessplan/561883/",
@@ -2316,6 +2386,20 @@
       "tags": []
     },
     {
+      "id": "diamond-7e09ab27",
+      "title": "【食品スーパー視察完全ガイド】埼玉・川口　県内屈指の人口増エリア　各社の戦術を徹底比較！",
+      "url": "https://diamond-rm.net/store/storevisit/561433/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-27",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
+    },
+    {
       "id": "diamond-cc034567",
       "title": "【食品スーパー視察完全ガイド】千葉・浦安　ヤオコー＆トライアルが攻勢仕掛け環境激変！？",
       "url": "https://diamond-rm.net/store/storevisit/561434/",
@@ -2442,18 +2526,6 @@
       "date": "2026-10-27",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "diamond-c99d51e8",
-      "title": "平和堂のお膝元で生き残る！たった1店舗のスーパー「パリヤ」が実践する驚きの顧客戦略",
-      "url": "https://diamond-rm.net/management/561680/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-26",
-      "tags": [
-        "スーパー"
       ]
     },
     {
@@ -2606,6 +2678,18 @@
       "date": "2026-10-26",
       "tags": [
         "菓子"
+      ]
+    },
+    {
+      "id": "diamond-c99d51e8",
+      "title": "平和堂のお膝元で生き残る！たった1店舗のスーパー「パリヤ」が実践する驚きの顧客戦略",
+      "url": "https://diamond-rm.net/management/561680/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-26",
+      "tags": [
+        "スーパー"
       ]
     },
     {
@@ -3400,102 +3484,12 @@
       "tags": []
     },
     {
-      "id": "diamond-521d424b",
-      "title": "アークス、上期売上高が過去最高！改装店の売上を3割増やした戦略とは",
-      "url": "https://diamond-rm.net/market/561219/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-22",
-      "tags": [
-        "売上高",
-        "改装"
-      ]
-    },
-    {
       "id": "ssnp-25c3c847",
       "title": "PHPの脆弱性に関する当社サービスの対応状況について",
       "url": "https://www.ssnp.co.jp/release/708277/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "release",
-      "date": "2026-10-22",
-      "tags": []
-    },
-    {
-      "id": "diamond-df788c71",
-      "title": "イオン九州、過去最高売上も大幅減益！積極出店とM&Aの光と影",
-      "url": "https://diamond-rm.net/market/accounting/561184/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-22",
-      "tags": [
-        "イオン",
-        "M&A",
-        "出店",
-        "減益"
-      ]
-    },
-    {
-      "id": "ryutsuu-62abd2cb",
-      "title": "ドラッグストアの食品戦略 第2回スギHD／トライアルと連携、総菜で客数アップ",
-      "url": "https://www.ryutsuu.biz/strategy/s102211.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-22",
-      "tags": [
-        "連載",
-        "ドラッグストア",
-        "トライアル",
-        "ドラッグ",
-        "食品"
-      ]
-    },
-    {
-      "id": "ryutsuu-24369063",
-      "title": "イオン／グループのウェブサイトに不正アクセス、安全確認を実施中",
-      "url": "https://www.ryutsuu.biz/strategy/s102241.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-22",
-      "tags": [
-        "イオン"
-      ]
-    },
-    {
-      "id": "ssnp-4f09713b",
-      "title": "大塚製薬栄養素カレッジ、新・骨活&筋活コンディショニングセミナー開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/708285/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-10-22",
-      "tags": []
-    },
-    {
-      "id": "ssnp-3afcab91",
-      "title": "ツルハHD、新PB「からだとくらしに+1」を発表　質と価格などを追求　食品も拡充\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/708281/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-22",
-      "tags": [
-        "ツルハ",
-        "食品",
-        "PB"
-      ]
-    },
-    {
-      "id": "ssnp-93964e03",
-      "title": "JA全農とちぎ、栃木米アンバサダーのU字工事が出演する新CM発表\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/rice/708267/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "米",
       "date": "2026-10-22",
       "tags": []
     }
