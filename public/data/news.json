@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-11-04T13:37:24.661Z",
+  "lastUpdated": "2026-11-04T23:04:21.476Z",
   "items": [
+    {
+      "id": "ryutsuu-f4ae78f0",
+      "title": "プレナス／「やよい軒 調布駅北口店」11月5日オープン",
+      "url": "https://www.ryutsuu.biz/store/s110418.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-05",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "diamond-02ff944f",
+      "title": "オーケーが関西13店舗目の「長吉店」をオープン！　関西進出約2年で加速するローカライズ戦略",
+      "url": "https://diamond-rm.net/store/newstorereport/562416/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-05",
+      "tags": [
+        "オーケー",
+        "オープン"
+      ]
+    },
+    {
+      "id": "diamond-26253d67",
+      "title": "ブルーゾーンHD傘下のクックマート、浜松市に新店【大店立地法速報】",
+      "url": "https://diamond-rm.net/store/562690/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-05",
+      "tags": [
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-40661a4c",
+      "title": "即席麺市場、価格改定下でも底堅く　品質強化と新提案で需要喚起",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/561443/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-11-05",
+      "tags": [
+        "価格改定"
+      ]
+    },
+    {
+      "id": "diamond-beaf240e",
+      "title": "本田屋×建デポ、プロショップのMD戦略を語る　職人に選ばれる店づくり",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/562205/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "id": "diamond-87cb7872",
+      "title": "小売業の株式上場は、いつまで「葵の御紋」であり続けるか？",
+      "url": "https://diamond-rm.net/management/businessplan/561427/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-05",
+      "tags": [
+        "上場"
+      ]
+    },
+    {
+      "id": "ssnp-302ead82",
+      "title": "コメダ珈琲店「2027年福袋」は2種類　6100円から、スエード風バッグやブランケット、コーヒーチケットなど\n\t\t\t\t\t\t\t\t\t\t\t\t株式会社コメダは、全国の「コメダ珈琲店」で11月11日から、数量限定の「2027年コメダの福袋」の予約受付を順次開始する。 2027年は「コメダとくつろぐお正月」をテーマに、「寿（ことぶき）」「慶（よろこび）」の2種類を...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710097/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-05",
+      "tags": []
+    },
     {
       "id": "ryutsuu-3f6a9388",
       "title": "ユニクロ／10月の既存店売上高5.5％減に、気温上がり冬物商品が伸び悩む",
@@ -242,7 +323,7 @@
     },
     {
       "id": "ssnp-62302396",
-      "title": "ロイズ、ブルックラディ蒸留所のウイスキーを使用したチョコ2種を期間･数量限定で発売\n\t\t\t\t\t\t\t\t\t\t\t\tロイズコンフェクトは、「ウイスキーの聖地」と言われるスコットランド･アイラ島にあるブルックラディ蒸留所のウイスキーを使用した2種の限定商品を、2026年11月4日からロイズ通信販売･直営店で期間･数量限定で販売開始した。...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ロイズ、ブルックラディ蒸留所のウイスキーを使用したチョコ2種を期間･数量限定で発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/710111/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -449,16 +530,6 @@
       "tags": []
     },
     {
-      "id": "diamond-985a994b",
-      "title": "第２１３回　「売り上げがあらゆる問題点を解決した」",
-      "url": "https://diamond-rm.net/life-career/546357/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-03",
-      "tags": []
-    },
-    {
       "id": "diamond-6d687998",
       "title": "＃14 サントリー、最新CES、NRFの衝撃から切り開くメーカー戦略",
       "url": "https://diamond-rm.net/technology/562382/",
@@ -467,6 +538,20 @@
       "category": "テクノロジー",
       "date": "2026-11-03",
       "tags": []
+    },
+    {
+      "id": "diamond-781a76f7",
+      "title": "ローソン×無印良品、初の共同開発ミスト発売！人気の香りを商品化【週刊コンビニニュース】",
+      "url": "https://diamond-rm.net/management/562313/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-03",
+      "tags": [
+        "ローソン",
+        "無印良品",
+        "コンビニ"
+      ]
     },
     {
       "id": "diamond-f06ccc6d",
@@ -491,20 +576,6 @@
       "category": "sales-promotion",
       "date": "2026-11-03",
       "tags": []
-    },
-    {
-      "id": "diamond-781a76f7",
-      "title": "ローソン×無印良品、初の共同開発ミスト発売！人気の香りを商品化【週刊コンビニニュース】",
-      "url": "https://diamond-rm.net/management/562313/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-03",
-      "tags": [
-        "ローソン",
-        "無印良品",
-        "コンビニ"
-      ]
     },
     {
       "id": "diamond-2a21cc2b",
@@ -541,6 +612,16 @@
       "tags": [
         "FC"
       ]
+    },
+    {
+      "id": "diamond-985a994b",
+      "title": "第２１３回　「売り上げがあらゆる問題点を解決した」",
+      "url": "https://diamond-rm.net/life-career/546357/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-03",
+      "tags": []
     },
     {
       "id": "ryutsuu-a51dd2f6",
@@ -644,18 +725,6 @@
       ]
     },
     {
-      "id": "diamond-e30f1a2d",
-      "title": "ヤマザワは巻き返せるか？秋田撤退、旗艦店苦戦の厳しい現実",
-      "url": "https://diamond-rm.net/market/accounting/562278/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-11-02",
-      "tags": [
-        "撤退"
-      ]
-    },
-    {
       "id": "diamond-9d5636c2",
       "title": "【DCS最新号】11月01日号は「スーパーマーケット視察完全ガイド2026」",
       "url": "https://diamond-rm.net/store/storevisit/562136/",
@@ -678,22 +747,6 @@
       "tags": [
         "ライフ",
         "生鮮"
-      ]
-    },
-    {
-      "id": "diamond-c6e121bf",
-      "title": "平和堂が食品スーパーを富山で初出店！生鮮強化型の売場づくりをレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/561422/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-02",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品",
-        "生鮮",
-        "出店"
       ]
     },
     {
@@ -860,6 +913,34 @@
       "category": "foodservice",
       "date": "2026-11-02",
       "tags": []
+    },
+    {
+      "id": "diamond-e30f1a2d",
+      "title": "ヤマザワは巻き返せるか？秋田撤退、旗艦店苦戦の厳しい現実",
+      "url": "https://diamond-rm.net/market/accounting/562278/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-02",
+      "tags": [
+        "撤退"
+      ]
+    },
+    {
+      "id": "diamond-c6e121bf",
+      "title": "平和堂が食品スーパーを富山で初出店！生鮮強化型の売場づくりをレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/561422/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-02",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品",
+        "生鮮",
+        "出店"
+      ]
     },
     {
       "id": "ryutsuu-127c2235",
@@ -1153,30 +1234,6 @@
       ]
     },
     {
-      "id": "diamond-a60b5582",
-      "title": "【食品スーパー視察完全ガイド】大阪・大阪市中心部　関西小売の「都市型店舗」に学ぶ！",
-      "url": "https://diamond-rm.net/store/storevisit/561439/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-30",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-98e31952",
-      "title": "ボンドロブームの熱狂に考える、「マネと模倣」のマーケティング",
-      "url": "https://diamond-rm.net/sales-promotion/561988/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-10-30",
-      "tags": []
-    },
-    {
       "id": "diamond-b1981404",
       "title": "業態別　主要店舗月次実績＝2026年9月度",
       "url": "https://diamond-rm.net/retaildata/562201/",
@@ -1307,6 +1364,30 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-10-30",
+      "tags": []
+    },
+    {
+      "id": "diamond-a60b5582",
+      "title": "【食品スーパー視察完全ガイド】大阪・大阪市中心部　関西小売の「都市型店舗」に学ぶ！",
+      "url": "https://diamond-rm.net/store/storevisit/561439/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-10-30",
+      "tags": [
+        "食品スーパー",
+        "スーパー",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-98e31952",
+      "title": "ボンドロブームの熱狂に考える、「マネと模倣」のマーケティング",
+      "url": "https://diamond-rm.net/sales-promotion/561988/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
       "date": "2026-10-30",
       "tags": []
     },
@@ -2093,32 +2174,6 @@
       ]
     },
     {
-      "id": "diamond-7b7dcf44",
-      "title": "コーナン、営業利益20％増の快進撃！成長を牽引するプロ事業とアレンザ連携のねらい",
-      "url": "https://diamond-rm.net/market/accounting/561870/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-28",
-      "tags": [
-        "コーナン",
-        "営業利益"
-      ]
-    },
-    {
-      "id": "diamond-e0c1e25a",
-      "title": "イオンリテールの化粧品カテゴリーが好調の理由",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/561419/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-10-28",
-      "tags": [
-        "イオン",
-        "化粧品"
-      ]
-    },
-    {
       "id": "diamond-982ccb68",
       "title": "業態別統計データ 2026年 ホームセンター",
       "url": "https://diamond-rm.net/retaildata/538319/",
@@ -2321,6 +2376,32 @@
       "category": "飲料",
       "date": "2026-10-28",
       "tags": []
+    },
+    {
+      "id": "diamond-7b7dcf44",
+      "title": "コーナン、営業利益20％増の快進撃！成長を牽引するプロ事業とアレンザ連携のねらい",
+      "url": "https://diamond-rm.net/market/accounting/561870/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-28",
+      "tags": [
+        "コーナン",
+        "営業利益"
+      ]
+    },
+    {
+      "id": "diamond-e0c1e25a",
+      "title": "イオンリテールの化粧品カテゴリーが好調の理由",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/561419/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-10-28",
+      "tags": [
+        "イオン",
+        "化粧品"
+      ]
     },
     {
       "id": "diamond-6eea08cb",
@@ -2609,19 +2690,6 @@
       ]
     },
     {
-      "id": "diamond-b1bf9926",
-      "title": "セブン、「7NOW」の全機能をLINEミニアプリに搭載【週刊コンビニニュース】",
-      "url": "https://diamond-rm.net/management/561861/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-27",
-      "tags": [
-        "コンビニ",
-        "アプリ"
-      ]
-    },
-    {
       "id": "diamond-9ddf3e24",
       "title": "＃13 サントリーはCES・NRF海外視察から何を学ぶのか！？",
       "url": "https://diamond-rm.net/overseas/american_economy/561935/",
@@ -2760,6 +2828,19 @@
       "category": "流通",
       "date": "2026-10-27",
       "tags": []
+    },
+    {
+      "id": "diamond-b1bf9926",
+      "title": "セブン、「7NOW」の全機能をLINEミニアプリに搭載【週刊コンビニニュース】",
+      "url": "https://diamond-rm.net/management/561861/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-27",
+      "tags": [
+        "コンビニ",
+        "アプリ"
+      ]
     },
     {
       "id": "ssnp-76ad60fb",
@@ -3419,84 +3500,6 @@
       "tags": [
         "百貨店"
       ]
-    },
-    {
-      "id": "diamond-579d4c53",
-      "title": "今年も大公開！今見るべき食品スーパーの注目店＆視察必須のエリアとは？",
-      "url": "https://diamond-rm.net/store/storevisit/561431/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-26",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-dc1e31fb",
-      "title": "ベイシア・三心の強みを融合させたプロトタイプ！「ベイシアフーズパーク岐南店」をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/559691/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-26",
-      "tags": [
-        "ベイシア"
-      ]
-    },
-    {
-      "id": "ssnp-cd189eb3",
-      "title": "全清飲、容器リサイクルの消費者意識調査を実施資源を大切にしたいと回答76.6%、自販機横の異物投入は約3割\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/708541/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-10-25",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f6385719",
-      "title": "UCC「Largo(ラルゴ)」、ミシュランガイドと提携 飲食店のコーヒー体験価値向上へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/708534/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-10-25",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f44a44dd",
-      "title": "シャトレーゼ「七五三」向けケーキ4品発売　ねことうさぎのデコレーションやパンダ、トラのミニケーキ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/708462/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-25",
-      "tags": []
-    },
-    {
-      "id": "ssnp-85b12064",
-      "title": "ランディーズドーナツ、押上にテイクアウト専門の「東京スカイツリータウン･ソラマチ店」をオープン!限定商品の販売やキャンペーンの開催も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/707666/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-25",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ssnp-893a142f",
-      "title": "牡蠣のクリームスープパスタ&牡蠣ときのこのアヒージョが登場!【ココス「今月のグルメ～11月～」】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/708318/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-24",
-      "tags": []
     }
   ]
 }
