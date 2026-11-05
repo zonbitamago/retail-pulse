@@ -1,6 +1,68 @@
 {
-  "lastUpdated": "2026-11-04T23:04:21.476Z",
+  "lastUpdated": "2026-11-05T04:40:13.757Z",
   "items": [
+    {
+      "id": "ryutsuu-748a8782",
+      "title": "エトモあざみ野／「ブランジェ浅野屋 あざみ野 東急フードショースライス店」オープン",
+      "url": "https://www.ryutsuu.biz/store/s110573.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-05",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-06e7822d",
+      "title": "エディオン 決算／4～9月エアコン好調で営業利益73％増、通期予想を上方修正",
+      "url": "https://www.ryutsuu.biz/accounts/s110543.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-11-05",
+      "tags": [
+        "営業利益",
+        "決算"
+      ]
+    },
+    {
+      "id": "ryutsuu-e89c5dac",
+      "title": "伊藤忠食品 決算／4～9月増収減益",
+      "url": "https://www.ryutsuu.biz/accounts/s110512.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-11-05",
+      "tags": [
+        "食品",
+        "決算",
+        "増収",
+        "減益"
+      ]
+    },
+    {
+      "id": "ryutsuu-af122325",
+      "title": "モスフードサービス／モスWEB会員751万件の顧客情報流出",
+      "url": "https://www.ryutsuu.biz/it/s110511.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-eff39039",
+      "title": "無印良品／不正アクセスでクレカ情報109万件流出の可能性、当初は否定も新たに判明",
+      "url": "https://www.ryutsuu.biz/strategy/s110542.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-05",
+      "tags": [
+        "無印良品"
+      ]
+    },
     {
       "id": "ryutsuu-f4ae78f0",
       "title": "プレナス／「やよい軒 調布駅北口店」11月5日オープン",
@@ -73,14 +135,110 @@
       ]
     },
     {
+      "id": "ssnp-81e4144d",
+      "title": "ビーフパティ4枚・チーズ4枚、総重量513g・総カロリー1,579kcaの超大型バーガー「ギルティ ザ・ワンパウンダー」発売【バーガーキング】\n\t\t\t\t\t\t\t\t\t\t\t\tバーガーキングは11月6日、直火焼きの100％ビーフパティを4枚使用した超大型バーガー「ギルティ ザ・ワンパウンダー」を期間・数量限定で発売する。価格は単品2490円、セット2790円。 同商品は、2026年の「ワンパウ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710192/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "id": "ssnp-8fd95bde",
+      "title": "KFC「生姜香る温辛チキン」新登場　生姜の香りと唐辛子の旨辛さ、開発に約1年3カ月\n\t\t\t\t\t\t\t\t\t\t\t\t日本ケンタッキー・フライド・チキンは11月11日から、全国のケンタッキーフライドチキン（KFC）店舗で「生姜香る温辛チキン」を数量限定で発売する。価格は1ピース税込350円。なくなり次第販売を終了する。 「生姜香る温辛チ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710184/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-05",
+      "tags": [
+        "FC"
+      ]
+    },
+    {
+      "id": "ssnp-efe3fdb9",
+      "title": "セブン‐イレブン「中華蕎麦とみ田監修 豚ラーメン」再発売、ワシワシ麺×濃厚豚骨醤油のカップ麺\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/noodles/710171/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "noodles",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "id": "ssnp-3abe6f43",
+      "title": "上島珈琲店「HAPPY BAG 2027」予約開始　6000円・1万1000円の2種類、神戸タータンバッグやコーヒー入り\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710162/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "id": "ssnp-875cf371",
+      "title": "ブロンコビリー「冬のブロンコビュッフェ」開始　小松菜のパスタや3品種のりんごゼリーなど4品\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710141/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
       "id": "ssnp-302ead82",
-      "title": "コメダ珈琲店「2027年福袋」は2種類　6100円から、スエード風バッグやブランケット、コーヒーチケットなど\n\t\t\t\t\t\t\t\t\t\t\t\t株式会社コメダは、全国の「コメダ珈琲店」で11月11日から、数量限定の「2027年コメダの福袋」の予約受付を順次開始する。 2027年は「コメダとくつろぐお正月」をテーマに、「寿（ことぶき）」「慶（よろこび）」の2種類を...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "コメダ珈琲店「2027年福袋」は2種類　6100円から、スエード風バッグやブランケット、コーヒーチケットなど\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/710097/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-11-05",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-25b704dd",
+      "title": "サミット 決算／4～9月、売上高は過去最高もコスト増を吸収できず減益に",
+      "url": "https://www.ryutsuu.biz/accounts/s110442.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-11-04",
+      "tags": [
+        "注目",
+        "サミット",
+        "売上高",
+        "決算",
+        "減益"
+      ]
+    },
+    {
+      "id": "ryutsuu-b2dee6e9",
+      "title": "サミット／コルモピア事業の譲渡、服部社長「去年から仕入れが厳しくなってきていた」",
+      "url": "https://www.ryutsuu.biz/strategy/s110443.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-04",
+      "tags": [
+        "サミット",
+        "社長"
+      ]
+    },
+    {
+      "id": "ryutsuu-3fe670c6",
+      "title": "大手百貨店／10月売上高三越伊勢丹10.9％増、H2Oは13.2％増",
+      "url": "https://www.ryutsuu.biz/sales/s110412.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-04",
+      "tags": [
+        "三越伊勢丹",
+        "H2O",
+        "百貨店",
+        "売上高"
+      ]
     },
     {
       "id": "ryutsuu-3f6a9388",
@@ -201,19 +359,6 @@
       ]
     },
     {
-      "id": "ryutsuu-da40e6f6",
-      "title": "コメリ／10月の既存店売上高3.0％増、好天で農業用品好調",
-      "url": "https://www.ryutsuu.biz/sales/s110473.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-11-04",
-      "tags": [
-        "コメリ",
-        "売上高"
-      ]
-    },
-    {
       "id": "diamond-e450c0bf",
       "title": "中間期は増収減益のサミット　服部社長が語る「しまむらへの事業譲渡」の決断",
       "url": "https://diamond-rm.net/market/accounting/562695/",
@@ -313,7 +458,7 @@
     },
     {
       "id": "ssnp-2196315e",
-      "title": "【宇奈とと】販売１万食を突破した「うなテラ丼」が販売延長、鰻と唐揚げを盛った新作「うなから丼」も登場\n\t\t\t\t\t\t\t\t\t\t\t\tうな丼チェーンの「名代 宇奈とと」は、11月6日から12月6日まで、新商品「うなから丼」を直営13店舗で販売する。価格は税込1,200円から。炭火で焼いた鰻の蒲焼と唐揚げを一緒に盛り付けた商品で、並盛から総重量1kg超の...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【宇奈とと】販売１万食を突破した「うなテラ丼」が販売延長、鰻と唐揚げを盛った新作「うなから丼」も登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/710127/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -530,6 +675,19 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-da40e6f6",
+      "title": "コメリ／10月の既存店売上高3.0％増、好天で農業用品好調",
+      "url": "https://www.ryutsuu.biz/sales/s110473.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-04",
+      "tags": [
+        "コメリ",
+        "売上高"
+      ]
+    },
+    {
       "id": "diamond-6d687998",
       "title": "＃14 サントリー、最新CES、NRFの衝撃から切り開くメーカー戦略",
       "url": "https://diamond-rm.net/technology/562382/",
@@ -633,57 +791,6 @@
       "date": "2026-11-03",
       "tags": [
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-44d6d115",
-      "title": "PPIH／ドンキなど国内外でグループ1000店舗突破、トイザらス154店舗を取得",
-      "url": "https://www.ryutsuu.biz/store/s110216.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-02",
-      "tags": [
-        "PPIH"
-      ]
-    },
-    {
-      "id": "ryutsuu-0b69679c",
-      "title": "PPIH／27年2月に「Olympic」3店舗を業態転換、ロビン・フッドとMEGAドンキに",
-      "url": "https://www.ryutsuu.biz/store/s110248.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-02",
-      "tags": [
-        "PPIH"
-      ]
-    },
-    {
-      "id": "ryutsuu-738d38d1",
-      "title": "酒々井プレミアム・アウトレット／11～12月、7店舗を新規・リニューアルオープン",
-      "url": "https://www.ryutsuu.biz/store/s110212.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-02",
-      "tags": [
-        "アウトレット",
-        "リニューアル",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-82977729",
-      "title": "はるやま商事／「ほっとひと息ステーション」FC募集を開始、遊休スペースを収益化",
-      "url": "https://www.ryutsuu.biz/store/s110215.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-02",
-      "tags": [
-        "はるやま",
-        "FC"
       ]
     },
     {
@@ -913,6 +1020,57 @@
       "category": "foodservice",
       "date": "2026-11-02",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-44d6d115",
+      "title": "PPIH／ドンキなど国内外でグループ1000店舗突破、トイザらス154店舗を取得",
+      "url": "https://www.ryutsuu.biz/store/s110216.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-02",
+      "tags": [
+        "PPIH"
+      ]
+    },
+    {
+      "id": "ryutsuu-0b69679c",
+      "title": "PPIH／27年2月に「Olympic」3店舗を業態転換、ロビン・フッドとMEGAドンキに",
+      "url": "https://www.ryutsuu.biz/store/s110248.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-02",
+      "tags": [
+        "PPIH"
+      ]
+    },
+    {
+      "id": "ryutsuu-738d38d1",
+      "title": "酒々井プレミアム・アウトレット／11～12月、7店舗を新規・リニューアルオープン",
+      "url": "https://www.ryutsuu.biz/store/s110212.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-02",
+      "tags": [
+        "アウトレット",
+        "リニューアル",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-82977729",
+      "title": "はるやま商事／「ほっとひと息ステーション」FC募集を開始、遊休スペースを収益化",
+      "url": "https://www.ryutsuu.biz/store/s110215.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-02",
+      "tags": [
+        "はるやま",
+        "FC"
+      ]
     },
     {
       "id": "diamond-e30f1a2d",
@@ -3336,169 +3494,6 @@
         "食品スーパー",
         "スーパー",
         "食品"
-      ]
-    },
-    {
-      "id": "diamond-d0c41c0a",
-      "title": "イケアが5年ぶりに都内に出店 売場面積560坪・「IKEA豊洲」の売場をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/559692/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-26",
-      "tags": [
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-369f51ff",
-      "title": "ウエルシア薬局／「ハックドラッグ戸塚店」新旗艦店にリニューアル、ドラッグ＆フードで食品強化",
-      "url": "https://www.ryutsuu.biz/report/s102614.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-10-26",
-      "tags": [
-        "注目",
-        "リニューアル",
-        "ウエルシア",
-        "ドラッグ",
-        "食品"
-      ]
-    },
-    {
-      "id": "ryutsuu-04444f1d",
-      "title": "東急ほか／古民家を核とする木造SC「新綱島ミッカ」オープン、綱島の歴史を継承",
-      "url": "https://www.ryutsuu.biz/report/s102672.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-10-26",
-      "tags": [
-        "注目",
-        "オープン",
-        "SC"
-      ]
-    },
-    {
-      "id": "ryutsuu-042ea9a7",
-      "title": "しまむら／今秋タイにポップアップストアを2店舗オープン",
-      "url": "https://www.ryutsuu.biz/abroad/s102611.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "abroad",
-      "date": "2026-10-26",
-      "tags": [
-        "しまむら",
-        "オープン"
-      ]
-    },
-    {
-      "id": "diamond-7b5bf129",
-      "title": "会員180万人の人気EC「cotta」がリアル店舗に進出! あえて実店舗を出す理由とは",
-      "url": "https://diamond-rm.net/ec-epayment/ec/561370/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "ec-epayment",
-      "date": "2026-10-26",
-      "tags": [
-        "EC"
-      ]
-    },
-    {
-      "id": "diamond-c9cef341",
-      "title": "第２０７回　中内功（なかうち・いさお）、チェーンストア経営に開眼す",
-      "url": "https://diamond-rm.net/life-career/546351/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-26",
-      "tags": []
-    },
-    {
-      "id": "diamond-8eb4ebc4",
-      "title": "同業が手ごわいと震えるマルアイの新フォーマット「MARUAI BIG」が放つ圧倒的破壊力",
-      "url": "https://diamond-rm.net/store/newstorereport/561337/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-26",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ryutsuu-96166696",
-      "title": "ゴディバ／「ミナ ペルホネン」とのコラボ店舗、伊勢丹新宿にオープン",
-      "url": "https://www.ryutsuu.biz/store/s102643.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-26",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-de48188c",
-      "title": "ローソン／食べ応えある手頃価格の「得パン」4品、119～192円で発売",
-      "url": "https://www.ryutsuu.biz/commodity/s102646.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-10-26",
-      "tags": [
-        "ローソン"
-      ]
-    },
-    {
-      "id": "ryutsuu-a9529cc9",
-      "title": "京王SCクリエイション／「キラリナ京王吉祥寺」で次世代型デジタルミラーの実証実験",
-      "url": "https://www.ryutsuu.biz/it/s102645.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-10-26",
-      "tags": [
-        "デジタル",
-        "SC"
-      ]
-    },
-    {
-      "id": "ryutsuu-c822f356",
-      "title": "東洋／埼玉県「エブリデイとれトレ屋桶川店」にクレーンゲームスーパー導入",
-      "url": "https://www.ryutsuu.biz/store/s102612.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-26",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
-      "id": "ryutsuu-c63afd17",
-      "title": "日本百貨店協会／9月の売上高は4.2％増で9カ月連続プラス、東京地区は9.3％増",
-      "url": "https://www.ryutsuu.biz/sales/s102648.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-10-26",
-      "tags": [
-        "百貨店",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-1ab290fa",
-      "title": "日本百貨店協会／9月の外国人売上25.3％増、客数5.9％増・購買単価18.3％増",
-      "url": "https://www.ryutsuu.biz/sales/s102649.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-10-26",
-      "tags": [
-        "百貨店"
       ]
     }
   ]
