@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-11-05T04:40:13.757Z",
+  "lastUpdated": "2026-11-05T13:50:32.161Z",
   "items": [
     {
-      "id": "ryutsuu-748a8782",
-      "title": "エトモあざみ野／「ブランジェ浅野屋 あざみ野 東急フードショースライス店」オープン",
-      "url": "https://www.ryutsuu.biz/store/s110573.html",
+      "id": "ryutsuu-9f63b43f",
+      "title": "ららぽーとTOKYO-BAY／北館建替え第2期エリア28年夏オープン",
+      "url": "https://www.ryutsuu.biz/store/s110572.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-05",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-efe070ef",
+      "title": "JR東日本／JR中野駅の新改札「西改札」内にベーカリー・カフェなど6店舗オープン",
+      "url": "https://www.ryutsuu.biz/store/s110571.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "店舗",
@@ -42,6 +54,19 @@
       ]
     },
     {
+      "id": "ryutsuu-e4ca4eec",
+      "title": "クオールHD 決算／4～9月「製薬事業」の新製品が寄与し大幅増益に",
+      "url": "https://www.ryutsuu.biz/accounts/s110548.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-11-05",
+      "tags": [
+        "決算",
+        "増益"
+      ]
+    },
+    {
       "id": "ryutsuu-af122325",
       "title": "モスフードサービス／モスWEB会員751万件の顧客情報流出",
       "url": "https://www.ryutsuu.biz/it/s110511.html",
@@ -64,15 +89,39 @@
       ]
     },
     {
-      "id": "ryutsuu-f4ae78f0",
-      "title": "プレナス／「やよい軒 調布駅北口店」11月5日オープン",
-      "url": "https://www.ryutsuu.biz/store/s110418.html",
+      "id": "ryutsuu-748a8782",
+      "title": "エトモあざみ野／「ブランジェ浅野屋 あざみ野 東急フードショースライス店」オープン",
+      "url": "https://www.ryutsuu.biz/store/s110573.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
       "category": "店舗",
       "date": "2026-11-05",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-76e9a5ca",
+      "title": "エディオン／10月の全店売上高0.2％減、パソコンは60.2％減に",
+      "url": "https://www.ryutsuu.biz/sales/s110547.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-05",
+      "tags": [
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-8b1c43c1",
+      "title": "アークランズ／10月の既存店売上高は0.6％増、客数は1.8％減に",
+      "url": "https://www.ryutsuu.biz/sales/s110545.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-05",
+      "tags": [
+        "売上高"
       ]
     },
     {
@@ -99,6 +148,16 @@
       "tags": [
         "新店"
       ]
+    },
+    {
+      "id": "diamond-c693bc46",
+      "title": "第２１５回　日本大量仕入機構",
+      "url": "https://diamond-rm.net/life-career/546359/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-05",
+      "tags": []
     },
     {
       "id": "diamond-40661a4c",
@@ -135,8 +194,94 @@
       ]
     },
     {
+      "id": "ssnp-10294f66",
+      "title": "ネスレ日本、「うちにはバリスタがいる。」を六本木で体感　新型マシン「バリスタ kotone」体験イベント\n\t\t\t\t\t\t\t\t\t\t\t\tネスレ日本は11月5日、東京・六本木ヒルズ大屋根プラザで、コーヒーメーカー「ネスカフェ ゴールドブレンド バリスタ」の新モデル「kotone(コトネ)」を紹介する体験型イベント「うちにはバリスタがいる。by ネスカフェ」...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/710279/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "id": "ssnp-534669e9",
+      "title": "ペッパーランチ、国産さつまいもとバターを添えた「リブステーキ」発売\n\t\t\t\t\t\t\t\t\t\t\t\tステーキチェーンのペッパーランチは11月19日(木)から、期間限定商品「リブステーキ ～とろけるバターと国産さつまいも～」を販売する。 今回の商品は「年末年始のご褒美」をテーマに開発し、定番メニューの「ワイルドジューシー...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710284/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "id": "ssnp-3fa1f56e",
+      "title": "バーガーキングからガーリックメニュー「GUILTY 5」が新登場、にんにくのパンチが効いたナゲット・フライ・チキン・ホットドッグ・ウップス\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710254/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "id": "ssnp-cc1e6136",
+      "title": "ベローチェ、40周年記念の福袋を発売　黒ねこポーチやトートバッグ、最大1750円相当のフード引換券も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710232/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "id": "ssnp-b3fed8d6",
+      "title": "ネスレ日本・島川社長、日本の社会課題を成長機会に 「課題先進国」から「可能性先進国」へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/710222/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-11-05",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "ssnp-ae9b3489",
+      "title": "化粧品新ブランド「ヌギー」「マイス」発売、10年後に10億円目指す【昭和産業･ボーソー油脂】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/soy/710226/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "大豆",
+      "date": "2026-11-05",
+      "tags": [
+        "化粧品"
+      ]
+    },
+    {
+      "id": "ssnp-be4e568f",
+      "title": "ステーキ宮「2027年福袋」　スープボトルやタンブラー「も～たろー」ぬいぐるみチャーム付きも、宮のたれや割引クーポン入り\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710201/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "id": "ssnp-ddc869c5",
+      "title": "【アサヒグループ食品】みそ汁カテゴリを刷新、具材が主役の食べるみそ汁を提案 / 即席みそ汁市場でフリーズドライ商品が拡大\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/soy/710214/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "大豆",
+      "date": "2026-11-05",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
       "id": "ssnp-81e4144d",
-      "title": "ビーフパティ4枚・チーズ4枚、総重量513g・総カロリー1,579kcaの超大型バーガー「ギルティ ザ・ワンパウンダー」発売【バーガーキング】\n\t\t\t\t\t\t\t\t\t\t\t\tバーガーキングは11月6日、直火焼きの100％ビーフパティを4枚使用した超大型バーガー「ギルティ ザ・ワンパウンダー」を期間・数量限定で発売する。価格は単品2490円、セット2790円。 同商品は、2026年の「ワンパウ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ビーフパティ4枚・チーズ4枚、総重量513g・総カロリー1,579kcaの超大型バーガー「ギルティ ザ・ワンパウンダー」発売【バーガーキング】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/710192/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -146,7 +291,7 @@
     },
     {
       "id": "ssnp-8fd95bde",
-      "title": "KFC「生姜香る温辛チキン」新登場　生姜の香りと唐辛子の旨辛さ、開発に約1年3カ月\n\t\t\t\t\t\t\t\t\t\t\t\t日本ケンタッキー・フライド・チキンは11月11日から、全国のケンタッキーフライドチキン（KFC）店舗で「生姜香る温辛チキン」を数量限定で発売する。価格は1ピース税込350円。なくなり次第販売を終了する。 「生姜香る温辛チ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "KFC「生姜香る温辛チキン」新登場　生姜の香りと唐辛子の旨辛さ、開発に約1年3カ月\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/710184/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -195,6 +340,18 @@
       "category": "foodservice",
       "date": "2026-11-05",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-f4ae78f0",
+      "title": "プレナス／「やよい軒 調布駅北口店」11月5日オープン",
+      "url": "https://www.ryutsuu.biz/store/s110418.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-05",
+      "tags": [
+        "オープン"
+      ]
     },
     {
       "id": "ryutsuu-25b704dd",
@@ -272,34 +429,6 @@
       ]
     },
     {
-      "id": "ryutsuu-b512f1b4",
-      "title": "アクシアルリテイリング 決算／4～9月増収増益、売上高は過去最高を更新",
-      "url": "https://www.ryutsuu.biz/accounts/s110419.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-11-04",
-      "tags": [
-        "売上高",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-6740bb67",
-      "title": "セブンイレブン／「7NOW」配送委託先に不正アクセス、顧客情報16万4180件漏えい",
-      "url": "https://www.ryutsuu.biz/it/s110413.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-11-04",
-      "tags": [
-        "セブンイレブン",
-        "配送"
-      ]
-    },
-    {
       "id": "ryutsuu-4b9926d7",
       "title": "アンドエスティHD／不正アクセスで流出した顧客情報250万件→274万件に",
       "url": "https://www.ryutsuu.biz/strategy/s110446.html",
@@ -308,43 +437,6 @@
       "category": "経営",
       "date": "2026-11-04",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-71a08ed7",
-      "title": "神戸阪急／「ケイ・エスビル」での営業、27年春に終了",
-      "url": "https://www.ryutsuu.biz/store/s110420.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-04",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-e4dea2fb",
-      "title": "ローソン 新商品／からあげクンと子ども服「petit main」コラボ商品発売",
-      "url": "https://www.ryutsuu.biz/commodity/s110414.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-11-04",
-      "tags": [
-        "ローソン",
-        "AI"
-      ]
-    },
-    {
-      "id": "ryutsuu-eb0cc6ee",
-      "title": "アカチャンホンポ／栃木県「ベルモール店」リニューアルオープン、ベビーカー走行スペース導入",
-      "url": "https://www.ryutsuu.biz/store/s110417.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-04",
-      "tags": [
-        "リニューアル",
-        "オープン",
-        "モール"
-      ]
     },
     {
       "id": "ryutsuu-8a6ad574",
@@ -375,19 +467,6 @@
       ]
     },
     {
-      "id": "diamond-d594117f",
-      "title": "逆風下でも攻めるベルク！100円おにぎりと鮮魚強化で客数回復ねらう",
-      "url": "https://diamond-rm.net/market/accounting/562349/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-11-04",
-      "tags": [
-        "ベルク",
-        "鮮魚"
-      ]
-    },
-    {
       "id": "diamond-caf5c288",
       "title": "イオン「そよら」茨城初進出！激戦区で勝負する食品MDの全貌",
       "url": "https://diamond-rm.net/store/562324/",
@@ -398,6 +477,19 @@
       "tags": [
         "イオン",
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-d594117f",
+      "title": "逆風下でも攻めるベルク！100円おにぎりと鮮魚強化で客数回復ねらう",
+      "url": "https://diamond-rm.net/market/accounting/562349/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-04",
+      "tags": [
+        "ベルク",
+        "鮮魚"
       ]
     },
     {
@@ -673,6 +765,71 @@
       "category": "foodservice",
       "date": "2026-11-04",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-b512f1b4",
+      "title": "アクシアルリテイリング 決算／4～9月増収増益、売上高は過去最高を更新",
+      "url": "https://www.ryutsuu.biz/accounts/s110419.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-11-04",
+      "tags": [
+        "売上高",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "ryutsuu-6740bb67",
+      "title": "セブンイレブン／「7NOW」配送委託先に不正アクセス、顧客情報16万4180件漏えい",
+      "url": "https://www.ryutsuu.biz/it/s110413.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-11-04",
+      "tags": [
+        "セブンイレブン",
+        "配送"
+      ]
+    },
+    {
+      "id": "ryutsuu-71a08ed7",
+      "title": "神戸阪急／「ケイ・エスビル」での営業、27年春に終了",
+      "url": "https://www.ryutsuu.biz/store/s110420.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-e4dea2fb",
+      "title": "ローソン 新商品／からあげクンと子ども服「petit main」コラボ商品発売",
+      "url": "https://www.ryutsuu.biz/commodity/s110414.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "商品",
+      "date": "2026-11-04",
+      "tags": [
+        "ローソン",
+        "AI"
+      ]
+    },
+    {
+      "id": "ryutsuu-eb0cc6ee",
+      "title": "アカチャンホンポ／栃木県「ベルモール店」リニューアルオープン、ベビーカー走行スペース導入",
+      "url": "https://www.ryutsuu.biz/store/s110417.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-04",
+      "tags": [
+        "リニューアル",
+        "オープン",
+        "モール"
+      ]
     },
     {
       "id": "ryutsuu-da40e6f6",
@@ -1838,18 +1995,6 @@
       ]
     },
     {
-      "id": "ryutsuu-a791295c",
-      "title": "セブンイレブン／環境配慮型サーマルラベルを実験、千葉の約300店舗で",
-      "url": "https://www.ryutsuu.biz/strategy/s102911.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-29",
-      "tags": [
-        "セブンイレブン"
-      ]
-    },
-    {
       "id": "diamond-dea4a4ae",
       "title": "#6 「実験を⽇常に変える⼒」を日本の小売が手に入れる方法とは？【後編】",
       "url": "https://diamond-rm.net/market/economic/562074/",
@@ -2056,6 +2201,18 @@
       "category": "foodservice",
       "date": "2026-10-29",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-a791295c",
+      "title": "セブンイレブン／環境配慮型サーマルラベルを実験、千葉の約300店舗で",
+      "url": "https://www.ryutsuu.biz/strategy/s102911.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-10-29",
+      "tags": [
+        "セブンイレブン"
+      ]
     },
     {
       "id": "ryutsuu-ead6cce7",
@@ -3346,154 +3503,6 @@
       "date": "2026-10-26",
       "tags": [
         "スターバックス"
-      ]
-    },
-    {
-      "id": "ssnp-ec8a5d8d",
-      "title": "【スシロー】国産ほたて貝柱が110円、天然本鮪ねぎとろ包みも110円で登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/708690/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-26",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e24e181d",
-      "title": "「成城石井 ハンバーグステーキ」刷新 / 黒毛和牛の配合比率をアップし、ステーキのような肉の存在感をより一層感じられる味わいに\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/708680/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-26",
-      "tags": []
-    },
-    {
-      "id": "ssnp-7b71045c",
-      "title": "【はま寿司】大切りみなみまぐろが110円！「わかメンチ握り」「茹でオオズワイガニ」も登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/708665/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-26",
-      "tags": []
-    },
-    {
-      "id": "ssnp-269a5e16",
-      "title": "ビアードパパ初「おさつバターシュー」発売　なると金時の芋クリームとバター香るザクザク生地\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/708651/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-26",
-      "tags": []
-    },
-    {
-      "id": "ssnp-c295d97a",
-      "title": "【成城石井】紅茶のスプレッド･ジャムや自家製デザート･スコーンなど…紅茶関連商品が続々登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/708624/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-26",
-      "tags": []
-    },
-    {
-      "id": "ssnp-95225116",
-      "title": "セブン‐イレブン「ストレンジャー・シングス」コラボ全16品　黒いチーズ菓子や限定ドーナツ、ピザも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/708597/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-26",
-      "tags": [
-        "菓子"
-      ]
-    },
-    {
-      "id": "diamond-c99d51e8",
-      "title": "平和堂のお膝元で生き残る！たった1店舗のスーパー「パリヤ」が実践する驚きの顧客戦略",
-      "url": "https://diamond-rm.net/management/561680/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-26",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
-      "id": "ssnp-b7cc0c99",
-      "title": "10月度会員集会を開催、直面する課題に新たな部会長のもと取り組み進める-日油協\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/708582/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-10-26",
-      "tags": []
-    },
-    {
-      "id": "ssnp-8055bdc0",
-      "title": "【小僧寿し創業62周年】20貫980円、炙り寿司半額などの創業祭を開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/708583/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-26",
-      "tags": []
-    },
-    {
-      "id": "ssnp-96ea8261",
-      "title": "しゃぶしゃぶ温野菜「豆乳ポルチーニ鍋」をテイクアウト・デリバリーで販売、食べるスープシリーズ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/708569/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-26",
-      "tags": []
-    },
-    {
-      "id": "ssnp-0f9fc6f4",
-      "title": "【セブン‐イレブン】中華まん全品20円引きセールを5日間開催【10月27～31日】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/708548/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-26",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-965aeb34",
-      "title": "アンドエスティHD／不正アクセスで顧客情報250万件流出の可能性",
-      "url": "https://www.ryutsuu.biz/strategy/s102644.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-26",
-      "tags": []
-    },
-    {
-      "id": "diamond-a3036e15",
-      "title": "KSP-POS マーケットトレンドレポート「ヨーグルト」",
-      "url": "https://diamond-rm.net/retaildata/561875/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-10-26",
-      "tags": []
-    },
-    {
-      "id": "diamond-e6c4171e",
-      "title": "【食品スーパー視察完全ガイド】北海道・札幌　一大マーケットで道内外のチェーンが激突！",
-      "url": "https://diamond-rm.net/store/storevisit/561432/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-26",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
       ]
     }
   ]
