@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-11-06T13:35:07.448Z",
+  "lastUpdated": "2026-11-06T22:37:38.684Z",
   "items": [
+    {
+      "id": "diamond-5eac20e0",
+      "title": "薬王堂、AI肌診断機能を刷新【週刊ドラッグストアニュース】",
+      "url": "https://diamond-rm.net/store/newopen/562923/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-07",
+      "tags": [
+        "ドラッグストア",
+        "ドラッグ",
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-642c0dff",
+      "title": "予算設定・人員体制・ムダ削減　店長業務「3つの基本」を徹底する方法",
+      "url": "https://diamond-rm.net/management/businessplan/561429/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-07",
+      "tags": []
+    },
     {
       "id": "ryutsuu-abe91d5a",
       "title": "コロワイド 決算／4～9月、大戸屋・カフェ拡大で増収もコスト増や悪天候で減益に",
@@ -169,6 +193,16 @@
       ]
     },
     {
+      "id": "diamond-b31babad",
+      "title": "第２１６回　四方昭（しかた・あきら）との再会",
+      "url": "https://diamond-rm.net/life-career/546360/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
       "id": "diamond-b6a23360",
       "title": "都市型店舗「ベイシアフーズパーク幕張店」がオープン【週刊スーパーマーケットニュース】",
       "url": "https://diamond-rm.net/management/businessplan/562739/",
@@ -181,16 +215,6 @@
         "スーパー",
         "オープン"
       ]
-    },
-    {
-      "id": "diamond-b31babad",
-      "title": "第２１６回　四方昭（しかた・あきら）との再会",
-      "url": "https://diamond-rm.net/life-career/546360/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-06",
-      "tags": []
     },
     {
       "id": "diamond-8035c7c2",
@@ -540,16 +564,6 @@
       ]
     },
     {
-      "id": "diamond-beaf240e",
-      "title": "本田屋×建デポ、プロショップのMD戦略を語る　職人に選ばれる店づくり",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/562205/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-11-05",
-      "tags": []
-    },
-    {
       "id": "diamond-87cb7872",
       "title": "小売業の株式上場は、いつまで「葵の御紋」であり続けるか？",
       "url": "https://diamond-rm.net/management/businessplan/561427/",
@@ -560,6 +574,16 @@
       "tags": [
         "上場"
       ]
+    },
+    {
+      "id": "diamond-beaf240e",
+      "title": "本田屋×建デポ、プロショップのMD戦略を語る　職人に選ばれる店づくり",
+      "url": "https://diamond-rm.net/sales-promotion/product-strategy/562205/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-11-05",
+      "tags": []
     },
     {
       "id": "ssnp-10294f66",
@@ -1444,18 +1468,6 @@
       ]
     },
     {
-      "id": "diamond-9d5636c2",
-      "title": "【DCS最新号】11月01日号は「スーパーマーケット視察完全ガイド2026」",
-      "url": "https://diamond-rm.net/store/storevisit/562136/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-02",
-      "tags": [
-        "スーパー"
-      ]
-    },
-    {
       "id": "diamond-65ad20de",
       "title": "もう服は自分で探さない？ZOZOが仕掛けるAIエージェント戦略",
       "url": "https://diamond-rm.net/market/562271/",
@@ -1619,6 +1631,18 @@
       "category": "foodservice",
       "date": "2026-11-02",
       "tags": []
+    },
+    {
+      "id": "diamond-9d5636c2",
+      "title": "【DCS最新号】11月01日号は「スーパーマーケット視察完全ガイド2026」",
+      "url": "https://diamond-rm.net/store/storevisit/562136/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-02",
+      "tags": [
+        "スーパー"
+      ]
     },
     {
       "id": "diamond-79417e3c",
@@ -1991,19 +2015,6 @@
       ]
     },
     {
-      "id": "diamond-6711de7d",
-      "title": "第150回 なぜSCは顧客ばかり分析するのか？ AI時代に見直すべきテナント戦略の盲点",
-      "url": "https://diamond-rm.net/management/560585/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-30",
-      "tags": [
-        "SC",
-        "AI"
-      ]
-    },
-    {
       "id": "diamond-b1981404",
       "title": "業態別　主要店舗月次実績＝2026年9月度",
       "url": "https://diamond-rm.net/retaildata/562201/",
@@ -2136,6 +2147,19 @@
       "category": "飲料",
       "date": "2026-10-30",
       "tags": []
+    },
+    {
+      "id": "diamond-6711de7d",
+      "title": "第150回 なぜSCは顧客ばかり分析するのか？ AI時代に見直すべきテナント戦略の盲点",
+      "url": "https://diamond-rm.net/management/560585/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-30",
+      "tags": [
+        "SC",
+        "AI"
+      ]
     },
     {
       "id": "diamond-a60b5582",
@@ -3497,26 +3521,6 @@
       "id": "ssnp-d65ed93b",
       "title": "【ほっともっと】税込100円のサイドメニュー5商品発売、彩りサラダやポテトサラダも登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/709059/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-27",
-      "tags": []
-    },
-    {
-      "id": "ssnp-5f6c2eec",
-      "title": "サーティワン 11月の新作はバタースコッチフレーバー!ザクほろ食感のトフィーがアクセントに\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/709052/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-27",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e8675730",
-      "title": "【ほっともっと】税込550円から購入できる「得弁ランチ」シリーズ発売、全時間帯で購入可能\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709036/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
