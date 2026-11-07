@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-11-06T22:37:38.684Z",
+  "lastUpdated": "2026-11-07T04:04:57.076Z",
   "items": [
+    {
+      "id": "diamond-d5f085b5",
+      "title": "ヤオコーが社内ヘルプデスクを改善、電話応答率93～95％に【週刊リテールテック】",
+      "url": "https://diamond-rm.net/technology/dx/562971/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-11-07",
+      "tags": [
+        "ヤオコー"
+      ]
+    },
     {
       "id": "diamond-5eac20e0",
       "title": "薬王堂、AI肌診断機能を刷新【週刊ドラッグストアニュース】",
@@ -16,12 +28,57 @@
       ]
     },
     {
+      "id": "diamond-bd475493",
+      "title": "東京都のドラッグストア店舗数ランキング！ツルハ・ウエルシア連合を抑えた1位は？",
+      "url": "https://diamond-rm.net/retaildata/562922/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-11-07",
+      "tags": [
+        "ドラッグストア",
+        "ウエルシア",
+        "ドラッグ",
+        "ツルハ"
+      ]
+    },
+    {
+      "id": "diamond-8ce43c75",
+      "title": "流通秀書　第54回『小売業のファッション・マーチャンダイジング』菅原正博/著",
+      "url": "https://diamond-rm.net/life-career/557937/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-07",
+      "tags": []
+    },
+    {
       "id": "diamond-642c0dff",
       "title": "予算設定・人員体制・ムダ削減　店長業務「3つの基本」を徹底する方法",
       "url": "https://diamond-rm.net/management/businessplan/561429/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
+      "date": "2026-11-07",
+      "tags": []
+    },
+    {
+      "id": "ssnp-1307b41d",
+      "title": "UCC「YOINED」新作、ゲイシャとレッドブルボン採用　ウェルネス領域にも提案拡大\n\t\t\t\t\t\t\t\t\t\t\t\tUCC上島珈琲は、独自製法で生まれた“飲まないコーヒー”「YOINED(ヨインド)」の2026年新作を11月9日に数量限定で発売する。2023年の発売から今回で4回目。2025年は初回販売数量を前年の1.2倍...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/710665/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-11-07",
+      "tags": []
+    },
+    {
+      "id": "ssnp-3231b0d4",
+      "title": "【カルビ大将】総額6,000円分クーポン入り福袋(税込3,800円)を予約開始、バッグやタンブラーなど限定品もセット\n\t\t\t\t\t\t\t\t\t\t\t\tコロワイドグループのアトムが展開するカルビ大将は、2026年11月10日からオリジナルグッズ4点(トートバッグ･タンブラー･タオル2枚セット･シール)に加え、6,000円分の特別クーポン、カルビ大将のタレがセットになった...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710636/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
       "date": "2026-11-07",
       "tags": []
     },
@@ -230,7 +287,7 @@
     },
     {
       "id": "ssnp-9e7287dd",
-      "title": "タリーズ、蒜山ジャージー牛乳を使用したクリームスープパスタや秋冬限定のシナモンロールなど発売\n\t\t\t\t\t\t\t\t\t\t\t\tタリーズコーヒージャパンは、タリーズ初のスープパスタなど新商品を2026年11月6日に発売した。 【商品画像はこちら】 ◆「ジャージー牛乳仕立てのクリームスープパスタ～あさりとベーコン～」税込1,030円(セット税込1,...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "タリーズ、蒜山ジャージー牛乳を使用したクリームスープパスタや秋冬限定のシナモンロールなど発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/710656/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -240,15 +297,14 @@
     },
     {
       "id": "ssnp-4e40b2c3",
-      "title": "廃棄しょうゆ粕を燻製材に、木材チップより安価、Amazon 販売中【スモークイフリート】\n\t\t\t\t\t\t\t\t\t\t\t\tSmoke-i-freet(スモークイフリート、さいたま市北区)は、しょうゆを搾ったあとに残る粕から燻製材を開発した。10月に開催された食品開発展2026に出展した。 代表の辻健太朗氏によれば、しょうゆ粕は年間約10万t...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "廃棄しょうゆ粕を燻製材に、木材チップより安価、Amazon 販売中【スモークイフリート】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/soy/710651/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "大豆",
       "date": "2026-11-06",
       "tags": [
-        "Amazon",
-        "食品"
+        "Amazon"
       ]
     },
     {
@@ -517,19 +573,6 @@
       ]
     },
     {
-      "id": "diamond-02ff944f",
-      "title": "オーケーが関西13店舗目の「長吉店」をオープン！　関西進出約2年で加速するローカライズ戦略",
-      "url": "https://diamond-rm.net/store/newstorereport/562416/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-05",
-      "tags": [
-        "オーケー",
-        "オープン"
-      ]
-    },
-    {
       "id": "diamond-c693bc46",
       "title": "第２１５回　日本大量仕入機構",
       "url": "https://diamond-rm.net/life-career/546359/",
@@ -540,15 +583,28 @@
       "tags": []
     },
     {
-      "id": "diamond-40661a4c",
-      "title": "即席麺市場、価格改定下でも底堅く　品質強化と新提案で需要喚起",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/561443/",
+      "id": "diamond-87cb7872",
+      "title": "小売業の株式上場は、いつまで「葵の御紋」であり続けるか？",
+      "url": "https://diamond-rm.net/management/businessplan/561427/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "sales-promotion",
+      "category": "経営戦略",
       "date": "2026-11-05",
       "tags": [
-        "価格改定"
+        "上場"
+      ]
+    },
+    {
+      "id": "diamond-02ff944f",
+      "title": "オーケーが関西13店舗目の「長吉店」をオープン！　関西進出約2年で加速するローカライズ戦略",
+      "url": "https://diamond-rm.net/store/newstorereport/562416/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-05",
+      "tags": [
+        "オーケー",
+        "オープン"
       ]
     },
     {
@@ -564,15 +620,15 @@
       ]
     },
     {
-      "id": "diamond-87cb7872",
-      "title": "小売業の株式上場は、いつまで「葵の御紋」であり続けるか？",
-      "url": "https://diamond-rm.net/management/businessplan/561427/",
+      "id": "diamond-40661a4c",
+      "title": "即席麺市場、価格改定下でも底堅く　品質強化と新提案で需要喚起",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/561443/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "経営戦略",
+      "category": "sales-promotion",
       "date": "2026-11-05",
       "tags": [
-        "上場"
+        "価格改定"
       ]
     },
     {
@@ -868,22 +924,6 @@
       ]
     },
     {
-      "id": "diamond-e450c0bf",
-      "title": "中間期は増収減益のサミット　服部社長が語る「しまむらへの事業譲渡」の決断",
-      "url": "https://diamond-rm.net/market/accounting/562695/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-11-04",
-      "tags": [
-        "しまむら",
-        "サミット",
-        "増収",
-        "減益",
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-c9e52090",
       "title": "【動画】10月5週目の注目ニュースまとめ、大型店舗の開業のニュースなど",
       "url": "https://diamond-rm.net/management/businessplan/562306/",
@@ -906,6 +946,22 @@
       "tags": [
         "イオン",
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-e450c0bf",
+      "title": "中間期は増収減益のサミット　服部社長が語る「しまむらへの事業譲渡」の決断",
+      "url": "https://diamond-rm.net/market/accounting/562695/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-04",
+      "tags": [
+        "しまむら",
+        "サミット",
+        "増収",
+        "減益",
+        "社長"
       ]
     },
     {
@@ -3470,62 +3526,6 @@
         "オープン",
         "モール"
       ]
-    },
-    {
-      "id": "diamond-9ddf3e24",
-      "title": "＃13 サントリーはCES・NRF海外視察から何を学ぶのか！？",
-      "url": "https://diamond-rm.net/overseas/american_economy/561935/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "overseas",
-      "date": "2026-10-27",
-      "tags": []
-    },
-    {
-      "id": "diamond-d463471b",
-      "title": "アパレル改造論　連載終了のおしらせ",
-      "url": "https://diamond-rm.net/management/561273/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-27",
-      "tags": [
-        "アパレル"
-      ]
-    },
-    {
-      "id": "ssnp-be1bd3b1",
-      "title": "コカ・コーラBJ、物流改革で輸送距離23%短縮 自動化と共同配送で効率向上\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/709081/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-10-27",
-      "tags": [
-        "自動化",
-        "物流",
-        "配送"
-      ]
-    },
-    {
-      "id": "ssnp-e1a77d0a",
-      "title": "【ミニストップ】茨城県産笠間栗ペーストを使ったモンブランと「カラフルチョコ大福」を発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/distribution/709074/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "流通",
-      "date": "2026-10-27",
-      "tags": []
-    },
-    {
-      "id": "ssnp-d65ed93b",
-      "title": "【ほっともっと】税込100円のサイドメニュー5商品発売、彩りサラダやポテトサラダも登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709059/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-27",
-      "tags": []
     }
   ]
 }
