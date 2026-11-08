@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2026-11-07T21:18:41.416Z",
+  "lastUpdated": "2026-11-08T03:50:16.521Z",
   "items": [
+    {
+      "id": "diamond-e48c2d16",
+      "title": "1配信で平均2万視聴！ヤマダデンキ佐野社長が語るライブコマース戦略",
+      "url": "https://diamond-rm.net/management/562953/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-08",
+      "tags": [
+        "ライブコマース",
+        "ヤマダデンキ",
+        "社長"
+      ]
+    },
     {
       "id": "diamond-d5f085b5",
       "title": "ヤオコーが社内ヘルプデスクを改善、電話応答率93～95％に【週刊リテールテック】",
@@ -237,19 +251,6 @@
       ]
     },
     {
-      "id": "diamond-f6c74a59",
-      "title": "無印良品はユニクロに勝てないのか？広がる効率格差と給与格差",
-      "url": "https://diamond-rm.net/market/accounting/562648/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-11-06",
-      "tags": [
-        "ユニクロ",
-        "無印良品"
-      ]
-    },
-    {
       "id": "diamond-b31babad",
       "title": "第２１６回　四方昭（しかた・あきら）との再会",
       "url": "https://diamond-rm.net/life-career/546360/",
@@ -271,6 +272,19 @@
         "ベイシア",
         "スーパー",
         "オープン"
+      ]
+    },
+    {
+      "id": "diamond-f6c74a59",
+      "title": "無印良品はユニクロに勝てないのか？広がる効率格差と給与格差",
+      "url": "https://diamond-rm.net/market/accounting/562648/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-06",
+      "tags": [
+        "ユニクロ",
+        "無印良品"
       ]
     },
     {
@@ -573,16 +587,6 @@
       ]
     },
     {
-      "id": "diamond-c693bc46",
-      "title": "第２１５回　日本大量仕入機構",
-      "url": "https://diamond-rm.net/life-career/546359/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-05",
-      "tags": []
-    },
-    {
       "id": "diamond-87cb7872",
       "title": "小売業の株式上場は、いつまで「葵の御紋」であり続けるか？",
       "url": "https://diamond-rm.net/management/businessplan/561427/",
@@ -786,6 +790,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "id": "diamond-c693bc46",
+      "title": "第２１５回　日本大量仕入機構",
+      "url": "https://diamond-rm.net/life-career/546359/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-11-05",
       "tags": []
     },
@@ -2057,20 +2071,6 @@
       ]
     },
     {
-      "id": "diamond-c4fc6c53",
-      "title": "秋田出店、オータニ再建……ユニバース三浦社長が明かす「売上高2000億円」達成への道筋",
-      "url": "https://diamond-rm.net/management/topinterview/561430/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-30",
-      "tags": [
-        "売上高",
-        "出店",
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-b1981404",
       "title": "業態別　主要店舗月次実績＝2026年9月度",
       "url": "https://diamond-rm.net/retaildata/562201/",
@@ -2203,6 +2203,20 @@
       "category": "飲料",
       "date": "2026-10-30",
       "tags": []
+    },
+    {
+      "id": "diamond-c4fc6c53",
+      "title": "秋田出店、オータニ再建……ユニバース三浦社長が明かす「売上高2000億円」達成への道筋",
+      "url": "https://diamond-rm.net/management/topinterview/561430/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-10-30",
+      "tags": [
+        "売上高",
+        "出店",
+        "社長"
+      ]
     },
     {
       "id": "diamond-6711de7d",
@@ -3511,20 +3525,6 @@
         "オープン",
         "専門店",
         "鮮魚"
-      ]
-    },
-    {
-      "id": "ryutsuu-3c53f7ef",
-      "title": "カインズ／群馬県前橋市「まえばし赤城モール店」10月28日オープン、道の駅に隣接",
-      "url": "https://www.ryutsuu.biz/store/s102647.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-28",
-      "tags": [
-        "カインズ",
-        "オープン",
-        "モール"
       ]
     }
   ]
