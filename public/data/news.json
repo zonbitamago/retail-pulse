@@ -1,6 +1,57 @@
 {
-  "lastUpdated": "2026-11-08T12:35:37.677Z",
+  "lastUpdated": "2026-11-08T21:33:09.618Z",
   "items": [
+    {
+      "id": "diamond-27227f8d",
+      "title": "明治屋が旗艦店・広尾ストアーを大改装! ワインと焼きたてパンで勝負",
+      "url": "https://diamond-rm.net/store/newstorereport/562946/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-09",
+      "tags": [
+        "改装"
+      ]
+    },
+    {
+      "id": "diamond-ab925682",
+      "title": "エディオンの本拠地・広島で激突！ヤマダHD上野善紀社長が語る旗艦店出店の真意",
+      "url": "https://diamond-rm.net/management/562938/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-09",
+      "tags": [
+        "出店",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-e19756bb",
+      "title": "「総合ディスカウント」の旗手に大変化？　ミスターマックスの逆襲",
+      "url": "https://diamond-rm.net/management/businessplan/562770/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-09",
+      "tags": [
+        "ディスカウント"
+      ]
+    },
+    {
+      "id": "diamond-79fd8e57",
+      "title": "1万円の生ハム原木を提案!? ヤオコー最新店「まるひろ入間SC店」の売場づくりを詳報",
+      "url": "https://diamond-rm.net/store/newstorereport/561424/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-09",
+      "tags": [
+        "ヤオコー",
+        "SC",
+        "新店"
+      ]
+    },
     {
       "id": "diamond-e48c2d16",
       "title": "1配信で平均2万視聴！ヤマダデンキ佐野社長が語るライブコマース戦略",
@@ -54,6 +105,16 @@
       ]
     },
     {
+      "id": "diamond-8ce43c75",
+      "title": "流通秀書　第54回『小売業のファッション・マーチャンダイジング』菅原正博/著",
+      "url": "https://diamond-rm.net/life-career/557937/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-07",
+      "tags": []
+    },
+    {
       "id": "diamond-bd475493",
       "title": "東京都のドラッグストア店舗数ランキング！ツルハ・ウエルシア連合を抑えた1位は？",
       "url": "https://diamond-rm.net/retaildata/562922/",
@@ -67,16 +128,6 @@
         "ドラッグ",
         "ツルハ"
       ]
-    },
-    {
-      "id": "diamond-8ce43c75",
-      "title": "流通秀書　第54回『小売業のファッション・マーチャンダイジング』菅原正博/著",
-      "url": "https://diamond-rm.net/life-career/557937/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-07",
-      "tags": []
     },
     {
       "id": "diamond-642c0dff",
@@ -250,19 +301,6 @@
       "tags": []
     },
     {
-      "id": "diamond-9c26b2af",
-      "title": "「CIOはもういらない」元ハンズ・メルカリCIOが語るAI革命",
-      "url": "https://diamond-rm.net/technology/dx/562125/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-11-06",
-      "tags": [
-        "メルカリ",
-        "AI"
-      ]
-    },
-    {
       "id": "diamond-b31babad",
       "title": "第２１６回　四方昭（しかた・あきら）との再会",
       "url": "https://diamond-rm.net/life-career/546360/",
@@ -271,33 +309,6 @@
       "category": "life-career",
       "date": "2026-11-06",
       "tags": []
-    },
-    {
-      "id": "diamond-b6a23360",
-      "title": "都市型店舗「ベイシアフーズパーク幕張店」がオープン【週刊スーパーマーケットニュース】",
-      "url": "https://diamond-rm.net/management/businessplan/562739/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-06",
-      "tags": [
-        "ベイシア",
-        "スーパー",
-        "オープン"
-      ]
-    },
-    {
-      "id": "diamond-f6c74a59",
-      "title": "無印良品はユニクロに勝てないのか？広がる効率格差と給与格差",
-      "url": "https://diamond-rm.net/market/accounting/562648/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-11-06",
-      "tags": [
-        "ユニクロ",
-        "無印良品"
-      ]
     },
     {
       "id": "diamond-8035c7c2",
@@ -494,6 +505,46 @@
       "tags": []
     },
     {
+      "id": "diamond-9c26b2af",
+      "title": "「CIOはもういらない」元ハンズ・メルカリCIOが語るAI革命",
+      "url": "https://diamond-rm.net/technology/dx/562125/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-11-06",
+      "tags": [
+        "メルカリ",
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-b6a23360",
+      "title": "都市型店舗「ベイシアフーズパーク幕張店」がオープン【週刊スーパーマーケットニュース】",
+      "url": "https://diamond-rm.net/management/businessplan/562739/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-06",
+      "tags": [
+        "ベイシア",
+        "スーパー",
+        "オープン"
+      ]
+    },
+    {
+      "id": "diamond-f6c74a59",
+      "title": "無印良品はユニクロに勝てないのか？広がる効率格差と給与格差",
+      "url": "https://diamond-rm.net/market/accounting/562648/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-06",
+      "tags": [
+        "ユニクロ",
+        "無印良品"
+      ]
+    },
+    {
       "id": "ryutsuu-6912b6dd",
       "title": "ニトリ／東京都足立区に「ニトリ 大谷田店」11月6日オープン",
       "url": "https://www.ryutsuu.biz/store/s110575.html",
@@ -599,18 +650,6 @@
       ]
     },
     {
-      "id": "diamond-87cb7872",
-      "title": "小売業の株式上場は、いつまで「葵の御紋」であり続けるか？",
-      "url": "https://diamond-rm.net/management/businessplan/561427/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-05",
-      "tags": [
-        "上場"
-      ]
-    },
-    {
       "id": "diamond-02ff944f",
       "title": "オーケーが関西13店舗目の「長吉店」をオープン！　関西進出約2年で加速するローカライズ戦略",
       "url": "https://diamond-rm.net/store/newstorereport/562416/",
@@ -633,6 +672,18 @@
       "date": "2026-11-05",
       "tags": [
         "新店"
+      ]
+    },
+    {
+      "id": "diamond-87cb7872",
+      "title": "小売業の株式上場は、いつまで「葵の御紋」であり続けるか？",
+      "url": "https://diamond-rm.net/management/businessplan/561427/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-05",
+      "tags": [
+        "上場"
       ]
     },
     {
@@ -1416,20 +1467,6 @@
       "tags": []
     },
     {
-      "id": "diamond-781a76f7",
-      "title": "ローソン×無印良品、初の共同開発ミスト発売！人気の香りを商品化【週刊コンビニニュース】",
-      "url": "https://diamond-rm.net/management/562313/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-03",
-      "tags": [
-        "ローソン",
-        "無印良品",
-        "コンビニ"
-      ]
-    },
-    {
       "id": "diamond-f06ccc6d",
       "title": "東京のホームセンター売上高ランキング！カインズを抑えた1位は？",
       "url": "https://diamond-rm.net/market/562355/",
@@ -1490,6 +1527,20 @@
       ]
     },
     {
+      "id": "diamond-781a76f7",
+      "title": "ローソン×無印良品、初の共同開発ミスト発売！人気の香りを商品化【週刊コンビニニュース】",
+      "url": "https://diamond-rm.net/management/562313/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-03",
+      "tags": [
+        "ローソン",
+        "無印良品",
+        "コンビニ"
+      ]
+    },
+    {
       "id": "diamond-985a994b",
       "title": "第２１３回　「売り上げがあらゆる問題点を解決した」",
       "url": "https://diamond-rm.net/life-career/546357/",
@@ -1534,19 +1585,6 @@
       "date": "2026-11-02",
       "tags": [
         "DCM"
-      ]
-    },
-    {
-      "id": "diamond-44cdf18a",
-      "title": "PPIH の新フォーマット「ロビン・フッド」続々出店！ 最新 2 店舗の全容をレポート",
-      "url": "https://diamond-rm.net/store/newstorereport/552458/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-02",
-      "tags": [
-        "PPIH",
-        "出店"
       ]
     },
     {
@@ -1713,6 +1751,19 @@
       "category": "foodservice",
       "date": "2026-11-02",
       "tags": []
+    },
+    {
+      "id": "diamond-44cdf18a",
+      "title": "PPIH の新フォーマット「ロビン・フッド」続々出店！ 最新 2 店舗の全容をレポート",
+      "url": "https://diamond-rm.net/store/newstorereport/552458/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-02",
+      "tags": [
+        "PPIH",
+        "出店"
+      ]
     },
     {
       "id": "diamond-9d5636c2",
@@ -3477,52 +3528,6 @@
       "tags": [
         "オープン",
         "イオン"
-      ]
-    },
-    {
-      "id": "ryutsuu-e8ad4be4",
-      "title": "カフェ・ド・クリエ／15時以降＋100円でパスタ2倍キャンペーン",
-      "url": "https://www.ryutsuu.biz/commodity/s102815.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "商品",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-86e11d0a",
-      "title": "島村楽器／SAPのクラウドERP採用、納期即答やリアルタイム損益把握を実現",
-      "url": "https://www.ryutsuu.biz/it/s1028001.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-994b05eb",
-      "title": "ドリームオン／「新綱島ミッカ」にベーカリービストロとベーグル専門店10月28日オープン",
-      "url": "https://www.ryutsuu.biz/store/s102776.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-28",
-      "tags": [
-        "オープン",
-        "専門店"
-      ]
-    },
-    {
-      "id": "ryutsuu-4ae492dc",
-      "title": "新綱島ミッカ／季節で主役が変わる洋菓子店「ラトリエ ドゥ アンティーク」10月28日オープン",
-      "url": "https://www.ryutsuu.biz/store/s102774.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-28",
-      "tags": [
-        "オープン",
-        "菓子"
       ]
     }
   ]
