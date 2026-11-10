@@ -1,15 +1,195 @@
 {
-  "lastUpdated": "2026-11-10T01:03:44.639Z",
+  "lastUpdated": "2026-11-10T14:06:15.715Z",
   "items": [
     {
-      "id": "diamond-b2b1b88c",
-      "title": "関西の激戦区をどう攻めるのか？バロー豊中島江店に見る「目的来店」を引き出す戦略",
-      "url": "https://diamond-rm.net/store/562682/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
+      "id": "ryutsuu-eceec4cf",
+      "title": "ナカメヴィレッジ／アメリカンラグシー旗艦店12月オープン、商業・オフィスの複合施設",
+      "url": "https://www.ryutsuu.biz/store/s111015.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
       "category": "店舗",
       "date": "2026-11-10",
-      "tags": []
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-21af0c29",
+      "title": "イオン／10月イオンリテール既存店売上高横ばい、お買得企画を強化・食品の好調継続",
+      "url": "https://www.ryutsuu.biz/sales/s111076.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-10",
+      "tags": [
+        "イオン",
+        "売上高",
+        "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-e1e1117e",
+      "title": "セブンイレブン／10月の既存店売上高0.2％増、客数0.6％減",
+      "url": "https://www.ryutsuu.biz/sales/s111019.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-10",
+      "tags": [
+        "セブンイレブン",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-0bf60fb1",
+      "title": "ファミマ／10月の既存店客数は15カ月ぶりに前年超え、売上高は3.0％増",
+      "url": "https://www.ryutsuu.biz/sales/s111048.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-10",
+      "tags": [
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-7a0be181",
+      "title": "ローソン／10月既存店売上高3.5％増、客数0.9％増",
+      "url": "https://www.ryutsuu.biz/sales/s111018.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-10",
+      "tags": [
+        "ローソン",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-54010f56",
+      "title": "日本マクドナルドHD 決算／1～9月営業利益11.0％増、全店売上高増が貢献",
+      "url": "https://www.ryutsuu.biz/accounts/s111020.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-11-10",
+      "tags": [
+        "マクドナルド",
+        "営業利益",
+        "売上高",
+        "決算"
+      ]
+    },
+    {
+      "id": "ryutsuu-52bf9dec",
+      "title": "丸井グループ 決算／4～9月営業利益16.8％増、通期業績を上方修正",
+      "url": "https://www.ryutsuu.biz/accounts/s111049.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-11-10",
+      "tags": [
+        "営業利益",
+        "決算"
+      ]
+    },
+    {
+      "id": "ryutsuu-87e6e7aa",
+      "title": "ニトリ／不正アクセスで会員情報・購入者情報など最大3762万件が流出の可能性",
+      "url": "https://www.ryutsuu.biz/strategy/s111071.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-10",
+      "tags": [
+        "ニトリ"
+      ]
+    },
+    {
+      "id": "ryutsuu-2f02c40d",
+      "title": "無印良品／ネットストアで第三者による不正ログインの可能性、約27万件",
+      "url": "https://www.ryutsuu.biz/strategy/s111042.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-10",
+      "tags": [
+        "無印良品"
+      ]
+    },
+    {
+      "id": "ryutsuu-2ba56728",
+      "title": "タビオ／公式オンラインストアをリニューアル、R6Bがサイト構築支援",
+      "url": "https://www.ryutsuu.biz/ec/s111012.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "ec",
+      "date": "2026-11-10",
+      "tags": [
+        "リニューアル"
+      ]
+    },
+    {
+      "id": "ryutsuu-62b359c5",
+      "title": "カジュアル衣料4社／10月の既存店売上高はユニクロ5.5％減、しまむら4.0％増",
+      "url": "https://www.ryutsuu.biz/sales/s111041.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-10",
+      "tags": [
+        "ユニクロ",
+        "しまむら",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-7f64d99c",
+      "title": "東武百貨店池袋本店／顔認証での手ぶら決済サービスを開始",
+      "url": "https://www.ryutsuu.biz/it/s111017.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-11-10",
+      "tags": [
+        "百貨店"
+      ]
+    },
+    {
+      "id": "ryutsuu-c7525398",
+      "title": "ミニストップ／10月は既存店売上高2.6％増、客数1.6％減",
+      "url": "https://www.ryutsuu.biz/sales/s111047.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-10",
+      "tags": [
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-b1df0d30",
+      "title": "プレナス／石川県金沢市に「ほっともっと 金沢小坂町店」オープン",
+      "url": "https://www.ryutsuu.biz/store/s111074.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-10",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-e4ac7618",
+      "title": "シルバーアイ／店舗の販促支えるデジタルサイネージCMS「SIGNAGEi 2.0」提供開始",
+      "url": "https://www.ryutsuu.biz/it/s111014.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-11-10",
+      "tags": [
+        "デジタル"
+      ]
     },
     {
       "id": "diamond-5ebcd7b8",
@@ -25,16 +205,26 @@
       ]
     },
     {
-      "id": "diamond-dd6a55b1",
-      "title": "なぜ京都・河原町なのか。ユニクロ「新・グローバル旗艦店」のしたたかなねらい",
-      "url": "https://diamond-rm.net/store/newstorereport/562989/",
+      "id": "diamond-e428a195",
+      "title": "絶好調セリア河合映治社長が語る「100円」の強さ",
+      "url": "https://diamond-rm.net/market/563218/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-10",
+      "tags": [
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-aad599c5",
+      "title": "注目店から考察！ミスターマックスの主力フォーマット「DS」の強さとは",
+      "url": "https://diamond-rm.net/store/storevisit/562772/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "店舗",
       "date": "2026-11-10",
-      "tags": [
-        "ユニクロ"
-      ]
+      "tags": []
     },
     {
       "id": "diamond-249dcfbf",
@@ -49,12 +239,44 @@
       ]
     },
     {
+      "id": "diamond-ec8d33e1",
+      "title": "【動画】11月1週目の注目ニュースまとめ、バロー関東２号店オープンなど",
+      "url": "https://diamond-rm.net/management/businessplan/563033/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-10",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "diamond-56253d44",
+      "title": "第２１８回　“奇跡の店”ベニマル食料品店",
+      "url": "https://diamond-rm.net/life-career/546362/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
       "id": "diamond-4d2008da",
       "title": "ラーメン店「揚州商人」が快進撃！客単価1.5倍を実現した3つの成長戦略",
       "url": "https://diamond-rm.net/management/561410/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "id": "diamond-b2b1b88c",
+      "title": "関西の激戦区をどう攻めるのか？バロー豊中島江店に見る「目的来店」を引き出す戦略",
+      "url": "https://diamond-rm.net/store/562682/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
       "date": "2026-11-10",
       "tags": []
     },
@@ -72,51 +294,144 @@
       ]
     },
     {
-      "id": "diamond-aad599c5",
-      "title": "注目店から考察！ミスターマックスの主力フォーマット「DS」の強さとは",
-      "url": "https://diamond-rm.net/store/storevisit/562772/",
+      "id": "diamond-dd6a55b1",
+      "title": "なぜ京都・河原町なのか。ユニクロ「新・グローバル旗艦店」のしたたかなねらい",
+      "url": "https://diamond-rm.net/store/newstorereport/562989/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "店舗",
       "date": "2026-11-10",
+      "tags": [
+        "ユニクロ"
+      ]
+    },
+    {
+      "id": "ssnp-e5c3d612",
+      "title": "UCC「コーヒー福袋 2027」、単品購入より2万円以上お得な150杯分・17種類入りのプレミアム福袋など\n\t\t\t\t\t\t\t\t\t\t\t\tCOFFEE STYLE UCCは、「コーヒー福袋 2027」を販売する。福袋は4種類で価格は税込4,500円～2万4,000円。 予約受付は11月10日から12月25日まで、COFFEE STYLE UCC各店の店頭ま...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/711003/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-11-10",
       "tags": []
     },
     {
-      "id": "ryutsuu-503e98e4",
-      "title": "大丸福岡天神店／「東館B2」食品フロアの総菜を拡充、11～12月にリニューアル",
-      "url": "https://www.ryutsuu.biz/store/s110949.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-09",
+      "id": "ssnp-25a2526d",
+      "title": "ゼッテリア、チキンバーガー3種を刷新! 店内仕込みチキンを約20%増量\n\t\t\t\t\t\t\t\t\t\t\t\tハンバーガーショップ「ゼッテリア」は、11月18日から、「ハニーマスタードチキンバーガー」をはじめとする“チキンバーガー”3種をリニューアルし、店内仕込みにこだわったチキンを約20%増量する。一部店舗を除く269店舗で販...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710959/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-10",
       "tags": [
-        "リニューアル",
-        "食品"
+        "リニューアル"
       ]
     },
     {
-      "id": "ryutsuu-e5236bd0",
-      "title": "バーガーキング／11月～12月中旬に「ロピア滝ノ水店」など16店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s110974.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-09",
+      "id": "ssnp-09e01623",
+      "title": "マクドナルド「ザクザクジューシーマック」など13日から一時販売休止 想定上回る販売、11月末までの再開見込む\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710923/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-10",
       "tags": [
-        "オープン",
-        "ロピア"
+        "マクドナルド"
       ]
     },
     {
-      "id": "ryutsuu-48630dbc",
-      "title": "リンガーハット／東京・茨城・福島に11月中旬以降3店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s110972.html",
+      "id": "ssnp-f24b76c6",
+      "title": "パパブブレ、2027年福袋と「グミおせち」予約開始　福袋は1800円から、グミ100袋入りや限定グッズ付きも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/710882/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "id": "ssnp-8bfc1cd4",
+      "title": "モスバーガー、ホワイトソースたっぷりの「冬の白いモスバーガー」など冬限定メニュー全7品発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710854/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-10",
+      "tags": [
+        "モスバーガー"
+      ]
+    },
+    {
+      "id": "ssnp-20033ac1",
+      "title": "祇園辻利「迎春福袋2027」発売　9180円で2種類、人気抹茶菓子や7種のお茶、限定バッグ付き\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/710860/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-11-10",
+      "tags": [
+        "菓子"
+      ]
+    },
+    {
+      "id": "ssnp-0d392c3c",
+      "title": "チーズケーキ強化へワンハンド新商品投入、「サクッと三角チーズケーキ」3種発売【ファミマ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/710837/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "id": "ssnp-7bcf8b4c",
+      "title": "ココス「冬の福袋2027」4400円相当の食事券やりんご柄マグカップ、紅茶など入って4840円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710823/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "id": "ssnp-8e04231e",
+      "title": "マクドナルド、ハッピーセットに「マクドナルドブロック」「名探偵プリキュア！」登場　全14種類のおもちゃ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710804/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-10",
+      "tags": [
+        "マクドナルド"
+      ]
+    },
+    {
+      "id": "ryutsuu-4b9a072c",
+      "title": "ブルーゾーンHD 決算／ヤオコー既存店売上高3.1％増、ディスカウント業態も好調",
+      "url": "https://www.ryutsuu.biz/accounts/s110914.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "店舗",
+      "category": "accounts",
       "date": "2026-11-09",
       "tags": [
-        "オープン"
+        "注目",
+        "ディスカウント",
+        "ヤオコー",
+        "売上高",
+        "決算"
+      ]
+    },
+    {
+      "id": "ryutsuu-97f74185",
+      "title": "バローHD／小池社長「楽しさと安さで『買い物スイッチ』が入る店づくりを推進」",
+      "url": "https://www.ryutsuu.biz/strategy/s110911.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-09",
+      "tags": [
+        "注目",
+        "社長"
       ]
     },
     {
@@ -142,43 +457,6 @@
       ]
     },
     {
-      "id": "ryutsuu-f4bb07e8",
-      "title": "マクドナルド／10月の既存店売上高9.7％増、客数は5.7％増",
-      "url": "https://www.ryutsuu.biz/sales/s110944.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-11-09",
-      "tags": [
-        "マクドナルド",
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-4a757038",
-      "title": "Joshin／10月のグループ売上高18.5％増、エアコンが約2倍の伸びに",
-      "url": "https://www.ryutsuu.biz/sales/s110942.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-11-09",
-      "tags": [
-        "売上高"
-      ]
-    },
-    {
-      "id": "ryutsuu-49078b48",
-      "title": "ビックカメラ／10月の全店売上5.8％増、音響映像商品はカメラ好調で11.3％増に",
-      "url": "https://www.ryutsuu.biz/sales/s110943.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-11-09",
-      "tags": [
-        "ビックカメラ"
-      ]
-    },
-    {
       "id": "diamond-86cecbf6",
       "title": "川野社長が語る！減益相次ぐ食品スーパーでヤオコーだけが強い理由",
       "url": "https://diamond-rm.net/management/563078/",
@@ -196,16 +474,14 @@
       ]
     },
     {
-      "id": "diamond-e19756bb",
-      "title": "「総合ディスカウント」の旗手に大変化？　ミスターマックスの逆襲",
-      "url": "https://diamond-rm.net/management/businessplan/562770/",
+      "id": "diamond-9547eecc",
+      "title": "第２１７回　コロッケを食べれば店がわかる",
+      "url": "https://diamond-rm.net/life-career/546361/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "経営戦略",
+      "category": "life-career",
       "date": "2026-11-09",
-      "tags": [
-        "ディスカウント"
-      ]
+      "tags": []
     },
     {
       "id": "diamond-acef4374",
@@ -217,40 +493,6 @@
       "date": "2026-11-09",
       "tags": [
         "社長"
-      ]
-    },
-    {
-      "id": "diamond-9547eecc",
-      "title": "第２１７回　コロッケを食べれば店がわかる",
-      "url": "https://diamond-rm.net/life-career/546361/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-09",
-      "tags": []
-    },
-    {
-      "id": "diamond-f1d368bf",
-      "title": "11年ぶりのリニューアル！角上魚類越谷店の注目ポイントを解説",
-      "url": "https://diamond-rm.net/store/newstorereport/561426/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-09",
-      "tags": [
-        "リニューアル"
-      ]
-    },
-    {
-      "id": "diamond-46239897",
-      "title": "自由が丘の新商業施設に明治屋が出店　こだわり詰まった売場の全貌",
-      "url": "https://diamond-rm.net/store/newstorereport/561425/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-09",
-      "tags": [
-        "出店"
       ]
     },
     {
@@ -267,21 +509,44 @@
       ]
     },
     {
+      "id": "diamond-e19756bb",
+      "title": "「総合ディスカウント」の旗手に大変化？　ミスターマックスの逆襲",
+      "url": "https://diamond-rm.net/management/businessplan/562770/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-09",
+      "tags": [
+        "ディスカウント"
+      ]
+    },
+    {
+      "id": "diamond-f1d368bf",
+      "title": "11年ぶりのリニューアル！角上魚類越谷店の注目ポイントを解説",
+      "url": "https://diamond-rm.net/store/newstorereport/561426/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-09",
+      "tags": [
+        "リニューアル"
+      ]
+    },
+    {
       "id": "ssnp-998174c2",
-      "title": "【オリオンビール福袋】ビール7種や沖縄そば、限定グッズなど「沖縄じかんお楽しみ福袋2026-27」発売\n\t\t\t\t\t\t\t\t\t\t\t\tオリオンビールは、「沖縄じかんお楽しみ福袋2026-27」を販売する。現在、オリオンビール公式通販で注文を受付中。 「沖縄じかんお楽しみ福袋2026-27」は、「2026年の締めくくりと2027年の嘉例を祈願して乾杯！」...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【オリオンビール福袋】ビール7種や沖縄そば、限定グッズなど「沖縄じかんお楽しみ福袋2026-27」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/liquor/710753/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "liquor",
       "date": "2026-11-09",
       "tags": [
-        "ビール",
-        "通販"
+        "ビール"
       ]
     },
     {
       "id": "ssnp-670ef2c2",
-      "title": "スシロー　110円～「ジャンボとろサーモン」など登場、うに・ローストビーフや牡蠣フライなど冬メニュー\n\t\t\t\t\t\t\t\t\t\t\t\tスシローは11月11日から、とろサーモンを食べごたえのあるジャンボサイズで楽しめる「ジャンボとろサーモン」3種を販売する。 ラインアップは、「ジャンボとろサーモン」（1貫110円～）のほか、魚卵をトッピングした「プチプチ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "スシロー　110円～「ジャンボとろサーモン」など登場、うに・ローストビーフや牡蠣フライなど冬メニュー\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/710730/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -301,7 +566,7 @@
     },
     {
       "id": "ssnp-3bd5a85e",
-      "title": "【10日で100万食突破】吉野家「牛すき祭」開催、牛すき鍋膳が100円引きの799円に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【10日間で100万食突破】吉野家「牛すき祭」開催、牛すき鍋膳が100円引きの799円に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/710713/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -343,6 +608,93 @@
       "date": "2026-11-09",
       "tags": [
         "FC"
+      ]
+    },
+    {
+      "id": "ryutsuu-503e98e4",
+      "title": "大丸福岡天神店／「東館B2」食品フロアの総菜を拡充、11～12月にリニューアル",
+      "url": "https://www.ryutsuu.biz/store/s110949.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-09",
+      "tags": [
+        "リニューアル",
+        "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-e5236bd0",
+      "title": "バーガーキング／11月～12月中旬に「ロピア滝ノ水店」など16店舗オープン",
+      "url": "https://www.ryutsuu.biz/store/s110974.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-09",
+      "tags": [
+        "オープン",
+        "ロピア"
+      ]
+    },
+    {
+      "id": "ryutsuu-48630dbc",
+      "title": "リンガーハット／東京・茨城・福島に11月中旬以降3店舗オープン",
+      "url": "https://www.ryutsuu.biz/store/s110972.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-09",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-f4bb07e8",
+      "title": "マクドナルド／10月の既存店売上高9.7％増、客数は5.7％増",
+      "url": "https://www.ryutsuu.biz/sales/s110944.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-09",
+      "tags": [
+        "マクドナルド",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-4a757038",
+      "title": "Joshin／10月のグループ売上高18.5％増、エアコンが約2倍の伸びに",
+      "url": "https://www.ryutsuu.biz/sales/s110942.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-09",
+      "tags": [
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-49078b48",
+      "title": "ビックカメラ／10月の全店売上5.8％増、音響映像商品はカメラ好調で11.3％増に",
+      "url": "https://www.ryutsuu.biz/sales/s110943.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-09",
+      "tags": [
+        "ビックカメラ"
+      ]
+    },
+    {
+      "id": "diamond-46239897",
+      "title": "自由が丘の新商業施設に明治屋が出店　こだわり詰まった売場の全貌",
+      "url": "https://diamond-rm.net/store/newstorereport/561425/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-09",
+      "tags": [
+        "出店"
       ]
     },
     {
@@ -491,19 +843,6 @@
       ]
     },
     {
-      "id": "ryutsuu-78d8be8d",
-      "title": "バロー／東京1号店「本羽田店」オープン、年商50億円目指す",
-      "url": "https://www.ryutsuu.biz/report/s110611.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-11-06",
-      "tags": [
-        "注目",
-        "オープン"
-      ]
-    },
-    {
       "id": "ryutsuu-5e23dfe2",
       "title": "F＆LC 新中計／中国などで年120店舗の海外出店継続、29年度売上収益8310億円目指す",
       "url": "https://www.ryutsuu.biz/strategy/s110677.html",
@@ -514,19 +853,6 @@
       "tags": [
         "注目",
         "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-cf8dd6f8",
-      "title": "F＆LC 決算／9月期営業利益47.0％増、海外事業の成長加速・デジロー導入も奏功",
-      "url": "https://www.ryutsuu.biz/accounts/s110676.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-11-06",
-      "tags": [
-        "営業利益",
-        "決算"
       ]
     },
     {
@@ -542,6 +868,16 @@
         "スーパー",
         "ライフ"
       ]
+    },
+    {
+      "id": "diamond-a41b9fd1",
+      "title": "速報！東京初進出の「バロー本羽田店」の売場づくり・MDを解説！",
+      "url": "https://diamond-rm.net/management/562898/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-06",
+      "tags": []
     },
     {
       "id": "ssnp-9e7287dd",
@@ -726,14 +1062,30 @@
       "tags": []
     },
     {
-      "id": "diamond-a41b9fd1",
-      "title": "速報！東京初進出の「バロー本羽田店」の売場づくり・MDを解説！",
-      "url": "https://diamond-rm.net/management/562898/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
+      "id": "ryutsuu-78d8be8d",
+      "title": "バロー／東京1号店「本羽田店」オープン、年商50億円目指す",
+      "url": "https://www.ryutsuu.biz/report/s110611.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
       "date": "2026-11-06",
-      "tags": []
+      "tags": [
+        "注目",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-cf8dd6f8",
+      "title": "F＆LC 決算／9月期営業利益47.0％増、海外事業の成長加速・デジロー導入も奏功",
+      "url": "https://www.ryutsuu.biz/accounts/s110676.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-11-06",
+      "tags": [
+        "営業利益",
+        "決算"
+      ]
     },
     {
       "id": "ryutsuu-abe91d5a",
@@ -942,47 +1294,6 @@
       ]
     },
     {
-      "id": "ryutsuu-059f5f12",
-      "title": "ドラッグストアの食品戦略 第4回マツキヨココカラ、トモズ／食品構成比1割未満で戦う",
-      "url": "https://www.ryutsuu.biz/strategy/s110541.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-11-05",
-      "tags": [
-        "連載",
-        "ドラッグストア",
-        "マツキヨ",
-        "ドラッグ",
-        "食品"
-      ]
-    },
-    {
-      "id": "ryutsuu-4b63ff5d",
-      "title": "イオンリテール／ジーフットを吸収合併、グループ改革を加速",
-      "url": "https://www.ryutsuu.biz/strategy/s110514.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-11-05",
-      "tags": [
-        "イオン",
-        "合併"
-      ]
-    },
-    {
-      "id": "ryutsuu-eff39039",
-      "title": "無印良品／不正アクセスでクレカ情報109万件流出の可能性、当初は否定も新たに判明",
-      "url": "https://www.ryutsuu.biz/strategy/s110542.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-11-05",
-      "tags": [
-        "無印良品"
-      ]
-    },
-    {
       "id": "diamond-87cb7872",
       "title": "小売業の株式上場は、いつまで「葵の御紋」であり続けるか？",
       "url": "https://diamond-rm.net/management/businessplan/561427/",
@@ -1165,6 +1476,47 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-059f5f12",
+      "title": "ドラッグストアの食品戦略 第4回マツキヨココカラ、トモズ／食品構成比1割未満で戦う",
+      "url": "https://www.ryutsuu.biz/strategy/s110541.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-05",
+      "tags": [
+        "連載",
+        "ドラッグストア",
+        "マツキヨ",
+        "ドラッグ",
+        "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-4b63ff5d",
+      "title": "イオンリテール／ジーフットを吸収合併、グループ改革を加速",
+      "url": "https://www.ryutsuu.biz/strategy/s110514.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-05",
+      "tags": [
+        "イオン",
+        "合併"
+      ]
+    },
+    {
+      "id": "ryutsuu-eff39039",
+      "title": "無印良品／不正アクセスでクレカ情報109万件流出の可能性、当初は否定も新たに判明",
+      "url": "https://www.ryutsuu.biz/strategy/s110542.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-05",
+      "tags": [
+        "無印良品"
+      ]
+    },
+    {
       "id": "diamond-02ff944f",
       "title": "オーケーが関西13店舗目の「長吉店」をオープン！　関西進出約2年で加速するローカライズ戦略",
       "url": "https://diamond-rm.net/store/newstorereport/562416/",
@@ -1333,19 +1685,6 @@
       "date": "2026-11-05",
       "tags": [
         "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-b2dee6e9",
-      "title": "サミット／コルモピア事業の譲渡、服部社長「去年から仕入れが厳しくなってきていた」",
-      "url": "https://www.ryutsuu.biz/strategy/s110443.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-11-04",
-      "tags": [
-        "サミット",
-        "社長"
       ]
     },
     {
@@ -1639,6 +1978,19 @@
       "category": "foodservice",
       "date": "2026-11-04",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-b2dee6e9",
+      "title": "サミット／コルモピア事業の譲渡、服部社長「去年から仕入れが厳しくなってきていた」",
+      "url": "https://www.ryutsuu.biz/strategy/s110443.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-04",
+      "tags": [
+        "サミット",
+        "社長"
+      ]
     },
     {
       "id": "ryutsuu-4b9926d7",
@@ -2490,20 +2842,6 @@
       "tags": []
     },
     {
-      "id": "ryutsuu-7c390a6e",
-      "title": "プロガイド／カインズ、ワークマンなど登壇「ストアソリューションフォーラム」11月18～20日開催",
-      "url": "https://www.ryutsuu.biz/seminar/s103077.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-10-30",
-      "tags": [
-        "PR",
-        "ワークマン",
-        "カインズ"
-      ]
-    },
-    {
       "id": "diamond-b1981404",
       "title": "業態別　主要店舗月次実績＝2026年9月度",
       "url": "https://diamond-rm.net/retaildata/562201/",
@@ -2574,6 +2912,20 @@
       "category": "大豆",
       "date": "2026-10-30",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-7c390a6e",
+      "title": "プロガイド／カインズ、ワークマンなど登壇「ストアソリューションフォーラム」11月18～20日開催",
+      "url": "https://www.ryutsuu.biz/seminar/s103077.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "seminar",
+      "date": "2026-10-30",
+      "tags": [
+        "PR",
+        "ワークマン",
+        "カインズ"
+      ]
     },
     {
       "id": "ssnp-d172ddc6",
@@ -2944,28 +3296,6 @@
       ]
     },
     {
-      "id": "diamond-dea4a4ae",
-      "title": "#6 「実験を⽇常に変える⼒」を日本の小売が手に入れる方法とは？【後編】",
-      "url": "https://diamond-rm.net/market/economic/562074/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-29",
-      "tags": []
-    },
-    {
-      "id": "diamond-28b0b479",
-      "title": "全店24時間営業のハローズ、コンビニからも客を奪う独自モデルの強さ",
-      "url": "https://diamond-rm.net/market/562069/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-29",
-      "tags": [
-        "コンビニ"
-      ]
-    },
-    {
       "id": "diamond-0f474995",
       "title": "ホームセンター月次実績＝2026年9月度",
       "url": "https://diamond-rm.net/retaildata/561834/",
@@ -2997,6 +3327,28 @@
       "date": "2026-10-29",
       "tags": [
         "データ活用"
+      ]
+    },
+    {
+      "id": "diamond-dea4a4ae",
+      "title": "#6 「実験を⽇常に変える⼒」を日本の小売が手に入れる方法とは？【後編】",
+      "url": "https://diamond-rm.net/market/economic/562074/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-29",
+      "tags": []
+    },
+    {
+      "id": "diamond-28b0b479",
+      "title": "全店24時間営業のハローズ、コンビニからも客を奪う独自モデルの強さ",
+      "url": "https://diamond-rm.net/market/562069/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-10-29",
+      "tags": [
+        "コンビニ"
       ]
     },
     {
@@ -3182,358 +3534,6 @@
         "イオン",
         "自動化",
         "物流"
-      ]
-    },
-    {
-      "id": "ryutsuu-a791295c",
-      "title": "セブンイレブン／環境配慮型サーマルラベルを実験、千葉の約300店舗で",
-      "url": "https://www.ryutsuu.biz/strategy/s102911.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-29",
-      "tags": [
-        "セブンイレブン"
-      ]
-    },
-    {
-      "id": "ryutsuu-ead6cce7",
-      "title": "ユニクロ／「ソックスまとめ買い」を継続、販売終了予定から一転",
-      "url": "https://www.ryutsuu.biz/strategy/s102942.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-29",
-      "tags": [
-        "ユニクロ"
-      ]
-    },
-    {
-      "id": "diamond-9acc41b0",
-      "title": "【食品スーパー視察完全ガイド】大阪・豊中＆吹田　関西内外の実力派が大集積！",
-      "url": "https://diamond-rm.net/store/storevisit/561438/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-29",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-265024ad",
-      "title": "コスモスが堺に2店舗を同時オープン、大黒天物産は福岡・直方にラ・ムー出店【大店立地法速報】",
-      "url": "https://diamond-rm.net/store/large-scaleretailstorelaw/562036/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-29",
-      "tags": [
-        "オープン",
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-d532d953",
-      "title": "塚田農場／静岡県浜松市に「炭火焼鳥 塚田農場 浜松モール街店」10月29日オープン",
-      "url": "https://www.ryutsuu.biz/store/s103011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-29",
-      "tags": [
-        "オープン",
-        "モール"
-      ]
-    },
-    {
-      "id": "diamond-40c13000",
-      "title": "【食品スーパー視察完全ガイド】横浜・港南台　バロー旋風にザ・ビッグ参戦で混沌のベッドタウン",
-      "url": "https://diamond-rm.net/store/storevisit/561437/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-10-29",
-      "tags": [
-        "食品スーパー",
-        "スーパー",
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-eeeaf564",
-      "title": "第２１０回　天下の三越に挑む《オーバーＭ》",
-      "url": "https://diamond-rm.net/life-career/546354/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-29",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-87886edd",
-      "title": "マリノアシティ福岡跡地／「三井アウトレットパーク 福岡マリノア」 27年4月オープン、220店舗が集結",
-      "url": "https://www.ryutsuu.biz/store/s102912.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-29",
-      "tags": [
-        "アウトレット",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-57333bdc",
-      "title": "ZOZO 決算／4～9月増収増益、主要事業の商品取扱高は過去最高を更新",
-      "url": "https://www.ryutsuu.biz/accounts/s102948.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-10-29",
-      "tags": [
-        "ZOZO",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-d481e445",
-      "title": "ドラッグストア／9月既存店売上ツルハ1.0％増、コスモス薬品0.4％減",
-      "url": "https://www.ryutsuu.biz/sales/s102979.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-10-29",
-      "tags": [
-        "ドラッグストア",
-        "コスモス薬品",
-        "ドラッグ",
-        "ツルハ"
-      ]
-    },
-    {
-      "id": "ryutsuu-16a375a4",
-      "title": "マックスバリュ東海／名古屋で「マックスバリュエクスプレス」11月に2店舗オープン",
-      "url": "https://www.ryutsuu.biz/store/s102947.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-29",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-3d3359f1",
-      "title": "セカンドリテイリング／11月はセカスト6店舗など4業態・12店舗を新規オープン",
-      "url": "https://www.ryutsuu.biz/store/s102945.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-29",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "diamond-74d94892",
-      "title": "ジョイフル本田との統合はどうなる？ アークランズ幹部が語った今後の課題",
-      "url": "https://diamond-rm.net/market/accounting/562004/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-10-29",
-      "tags": [
-        "統合"
-      ]
-    },
-    {
-      "id": "ryutsuu-2ac7bc23",
-      "title": "まいばすけっと／東京・千葉に「南大泉5丁目店」など4店舗を同時オープン",
-      "url": "https://www.ryutsuu.biz/store/s102973.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-29",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-93333ee3",
-      "title": "ウェンディーズ・ファーストキッチン／タピオカのデリバリー専門店を開始",
-      "url": "https://www.ryutsuu.biz/store/s102914.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-29",
-      "tags": [
-        "専門店"
-      ]
-    },
-    {
-      "id": "ryutsuu-8be54f59",
-      "title": "グランベリーパーク／AI画像解析を活用「駐車場出庫時間表示サービス」導入",
-      "url": "https://www.ryutsuu.biz/it/s102913.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-10-29",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ryutsuu-ef5c6775",
-      "title": "カワチ薬品 決算／3～9月季節商材低迷で売上高0.8％減、通期予想を下方修正",
-      "url": "https://www.ryutsuu.biz/accounts/s102944.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-10-29",
-      "tags": [
-        "売上高",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-eecd44c8",
-      "title": "イオン石和店／「クレーン横丁 極 石和店」12月上旬オープン、山梨初出店",
-      "url": "https://www.ryutsuu.biz/store/s102978.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-29",
-      "tags": [
-        "オープン",
-        "イオン",
-        "出店"
-      ]
-    },
-    {
-      "id": "ryutsuu-6bcd4723",
-      "title": "熱冷却用品 売上ランキング／7月～9月1位小林製薬「熱さまシート 大人用」",
-      "url": "https://www.ryutsuu.biz/pos/s102971.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-29",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-d4e16c79",
-      "title": "アリオ八尾／「鳥〇食堂×タニタカフェ」10月29日オープン",
-      "url": "https://www.ryutsuu.biz/store/s102873.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-10-29",
-      "tags": [
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-59a74ba9",
-      "title": "お菓子 売上ランキング／9月は山崎製パン「濃みつ 紅はるかのいもパイ」が1位",
-      "url": "https://www.ryutsuu.biz/pos/s102843.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-28",
-      "tags": [
-        "菓子"
-      ]
-    },
-    {
-      "id": "ryutsuu-00622ebf",
-      "title": "男性用制汗剤 売上ランキング／7月～9月1位は花王「メンズビオレ 顔もふけるボディシート 清潔感のある石けんの香り」",
-      "url": "https://www.ryutsuu.biz/pos/s102871.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "pos",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "diamond-982ccb68",
-      "title": "業態別統計データ 2026年 ホームセンター",
-      "url": "https://diamond-rm.net/retaildata/538319/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-10-28",
-      "tags": [
-        "ホームセンター"
-      ]
-    },
-    {
-      "id": "diamond-301931ca",
-      "title": "業態別統計データ 2026年 コンビニエンスストア",
-      "url": "https://diamond-rm.net/retaildata/538317/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-10-28",
-      "tags": [
-        "コンビニ"
-      ]
-    },
-    {
-      "id": "diamond-330753e2",
-      "title": "業態別統計データ 2026年 チェーンストア",
-      "url": "https://diamond-rm.net/retaildata/538314/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "diamond-a44b5c75",
-      "title": "大幅赤字からV字回復！ 幸楽苑はなぜ「安くておいしいラーメン」に原点回帰したのか",
-      "url": "https://diamond-rm.net/management/560946/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-10-28",
-      "tags": [
-        "赤字"
-      ]
-    },
-    {
-      "id": "ssnp-412778b9",
-      "title": "【大戸屋、冬の福袋】クーポン5,400円分付きで税込5,000円「大戸屋 特盛まんぷく袋」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709289/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-bc17cd40",
-      "title": "ドトール×シナモロール、限定バッグやぬいぐるみ入りの「福袋2027」の店頭予約を開始\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709259/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-3d6769fa",
-      "title": "スターバックス リザーブ、ホリデー限定グッズ発売　ブーツ型マグやグリッタータンブラー登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709219/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-28",
-      "tags": [
-        "スターバックス"
       ]
     }
   ]
