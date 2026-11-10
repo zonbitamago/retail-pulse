@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-11-10T14:06:15.715Z",
+  "lastUpdated": "2026-11-10T22:43:13.060Z",
   "items": [
+    {
+      "id": "ryutsuu-bc564396",
+      "title": "キャナルシティ博多／「博多の味やまや」とフルーツのコンセプト店11月11日オープン",
+      "url": "https://www.ryutsuu.biz/store/s111273.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-11",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
+      "id": "diamond-40463b4c",
+      "title": "トレーダージョーズでも売り切れ！米国でイワシ缶詰が大ブーム",
+      "url": "https://diamond-rm.net/overseas/american_economy/563024/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-11-11",
+      "tags": []
+    },
+    {
+      "id": "diamond-9009caac",
+      "title": "700坪でも「総合」を表現！ミスターマックスの戦略的小型フォーマット「Select」の強さ",
+      "url": "https://diamond-rm.net/store/storevisit/562774/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-11",
+      "tags": [
+        "EC"
+      ]
+    },
+    {
+      "id": "ssnp-5604f274",
+      "title": "ロイヤルホスト、能登の地酒と楽しむ石川の洋食フェア　治部煮ハンバーグやハントンライスなど\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーレストラン「ロイヤルホスト」は12月9日から、「Good JAPAN 紡ぐ、石川 銘酒と出会う、美味なる洋食」フェアを開催する。 「Good JAPAN」は、産地や素材の背景、その土地ならではの食文化を大切にし...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/710936/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-11",
+      "tags": []
+    },
     {
       "id": "ryutsuu-eceec4cf",
       "title": "ナカメヴィレッジ／アメリカンラグシー旗艦店12月オープン、商業・オフィスの複合施設",
@@ -317,15 +361,13 @@
     },
     {
       "id": "ssnp-25a2526d",
-      "title": "ゼッテリア、チキンバーガー3種を刷新! 店内仕込みチキンを約20%増量\n\t\t\t\t\t\t\t\t\t\t\t\tハンバーガーショップ「ゼッテリア」は、11月18日から、「ハニーマスタードチキンバーガー」をはじめとする“チキンバーガー”3種をリニューアルし、店内仕込みにこだわったチキンを約20%増量する。一部店舗を除く269店舗で販...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ゼッテリア、チキンバーガー3種を刷新! 店内仕込みチキンを約20%増量\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/710959/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-11-10",
-      "tags": [
-        "リニューアル"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-09e01623",
@@ -474,16 +516,6 @@
       ]
     },
     {
-      "id": "diamond-9547eecc",
-      "title": "第２１７回　コロッケを食べれば店がわかる",
-      "url": "https://diamond-rm.net/life-career/546361/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-09",
-      "tags": []
-    },
-    {
       "id": "diamond-acef4374",
       "title": "ミスターマックス佐藤社長が激白！「価値ある安さが、たしかに伝わり始めている」",
       "url": "https://diamond-rm.net/management/topinterview/562771/",
@@ -518,18 +550,6 @@
       "date": "2026-11-09",
       "tags": [
         "ディスカウント"
-      ]
-    },
-    {
-      "id": "diamond-f1d368bf",
-      "title": "11年ぶりのリニューアル！角上魚類越谷店の注目ポイントを解説",
-      "url": "https://diamond-rm.net/store/newstorereport/561426/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-09",
-      "tags": [
-        "リニューアル"
       ]
     },
     {
@@ -608,6 +628,28 @@
       "date": "2026-11-09",
       "tags": [
         "FC"
+      ]
+    },
+    {
+      "id": "diamond-9547eecc",
+      "title": "第２１７回　コロッケを食べれば店がわかる",
+      "url": "https://diamond-rm.net/life-career/546361/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "id": "diamond-f1d368bf",
+      "title": "11年ぶりのリニューアル！角上魚類越谷店の注目ポイントを解説",
+      "url": "https://diamond-rm.net/store/newstorereport/561426/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-09",
+      "tags": [
+        "リニューアル"
       ]
     },
     {
@@ -870,16 +912,6 @@
       ]
     },
     {
-      "id": "diamond-a41b9fd1",
-      "title": "速報！東京初進出の「バロー本羽田店」の売場づくり・MDを解説！",
-      "url": "https://diamond-rm.net/management/562898/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-06",
-      "tags": []
-    },
-    {
       "id": "ssnp-9e7287dd",
       "title": "タリーズ、蒜山ジャージー牛乳を使用したクリームスープパスタや秋冬限定のシナモンロールなど発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/710656/",
@@ -1058,6 +1090,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "id": "diamond-a41b9fd1",
+      "title": "速報！東京初進出の「バロー本羽田店」の売場づくり・MDを解説！",
+      "url": "https://diamond-rm.net/management/562898/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-11-06",
       "tags": []
     },
@@ -3480,61 +3522,6 @@
       "category": "foodservice",
       "date": "2026-10-29",
       "tags": []
-    },
-    {
-      "id": "ssnp-387bad94",
-      "title": "スターバックス「福袋2027」発売　9500円、絞れるトートバッグや限定ボトル、店舗で使えるチケット入り\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709325/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-29",
-      "tags": [
-        "スターバックス"
-      ]
-    },
-    {
-      "id": "ryutsuu-c6c2f056",
-      "title": "ドラッグストアの食品戦略 第3回クスリのアオキ／地場スーパーM＆Aで「生鮮」強化",
-      "url": "https://www.ryutsuu.biz/strategy/s102941.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-29",
-      "tags": [
-        "連載",
-        "クスリのアオキ",
-        "ドラッグストア",
-        "スーパー",
-        "ドラッグ",
-        "食品",
-        "生鮮"
-      ]
-    },
-    {
-      "id": "ssnp-063ccab4",
-      "title": "かつや「クリスマスボックス」予約開始　フライドチキン4枚・海老フライ4本入り、1501円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709315/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-29",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-740f18bd",
-      "title": "イオン／次世代物流センター「川口東XD」稼働、仕分けから混載までロボットで自動化",
-      "url": "https://www.ryutsuu.biz/strategy/s102943.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-10-29",
-      "tags": [
-        "ロボット",
-        "イオン",
-        "自動化",
-        "物流"
-      ]
     }
   ]
 }
