@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-11-09T14:53:37.231Z",
+  "lastUpdated": "2026-11-10T01:03:44.639Z",
   "items": [
+    {
+      "id": "diamond-b2b1b88c",
+      "title": "関西の激戦区をどう攻めるのか？バロー豊中島江店に見る「目的来店」を引き出す戦略",
+      "url": "https://diamond-rm.net/store/562682/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "id": "diamond-5ebcd7b8",
+      "title": "バローが大阪で見せる本気の売場！豊中島江店の鮮魚・精肉・総菜売場を徹底解説",
+      "url": "https://diamond-rm.net/store/newstorereport/562389/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-10",
+      "tags": [
+        "精肉",
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-dd6a55b1",
+      "title": "なぜ京都・河原町なのか。ユニクロ「新・グローバル旗艦店」のしたたかなねらい",
+      "url": "https://diamond-rm.net/store/newstorereport/562989/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-10",
+      "tags": [
+        "ユニクロ"
+      ]
+    },
+    {
+      "id": "diamond-249dcfbf",
+      "title": "DS＋生鮮で来店頻度向上ねらう　ミスターマックスの「SuC」を大解剖",
+      "url": "https://diamond-rm.net/store/storevisit/562773/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-10",
+      "tags": [
+        "生鮮"
+      ]
+    },
+    {
+      "id": "diamond-4d2008da",
+      "title": "ラーメン店「揚州商人」が快進撃！客単価1.5倍を実現した3つの成長戦略",
+      "url": "https://diamond-rm.net/management/561410/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "id": "diamond-c788924e",
+      "title": "ローソン、プティマインとコラボした「からあげクン」の子供服を発売【週刊コンビニニュース】",
+      "url": "https://diamond-rm.net/management/563037/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-10",
+      "tags": [
+        "ローソン",
+        "コンビニ"
+      ]
+    },
+    {
+      "id": "diamond-aad599c5",
+      "title": "注目店から考察！ミスターマックスの主力フォーマット「DS」の強さとは",
+      "url": "https://diamond-rm.net/store/storevisit/562772/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-10",
+      "tags": []
+    },
     {
       "id": "ryutsuu-503e98e4",
       "title": "大丸福岡天神店／「東館B2」食品フロアの総菜を拡充、11～12月にリニューアル",
@@ -140,30 +220,6 @@
       ]
     },
     {
-      "id": "diamond-27227f8d",
-      "title": "明治屋が旗艦店・広尾ストアーを大改装! ワインと焼きたてパンで勝負",
-      "url": "https://diamond-rm.net/store/newstorereport/562946/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-09",
-      "tags": [
-        "改装"
-      ]
-    },
-    {
-      "id": "diamond-cc5d9379",
-      "title": "決算でくっきり明暗！アナリストが読み解く勝ち組・負け組",
-      "url": "https://diamond-rm.net/market/accounting/562844/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-11-09",
-      "tags": [
-        "決算"
-      ]
-    },
-    {
       "id": "diamond-9547eecc",
       "title": "第２１７回　コロッケを食べれば店がわかる",
       "url": "https://diamond-rm.net/life-career/546361/",
@@ -208,20 +264,6 @@
       "tags": [
         "出店",
         "社長"
-      ]
-    },
-    {
-      "id": "diamond-79fd8e57",
-      "title": "1万円の生ハム原木を提案!? ヤオコー最新店「まるひろ入間SC店」の売場づくりを詳報",
-      "url": "https://diamond-rm.net/store/newstorereport/561424/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-09",
-      "tags": [
-        "ヤオコー",
-        "SC",
-        "新店"
       ]
     },
     {
@@ -304,17 +346,41 @@
       ]
     },
     {
-      "id": "diamond-e48c2d16",
-      "title": "1配信で平均2万視聴！ヤマダデンキ佐野社長が語るライブコマース戦略",
-      "url": "https://diamond-rm.net/management/562953/",
+      "id": "diamond-27227f8d",
+      "title": "明治屋が旗艦店・広尾ストアーを大改装! ワインと焼きたてパンで勝負",
+      "url": "https://diamond-rm.net/store/newstorereport/562946/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-08",
+      "category": "店舗",
+      "date": "2026-11-09",
       "tags": [
-        "ライブコマース",
-        "ヤマダデンキ",
-        "社長"
+        "改装"
+      ]
+    },
+    {
+      "id": "diamond-cc5d9379",
+      "title": "決算でくっきり明暗！アナリストが読み解く勝ち組・負け組",
+      "url": "https://diamond-rm.net/market/accounting/562844/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-09",
+      "tags": [
+        "決算"
+      ]
+    },
+    {
+      "id": "diamond-79fd8e57",
+      "title": "1万円の生ハム原木を提案!? ヤオコー最新店「まるひろ入間SC店」の売場づくりを詳報",
+      "url": "https://diamond-rm.net/store/newstorereport/561424/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-09",
+      "tags": [
+        "ヤオコー",
+        "SC",
+        "新店"
       ]
     },
     {
@@ -330,37 +396,17 @@
       ]
     },
     {
-      "id": "diamond-8ce43c75",
-      "title": "流通秀書　第54回『小売業のファッション・マーチャンダイジング』菅原正博/著",
-      "url": "https://diamond-rm.net/life-career/557937/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-07",
-      "tags": []
-    },
-    {
-      "id": "diamond-642c0dff",
-      "title": "予算設定・人員体制・ムダ削減　店長業務「3つの基本」を徹底する方法",
-      "url": "https://diamond-rm.net/management/businessplan/561429/",
+      "id": "diamond-e48c2d16",
+      "title": "1配信で平均2万視聴！ヤマダデンキ佐野社長が語るライブコマース戦略",
+      "url": "https://diamond-rm.net/management/562953/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
-      "date": "2026-11-07",
-      "tags": []
-    },
-    {
-      "id": "diamond-5eac20e0",
-      "title": "薬王堂、AI肌診断機能を刷新【週刊ドラッグストアニュース】",
-      "url": "https://diamond-rm.net/store/newopen/562923/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "tags": [
-        "ドラッグストア",
-        "ドラッグ",
-        "AI"
+        "ライブコマース",
+        "ヤマダデンキ",
+        "社長"
       ]
     },
     {
@@ -409,6 +455,40 @@
       "category": "foodservice",
       "date": "2026-11-07",
       "tags": []
+    },
+    {
+      "id": "diamond-8ce43c75",
+      "title": "流通秀書　第54回『小売業のファッション・マーチャンダイジング』菅原正博/著",
+      "url": "https://diamond-rm.net/life-career/557937/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-07",
+      "tags": []
+    },
+    {
+      "id": "diamond-642c0dff",
+      "title": "予算設定・人員体制・ムダ削減　店長業務「3つの基本」を徹底する方法",
+      "url": "https://diamond-rm.net/management/businessplan/561429/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-07",
+      "tags": []
+    },
+    {
+      "id": "diamond-5eac20e0",
+      "title": "薬王堂、AI肌診断機能を刷新【週刊ドラッグストアニュース】",
+      "url": "https://diamond-rm.net/store/newopen/562923/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-07",
+      "tags": [
+        "ドラッグストア",
+        "ドラッグ",
+        "AI"
+      ]
     },
     {
       "id": "ryutsuu-78d8be8d",
@@ -462,16 +542,6 @@
         "スーパー",
         "ライフ"
       ]
-    },
-    {
-      "id": "diamond-a41b9fd1",
-      "title": "速報！東京初進出の「バロー本羽田店」の売場づくり・MDを解説！",
-      "url": "https://diamond-rm.net/management/562898/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-06",
-      "tags": []
     },
     {
       "id": "ssnp-9e7287dd",
@@ -652,6 +722,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "id": "diamond-a41b9fd1",
+      "title": "速報！東京初進出の「バロー本羽田店」の売場づくり・MDを解説！",
+      "url": "https://diamond-rm.net/management/562898/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-11-06",
       "tags": []
     },
@@ -903,19 +983,6 @@
       ]
     },
     {
-      "id": "diamond-02ff944f",
-      "title": "オーケーが関西13店舗目の「長吉店」をオープン！　関西進出約2年で加速するローカライズ戦略",
-      "url": "https://diamond-rm.net/store/newstorereport/562416/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-05",
-      "tags": [
-        "オーケー",
-        "オープン"
-      ]
-    },
-    {
       "id": "diamond-87cb7872",
       "title": "小売業の株式上場は、いつまで「葵の御紋」であり続けるか？",
       "url": "https://diamond-rm.net/management/businessplan/561427/",
@@ -1096,6 +1163,19 @@
       "category": "foodservice",
       "date": "2026-11-05",
       "tags": []
+    },
+    {
+      "id": "diamond-02ff944f",
+      "title": "オーケーが関西13店舗目の「長吉店」をオープン！　関西進出約2年で加速するローカライズ戦略",
+      "url": "https://diamond-rm.net/store/newstorereport/562416/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-05",
+      "tags": [
+        "オーケー",
+        "オープン"
+      ]
     },
     {
       "id": "ryutsuu-4dc2602b",
@@ -3454,80 +3534,6 @@
       "date": "2026-10-28",
       "tags": [
         "スターバックス"
-      ]
-    },
-    {
-      "id": "ssnp-3057b531",
-      "title": "くら寿司「かにフェア」開催、丸ずわいがに二種盛り380円、本ずわいがに280円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709240/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-30bb7ecb",
-      "title": "nana’s green tea「2027年福袋」予約開始　抹茶ラテ缶やロールケーキポーチ、最大1万1680円相当のチケット付き、8900円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709201/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-e7b59c44",
-      "title": "【くら寿司】平日限定「500円ランチ」発売、天丼・うな丼に味噌汁か茶碗蒸し付き\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709192/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-6d900fff",
-      "title": "値段そのまま野菜1.6倍!「素揚げ野菜カレー【66g増し】」発売【チャンピオンカレー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709181/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-c3746e37",
-      "title": "スシロー、ひき肉と玉ねぎの旨みが引き立つ「辛旨 勝浦タンタンメン」を全国販売【“ジモメシ”プロジェクト第五弾】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709154/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "id": "ssnp-6300a9ea",
-      "title": "ハリー･ポッターの世界観を表現したプチケーキの詰め合わせ&焼菓子ギフトの全3品を展開【銀座コージーコーナー】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/709142/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-28",
-      "tags": [
-        "菓子"
-      ]
-    },
-    {
-      "id": "ssnp-11ffa08f",
-      "title": "【吉野家】豆腐が主役の「牛肉豆腐丼」発売、並盛649円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709137/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-28",
-      "tags": [
-        "吉野家"
       ]
     }
   ]
