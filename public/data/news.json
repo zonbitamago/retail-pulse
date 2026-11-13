@@ -1,6 +1,55 @@
 {
-  "lastUpdated": "2026-11-13T13:45:45.119Z",
+  "lastUpdated": "2026-11-13T23:07:16.854Z",
   "items": [
+    {
+      "id": "diamond-7637e743",
+      "title": "ウエルシア、茨城・古河市で移動販売車の運行開始【週刊ドラッグストアニュース】",
+      "url": "https://diamond-rm.net/store/newopen/563577/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-14",
+      "tags": [
+        "ドラッグストア",
+        "ウエルシア",
+        "ドラッグ"
+      ]
+    },
+    {
+      "id": "diamond-db3d7ad8",
+      "title": "上場スーパーマーケット年収ランキング！第1位はあの人気企業！",
+      "url": "https://diamond-rm.net/retaildata/563538/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-11-14",
+      "tags": [
+        "スーパー",
+        "上場"
+      ]
+    },
+    {
+      "id": "diamond-55a66358",
+      "title": "東急ストア、総菜の「ラベル貼り間違い」防止にAIカメラ導入【週刊リテールテック】",
+      "url": "https://diamond-rm.net/technology/563568/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-11-14",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "diamond-51c784cb",
+      "title": "編集長が変わりました。DCSオンラインも変わります！",
+      "url": "https://diamond-rm.net/life-career/563542/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-14",
+      "tags": []
+    },
     {
       "id": "ryutsuu-1c9f538e",
       "title": "ニトリHD 決算／4～9月増収増益、ニトリ事業で新商品投入やセール施策が奏功",
@@ -227,20 +276,6 @@
       "tags": []
     },
     {
-      "id": "diamond-a0a5c9ff",
-      "title": "ライフ、JR神戸駅直結の「プリコ」に「ビオラル」を出店　【週刊スーパーマーケットニュース】",
-      "url": "https://diamond-rm.net/management/businessplan/563469/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-13",
-      "tags": [
-        "スーパー",
-        "ライフ",
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-9be556d2",
       "title": "第２２１回　大高善雄（おおたか・よしお）と伊藤雅俊",
       "url": "https://diamond-rm.net/life-career/546365/",
@@ -285,6 +320,20 @@
         "データ活用",
         "SC",
         "AI"
+      ]
+    },
+    {
+      "id": "diamond-a0a5c9ff",
+      "title": "ライフ、JR神戸駅直結の「プリコ」に「ビオラル」を出店　【週刊スーパーマーケットニュース】",
+      "url": "https://diamond-rm.net/management/businessplan/563469/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-13",
+      "tags": [
+        "スーパー",
+        "ライフ",
+        "出店"
       ]
     },
     {
@@ -522,42 +571,6 @@
       ]
     },
     {
-      "id": "diamond-1187d0ad",
-      "title": "オーケーが大阪市此花区に新店、松源は和歌山・新宮市に出店へ【大店立地法速報】",
-      "url": "https://diamond-rm.net/store/563264/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-12",
-      "tags": [
-        "オーケー",
-        "出店",
-        "新店"
-      ]
-    },
-    {
-      "id": "diamond-e1a246cd",
-      "title": "第２２０回　ヨークベニマルを近代化へ導く",
-      "url": "https://diamond-rm.net/life-career/546364/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-12",
-      "tags": []
-    },
-    {
-      "id": "diamond-20ea511d",
-      "title": "ミスターマックスの新・DX戦略　“現場起点”の業務効率化と購買体験向上へ",
-      "url": "https://diamond-rm.net/technology/dx/562777/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-11-12",
-      "tags": [
-        "DX"
-      ]
-    },
-    {
       "id": "diamond-9068e329",
       "title": "「給料を上げれば人は動く」はもう古い？社員の働きがいを生む組織の条件",
       "url": "https://diamond-rm.net/management/563027/",
@@ -579,6 +592,32 @@
         "コーナン",
         "M&A",
         "売上高"
+      ]
+    },
+    {
+      "id": "diamond-1187d0ad",
+      "title": "オーケーが大阪市此花区に新店、松源は和歌山・新宮市に出店へ【大店立地法速報】",
+      "url": "https://diamond-rm.net/store/563264/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-12",
+      "tags": [
+        "オーケー",
+        "出店",
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-20ea511d",
+      "title": "ミスターマックスの新・DX戦略　“現場起点”の業務効率化と購買体験向上へ",
+      "url": "https://diamond-rm.net/technology/dx/562777/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-11-12",
+      "tags": [
+        "DX"
       ]
     },
     {
@@ -700,6 +739,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-11-12",
+      "tags": []
+    },
+    {
+      "id": "diamond-e1a246cd",
+      "title": "第２２０回　ヨークベニマルを近代化へ導く",
+      "url": "https://diamond-rm.net/life-career/546364/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
       "date": "2026-11-12",
       "tags": []
     },
@@ -3491,46 +3540,6 @@
       "id": "ssnp-d9f694b9",
       "title": "はま寿司「みなみまぐろ大とろ」税込110円で販売　デカねた祭り、11月4日から開催\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/709721/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-11-02",
-      "tags": []
-    },
-    {
-      "id": "ssnp-d1db46b2",
-      "title": "梨×りんご×アールグレイの新作『華やぐ 梨&りんご』、クルー考案ドリンクを商品化【ゴンチャ】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709706/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-11-02",
-      "tags": []
-    },
-    {
-      "id": "ssnp-4827ecd4",
-      "title": "キリン「午後の紅茶」、紅茶の日に新宿駅東口で大型広告　ブランドの象徴アンナ・マリアが登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/709653/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-11-02",
-      "tags": []
-    },
-    {
-      "id": "ssnp-f5d78b2f",
-      "title": "魁力屋「魁！赤福気袋」予約開始　2000円で餃子72個と2100円分のクーポン、限定グッズも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709698/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-11-02",
-      "tags": []
-    },
-    {
-      "id": "ssnp-51730034",
-      "title": "ジョリーパスタ「冬の福袋」抽選販売　4000円分の食事券とグラタン皿など7点入り、5000円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709679/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
