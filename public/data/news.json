@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-11-12T23:04:07.681Z",
+  "lastUpdated": "2026-11-13T04:34:05.556Z",
   "items": [
+    {
+      "id": "ryutsuu-6cac0588",
+      "title": "薬王堂／群馬県に計3店舗、27年6～7月新設",
+      "url": "https://www.ryutsuu.biz/store/s1113011.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "id": "ryutsuu-436dd555",
+      "title": "ライフ／10月総売上高は757億円、既存店売上高3.2％増",
+      "url": "https://www.ryutsuu.biz/sales/s111372.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-13",
+      "tags": [
+        "ライフ",
+        "売上高"
+      ]
+    },
+    {
+      "id": "ryutsuu-fdccc26c",
+      "title": "加工食品 売上ランキング／10月はニチレイフーズ「本格炒め炒飯」が2カ月連続1位",
+      "url": "https://www.ryutsuu.biz/pos/s111342.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-11-13",
+      "tags": [
+        "食品"
+      ]
+    },
+    {
+      "id": "ryutsuu-3b3b7f1b",
+      "title": "キャンディ・キャラメル 売上ランキング／8～10月龍角散「のどすっきり飴」が1位",
+      "url": "https://www.ryutsuu.biz/pos/s111341.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "pos",
+      "date": "2026-11-13",
+      "tags": []
+    },
     {
       "id": "diamond-e88c54f5",
       "title": "生け簀導入に専属シェフ総菜も！オークワが旗艦店「パームシティ和歌山」で仕掛けた売場改革",
@@ -36,6 +81,16 @@
         "ライフ",
         "出店"
       ]
+    },
+    {
+      "id": "diamond-26be9877",
+      "title": "SM視察完全ガイド【前編】23区随一の激戦地　豊洲＆有明の勝者は？＝第７回流通クロストーク",
+      "url": "https://diamond-rm.net/management/563552/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-13",
+      "tags": []
     },
     {
       "id": "diamond-6c76789f",
@@ -74,6 +129,158 @@
       "date": "2026-11-13",
       "tags": [
         "物流"
+      ]
+    },
+    {
+      "id": "ssnp-5d4c5077",
+      "title": "北海道産バターが香るホタテと濃厚ビーフが主役!ドミノ･ピザから冬のごちそうピザ登場\n\t\t\t\t\t\t\t\t\t\t\t\t宅配ピザチェーン「ドミノ･ピザ」は、2026年11月24日から2027年2月28日までの期間限定で、冬の新商品「ホタテとビーフのごちそうハーフ～バター醤油&スモーキーマスタードソース～」(デリバリーMサイズ 税込...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/711223/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-13",
+      "tags": [
+        "宅配"
+      ]
+    },
+    {
+      "id": "ssnp-3c44f6bc",
+      "title": "カバヤ食品、サウナ企画集団TTNEと協働 「塩分チャージ」の通年需要開拓へ\n\t\t\t\t\t\t\t\t\t\t\t\tカバヤ食品はこのほど、サウナ関連事業を手掛けるクリエイティブ集団のTTNE（東京都渋谷区、松尾大代表）と協働し、タブレット菓子「塩分チャージタブレッツ」の利用拡大に向けた啓発施策を始める。サウナ利用時の水分補給と併せた塩...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/711251/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-11-13",
+      "tags": [
+        "食品",
+        "菓子"
+      ]
+    },
+    {
+      "id": "ssnp-38c74dfa",
+      "title": "【すき家】「ねぎ塩豚タン丼」新発売、にんにく・おんたま・山かけの3種類も登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/711238/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "id": "ssnp-1cbcebdc",
+      "title": "サンマルクカフェ「福袋2027」全4種　全て販売価格と同額相当のチケット入り、チョコクロポーチやトートバッグ付きも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/711224/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "id": "ssnp-3799ca32",
+      "title": "【ペッパーランチ福袋2027】税込3,000円・5,000円の2種類を販売、ビーフペッパーライス引換券9枚で40％オフ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/711221/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "id": "ssnp-d33a434f",
+      "title": "丸亀製麺、人気うどん5種を最大60円値下げ　「かけうどん」390円に、量・材料はそのまま「純度100％の値下げ」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/711207/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-13",
+      "tags": [
+        "値下げ"
+      ]
+    },
+    {
+      "id": "ryutsuu-f41626d3",
+      "title": "すかいらーく／博多発のラーメン食堂「ShinShin」120億円で買収、国内外で店舗拡大へ",
+      "url": "https://www.ryutsuu.biz/strategy/s111212.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-12",
+      "tags": [
+        "注目",
+        "すかいらーく",
+        "買収"
+      ]
+    },
+    {
+      "id": "ryutsuu-d9326ce9",
+      "title": "PPIH 決算／7～9月、Olympicグループ完全子会社化で13.3％の増収",
+      "url": "https://www.ryutsuu.biz/accounts/s111246.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-11-12",
+      "tags": [
+        "PPIH",
+        "決算",
+        "増収"
+      ]
+    },
+    {
+      "id": "ryutsuu-74bbda88",
+      "title": "トライアルHD 決算／7～9月売上高8.8％増、トライアル・西友のPB相互展開を加速",
+      "url": "https://www.ryutsuu.biz/accounts/s111279.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-11-12",
+      "tags": [
+        "トライアル",
+        "売上高",
+        "西友",
+        "PB",
+        "決算"
+      ]
+    },
+    {
+      "id": "ryutsuu-4704d018",
+      "title": "すかいらーくHD／1～9月増収増益、既存店売上5.8％増",
+      "url": "https://www.ryutsuu.biz/accounts/s111213.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-11-12",
+      "tags": [
+        "すかいらーく",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "ryutsuu-ae1e819b",
+      "title": "ゼンショーHD 決算／4～9月、すき家・はま寿司など各事業好調で大幅増収増益",
+      "url": "https://www.ryutsuu.biz/accounts/s111247.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "accounts",
+      "date": "2026-11-12",
+      "tags": [
+        "ゼンショー",
+        "決算",
+        "増収",
+        "増益"
+      ]
+    },
+    {
+      "id": "ryutsuu-b0ff3f05",
+      "title": "公取委／アマゾンの確約計画を認定、出品者への「競争力のある価格以下」強要の解消で",
+      "url": "https://www.ryutsuu.biz/government/s111241.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "行政",
+      "date": "2026-11-12",
+      "tags": [
+        "アマゾン"
       ]
     },
     {
@@ -149,21 +356,8 @@
       ]
     },
     {
-      "id": "diamond-c9348e88",
-      "title": "「新PBで会社そのものを変える」　平野副社長、ミスマのリブランディングを語る",
-      "url": "https://diamond-rm.net/management/topinterview/562776/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-12",
-      "tags": [
-        "PB",
-        "社長"
-      ]
-    },
-    {
       "id": "ssnp-14260681",
-      "title": "ローソン、価格据え置きで約50％増量の「盛りすぎ」21品　濃厚化商品3品も、11月17日から\n\t\t\t\t\t\t\t\t\t\t\t\tローソンは11月17日から、全国の約1万4,000店舗で「超ハッピーすぎチャレンジ」を開催する。価格を据え置いたまま具材や重量などを約50％増量する「盛りすぎチャレンジ」21品と、従来品と比べて味わいを約50％濃くした「...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "ローソン、価格据え置きで約50％増量の「盛りすぎ」21品　濃厚化商品3品も、11月17日から\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/711166/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -175,15 +369,14 @@
     },
     {
       "id": "ssnp-cd67fa6b",
-      "title": "【吉野家、2027年福箱】冷凍牛丼の具やオリジナルグッズを詰め合わせ、税込4,320円から販売、先着5,000個に「未」入り超小盛丼つき【本日から】\n\t\t\t\t\t\t\t\t\t\t\t\t吉野家は11月12日、公式通販ショップなどで2027年の「福箱」の販売を開始した。販売期間は2027年1月14日午前10時まで。冷凍牛丼の具や2026年発売の商品、オリジナルグッズなどを詰め合わせた「松」「竹」「梅」の3...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【吉野家、2027年福箱】冷凍牛丼の具やオリジナルグッズを詰め合わせ、税込4,320円から販売、先着5,000個には「未」入り超小盛丼つき\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/711143/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-11-12",
       "tags": [
-        "吉野家",
-        "通販"
+        "吉野家"
       ]
     },
     {
@@ -285,74 +478,16 @@
       "tags": []
     },
     {
-      "id": "ryutsuu-d9326ce9",
-      "title": "PPIH 決算／7～9月、Olympicグループ完全子会社化で13.3％の増収",
-      "url": "https://www.ryutsuu.biz/accounts/s111246.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
+      "id": "diamond-c9348e88",
+      "title": "「新PBで会社そのものを変える」　平野副社長、ミスマのリブランディングを語る",
+      "url": "https://diamond-rm.net/management/topinterview/562776/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-11-12",
       "tags": [
-        "PPIH",
-        "決算",
-        "増収"
-      ]
-    },
-    {
-      "id": "ryutsuu-74bbda88",
-      "title": "トライアルHD 決算／7～9月売上高8.8％増、トライアル・西友のPB相互展開を加速",
-      "url": "https://www.ryutsuu.biz/accounts/s111279.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-11-12",
-      "tags": [
-        "トライアル",
-        "売上高",
-        "西友",
         "PB",
-        "決算"
-      ]
-    },
-    {
-      "id": "ryutsuu-4704d018",
-      "title": "すかいらーくHD／1～9月増収増益、既存店売上5.8％増",
-      "url": "https://www.ryutsuu.biz/accounts/s111213.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-11-12",
-      "tags": [
-        "すかいらーく",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-ae1e819b",
-      "title": "ゼンショーHD 決算／4～9月、すき家・はま寿司など各事業好調で大幅増収増益",
-      "url": "https://www.ryutsuu.biz/accounts/s111247.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-11-12",
-      "tags": [
-        "ゼンショー",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-b0ff3f05",
-      "title": "公取委／アマゾンの確約計画を認定、出品者への「競争力のある価格以下」強要の解消で",
-      "url": "https://www.ryutsuu.biz/government/s111241.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "行政",
-      "date": "2026-11-12",
-      "tags": [
-        "アマゾン"
+        "社長"
       ]
     },
     {
@@ -378,6 +513,44 @@
       "date": "2026-11-12",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-b7e5c464",
+      "title": "三井不動産／集客イベント手掛ける「イーキューブ」買収",
+      "url": "https://www.ryutsuu.biz/strategy/s111120.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-11",
+      "tags": [
+        "買収"
+      ]
+    },
+    {
+      "id": "ryutsuu-168d512d",
+      "title": "ジョブコミュニティ×ツナグ／業務提携、商業施設間の人材シェア支援",
+      "url": "https://www.ryutsuu.biz/strategy/s111119.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-11",
+      "tags": [
+        "業務提携"
+      ]
+    },
+    {
+      "id": "ryutsuu-adc502dd",
+      "title": "ロジエンス／「物流業界の2026年総決算と2027年への展望」12月9・16日に無料セミナー開催",
+      "url": "https://www.ryutsuu.biz/seminar/s111172.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "seminar",
+      "date": "2026-11-11",
+      "tags": [
+        "PR",
+        "物流",
+        "決算"
       ]
     },
     {
@@ -573,44 +746,6 @@
       ]
     },
     {
-      "id": "ryutsuu-b7e5c464",
-      "title": "三井不動産／集客イベント手掛ける「イーキューブ」買収",
-      "url": "https://www.ryutsuu.biz/strategy/s111120.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-11-11",
-      "tags": [
-        "買収"
-      ]
-    },
-    {
-      "id": "ryutsuu-168d512d",
-      "title": "ジョブコミュニティ×ツナグ／業務提携、商業施設間の人材シェア支援",
-      "url": "https://www.ryutsuu.biz/strategy/s111119.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-11-11",
-      "tags": [
-        "業務提携"
-      ]
-    },
-    {
-      "id": "ryutsuu-adc502dd",
-      "title": "ロジエンス／「物流業界の2026年総決算と2027年への展望」12月9・16日に無料セミナー開催",
-      "url": "https://www.ryutsuu.biz/seminar/s111172.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-11-11",
-      "tags": [
-        "PR",
-        "物流",
-        "決算"
-      ]
-    },
-    {
       "id": "diamond-144296e3",
       "title": "セブンが低価格PBを解禁！粗利益率より重視したもの",
       "url": "https://diamond-rm.net/management/businessplan/563191/",
@@ -664,6 +799,30 @@
       "date": "2026-11-11",
       "tags": [
         "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-87e6e7aa",
+      "title": "ニトリ／不正アクセスで会員情報・購入者情報など最大3762万件が流出の可能性",
+      "url": "https://www.ryutsuu.biz/strategy/s111071.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-10",
+      "tags": [
+        "ニトリ"
+      ]
+    },
+    {
+      "id": "ryutsuu-2ba56728",
+      "title": "タビオ／公式オンラインストアをリニューアル、R6Bがサイト構築支援",
+      "url": "https://www.ryutsuu.biz/ec/s111012.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "ec",
+      "date": "2026-11-10",
+      "tags": [
+        "リニューアル"
       ]
     },
     {
@@ -836,18 +995,6 @@
       ]
     },
     {
-      "id": "ryutsuu-87e6e7aa",
-      "title": "ニトリ／不正アクセスで会員情報・購入者情報など最大3762万件が流出の可能性",
-      "url": "https://www.ryutsuu.biz/strategy/s111071.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-11-10",
-      "tags": [
-        "ニトリ"
-      ]
-    },
-    {
       "id": "ryutsuu-2f02c40d",
       "title": "無印良品／ネットストアで第三者による不正ログインの可能性、約27万件",
       "url": "https://www.ryutsuu.biz/strategy/s111042.html",
@@ -857,18 +1004,6 @@
       "date": "2026-11-10",
       "tags": [
         "無印良品"
-      ]
-    },
-    {
-      "id": "ryutsuu-2ba56728",
-      "title": "タビオ／公式オンラインストアをリニューアル、R6Bがサイト構築支援",
-      "url": "https://www.ryutsuu.biz/ec/s111012.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "ec",
-      "date": "2026-11-10",
-      "tags": [
-        "リニューアル"
       ]
     },
     {
@@ -2377,6 +2512,18 @@
       ]
     },
     {
+      "id": "ryutsuu-8a6ad574",
+      "title": "フライングタイガー／直営の日本公式オンラインストアをオープン",
+      "url": "https://www.ryutsuu.biz/ec/s110474.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "ec",
+      "date": "2026-11-04",
+      "tags": [
+        "オープン"
+      ]
+    },
+    {
       "id": "diamond-c9e52090",
       "title": "【動画】10月5週目の注目ニュースまとめ、大型店舗の開業のニュースなど",
       "url": "https://diamond-rm.net/management/businessplan/562306/",
@@ -2655,18 +2802,6 @@
       "category": "foodservice",
       "date": "2026-11-04",
       "tags": []
-    },
-    {
-      "id": "ryutsuu-8a6ad574",
-      "title": "フライングタイガー／直営の日本公式オンラインストアをオープン",
-      "url": "https://www.ryutsuu.biz/ec/s110474.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "ec",
-      "date": "2026-11-04",
-      "tags": [
-        "オープン"
-      ]
     },
     {
       "id": "ryutsuu-b2dee6e9",
@@ -3409,135 +3544,6 @@
       "sourceName": "流通ニュース",
       "category": "売上",
       "date": "2026-11-02",
-      "tags": []
-    },
-    {
-      "id": "diamond-d4f3874a",
-      "title": "第２１２回　「定価征伐」",
-      "url": "https://diamond-rm.net/life-career/546356/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-02",
-      "tags": []
-    },
-    {
-      "id": "ssnp-cbba83ab",
-      "title": "「コカ・コーラ」、サンタを描いた「ウィンターボトル」発売　購入者向けキャンペーンも\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/709656/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-11-01",
-      "tags": []
-    },
-    {
-      "id": "ssnp-ed0fe48e",
-      "title": "コカ・コーラBJH、減収でも事業利益32%増　価格改定と自販機改革で収益性改善\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/709647/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-11-01",
-      "tags": [
-        "価格改定",
-        "減収"
-      ]
-    },
-    {
-      "id": "ssnp-2d52b70e",
-      "title": "カフェ･ド･クリエ、パスタ全6品が“＋100円で2倍”に！15時以降限定企画\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709475/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-11-01",
-      "tags": []
-    },
-    {
-      "id": "diamond-524cf6b2",
-      "title": "総菜がおいしいスーパーはどこ？ お弁当・お惣菜大賞2026受賞・入選数ランキング",
-      "url": "https://diamond-rm.net/sales-promotion/item-trend/562171/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-10-31",
-      "tags": [
-        "スーパー",
-        "惣菜",
-        "弁当"
-      ]
-    },
-    {
-      "id": "ssnp-8a1054b9",
-      "title": "世田谷パン祭り2026開幕、全国から260店舗が集結　限定パンや多彩な企画を展開\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/rice/709638/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "米",
-      "date": "2026-10-31",
-      "tags": []
-    },
-    {
-      "id": "ssnp-b4c45211",
-      "title": "第一ホテル東京「エトワール」、秋のビュッフェ開催中　生絞りモンブランや自分で作るアフタヌーンティー\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709153/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-10-31",
-      "tags": []
-    },
-    {
-      "id": "ssnp-cd8d00a8",
-      "title": "モロゾフ、クリスマス限定ギフトを11月1日から発売 アドベントカレンダーやポシェットなど登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/709596/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-31",
-      "tags": []
-    },
-    {
-      "id": "ssnp-27d4b405",
-      "title": "ハーゲンダッツ、ラム酒香るチョコケーキ入りの新作バー『木苺のガトーショコラ』発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/milk/709541/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "milk",
-      "date": "2026-10-31",
-      "tags": []
-    },
-    {
-      "id": "ssnp-6ddc9149",
-      "title": "「ピカチュウ東京ばな奈」エコバッグセット発売　8個入り2350円、公式通販などで販売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/709376/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-10-31",
-      "tags": [
-        "通販"
-      ]
-    },
-    {
-      "id": "diamond-e19df355",
-      "title": "流通秀書　第53回『チェーンストア・米国百年史』レブハー/著",
-      "url": "https://diamond-rm.net/life-career/557918/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-10-31",
-      "tags": []
-    },
-    {
-      "id": "diamond-b1981404",
-      "title": "業態別　主要店舗月次実績＝2026年9月度",
-      "url": "https://diamond-rm.net/retaildata/562201/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "retaildata",
-      "date": "2026-10-30",
       "tags": []
     }
   ]
