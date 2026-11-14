@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T04:30:05.045Z",
+  "lastUpdated": "2026-11-14T12:50:11.751Z",
   "items": [
     {
       "id": "diamond-db3d7ad8",
@@ -27,16 +27,6 @@
       ]
     },
     {
-      "id": "diamond-ddee5365",
-      "title": "流通秀書　第55回『小売競争の理論』小西滋人/著",
-      "url": "https://diamond-rm.net/life-career/559633/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-14",
-      "tags": []
-    },
-    {
       "id": "diamond-7637e743",
       "title": "ウエルシア、茨城・古河市で移動販売車の運行開始【週刊ドラッグストアニュース】",
       "url": "https://diamond-rm.net/store/newopen/563577/",
@@ -49,6 +39,16 @@
         "ウエルシア",
         "ドラッグ"
       ]
+    },
+    {
+      "id": "diamond-ddee5365",
+      "title": "流通秀書　第55回『小売競争の理論』小西滋人/著",
+      "url": "https://diamond-rm.net/life-career/559633/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-14",
+      "tags": []
     },
     {
       "id": "diamond-51c784cb",
