@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-11-15T13:16:52.766Z",
+  "lastUpdated": "2026-11-15T22:22:33.133Z",
   "items": [
+    {
+      "id": "diamond-48976af7",
+      "title": "イトーヨーカ堂・伊藤弘雅常務が語る食品戦略の現在地と再成長への道のり",
+      "url": "https://diamond-rm.net/sales-promotion/563757/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-11-16",
+      "tags": [
+        "イトーヨーカ堂",
+        "食品"
+      ]
+    },
+    {
+      "id": "diamond-2fa6aeff",
+      "title": "「主婦の店運動」が生んだダイエーとバロー  2社が歩んだ対照的な道のり",
+      "url": "https://diamond-rm.net/management/ma/562749/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-16",
+      "tags": []
+    },
+    {
+      "id": "diamond-9b17df2b",
+      "title": "アマゾンvsウォルマート！激化する「空の配送」争奪戦【月刊アマゾン】",
+      "url": "https://diamond-rm.net/overseas/american_economy/563549/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "overseas",
+      "date": "2026-11-16",
+      "tags": [
+        "アマゾン",
+        "配送"
+      ]
+    },
     {
       "id": "diamond-99f37674",
       "title": "さよならハンズ渋谷店！高家正行会長が最終日に語った48年間の感謝と新生ハンズの未来",
@@ -25,6 +61,16 @@
       ]
     },
     {
+      "id": "diamond-ddee5365",
+      "title": "流通秀書　第55回『小売競争の理論』小西滋人/著",
+      "url": "https://diamond-rm.net/life-career/559633/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-14",
+      "tags": []
+    },
+    {
       "id": "diamond-55a66358",
       "title": "東急ストア、総菜の「ラベル貼り間違い」防止にAIカメラ導入【週刊リテールテック】",
       "url": "https://diamond-rm.net/technology/563568/",
@@ -35,16 +81,6 @@
       "tags": [
         "AI"
       ]
-    },
-    {
-      "id": "diamond-ddee5365",
-      "title": "流通秀書　第55回『小売競争の理論』小西滋人/著",
-      "url": "https://diamond-rm.net/life-career/559633/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-14",
-      "tags": []
     },
     {
       "id": "diamond-7637e743",
@@ -274,28 +310,6 @@
       ]
     },
     {
-      "id": "diamond-e88c54f5",
-      "title": "生け簀導入に専属シェフ総菜も！オークワが旗艦店「パームシティ和歌山」で仕掛けた売場改革",
-      "url": "https://diamond-rm.net/store/storevisit/563419/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-13",
-      "tags": []
-    },
-    {
-      "id": "diamond-3459e6e3",
-      "title": "期待を裏切らない！現役主婦が選ぶ、東急ストアで安定のおいしさが楽しめる弁当５選",
-      "url": "https://diamond-rm.net/sales-promotion/563233/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-11-13",
-      "tags": [
-        "弁当"
-      ]
-    },
-    {
       "id": "diamond-240ec14a",
       "title": "「久世福商店」で客離れ？巻き返しを図るサンクゼールが進める内製化戦略",
       "url": "https://diamond-rm.net/market/accounting/563618/",
@@ -339,6 +353,16 @@
       ]
     },
     {
+      "id": "diamond-e88c54f5",
+      "title": "生け簀導入に専属シェフ総菜も！オークワが旗艦店「パームシティ和歌山」で仕掛けた売場改革",
+      "url": "https://diamond-rm.net/store/storevisit/563419/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
       "id": "diamond-26fbdc14",
       "title": "第151回 AI時代の今、SC経営のデータ活用は「顧客理解」で終わっていないか",
       "url": "https://diamond-rm.net/management/563484/",
@@ -362,6 +386,18 @@
       "date": "2026-11-13",
       "tags": [
         "物流"
+      ]
+    },
+    {
+      "id": "diamond-3459e6e3",
+      "title": "期待を裏切らない！現役主婦が選ぶ、東急ストアで安定のおいしさが楽しめる弁当５選",
+      "url": "https://diamond-rm.net/sales-promotion/563233/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-11-13",
+      "tags": [
+        "弁当"
       ]
     },
     {
@@ -3511,36 +3547,6 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "milk",
-      "date": "2026-11-02",
-      "tags": []
-    },
-    {
-      "id": "ssnp-69fc885c",
-      "title": "「うどんスープ」243種のレシピを紹介、新宿駅で体験イベント【ヒガシマル醤油】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/seasoning/709796/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "調味料",
-      "date": "2026-11-02",
-      "tags": []
-    },
-    {
-      "id": "ssnp-4d15ef6e",
-      "title": "豆腐･納豆コスト指標公開、充填64.6円･カット86.1円･納豆109.6円【豆納協議会】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/709789/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-11-02",
-      "tags": []
-    },
-    {
-      "id": "ssnp-7dedcd69",
-      "title": "丸亀製麺『創業感謝祭』、11月は「釜揚げうどんの日」を3回開催　並390円が190円に\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/709770/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
       "date": "2026-11-02",
       "tags": []
     }
