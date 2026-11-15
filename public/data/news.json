@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-11-15T04:16:31.084Z",
+  "lastUpdated": "2026-11-15T13:16:52.766Z",
   "items": [
+    {
+      "id": "diamond-99f37674",
+      "title": "さよならハンズ渋谷店！高家正行会長が最終日に語った48年間の感謝と新生ハンズの未来",
+      "url": "https://diamond-rm.net/management/563742/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-15",
+      "tags": []
+    },
     {
       "id": "diamond-db3d7ad8",
       "title": "上場スーパーマーケット年収ランキング！第1位はあの人気企業！",
@@ -27,6 +37,16 @@
       ]
     },
     {
+      "id": "diamond-ddee5365",
+      "title": "流通秀書　第55回『小売競争の理論』小西滋人/著",
+      "url": "https://diamond-rm.net/life-career/559633/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-14",
+      "tags": []
+    },
+    {
       "id": "diamond-7637e743",
       "title": "ウエルシア、茨城・古河市で移動販売車の運行開始【週刊ドラッグストアニュース】",
       "url": "https://diamond-rm.net/store/newopen/563577/",
@@ -39,16 +59,6 @@
         "ウエルシア",
         "ドラッグ"
       ]
-    },
-    {
-      "id": "diamond-ddee5365",
-      "title": "流通秀書　第55回『小売競争の理論』小西滋人/著",
-      "url": "https://diamond-rm.net/life-career/559633/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-14",
-      "tags": []
     },
     {
       "id": "diamond-51c784cb",
@@ -601,20 +611,6 @@
       "tags": []
     },
     {
-      "id": "diamond-a347556c",
-      "title": "コーナン商事の勝負手　PRO事業とM&Aでめざす売上高1兆円への道",
-      "url": "https://diamond-rm.net/management/businessplan/562831/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-12",
-      "tags": [
-        "コーナン",
-        "M&A",
-        "売上高"
-      ]
-    },
-    {
       "id": "diamond-1187d0ad",
       "title": "オーケーが大阪市此花区に新店、松源は和歌山・新宮市に出店へ【大店立地法速報】",
       "url": "https://diamond-rm.net/store/563264/",
@@ -761,6 +757,20 @@
       "category": "飲料",
       "date": "2026-11-12",
       "tags": []
+    },
+    {
+      "id": "diamond-a347556c",
+      "title": "コーナン商事の勝負手　PRO事業とM&Aでめざす売上高1兆円への道",
+      "url": "https://diamond-rm.net/management/businessplan/562831/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-12",
+      "tags": [
+        "コーナン",
+        "M&A",
+        "売上高"
+      ]
     },
     {
       "id": "diamond-e1a246cd",
@@ -3533,18 +3543,6 @@
       "category": "foodservice",
       "date": "2026-11-02",
       "tags": []
-    },
-    {
-      "id": "ssnp-f401924a",
-      "title": "【モロゾフ】冬の限定プリン4種を展開、モカ×チョコの3層仕立て『チョコレートモカプリン』など\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/snack/709763/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "菓子",
-      "date": "2026-11-02",
-      "tags": [
-        "チョコレート"
-      ]
     }
   ]
 }
