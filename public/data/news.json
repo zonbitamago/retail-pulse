@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2026-11-17T15:20:48.553Z",
+  "lastUpdated": "2026-11-18T00:21:48.137Z",
   "items": [
+    {
+      "id": "diamond-0512825a",
+      "title": "万代がお膝元・東大阪で仕掛ける「できたて」戦略！夕方の売場を変えた総菜改革",
+      "url": "https://diamond-rm.net/store/newstorereport/563263/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-18",
+      "tags": []
+    },
+    {
+      "id": "diamond-092595a1",
+      "title": "バロー東京1号店を迎え撃つ！鮮魚強化「マルエツ新糀谷店」のリニューアルを徹底解説",
+      "url": "https://diamond-rm.net/store/563788/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-18",
+      "tags": [
+        "リニューアル",
+        "マルエツ",
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-61272aff",
+      "title": "セブン鈴木敏文氏の教えに学ぶ！「安く、大きく、揃える」はもう古い",
+      "url": "https://diamond-rm.net/management/businessplan/563597/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-18",
+      "tags": []
+    },
+    {
+      "id": "diamond-694d10f9",
+      "title": "日本のECが伸び悩む意外な理由！海外と大きく異なる「返品」の常識",
+      "url": "https://diamond-rm.net/ec-epayment/563976/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "ec-epayment",
+      "date": "2026-11-18",
+      "tags": [
+        "EC"
+      ]
+    },
+    {
+      "id": "diamond-23f3ba2d",
+      "title": "【2026年10月1日施行 カスハラ対策義務化】クレーム対応を現場任せにしない仕組みとは？",
+      "url": "https://diamond-rm.net/promotion/563310/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "promotion",
+      "date": "2026-11-18",
+      "tags": []
+    },
+    {
+      "id": "diamond-52d53616",
+      "title": "食感トレンドから分析するグミ、食感やフレーバー・シーン訴求でトライアルを促進",
+      "url": "https://diamond-rm.net/sales-promotion/item-trend/562782/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-11-18",
+      "tags": [
+        "トライアル"
+      ]
+    },
+    {
+      "id": "diamond-d0da8290",
+      "title": "ライフ、U.S.M.H、アークス中間決算レポート　客数減とコスト高の影響鮮明に",
+      "url": "https://diamond-rm.net/market/accounting/562754/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-18",
+      "tags": [
+        "ライフ",
+        "決算"
+      ]
+    },
+    {
+      "id": "ssnp-7e1b5b43",
+      "title": "【4日間限定】餃子の王将、会計500円ごとに餃子半額券を配布　「大感謝祭」開催\n\t\t\t\t\t\t\t\t\t\t\t\t中華料理チェーン「餃子の王将」「GYOZA OHSHO」は、11月20日から23日までの4日間限定で、「大感謝祭」を開催する。 期間中は、各種割引処理後の会計金額が税込500円ごとに、「餃子1人前半額券（2枚綴り）」を1...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/711856/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-18",
+      "tags": []
+    },
     {
       "id": "ryutsuu-5291597c",
       "title": "ランドマークプラザ／「体験・ウェルネス・子育て」を強化する5店舗オープン",
@@ -153,33 +244,6 @@
       ]
     },
     {
-      "id": "diamond-4dda53e9",
-      "title": "アナリストが解説するヤオコー、ライフが強く、イオン系が苦戦する理由",
-      "url": "https://diamond-rm.net/market/accounting/563682/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-11-17",
-      "tags": [
-        "ヤオコー",
-        "イオン",
-        "ライフ"
-      ]
-    },
-    {
-      "id": "diamond-0bfa2335",
-      "title": "顧客の8割はAIの文章を見抜けない？香川のホームセンターが挑んだAI販促実験",
-      "url": "https://diamond-rm.net/technology/563849/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-11-17",
-      "tags": [
-        "ホームセンター",
-        "AI"
-      ]
-    },
-    {
       "id": "diamond-46a34f6c",
       "title": "第２２３回　大高（おおたか）家に米国より宛てた長い手紙",
       "url": "https://diamond-rm.net/life-career/546367/",
@@ -223,6 +287,43 @@
       "tags": []
     },
     {
+      "id": "diamond-f7337e13",
+      "title": "トレードマーケティングにおける「自社の強み」の考え方",
+      "url": "https://diamond-rm.net/management/marketing/562756/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-17",
+      "tags": []
+    },
+    {
+      "id": "diamond-4dda53e9",
+      "title": "アナリストが解説するヤオコー、ライフが強く、イオン系が苦戦する理由",
+      "url": "https://diamond-rm.net/market/accounting/563682/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-17",
+      "tags": [
+        "ヤオコー",
+        "イオン",
+        "ライフ"
+      ]
+    },
+    {
+      "id": "diamond-0bfa2335",
+      "title": "顧客の8割はAIの文章を見抜けない？香川のホームセンターが挑んだAI販促実験",
+      "url": "https://diamond-rm.net/technology/563849/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-11-17",
+      "tags": [
+        "ホームセンター",
+        "AI"
+      ]
+    },
+    {
       "id": "diamond-64b7a9b6",
       "title": "需要高まる「置き型社食」　食品スーパーとも強い親和性？",
       "url": "https://diamond-rm.net/sales-promotion/buyer/562757/",
@@ -262,16 +363,6 @@
       ]
     },
     {
-      "id": "diamond-f7337e13",
-      "title": "トレードマーケティングにおける「自社の強み」の考え方",
-      "url": "https://diamond-rm.net/management/marketing/562756/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-17",
-      "tags": []
-    },
-    {
       "id": "diamond-62c42086",
       "title": "【期間限定アーカイブ配信】ポイント・クーポンを配って終わりにしない 次の購買を生む販促とは",
       "url": "https://diamond-rm.net/seminar/557298/",
@@ -295,15 +386,13 @@
     },
     {
       "id": "ssnp-a126e403",
-      "title": "【くら寿司】USA100店舗達成記念「アメリカン」フェア開催、アメリカで人気の「ゴールデンクランチロール」など全6品【4日間限定】\n\t\t\t\t\t\t\t\t\t\t\t\tくら寿司は11月20日（金）から、全国の店舗で「くら寿司USA100店舗目達成記念 アメリカン」フェアを期間・数量限定で開催する。 くら寿司USAがアメリカ国内での出店100店舗を達成したことを記念した企画。くら寿司US...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【くら寿司】USA100店舗達成記念「アメリカン」フェア開催、アメリカで人気の「ゴールデンクランチロール」など全6品【4日間限定】\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/711884/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-11-17",
-      "tags": [
-        "出店"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-21880187",
@@ -561,9 +650,9 @@
       ]
     },
     {
-      "id": "diamond-2fa6aeff",
-      "title": "「主婦の店運動」が生んだダイエーとバロー  2社が歩んだ対照的な道のり",
-      "url": "https://diamond-rm.net/management/ma/562749/",
+      "id": "diamond-23baa7f6",
+      "title": "【DCS最新号】11月15日号は「ミスターマックスの逆襲」",
+      "url": "https://diamond-rm.net/management/businessplan/563415/",
       "source": "diamond-chain",
       "sourceName": "DCS",
       "category": "経営戦略",
@@ -582,16 +671,6 @@
         "イトーヨーカ堂",
         "食品"
       ]
-    },
-    {
-      "id": "diamond-23baa7f6",
-      "title": "【DCS最新号】11月15日号は「ミスターマックスの逆襲」",
-      "url": "https://diamond-rm.net/management/businessplan/563415/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-16",
-      "tags": []
     },
     {
       "id": "diamond-93c15072",
@@ -812,6 +891,16 @@
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "飲料",
+      "date": "2026-11-16",
+      "tags": []
+    },
+    {
+      "id": "diamond-2fa6aeff",
+      "title": "「主婦の店運動」が生んだダイエーとバロー  2社が歩んだ対照的な道のり",
+      "url": "https://diamond-rm.net/management/ma/562749/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
       "date": "2026-11-16",
       "tags": []
     },
@@ -1083,18 +1172,6 @@
       "tags": []
     },
     {
-      "id": "diamond-3459e6e3",
-      "title": "期待を裏切らない！現役主婦が選ぶ、東急ストアで安定のおいしさが楽しめる弁当５選",
-      "url": "https://diamond-rm.net/sales-promotion/563233/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-11-13",
-      "tags": [
-        "弁当"
-      ]
-    },
-    {
       "id": "ssnp-d8a460a7",
       "title": "サブウェイ「フラットブレッド」が待望の復活!新商品「チリコンカン&チキン」に加え、定番サンドへの変更カスタムも初導入\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/711353/",
@@ -1278,6 +1355,18 @@
       "date": "2026-11-13",
       "tags": [
         "値下げ"
+      ]
+    },
+    {
+      "id": "diamond-3459e6e3",
+      "title": "期待を裏切らない！現役主婦が選ぶ、東急ストアで安定のおいしさが楽しめる弁当５選",
+      "url": "https://diamond-rm.net/sales-promotion/563233/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "sales-promotion",
+      "date": "2026-11-13",
+      "tags": [
+        "弁当"
       ]
     },
     {
@@ -1878,18 +1967,6 @@
       ]
     },
     {
-      "id": "diamond-9009caac",
-      "title": "700坪でも「総合」を表現！ミスターマックスの戦略的小型フォーマット「Select」の強さ",
-      "url": "https://diamond-rm.net/store/storevisit/562774/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-11",
-      "tags": [
-        "EC"
-      ]
-    },
-    {
       "id": "diamond-a3398591",
       "title": "上期決算で好調のブルーゾーンHD　下期は「八百幸成城店」を戦略的改装へ",
       "url": "https://diamond-rm.net/market/563335/",
@@ -2007,6 +2084,18 @@
       "category": "foodservice",
       "date": "2026-11-11",
       "tags": []
+    },
+    {
+      "id": "diamond-9009caac",
+      "title": "700坪でも「総合」を表現！ミスターマックスの戦略的小型フォーマット「Select」の強さ",
+      "url": "https://diamond-rm.net/store/storevisit/562774/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-11",
+      "tags": [
+        "EC"
+      ]
     },
     {
       "id": "ryutsuu-c13d163a",
@@ -2188,18 +2277,6 @@
       ]
     },
     {
-      "id": "diamond-249dcfbf",
-      "title": "DS＋生鮮で来店頻度向上ねらう　ミスターマックスの「SuC」を大解剖",
-      "url": "https://diamond-rm.net/store/storevisit/562773/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-10",
-      "tags": [
-        "生鮮"
-      ]
-    },
-    {
       "id": "diamond-e428a195",
       "title": "絶好調セリア河合映治社長が語る「100円」の強さ",
       "url": "https://diamond-rm.net/market/563218/",
@@ -2307,6 +2384,18 @@
       "date": "2026-11-10",
       "tags": [
         "マクドナルド"
+      ]
+    },
+    {
+      "id": "diamond-249dcfbf",
+      "title": "DS＋生鮮で来店頻度向上ねらう　ミスターマックスの「SuC」を大解剖",
+      "url": "https://diamond-rm.net/store/storevisit/562773/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-10",
+      "tags": [
+        "生鮮"
       ]
     },
     {
@@ -3450,97 +3539,6 @@
       "tags": [
         "ユニクロ",
         "無印良品"
-      ]
-    },
-    {
-      "id": "ryutsuu-6912b6dd",
-      "title": "ニトリ／東京都足立区に「ニトリ 大谷田店」11月6日オープン",
-      "url": "https://www.ryutsuu.biz/store/s110575.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-06",
-      "tags": [
-        "オープン",
-        "ニトリ"
-      ]
-    },
-    {
-      "id": "ryutsuu-9237831c",
-      "title": "河淳／徳島市に「ケユカ イオンモール徳島店」11月6日オープン",
-      "url": "https://www.ryutsuu.biz/store/s110574.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-06",
-      "tags": [
-        "オープン",
-        "イオン",
-        "モール"
-      ]
-    },
-    {
-      "id": "diamond-87cb7872",
-      "title": "小売業の株式上場は、いつまで「葵の御紋」であり続けるか？",
-      "url": "https://diamond-rm.net/management/businessplan/561427/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-05",
-      "tags": [
-        "上場"
-      ]
-    },
-    {
-      "id": "ssnp-10294f66",
-      "title": "ネスレ日本、「うちにはバリスタがいる。」を六本木で体感　新型マシン「バリスタ kotone」体験イベント\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/710279/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-11-05",
-      "tags": []
-    },
-    {
-      "id": "ssnp-534669e9",
-      "title": "ペッパーランチ、国産さつまいもとバターを添えた「リブステーキ」発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/710284/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-11-05",
-      "tags": []
-    },
-    {
-      "id": "ssnp-3fa1f56e",
-      "title": "バーガーキングからガーリックメニュー「GUILTY 5」が新登場、にんにくのパンチが効いたナゲット・フライ・チキン・ホットドッグ・ウップス\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/710254/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-11-05",
-      "tags": []
-    },
-    {
-      "id": "ssnp-cc1e6136",
-      "title": "ベローチェ、40周年記念の福袋を発売　黒ねこポーチやトートバッグ、最大1750円相当のフード引換券も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/710232/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-11-05",
-      "tags": []
-    },
-    {
-      "id": "ssnp-b3fed8d6",
-      "title": "ネスレ日本・島川社長、日本の社会課題を成長機会に 「課題先進国」から「可能性先進国」へ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/beverage/710222/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "飲料",
-      "date": "2026-11-05",
-      "tags": [
-        "社長"
       ]
     }
   ]
