@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-11-19T05:28:51.161Z",
+  "lastUpdated": "2026-11-19T15:01:38.397Z",
   "items": [
+    {
+      "id": "ryutsuu-3cb4e058",
+      "title": "大和ハウス／「アクロスプラザ和泉観音寺」11月20日オープン、万代・資さんなど出店",
+      "url": "https://www.ryutsuu.biz/store/s111973.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-20",
+      "tags": [
+        "オープン",
+        "出店"
+      ]
+    },
+    {
+      "id": "ryutsuu-9d06fae4",
+      "title": "バローHD／ドラッグストア事業を改革、ヘルス＆ビューティーの専門性強化",
+      "url": "https://www.ryutsuu.biz/strategy/s111911.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-19",
+      "tags": [
+        "ドラッグストア",
+        "ドラッグ"
+      ]
+    },
     {
       "id": "ryutsuu-9c23244c",
       "title": "イズミ／北九州市八幡東区に「ゆめマート春の町」27年夏オープン",
@@ -38,6 +64,19 @@
       "tags": [
         "トライアル",
         "西友"
+      ]
+    },
+    {
+      "id": "ryutsuu-bfca095a",
+      "title": "ファミマ／飲料補充ロボットを27年1月から本格導入、作業時間7割削減",
+      "url": "https://www.ryutsuu.biz/it/s111914.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "IT",
+      "date": "2026-11-19",
+      "tags": [
+        "ロボット",
+        "飲料"
       ]
     },
     {
@@ -168,8 +207,95 @@
       "tags": []
     },
     {
+      "id": "ssnp-1020a173",
+      "title": "ニシキヤキッチン「レトルト福袋2027」が11月21日に最終予約販売、初回販売分は2分で完売した人気福袋\n\t\t\t\t\t\t\t\t\t\t\t\tレトルト食品専門店「NISHIKIYA KITCHEN（ニシキヤキッチン）」を展開するにしき食品は11月21日（土）12時から、公式オンラインショップで「レトルト福袋2027」の最終予約販売を開始する。 2026年11月...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/seasoning/712338/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "調味料",
+      "date": "2026-11-19",
+      "tags": [
+        "専門店",
+        "食品"
+      ]
+    },
+    {
+      "id": "ssnp-d20d1020",
+      "title": "ロクメイコーヒー「新春福袋2027」全7種を発売　パナマゲイシャや90枚入りドリップバッグ、最大7,980円お得\n\t\t\t\t\t\t\t\t\t\t\t\t奈良発のスペシャルティコーヒー専門店「ロクメイコーヒー」は11月19日、「新春福袋2027」の先行予約受付を公式オンラインショップと各店舗で開始した。コーヒー豆やドリップバッグ、カフェインレスコーヒーなど全7種類を用意す...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/712259/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-11-19",
+      "tags": [
+        "専門店"
+      ]
+    },
+    {
+      "id": "ssnp-b5f451e0",
+      "title": "味の素AGF「カフェラトリー」10周年、体験イベントの予約枠2000人分が3時間でほぼ埋まる　9月販売も前年大幅超\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/beverage/712256/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "飲料",
+      "date": "2026-11-19",
+      "tags": []
+    },
+    {
+      "id": "ssnp-ffa16737",
+      "title": "最大約44%オフ!「フルーツ大福 弁才天」の2027年福袋がオンライン限定で登場\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/712286/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-11-19",
+      "tags": []
+    },
+    {
+      "id": "ssnp-8f0f1f6e",
+      "title": "フレッシュネスバーガー創業34周年、人気バーガー3品がセット20％引き\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/712272/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-19",
+      "tags": []
+    },
+    {
+      "id": "ssnp-df5fd1d8",
+      "title": "紀ノ国屋、希少なカカオ豆を使ったトリュフやチョコバナナチップスなど、チョコレート商品5品を発売\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/distribution/712239/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "流通",
+      "date": "2026-11-19",
+      "tags": [
+        "チョコレート"
+      ]
+    },
+    {
+      "id": "ssnp-24350435",
+      "title": "【ゼッテリア福袋2027】3,900円で同額分の食事クーポン+限定グッズ3点!10個に1個の確率で「絶品ビーフバーガー無料券」も\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/712216/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-19",
+      "tags": []
+    },
+    {
+      "id": "ssnp-ac8e1772",
+      "title": "【サンマルクカフェ】冬季限定メニュー3品発売、韓国風プルコギのホットサンド・4種チーズのホットドッグ・冬の定番クラムチャウダー\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/712223/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-19",
+      "tags": []
+    },
+    {
       "id": "ssnp-f741bdae",
-      "title": "八天堂「福袋2027」発売　40個入りは8800円、くりーむパンや大福など詰め合わせ\n\t\t\t\t\t\t\t\t\t\t\t\t八天堂は12月1日午前11時から、数量限定の「福袋2027」を八天堂オンラインショップで発売する。 福袋は、40個入りの「ゴールド」（税込8,800円）、20個入りの「プラチナ」（同5,400円）、12個入りの「ブラック...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "八天堂「福袋2027」発売　40個入りは8800円、くりーむパンや大福など詰め合わせ\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/snack/712203/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -179,7 +305,7 @@
     },
     {
       "id": "ssnp-0b54782c",
-      "title": "【510円お得】KFC「とりの日パック」販売期間を拡大　11月20日～12月1日、オリジナルチキン4ピース＋ナゲット5ピースで1290円\n\t\t\t\t\t\t\t\t\t\t\t\t日本ケンタッキー・フライド・チキンは、全国のケンタッキーフライドチキン（KFC）店舗で、毎月28日限定で販売している「とりの日パック」の販売期間を拡大する。11月21日の「フライドチキンの日」に合わせ、11月20日から1...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【510円お得】KFC「とりの日パック」販売期間を拡大　11月20日～12月1日、オリジナルチキン4ピース＋ナゲット5ピースで1290円\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/712182/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -328,32 +454,6 @@
       "tags": [
         "売上高",
         "PB"
-      ]
-    },
-    {
-      "id": "ryutsuu-fdbe29aa",
-      "title": "コーナン商事／横浜市旭区に「コーナンPRO鶴ケ峰店」オープン",
-      "url": "https://www.ryutsuu.biz/store/s111882.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-18",
-      "tags": [
-        "コーナン",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-f066120b",
-      "title": "コスモス薬品／広島県・福岡県に「ドラッグコスモス」計2店舗、27年5～6月新設",
-      "url": "https://www.ryutsuu.biz/store/s1118011.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-18",
-      "tags": [
-        "コスモス薬品",
-        "ドラッグ"
       ]
     },
     {
@@ -683,6 +783,32 @@
       "category": "foodservice",
       "date": "2026-11-18",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-fdbe29aa",
+      "title": "コーナン商事／横浜市旭区に「コーナンPRO鶴ケ峰店」オープン",
+      "url": "https://www.ryutsuu.biz/store/s111882.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-18",
+      "tags": [
+        "コーナン",
+        "オープン"
+      ]
+    },
+    {
+      "id": "ryutsuu-f066120b",
+      "title": "コスモス薬品／広島県・福岡県に「ドラッグコスモス」計2店舗、27年5～6月新設",
+      "url": "https://www.ryutsuu.biz/store/s1118011.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "店舗",
+      "date": "2026-11-18",
+      "tags": [
+        "コスモス薬品",
+        "ドラッグ"
+      ]
     },
     {
       "id": "diamond-3a141791",
@@ -2605,20 +2731,6 @@
       ]
     },
     {
-      "id": "ryutsuu-adc502dd",
-      "title": "ロジエンス／「物流業界の2026年総決算と2027年への展望」12月9・16日に無料セミナー開催",
-      "url": "https://www.ryutsuu.biz/seminar/s111172.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "seminar",
-      "date": "2026-11-11",
-      "tags": [
-        "PR",
-        "物流",
-        "決算"
-      ]
-    },
-    {
       "id": "diamond-a3398591",
       "title": "上期決算で好調のブルーゾーンHD　下期は「八百幸成城店」を戦略的改装へ",
       "url": "https://diamond-rm.net/market/563335/",
@@ -2654,6 +2766,20 @@
       "category": "overseas",
       "date": "2026-11-11",
       "tags": []
+    },
+    {
+      "id": "ryutsuu-adc502dd",
+      "title": "ロジエンス／「物流業界の2026年総決算と2027年への展望」12月9・16日に無料セミナー開催",
+      "url": "https://www.ryutsuu.biz/seminar/s111172.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "seminar",
+      "date": "2026-11-11",
+      "tags": [
+        "PR",
+        "物流",
+        "決算"
+      ]
     },
     {
       "id": "ssnp-5ca2f1a7",
@@ -3387,143 +3513,6 @@
       "tags": [
         "出店"
       ]
-    },
-    {
-      "id": "ssnp-7f59f8fe",
-      "title": "【豆乳市場動向】上期生産量は2ケタ増で過去最高を更新、間口と奥行き両方拡大\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/soy/710702/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "大豆",
-      "date": "2026-11-09",
-      "tags": []
-    },
-    {
-      "id": "ssnp-ab0d6fa1",
-      "title": "KFC「ケンタ福袋」2027年版は3900円　5280円相当の引換券やバーレル型ココット入り\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/710680/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-11-09",
-      "tags": [
-        "FC"
-      ]
-    },
-    {
-      "id": "diamond-86cecbf6",
-      "title": "川野社長が語る！減益相次ぐ食品スーパーでヤオコーだけが強い理由",
-      "url": "https://diamond-rm.net/management/563078/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-09",
-      "tags": [
-        "食品スーパー",
-        "ヤオコー",
-        "スーパー",
-        "食品",
-        "減益",
-        "社長"
-      ]
-    },
-    {
-      "id": "ryutsuu-97f74185",
-      "title": "バローHD／小池社長「楽しさと安さで『買い物スイッチ』が入る店づくりを推進」",
-      "url": "https://www.ryutsuu.biz/strategy/s110911.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-11-09",
-      "tags": [
-        "注目",
-        "社長"
-      ]
-    },
-    {
-      "id": "ryutsuu-4c1beaa1",
-      "title": "ベイクルーズ 新業態／アップサイクルブランド「ブリューズド」期間限定店を展開",
-      "url": "https://www.ryutsuu.biz/strategy/s110948.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-11-09",
-      "tags": []
-    },
-    {
-      "id": "diamond-acef4374",
-      "title": "ミスターマックス佐藤社長が激白！「価値ある安さが、たしかに伝わり始めている」",
-      "url": "https://diamond-rm.net/management/topinterview/562771/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-09",
-      "tags": [
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-ab925682",
-      "title": "エディオンの本拠地・広島で激突！ヤマダHD上野善紀社長が語る旗艦店出店の真意",
-      "url": "https://diamond-rm.net/management/562938/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-09",
-      "tags": [
-        "出店",
-        "社長"
-      ]
-    },
-    {
-      "id": "diamond-e19756bb",
-      "title": "「総合ディスカウント」の旗手に大変化？　ミスターマックスの逆襲",
-      "url": "https://diamond-rm.net/management/businessplan/562770/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-09",
-      "tags": [
-        "ディスカウント"
-      ]
-    },
-    {
-      "id": "ryutsuu-467ab258",
-      "title": "セブンイレブン／北海道の870店舗に太陽光発電による再エネ電力を採用",
-      "url": "https://www.ryutsuu.biz/strategy/s110912.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-11-09",
-      "tags": [
-        "セブンイレブン"
-      ]
-    },
-    {
-      "id": "ryutsuu-4b9a072c",
-      "title": "ブルーゾーンHD 決算／ヤオコー既存店売上高3.1％増、ディスカウント業態も好調",
-      "url": "https://www.ryutsuu.biz/accounts/s110914.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-11-09",
-      "tags": [
-        "注目",
-        "ディスカウント",
-        "ヤオコー",
-        "売上高",
-        "決算"
-      ]
-    },
-    {
-      "id": "diamond-9547eecc",
-      "title": "第２１７回　コロッケを食べれば店がわかる",
-      "url": "https://diamond-rm.net/life-career/546361/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-09",
-      "tags": []
     }
   ]
 }
