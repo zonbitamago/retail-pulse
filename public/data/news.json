@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T23:33:46.545Z",
+  "lastUpdated": "2026-11-21T05:08:02.164Z",
   "items": [
     {
       "id": "ryutsuu-45aca6f0",
@@ -54,6 +54,16 @@
       ]
     },
     {
+      "id": "diamond-4652b177",
+      "title": "流通秀書　第56回『現代小売商業の革新』矢作敏行/著",
+      "url": "https://diamond-rm.net/life-career/559651/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-21",
+      "tags": []
+    },
+    {
       "id": "diamond-b82f76a9",
       "title": "7年ぶりにスーパーを取材して驚いたこと「トライアル・ロピア・バロー旋風」",
       "url": "https://diamond-rm.net/life-career/564538/",
@@ -68,8 +78,31 @@
       ]
     },
     {
+      "id": "ssnp-9daecc1c",
+      "title": "ゴディバ ジャパン「2027ニューイヤー ハッピーバッグ」発売へ、キルティングバッグに限定チョコやクッキー詰め合わせ\n\t\t\t\t\t\t\t\t\t\t\t\tゴディバ ジャパンは2027年1月1日から、「2027ニューイヤー ハッピーバッグ」を全国のゴディバショップ･ゴディバアウトレット店･ゴディバ オンラインショップで数量限定販売する。 全国の一部有名百貨店オンラインでは2...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/712566/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-11-21",
+      "tags": [
+        "アウトレット",
+        "百貨店"
+      ]
+    },
+    {
+      "id": "ssnp-27edf2df",
+      "title": "【8日間限定】焼肉の和民、和牛サーロインを1241円で販売　通常価格から1487円引き\n\t\t\t\t\t\t\t\t\t\t\t\tワタミが展開する焼肉チェーン「焼肉の和民」は11月22日の「いい夫婦の日」から11月29日の「いい肉の日」までの8日間、「和牛サーロイン」を特別価格で販売する。 通常価格2,728円（税込、以下同）のところ、1,487円...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/foodservice/712624/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "foodservice",
+      "date": "2026-11-21",
+      "tags": []
+    },
+    {
       "id": "ssnp-0b60d8c8",
-      "title": "【3日間限定】幸楽苑、郡山ブラックを税込500円で販売　漆黒スープのご当地ラーメン\n\t\t\t\t\t\t\t\t\t\t\t\tラーメンチェーン「幸楽苑」は11月27日から29日までの3日間限定で、「ブラックフライデー 郡山ブラックフェア」を開催する。 同フェアでは、幸楽苑本社がある福島県郡山市のご当地ラーメン「郡山ブラック」と、「郡山ブラック ...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【3日間限定】幸楽苑、郡山ブラックを税込500円で販売　漆黒スープのご当地ラーメン\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/711878/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
@@ -301,15 +334,14 @@
     },
     {
       "id": "ssnp-5b8e0199",
-      "title": "【ファミリーマート】新おむすび発売、「焼おむすび」と久世福商店監修の「だしむすび」\n\t\t\t\t\t\t\t\t\t\t\t\tファミリーマートは11月24日、新商品「焼おむすび」と「だしむすび」全4品を発売する。どちらも「香り」にこだわった商品で、「だしむすび」は久世福商店が監修した。コンビニおむすびと久世福商店がコラボレーションするのは初めて...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "【ファミリーマート】新おむすび発売、「焼おむすび」と久世福商店監修の「だしむすび」\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/distribution/712714/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "流通",
       "date": "2026-11-20",
       "tags": [
-        "ファミリーマート",
-        "コンビニ"
+        "ファミリーマート"
       ]
     },
     {
@@ -3460,44 +3492,6 @@
       "date": "2026-11-11",
       "tags": [
         "EC"
-      ]
-    },
-    {
-      "id": "ryutsuu-c13d163a",
-      "title": "イオンモール ハロン／11月11日～13日のソフトオープンで16万人が来館",
-      "url": "https://www.ryutsuu.biz/abroad/s111611.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "abroad",
-      "date": "2026-11-11",
-      "tags": [
-        "オープン",
-        "イオン",
-        "モール"
-      ]
-    },
-    {
-      "id": "ryutsuu-b7e5c464",
-      "title": "三井不動産／集客イベント手掛ける「イーキューブ」買収",
-      "url": "https://www.ryutsuu.biz/strategy/s111120.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-11-11",
-      "tags": [
-        "買収"
-      ]
-    },
-    {
-      "id": "ryutsuu-168d512d",
-      "title": "ジョブコミュニティ×ツナグ／業務提携、商業施設間の人材シェア支援",
-      "url": "https://www.ryutsuu.biz/strategy/s111119.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "経営",
-      "date": "2026-11-11",
-      "tags": [
-        "業務提携"
       ]
     }
   ]
