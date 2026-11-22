@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T04:33:42.852Z",
+  "lastUpdated": "2026-11-22T13:53:58.182Z",
   "items": [
     {
       "id": "ssnp-b7fdd714",
@@ -278,16 +278,6 @@
       ]
     },
     {
-      "id": "diamond-a7cff648",
-      "title": "KOHYOからの転換1号店を徹底解剖！ 新生「フードスタイル江坂店」の実力",
-      "url": "https://diamond-rm.net/store/newstorereport/564116/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-20",
-      "tags": []
-    },
-    {
       "id": "diamond-a31f2295",
       "title": "ドラッグストアのコスモスがホテル事業に進出！異業種参入の勝算とは",
       "url": "https://diamond-rm.net/management/businessplan/564148/",
@@ -299,6 +289,16 @@
         "ドラッグストア",
         "ドラッグ"
       ]
+    },
+    {
+      "id": "diamond-a7cff648",
+      "title": "KOHYOからの転換1号店を徹底解剖！ 新生「フードスタイル江坂店」の実力",
+      "url": "https://diamond-rm.net/store/newstorereport/564116/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-20",
+      "tags": []
     },
     {
       "id": "diamond-3c48f904",
