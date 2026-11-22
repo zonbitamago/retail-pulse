@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-11-22T13:53:58.182Z",
+  "lastUpdated": "2026-11-22T23:05:03.602Z",
   "items": [
+    {
+      "id": "diamond-dec72438",
+      "title": "【独自インタビュー】モスバーガーはなぜ高価格帯で成功したのか？中村栄輔社長が明かす成長戦略",
+      "url": "https://diamond-rm.net/management/562708/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-23",
+      "tags": [
+        "モスバーガー",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-00d40b57",
+      "title": "スーパーマーケット顧客満足度ランキング！1位は16年連続のあの企業！",
+      "url": "https://diamond-rm.net/retaildata/statisticaldata/564637/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "retaildata",
+      "date": "2026-11-23",
+      "tags": [
+        "スーパー"
+      ]
+    },
     {
       "id": "ssnp-b7fdd714",
       "title": "スシロー、「おぱんちゅうさぎ」「んぽちゃむ」コラボ第3弾　限定ピック付きすしやポーチ、マスコットなど\n\t\t\t\t\t\t\t\t\t\t\t\tスシローは11月25日から、クリエイター・可哀想に！さんとのコラボレーションキャンペーンを開催する。 2023年11月に実施した「おぱんちゅうさぎ」との初コラボ、2025年10月に「んぽちゃむ」も加わった第2弾に続く第3...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
@@ -291,26 +316,6 @@
       ]
     },
     {
-      "id": "diamond-a7cff648",
-      "title": "KOHYOからの転換1号店を徹底解剖！ 新生「フードスタイル江坂店」の実力",
-      "url": "https://diamond-rm.net/store/newstorereport/564116/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-20",
-      "tags": []
-    },
-    {
-      "id": "diamond-3c48f904",
-      "title": "情シスは「御用聞き」をやめろ！ハンズを変えた武闘派CIOの改革術",
-      "url": "https://diamond-rm.net/technology/dx/563839/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "テクノロジー",
-      "date": "2026-11-20",
-      "tags": []
-    },
-    {
       "id": "diamond-d9d07e06",
       "title": "第２２６回　念願の初渡米",
       "url": "https://diamond-rm.net/life-career/546370/",
@@ -353,17 +358,14 @@
       "tags": []
     },
     {
-      "id": "diamond-56acfbe3",
-      "title": "イオン北海道、電話注文「楽宅便コール」を開始【週刊スーパーマーケットニュース】",
-      "url": "https://diamond-rm.net/management/businessplan/564323/",
+      "id": "diamond-a7cff648",
+      "title": "KOHYOからの転換1号店を徹底解剖！ 新生「フードスタイル江坂店」の実力",
+      "url": "https://diamond-rm.net/store/newstorereport/564116/",
       "source": "diamond-chain",
       "sourceName": "DCS",
-      "category": "経営戦略",
+      "category": "店舗",
       "date": "2026-11-20",
-      "tags": [
-        "スーパー",
-        "イオン"
-      ]
+      "tags": []
     },
     {
       "id": "diamond-f30a9c69",
@@ -619,6 +621,29 @@
       "date": "2026-11-20",
       "tags": [
         "食品"
+      ]
+    },
+    {
+      "id": "diamond-3c48f904",
+      "title": "情シスは「御用聞き」をやめろ！ハンズを変えた武闘派CIOの改革術",
+      "url": "https://diamond-rm.net/technology/dx/563839/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-11-20",
+      "tags": []
+    },
+    {
+      "id": "diamond-56acfbe3",
+      "title": "イオン北海道、電話注文「楽宅便コール」を開始【週刊スーパーマーケットニュース】",
+      "url": "https://diamond-rm.net/management/businessplan/564323/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-20",
+      "tags": [
+        "スーパー",
+        "イオン"
       ]
     },
     {
@@ -1103,19 +1128,6 @@
       ]
     },
     {
-      "id": "diamond-d0da8290",
-      "title": "ライフ、U.S.M.H、アークス中間決算レポート　客数減とコスト高の影響鮮明に",
-      "url": "https://diamond-rm.net/market/accounting/562754/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-11-18",
-      "tags": [
-        "ライフ",
-        "決算"
-      ]
-    },
-    {
       "id": "diamond-919a0779",
       "title": "市場直送の野菜にカニ1杯500円！「ヤオコー大宮市場店」の売場づくりを徹底解説",
       "url": "https://diamond-rm.net/store/564087/",
@@ -1395,6 +1407,19 @@
       "category": "foodservice",
       "date": "2026-11-18",
       "tags": []
+    },
+    {
+      "id": "diamond-d0da8290",
+      "title": "ライフ、U.S.M.H、アークス中間決算レポート　客数減とコスト高の影響鮮明に",
+      "url": "https://diamond-rm.net/market/accounting/562754/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-18",
+      "tags": [
+        "ライフ",
+        "決算"
+      ]
     },
     {
       "id": "ryutsuu-68b3baaa",
@@ -3474,26 +3499,6 @@
       "tags": [
         "サブスク"
       ]
-    },
-    {
-      "id": "ssnp-f9d79c3d",
-      "title": "【グリーンハウス】フードテック企業・団体11社が集うイベント開催、無理をしない減塩やおいしいタンパクを紹介\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/feeding/711020/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "feeding",
-      "date": "2026-11-11",
-      "tags": []
-    },
-    {
-      "id": "ssnp-0b879be1",
-      "title": "【プロント】クリスマスツリーをイメージした限定ドリンク2種を発売、宇治抹茶×ストロベリー\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
-      "url": "https://www.ssnp.co.jp/foodservice/710950/",
-      "source": "ssnp",
-      "sourceName": "食品産業新聞",
-      "category": "foodservice",
-      "date": "2026-11-11",
-      "tags": []
     }
   ]
 }
