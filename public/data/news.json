@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-11-25T16:38:26.688Z",
+  "lastUpdated": "2026-11-26T01:25:49.429Z",
   "items": [
+    {
+      "id": "ryutsuu-aee50cb7",
+      "title": "日本百貨店協会／10月の外国人売上22％増、客数8％増・購買単価13％増",
+      "url": "https://www.ryutsuu.biz/sales/s112642.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-26",
+      "tags": [
+        "百貨店"
+      ]
+    },
     {
       "id": "ryutsuu-033cdd79",
       "title": "JR九州リテール／大分県宇佐市に「ファミリーマート宇佐森山店」11月26日オープン",
@@ -25,6 +37,108 @@
       "tags": [
         "PR",
         "アプリ"
+      ]
+    },
+    {
+      "id": "diamond-842f8a8f",
+      "title": "ニトリが自社ECを大改革！マーケットプレイス拡大の勝算",
+      "url": "https://diamond-rm.net/ec-epayment/561398/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "ec-epayment",
+      "date": "2026-11-26",
+      "tags": [
+        "ニトリ",
+        "EC"
+      ]
+    },
+    {
+      "id": "diamond-722f1ccd",
+      "title": "アレンザHD・和賀登盛作社長が語るコーナンと組んだ理由　ペットとプロを成長エンジンに",
+      "url": "https://diamond-rm.net/management/topinterview/564800/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-26",
+      "tags": [
+        "コーナン",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-f8d8075b",
+      "title": "広告・販促の高度化は買物体験をどう変えるか【リテールメディアサミット2026現地レポート】",
+      "url": "https://diamond-rm.net/technology/dx/564796/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "テクノロジー",
+      "date": "2026-11-26",
+      "tags": [
+        "リテールメディア",
+        "サミット"
+      ]
+    },
+    {
+      "id": "diamond-6470747d",
+      "title": "【特別レポート】ハンディ更新の次の一手は?オーケーやイオングループ企業も導入のスマホ活用",
+      "url": "https://diamond-rm.net/promotion/563171/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "promotion",
+      "date": "2026-11-26",
+      "tags": [
+        "オーケー",
+        "イオン"
+      ]
+    },
+    {
+      "id": "diamond-f30c3dcb",
+      "title": "新商圏・所沢でシェア奪取に挑むサミットの戦略店　マネジメントのキーワードは「全員主役」",
+      "url": "https://diamond-rm.net/store/storevisit/564606/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-26",
+      "tags": [
+        "サミット"
+      ]
+    },
+    {
+      "id": "diamond-148a84c0",
+      "title": "コスモス薬品が神奈川・大阪など4県に新店！大黒天物産は静岡・袋井に出店【大店立地法速報】",
+      "url": "https://diamond-rm.net/store/565125/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-26",
+      "tags": [
+        "コスモス薬品",
+        "出店",
+        "新店"
+      ]
+    },
+    {
+      "id": "diamond-0fca9354",
+      "title": "「2つの顔を持つ商圏」でサミットパークシティ中野店が挑むシェア向上戦略",
+      "url": "https://diamond-rm.net/management/564605/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-26",
+      "tags": [
+        "サミット"
+      ]
+    },
+    {
+      "id": "ryutsuu-7b80311c",
+      "title": "シャトレーゼ／冷凍デリカ事業を本格展開、カレー・ピザなど3年で20品目投入へ",
+      "url": "https://www.ryutsuu.biz/strategy/s112544.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "経営",
+      "date": "2026-11-25",
+      "tags": [
+        "注目"
       ]
     },
     {
@@ -89,42 +203,6 @@
       ]
     },
     {
-      "id": "ryutsuu-d47abfb9",
-      "title": "ショッピングセンター／10月既存店売上4.0％増、飲料・食料品・IP雑貨好調",
-      "url": "https://www.ryutsuu.biz/sales/s112575.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-11-25",
-      "tags": [
-        "ショッピングセンター",
-        "飲料",
-        "雑貨"
-      ]
-    },
-    {
-      "id": "ryutsuu-180de08b",
-      "title": "日本フードサービス協会／10月の外食売上8.2％増、好天と土曜日増で客足好調",
-      "url": "https://www.ryutsuu.biz/sales/s112519.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-11-25",
-      "tags": [
-        "外食"
-      ]
-    },
-    {
-      "id": "ryutsuu-b26d60cc",
-      "title": "日本チェーンストア協会／10月既存店1.4％増",
-      "url": "https://www.ryutsuu.biz/sales/s112518.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-11-25",
-      "tags": []
-    },
-    {
       "id": "ryutsuu-b671f47c",
       "title": "カンリーほか／「多店舗運営の4つの“バラつき”を解消、店舗情報＆オペレーション統一手法」セミナー11月25日開催",
       "url": "https://www.ryutsuu.biz/seminar/s111277.html",
@@ -173,29 +251,6 @@
       ]
     },
     {
-      "id": "diamond-d8d91288",
-      "title": "関東で攻勢かける薬王堂、ついに千葉にも進出！県内1号店の売場をレポート",
-      "url": "https://diamond-rm.net/store/564591/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-25",
-      "tags": []
-    },
-    {
-      "id": "diamond-2a1c266b",
-      "title": "ユニクロ塚越社長が語った「世界一のブランドになるための個店経営」とは？",
-      "url": "https://diamond-rm.net/management/564925/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-25",
-      "tags": [
-        "ユニクロ",
-        "社長"
-      ]
-    },
-    {
       "id": "diamond-15258fea",
       "title": "新免税制度で小売業はどう変わる？ドンキ・ヨドバシのインバウンド戦略を分析",
       "url": "https://diamond-rm.net/market/visitjapan/563880/",
@@ -217,6 +272,30 @@
       "category": "life-career",
       "date": "2026-11-25",
       "tags": []
+    },
+    {
+      "id": "diamond-d8d91288",
+      "title": "関東で攻勢かける薬王堂、ついに千葉にも進出！県内1号店の売場をレポート",
+      "url": "https://diamond-rm.net/store/564591/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-25",
+      "tags": []
+    },
+    {
+      "id": "diamond-6f8f0974",
+      "title": "トライアル西友が23区内初出店！総菜新ブランドにスムージー、新MD続々投入の光が丘店を解剖",
+      "url": "https://diamond-rm.net/store/564735/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-25",
+      "tags": [
+        "トライアル",
+        "西友",
+        "出店"
+      ]
     },
     {
       "id": "diamond-6ef61268",
@@ -244,20 +323,6 @@
       ]
     },
     {
-      "id": "diamond-6f8f0974",
-      "title": "トライアル西友が23区内初出店！総菜新ブランドにスムージー、新MD続々投入の光が丘店を解剖",
-      "url": "https://diamond-rm.net/store/564735/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-25",
-      "tags": [
-        "トライアル",
-        "西友",
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-815ed9f0",
       "title": "手帳の消費変化に透けて見える、「場面揃え」の重要性",
       "url": "https://diamond-rm.net/sales-promotion/564535/",
@@ -266,18 +331,6 @@
       "category": "sales-promotion",
       "date": "2026-11-25",
       "tags": []
-    },
-    {
-      "id": "diamond-e0427807",
-      "title": "組織、店舗、商品開発、販促……サミットが「楽しさの追求」で勝ち続けられる理由",
-      "url": "https://diamond-rm.net/management/businessplan/564602/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-25",
-      "tags": [
-        "サミット"
-      ]
     },
     {
       "id": "ssnp-a49f44d4",
@@ -430,17 +483,64 @@
       "tags": []
     },
     {
-      "id": "ryutsuu-89ff1df9",
-      "title": "明治安田新宿ビル／エリア初出店の飲食店充実、周辺のワーカー・インバウンドに照準",
-      "url": "https://www.ryutsuu.biz/report/s112473.html",
+      "id": "ryutsuu-d47abfb9",
+      "title": "ショッピングセンター／10月既存店売上4.0％増、飲料・食料品・IP雑貨好調",
+      "url": "https://www.ryutsuu.biz/sales/s112575.html",
       "source": "ryutsuu",
       "sourceName": "流通ニュース",
-      "category": "report",
-      "date": "2026-11-24",
+      "category": "売上",
+      "date": "2026-11-25",
       "tags": [
-        "注目",
-        "インバウンド",
-        "出店"
+        "ショッピングセンター",
+        "飲料",
+        "雑貨"
+      ]
+    },
+    {
+      "id": "ryutsuu-180de08b",
+      "title": "日本フードサービス協会／10月の外食売上8.2％増、好天と土曜日増で客足好調",
+      "url": "https://www.ryutsuu.biz/sales/s112519.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-25",
+      "tags": [
+        "外食"
+      ]
+    },
+    {
+      "id": "ryutsuu-b26d60cc",
+      "title": "日本チェーンストア協会／10月既存店1.4％増",
+      "url": "https://www.ryutsuu.biz/sales/s112518.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "売上",
+      "date": "2026-11-25",
+      "tags": []
+    },
+    {
+      "id": "diamond-2a1c266b",
+      "title": "ユニクロ塚越社長が語った「世界一のブランドになるための個店経営」とは？",
+      "url": "https://diamond-rm.net/management/564925/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-25",
+      "tags": [
+        "ユニクロ",
+        "社長"
+      ]
+    },
+    {
+      "id": "diamond-e0427807",
+      "title": "組織、店舗、商品開発、販促……サミットが「楽しさの追求」で勝ち続けられる理由",
+      "url": "https://diamond-rm.net/management/businessplan/564602/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "経営戦略",
+      "date": "2026-11-25",
+      "tags": [
+        "サミット"
       ]
     },
     {
@@ -456,19 +556,6 @@
         "松屋",
         "増収",
         "減益"
-      ]
-    },
-    {
-      "id": "diamond-f469beae",
-      "title": "マミーマートHDが新中計を発表　1兆円企業めざし新規出店とM&Aに本腰",
-      "url": "https://diamond-rm.net/market/accounting/564793/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "市場動向",
-      "date": "2026-11-24",
-      "tags": [
-        "M&A",
-        "出店"
       ]
     },
     {
@@ -496,6 +583,19 @@
         "ベイシア",
         "専門店",
         "鮮魚"
+      ]
+    },
+    {
+      "id": "diamond-f469beae",
+      "title": "マミーマートHDが新中計を発表　1兆円企業めざし新規出店とM&Aに本腰",
+      "url": "https://diamond-rm.net/market/accounting/564793/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "市場動向",
+      "date": "2026-11-24",
+      "tags": [
+        "M&A",
+        "出店"
       ]
     },
     {
@@ -757,6 +857,20 @@
       "tags": []
     },
     {
+      "id": "ryutsuu-89ff1df9",
+      "title": "明治安田新宿ビル／エリア初出店の飲食店充実、周辺のワーカー・インバウンドに照準",
+      "url": "https://www.ryutsuu.biz/report/s112473.html",
+      "source": "ryutsuu",
+      "sourceName": "流通ニュース",
+      "category": "report",
+      "date": "2026-11-24",
+      "tags": [
+        "注目",
+        "インバウンド",
+        "出店"
+      ]
+    },
+    {
       "id": "ryutsuu-ba8b7bd7",
       "title": "くら寿司／すし22品値上げ、サイドメニュー・ドリンク34品を値下げ",
       "url": "https://www.ryutsuu.biz/commodity/s112412.html",
@@ -934,19 +1048,6 @@
       "tags": []
     },
     {
-      "id": "diamond-6b8ce6cc",
-      "title": "マルトが福島県大熊町に出店！非食品も充実させた挑戦的店舗の全貌とは",
-      "url": "https://diamond-rm.net/store/newstorereport/562767/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "店舗",
-      "date": "2026-11-23",
-      "tags": [
-        "食品",
-        "出店"
-      ]
-    },
-    {
       "id": "diamond-00d40b57",
       "title": "スーパーマーケット顧客満足度ランキング！1位は16年連続のあの企業！",
       "url": "https://diamond-rm.net/retaildata/statisticaldata/564637/",
@@ -979,6 +1080,19 @@
       "category": "流通",
       "date": "2026-11-23",
       "tags": []
+    },
+    {
+      "id": "diamond-6b8ce6cc",
+      "title": "マルトが福島県大熊町に出店！非食品も充実させた挑戦的店舗の全貌とは",
+      "url": "https://diamond-rm.net/store/newstorereport/562767/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "店舗",
+      "date": "2026-11-23",
+      "tags": [
+        "食品",
+        "出店"
+      ]
     },
     {
       "id": "diamond-dec72438",
@@ -3359,121 +3473,6 @@
       "date": "2026-11-16",
       "tags": [
         "生鮮"
-      ]
-    },
-    {
-      "id": "diamond-6353c527",
-      "title": "コモディイイダ、大容量パックや塊肉強化で新たなファンをつかむ",
-      "url": "https://diamond-rm.net/sales-promotion/product-strategy/562780/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "sales-promotion",
-      "date": "2026-11-16",
-      "tags": []
-    },
-    {
-      "id": "diamond-fcd66e07",
-      "title": "イトーヨーカ堂・伊藤弘雅常務が語る食品戦略の現在地と再成長への道のり",
-      "url": "https://diamond-rm.net/management/563757/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-16",
-      "tags": [
-        "イトーヨーカ堂",
-        "食品"
-      ]
-    },
-    {
-      "id": "diamond-2fa6aeff",
-      "title": "「主婦の店運動」が生んだダイエーとバロー  2社が歩んだ対照的な道のり",
-      "url": "https://diamond-rm.net/management/ma/562749/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "経営戦略",
-      "date": "2026-11-16",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-d6a26df7",
-      "title": "マミーマート／栃木県「生鮮市場TOP！アクロスプラザ大田原店」オープン",
-      "url": "https://www.ryutsuu.biz/store/s111676.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-16",
-      "tags": [
-        "オープン",
-        "生鮮"
-      ]
-    },
-    {
-      "id": "ryutsuu-522c4e7d",
-      "title": "ワタミ 決算／4～9月増収減益、宅食・海外事業が増収に貢献",
-      "url": "https://www.ryutsuu.biz/accounts/s111617.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-11-16",
-      "tags": [
-        "決算",
-        "増収",
-        "減益"
-      ]
-    },
-    {
-      "id": "ryutsuu-fa29cce5",
-      "title": "ロイヤルHD 決算／1～9月増収増益、売上高・経常利益は過去最高を更新",
-      "url": "https://www.ryutsuu.biz/accounts/s111645.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "accounts",
-      "date": "2026-11-16",
-      "tags": [
-        "経常利益",
-        "売上高",
-        "決算",
-        "増収",
-        "増益"
-      ]
-    },
-    {
-      "id": "ryutsuu-34c1c6a2",
-      "title": "カインズ／沖縄県4店舗目「よみたん店」27年春オープン",
-      "url": "https://www.ryutsuu.biz/store/s111673.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-16",
-      "tags": [
-        "カインズ",
-        "オープン"
-      ]
-    },
-    {
-      "id": "ryutsuu-cfd20981",
-      "title": "ヤマザワ／人事給与SaaS「Combosite人事給与」導入、5000人の給与計算を効率化",
-      "url": "https://www.ryutsuu.biz/it/s111615.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "IT",
-      "date": "2026-11-16",
-      "tags": [
-        "MBO",
-        "人事"
-      ]
-    },
-    {
-      "id": "ryutsuu-b8b596ca",
-      "title": "DCM／10月の既存店売上高2.2％増、客数0.5％減",
-      "url": "https://www.ryutsuu.biz/sales/s111671.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "売上",
-      "date": "2026-11-16",
-      "tags": [
-        "DCM",
-        "売上高"
       ]
     }
   ]
