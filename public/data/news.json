@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-28T00:57:16.844Z",
+  "lastUpdated": "2026-11-28T14:53:47.542Z",
   "items": [
     {
       "id": "ryutsuu-6d5ad664",
@@ -53,6 +53,16 @@
       ]
     },
     {
+      "id": "diamond-a45ff983",
+      "title": "流通秀書　第57回『価格の心理』/小嶋外弘著",
+      "url": "https://diamond-rm.net/life-career/559727/",
+      "source": "diamond-chain",
+      "sourceName": "DCS",
+      "category": "life-career",
+      "date": "2026-11-28",
+      "tags": []
+    },
+    {
       "id": "diamond-b5c002cc",
       "title": "事業拡大は「最大船速」で！　サミットのネットスーパー最新戦略",
       "url": "https://diamond-rm.net/ec-epayment/net-super/564611/",
@@ -90,6 +100,16 @@
         "サミット",
         "ライフ"
       ]
+    },
+    {
+      "id": "ssnp-eede296b",
+      "title": "【モロゾフ×ポムポムプリン】『プリンクッキー』が12月1日より順次発売！21個入には限定ステッカー付き\n\t\t\t\t\t\t\t\t\t\t\t\tモロゾフは、2026年で創立95周年を迎えた。これを記念し、2026年にデビュー30周年を迎えたサンリオの「ポムポムプリン」とコラボレーションした「ポムポムプリン×モロゾフ プリンクッキー」を発売する。 【商品画像はこち...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "url": "https://www.ssnp.co.jp/snack/713443/",
+      "source": "ssnp",
+      "sourceName": "食品産業新聞",
+      "category": "菓子",
+      "date": "2026-11-28",
+      "tags": []
     },
     {
       "id": "ryutsuu-a33db1b2",
@@ -334,15 +354,13 @@
     },
     {
       "id": "ssnp-658dbbd4",
-      "title": "猿田彦珈琲のクリスマス限定ドリンク3種＆ワンハンドピザ2種が12月1日発売！\n\t\t\t\t\t\t\t\t\t\t\t\tスペシャルティコーヒー専門店「猿田彦珈琲」は、12月1日から本格的なクリスマスシーズンを楽しむための新ドリンク「メリーキャラメルトリュフラテ」「メリーキャラメルトリュフミルク」「ベリーアマレットジンジャージェラッテ」の3...\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
+      "title": "猿田彦珈琲のクリスマス限定ドリンク3種＆ワンハンドピザ2種が12月1日発売！\n\t\t\t\t\t\t\t\t\t\t\t\t（続きを見る）",
       "url": "https://www.ssnp.co.jp/foodservice/713622/",
       "source": "ssnp",
       "sourceName": "食品産業新聞",
       "category": "foodservice",
       "date": "2026-11-27",
-      "tags": [
-        "専門店"
-      ]
+      "tags": []
     },
     {
       "id": "ssnp-1006e4e8",
@@ -3478,29 +3496,6 @@
       "date": "2026-11-18",
       "tags": [
         "リニューアル"
-      ]
-    },
-    {
-      "id": "diamond-bfbce9c0",
-      "title": "第２２４回　あるべき葬儀の作法とは",
-      "url": "https://diamond-rm.net/life-career/546368/",
-      "source": "diamond-chain",
-      "sourceName": "DCS",
-      "category": "life-career",
-      "date": "2026-11-18",
-      "tags": []
-    },
-    {
-      "id": "ryutsuu-fdbe29aa",
-      "title": "コーナン商事／横浜市旭区に「コーナンPRO鶴ケ峰店」オープン",
-      "url": "https://www.ryutsuu.biz/store/s111882.html",
-      "source": "ryutsuu",
-      "sourceName": "流通ニュース",
-      "category": "店舗",
-      "date": "2026-11-18",
-      "tags": [
-        "コーナン",
-        "オープン"
       ]
     }
   ]
